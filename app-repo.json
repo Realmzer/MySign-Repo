@@ -13,22 +13,36 @@
         "tintColor": "848ef9",
         "versions": [
           {
-            "version": "v1.0.1",
+            "version": "1.0.1",
             "date": "2024-08-30T18:34:10Z",
             "size": 12375230,
             "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1/feather_v1.0.1.ipa"
           },
           {
-            "version": "v1.0",
+            "version": "1.0",
             "date": "2024-08-24T18:34:10Z",
             "size": 12375230,
             "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1/feather_v1.0.ipa"
           }
         ],
         "size": 12375230,
-        "version": "v1.0.1",
+        "version": "1.0.1",
         "versionDate": "2024-08-30T18:34:10Z",
         "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1/feather_v1.0.1.ipa",
+        "appPermissions": {}
+      },
+      {
+        "name": "ESign No Logs",
+        "bundleIdentifier": "xyz.yyyue.esign",
+        "developerName": "u/Sharp_Listen3436 & yyy",
+        "iconURL": "https://github.com/Realmzer/IOS-Repo/blob/main/images/esign.png?raw=true",
+        "localizedDescription": "ESign but telemetry is removed.",
+        "subtitle": "ESign No Logs.",
+        "tintColor": "848ef9",
+        "size": 12375230,
+        "version": "5.0.2",
+        "versionDate": "2024-07-30T18:34:10Z",
+        "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1.1/ESign-V5.0.2-No-Logs.ipa",
         "appPermissions": {}
       }
     ],
