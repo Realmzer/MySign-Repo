@@ -4,16 +4,24 @@
     "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
     "apps": [
       {
+        "beta": false,
         "name": "ESign No Logs",
         "bundleIdentifier": "xyz.yyyue.esign",
+        "subtitle": "Easily sideload with no computer, revokes and Unlimited app days.",
+        "description": "Easily sideload with no computer, revokes and Unlimited app days.",
+        "localizedDescription": "Easily sideload with no computer, revokes and Unlimited app days.",
         "developerName": "u/Sharp_Listen3436 & yyy",
         "iconURL": "https://github.com/Realmzer/IOS-Repo/blob/main/images/esign.png?raw=true",
         "localizedDescription": "ESign but telemetry is removed.",
+        "tintColor": "4894ee",
+        "category": "utilities",
         "size": 7245924,
         "version": "5.0.2",
         "versionDate": "2024-09-14",
         "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1.1/ESign-V5.0.2-No-Logs.ipa",
-        "appPermissions": {}
+        "appPermissions": {},
+        "title": "Easily sideload with no computer, revokes and Unlimited app days.",
+        "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" 
       }
     ],
     "news": []
