@@ -4,30 +4,6 @@
     "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
     "apps": [
       {
-        "name": "Feather",
-        "bundleIdentifier": "kh.crysalis.feather",
-        "developerName": "Samara",
-        "iconURL": "https://github.com/Realmzer/IOS-Repo/blob/main/images/feather.png?raw=true",
-        "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-        "size": 12375230,
-        "version": "1.0.1",
-        "versionDate": "2024-09-14",
-        "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1/feather_v1.0.1.ipa",
-        "appPermissions": {}
-      },
-      {
-        "name": "Feather",
-        "bundleIdentifier": "kh.crysalis.feather",
-        "developerName": "Samara",
-        "iconURL": "https://github.com/Realmzer/IOS-Repo/blob/main/images/feather.png?raw=true",
-        "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-        "size": 12375230,
-        "version": "1.0.2",
-        "versionDate": "2024-09-14",
-        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.2/feather_v1.0.2.ipa",
-        "appPermissions": {}
-      },
-      {
         "name": "ESign No Logs",
         "bundleIdentifier": "xyz.yyyue.esign",
         "developerName": "u/Sharp_Listen3436 & yyy",
