@@ -10,7 +10,7 @@
       {
         "beta": false,
         "name": "ESign No Logs",
-        "bundleIdentifier": "xyz.yyyue.esign",
+        "bundleIdentifier": "realmzer.ipa.source",
         "subtitle": "ESign with telemetry removed.",
         "description": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
         "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
@@ -29,7 +29,7 @@
       {
         "beta": false,
         "name": "PPSSPP",
-        "bundleIdentifier": "com.ppsspp.ppsspp-free",
+        "bundleIdentifier": "realmzer.ipa.source",
         "subtitle": "The best PSP Emulator for IOS Written in C++",
         "description": "The best PSP Emulator for IOS Written in C++",
         "localizedDescription": "The best PSP Emulator for IOS Written in C++",
