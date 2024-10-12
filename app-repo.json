@@ -23,7 +23,7 @@
         "versionDate": "2024-10-11",
         "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/0.1.1/ESign-V5.0.2-No-Logs.ipa",
         "appPermissions": {},
-        "title": "ESign No Logs",
+        "title": "ESign No Logs - ESign With Telemetry Removed",
         "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" 
       },
       {
@@ -42,7 +42,7 @@
         "versionDate": "2024-10-12",
         "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/New-IPA/PPSSPP-v1.17.4.ipa",
         "appPermissions": {},
-        "title": "The best PSP Emulator for IOS Written in C++",
+        "title": "PPSSPP - A PSP Emulator.",
         "url": "https://www.ppsspp.org/" 
       }
     ],
