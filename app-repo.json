@@ -11,7 +11,7 @@
         "beta": false,
         "name": "ESign No Logs",
         "bundleIdentifier": "com.realmzer.esignnologs",
-        "subtitle": "ESign with telemetry removed.",
+        "subtitle": "ESign No Logs - ESign With No Logs",
         "description": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
         "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
         "developerName": "u/Sharp_Listen3436 & yyy",
@@ -23,14 +23,14 @@
         "versionDate": "2024-10-11",
         "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/All-IPAS/ESign-V5.0.2-No-Logs.ipa",
         "appPermissions": {},
-        "title": "ESign No Logs - ESign With Telemetry Removed",
+        "title": "ESign No Logs",
         "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" 
       },
       {
         "beta": false,
         "name": "PPSSPP",
         "bundleIdentifier": "com.realmzer.ppsspp-free",
-        "subtitle": "The best PSP Emulator for IOS Written in C++",
+        "subtitle": "PPSSPP - A PSP Emulator",
         "description": "The best PSP Emulator for IOS Written in C++",
         "localizedDescription": "The best PSP Emulator for IOS Written in C++",
         "developerName": "hrydgard",
@@ -42,7 +42,7 @@
         "versionDate": "2024-10-12",
         "downloadURL": "https://github.com/Realmzer/IOS-Repo/releases/download/All-IPAS/PPSSPP-v1.17.4.ipa",
         "appPermissions": {},
-        "title": "PPSSPP - A PSP Emulator.",
+        "title": "PPSSPP",
         "url": "https://www.ppsspp.org/" 
       }
     ],
