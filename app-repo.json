@@ -11,7 +11,7 @@
         "beta": false,
         "name": "ESign No Logs",
         "bundleIdentifier": "xyz.yyyue.esign",
-        "subtitle": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
+        "subtitle": "ESign with telemetry removed.",
         "description": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
         "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.",
         "developerName": "u/Sharp_Listen3436 & yyy",
