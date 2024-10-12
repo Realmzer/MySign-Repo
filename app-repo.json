@@ -1,7 +1,7 @@
 {
     "name": "Realmzer IPA Repository",
     "identifier": "realmzer.ipa-repo",
-    "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+    "iconURL": "https://github.com/Realmzer/IOS-Repo/blob/main/images/realmzerrepoicon.png?raw=true",
     "apps": [
       {
         "beta": false,
