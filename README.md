@@ -1,2 +1,2 @@
-# IPA-Repo
-Realmzer's IPA Repo
+# Realmzers Altstore Source/Repo
+A repository that is growing daily.
