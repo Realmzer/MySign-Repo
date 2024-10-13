@@ -101,6 +101,25 @@
         "appPermissions": {},
         "title": "PPSSPP",
         "url": "https://www.ppsspp.org/" 
+      },
+      {
+        "beta": false,
+        "name": "Sonic Mania",
+        "bundleIdentifier": "com.realmzer.sonicmania",
+        "subtitle": "Sonic Mania - IOS Port",
+        "description": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.",
+        "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.",
+        "developerName": "SEGA",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/sonicmania.png?raw=true",
+        "tintColor": "96cbda",
+        "category": "games",
+        "size": 2805760,
+        "version": "RSDK5",
+        "versionDate": "2024-10-12",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/SonicMania.ipa",
+        "appPermissions": {},
+        "title": "Sonic Mania",
+        "url": "https://sonicthehedgehog.com/sonic-mania-plus/" 
       }
     ],
     "news": []
