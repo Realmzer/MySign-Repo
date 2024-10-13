@@ -111,7 +111,7 @@
         "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.",
         "developerName": "SEGA",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/sonicmania.png?raw=true",
-        "tintColor": "96cbda",
+        "tintColor": "ffc000",
         "category": "games",
         "size": 2805760,
         "version": "RSDK5",
