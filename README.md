@@ -1,2 +1,7 @@
 # Realmzers Altstore Source/Repo
-A repository that is growing daily.
+A source that is growing everyday.
+
+## Discord Server:
+https://discord.gg/9ArHTK64j6 
+
+Discord handle: realmzer
