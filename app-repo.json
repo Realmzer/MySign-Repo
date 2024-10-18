@@ -215,6 +215,25 @@
         "appPermissions": {},
         "title": "Sonic Mania",
         "url": "https://sonicthehedgehog.com/sonic-mania-plus/" 
+      },
+      {
+        "beta": false,
+        "name": "Fortnite",
+        "bundleIdentifier": "com.realmzer.fortnite",
+        "subtitle": "Fortnite - IOS",
+        "description": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.",
+        "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.",
+        "developerName": "Epic Games",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/ForniteMain.png?raw=true",
+        "tintColor": "2fa1df",
+        "category": "games",
+        "size": 266735616,
+        "version": "31.40",
+        "versionDate": "2024-10-18",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Fortnite-31.40.ipa",
+        "appPermissions": {},
+        "title": "Fornite",
+        "url": "https://github.com/ichitaso/EpicGamesIPA/" 
       }
     ],
     "news": []
