@@ -48,7 +48,7 @@
       {
         "beta": false,
         "name": "Nugget",
-        "bundleIdentifier": "com.realmzer.nugget",
+        "bundleIdentifier": "com.realmzer.nugget2",
         "subtitle": "Nugget - Mobile",
         "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued",
         "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
