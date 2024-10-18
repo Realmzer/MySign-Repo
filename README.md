@@ -8,5 +8,6 @@ Discord handle: realmzer
 
 Status:
 ✅ = Working
+
 ❌ = Not Working or discontinued
 
