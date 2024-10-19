@@ -4,7 +4,7 @@
     "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/realmzerrepoicon.png?raw=true",
     "website": "https://realmzer.github.io/",
     "subtitle": "Realmzers Altstore source.",
-    "description": "A source that is growing every day.\nDiscord Server: https://discord.gg/9ArHTK64j6\nDiscord handle: @realmzer\n Status:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak",
+    "description": "A source that is growing every day.\nDiscord Server: https://discord.gg/9ArHTK64j6\nDiscord handle: @realmzer\n Status:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist",
     "tintColor": "7400ff",
     "apps": [
       {
@@ -329,6 +329,25 @@
         "appPermissions": {},
         "title": "Adblock",
         "url": "https://github.com/Realmzer/Realmzer.github.io" 
+      },
+      {
+        "beta": false,
+        "name": "Azula",
+        "bundleIdentifier": "com.realmzer.azula",
+        "subtitle": "Injecting dylibs into IPA.",
+        "description": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
+        "localizedDescription": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
+        "developerName": "Paisseon",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/Azula.png?raw=true",
+        "tintColor": "0aa6c9",
+        "category": "utilities",
+        "size": 1536000,
+        "version": "1.0.1",
+        "versionDate": "2024-10-18",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Azula.ipa",
+        "appPermissions": {},
+        "title": "Azula",
+        "url": "https://github.com/Paisseon/Azula/" 
       }
     ],
     "news": []

@@ -16,3 +16,4 @@ Status:
 
 ✨ = Tweak
 
+❔ = Unknown if its still getting updates or source doesn't exist
