@@ -14,3 +14,5 @@ Status:
 
 ❌ = Not Working or discontinued
 
+✨ = Tweak
+
