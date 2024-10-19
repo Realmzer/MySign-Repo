@@ -1,11 +1,16 @@
 body{
     margin: 0;
-    background: linear-gradient(to right, #252222, #4d4646);
+    background: linear-gradient(to right, #5900ff, #8c32e0);
     text-align: center;
+    background-filter: blur(10px);
     }
     
 p{
    color:white
+}
+
+h3{
+  color:white
 }
 
 h2{
@@ -78,24 +83,22 @@ h1{
        .social-bar a {
         display: inline;
         text-align: center;
-        padding: 10px;
+        padding: 15px;
         transition: all 0.3s ease;
         color: white;
         font-size: 20px;
         border-radius: 50%;
+        -webkit-backdrop-filter: blur(5px);
+        backdrop-filter: blur(25px);
       }
        
       .social-bar a:hover {
-        color: rgb(218, 212, 221);
-        -moz-transition: all .2s ease-in;
-        -o-transition: all .2s ease-in;
-        -webkit-transition: all .2s ease-in;
-        transition: all .2s ease-in;
+        background-color: rgb(6, 1, 1);
       }
       
       .twitter {
-        background: #11bcff00;
-        margin: 10px;
+        background: #11bcff;
+        margin: 20px;
       }
       
       .youtube {
@@ -104,12 +107,12 @@ h1{
       }
     
       .github {
-        background: rgba(140, 0, 255, 0);
-        margin: 0px;
+        background: rgb(140, 0, 255);
+        margin: 20px;
       }
       
       .reddit {
-        background: rgba(255, 68, 0, 0);
+        background: rgb(255, 69, 0);
         margin: 20px;
       }
     
@@ -123,16 +126,20 @@ h1{
       }
     
       .discord {
-        background-color: rgb(88, 101, 242)
+        margin: 8px;
+        padding: 15px;
       }
     
       .tele {
         background-color: rgb(55, 175, 223)
       }
-      .discord-btn {
-        font-size: 24px;
-        color: #7289DA;
-    }
+
+      .transparent {
+        background-color: rgba(0, 0, 0, 0.486);
+        margin: 8.5px;
+      }
+
+
     
     .discord-btn:hover {
         color: #fff;
