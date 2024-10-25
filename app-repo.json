@@ -420,7 +420,7 @@
         "size": 3166208,
         "version": "1.6",
         "versionDate": "2024-10-25",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-roothide.deb",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-roothide1.6.deb",
         "appPermissions": {},
         "title": "Frida Code Manager (Root-Hide)",
         "url": "https://github.com/fridakitten/FridaCodeManager/" 
@@ -439,7 +439,7 @@
         "size": 3166104,
         "version": "1.6",
         "versionDate": "2024-10-25",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-rootless.deb",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-rootless1.6.deb",
         "appPermissions": {},
         "title": "Frida Code Manager (Root-Less)",
         "url": "https://github.com/fridakitten/FridaCodeManager/" 
@@ -458,7 +458,7 @@
         "size": 66809856,
         "version": "1.6",
         "versionDate": "2024-10-25",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-stock-alpha.ipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-stock-alpha1.6.ipa",
         "appPermissions": {},
         "title": "Frida Code Manager (Stock Alpha)",
         "url": "https://github.com/fridakitten/FridaCodeManager/" 
@@ -477,7 +477,7 @@
         "size": 70615040,
         "version": "1.6",
         "versionDate": "2024-10-25",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-trollstore.tipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-trollstore1.6.tipa",
         "appPermissions": {},
         "title": "Frida Code Manager (TrollStore)",
         "url": "https://github.com/fridakitten/FridaCodeManager/" 
