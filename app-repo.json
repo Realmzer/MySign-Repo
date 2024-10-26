@@ -481,25 +481,6 @@
         "appPermissions": {},
         "title": "HD Flix (No Ads)",
         "url": "https://t.me/HD_Flix_Channel/" 
-      },
-      {
-        "beta": false,
-        "name": "HD Flix",
-        "bundleIdentifier": "com.beuto.jogging",
-        "subtitle": "HD Flix - Watch and Discover Movies and Shows",
-        "description": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅",
-        "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅",
-        "developerName": "HD Flix",
-        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/hdflix.png?raw=true",
-        "tintColor": "ea221f",
-        "category": "entertainment",
-        "size": 19087360,
-        "version": "6.0",
-        "versionDate": "2024-10-26",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/hdflix6.0.ipa",
-        "appPermissions": {},
-        "title": "HD Flix",
-        "url": "https://t.me/HD_Flix_Channel/" 
       }
     ],
     "news": []
