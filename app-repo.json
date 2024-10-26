@@ -381,7 +381,7 @@
         "description": "Removes three app limit. (iOS 16.1.2 & lower)\nStatus: ✅",
         "localizedDescription": "Removes three app limit. (iOS 16.1.2 & lower)\nStatus: ✅",
         "developerName": "zhuowei",
-        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/2232044-200.png?raw=true",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/noicon.png?raw=true",
         "tintColor": "f05138",
         "category": "utilities",
         "size": 32768 ,
@@ -562,6 +562,25 @@
         "appPermissions": {},
         "title": "Friday Night Funkin: Psych Engine 0.6.3",
         "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
+      },
+      {
+        "beta": false,
+        "name": "YTLitePlus",
+        "bundleIdentifier": "com.google.ios.ytliteplus",
+        "subtitle": "YTLitePlus - Youtube for iOS Supercharged",
+        "description": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅",
+        "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅",
+        "developerName": "YTLitePlus",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/ytliteplus.png?raw=true",
+        "tintColor": "fc0032",
+        "category": "entertainment",
+        "size": 114438144,
+        "version": "19.42.1",
+        "versionDate": "2024-10-26",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/YTLitePlus_19.42.1_5.0.2.ipa",
+        "appPermissions": {},
+        "title": "YTLitePlus",
+        "url": "https://ytliteplus.github.io/" 
       }
     ],
     "news": []
