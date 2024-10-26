@@ -409,7 +409,7 @@
       {
         "beta": false,
         "name": "Frida Code Manager (Root-Hide)",
-        "bundleIdentifier": "com.realmzer.fridacodemanagerroothide",
+        "bundleIdentifier": "com.sparklechan.swifty",
         "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
         "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
         "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
@@ -428,7 +428,7 @@
       {
         "beta": false,
         "name": "Frida Code Manager (Root-Less)",
-        "bundleIdentifier": "com.realmzer.fridacodemanagerrootless",
+        "bundleIdentifier": "com.sparklechan.swifty",
         "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
         "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
         "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
@@ -447,7 +447,7 @@
       {
         "beta": false,
         "name": "Frida Code Manager (Stock Alpha)",
-        "bundleIdentifier": "com.realmzer.fridacodemanagerstockalpha",
+        "bundleIdentifier": "com.sparklechan.swifty",
         "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
         "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
         "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
@@ -466,7 +466,7 @@
       {
         "beta": false,
         "name": "Frida Code Manager (TrollStore)",
-        "bundleIdentifier": "com.realmzer.fridacodemanagerroothide",
+        "bundleIdentifier": "com.sparklechan.swifty",
         "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
         "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
         "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
