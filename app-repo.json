@@ -10,7 +10,7 @@
       {
         "beta": false,
         "name": "ESign No Logs",
-        "bundleIdentifier": "com.realmzer.esignnologs",
+        "bundleIdentifier": "p3.xyz.yyyue.esign",
         "subtitle": "ESign No Logs - ESign With No Logs",
         "description": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
         "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
@@ -29,7 +29,7 @@
       {
         "beta": false,
         "name": "Nugget v1.0.1",
-        "bundleIdentifier": "com.realmzer.nugget",
+        "bundleIdentifier": "com.leemin.nugget",
         "subtitle": "Nugget - Mobile",
         "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
         "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
@@ -48,7 +48,7 @@
       {
         "beta": false,
         "name": "Nugget v2.0",
-        "bundleIdentifier": "com.realmzer.nugget2",
+        "bundleIdentifier": "com.leemin.nugget2",
         "subtitle": "Nugget - Mobile",
         "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued",
         "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
@@ -67,7 +67,7 @@
       {
         "beta": true,
         "name": "Sparsebox",
-        "bundleIdentifier": "com.realmzer.sparsebox",
+        "bundleIdentifier": "com.kdt.sparsebox",
         "subtitle": "Sparsebox - Backup's without a computer",
         "description": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅",
         "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅",
@@ -86,7 +86,7 @@
       {
         "beta": false,
         "name": "Deltarune",
-        "bundleIdentifier": "com.realmzer.deltarune",
+        "bundleIdentifier": "com.jockelholm.undertaledr",
         "subtitle": "Deltarune - IOS Port",
         "description": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.\n Status: ✅",
         "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.\n Status: ✅",
@@ -105,7 +105,7 @@
       {
         "beta": false,
         "name": "Undertale",
-        "bundleIdentifier": "com.realmzer.undertale",
+        "bundleIdentifier": "com.jackelholm.undertale",
         "subtitle": "Undertale - IOS Port",
         "description": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅",
         "localizedDescription": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅",
@@ -124,7 +124,7 @@
       {
         "beta": false,
         "name": "Undertale Yellow",
-        "bundleIdentifier": "com.realmzer.undertaleyellow",
+        "bundleIdentifier": "com.atesquik.uty",
         "subtitle": "Undertale Yellow - IOS Port",
         "description": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
         "localizedDescription": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
@@ -143,7 +143,7 @@
       {
         "beta": false,
         "name": "Undertale Red & Yellow",
-        "bundleIdentifier": "com.realmzer.undertaleredyellow",
+        "bundleIdentifier": "com.utryios.undertale",
         "subtitle": "Undertale Red & Yellow - IOS Port",
         "description": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red & Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\n Status: ✅",
         "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red & Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\nStatus: ✅",
@@ -162,7 +162,7 @@
       {
         "beta": false,
         "name": "Undertale Bits & Pieces",
-        "bundleIdentifier": "com.realmzer.undertalebitsandpieces",
+        "bundleIdentifier": "com.utbnpios.undertale",
         "subtitle": "Undertale Bits & Pieces - IOS Port",
         "description": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
         "localizedDescription": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
@@ -181,7 +181,7 @@
       {
         "beta": false,
         "name": "FNAF World",
-        "bundleIdentifier": "com.realmzer.fnafworld",
+        "bundleIdentifier": "com.clickteam.fnafworld",
         "subtitle": "FNAF World - IOS Port",
         "description": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
         "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
@@ -200,7 +200,7 @@
       {
         "beta": false,
         "name": "PPSSPP",
-        "bundleIdentifier": "com.realmzer.ppsspp-free",
+        "bundleIdentifier": "org.ppsspp.ppsspp-free",
         "subtitle": "PPSSPP - A PSP Emulator",
         "description": "The best PSP Emulator for IOS Written in C++ Status: ✅",
         "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
@@ -219,7 +219,7 @@
       {
         "beta": false,
         "name": "Sonic Mania",
-        "bundleIdentifier": "com.realmzer.sonicmania",
+        "bundleIdentifier": "org.wamwoowam.RSDKv5",
         "subtitle": "Sonic Mania - IOS Port",
         "description": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅",
         "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅",
@@ -234,25 +234,6 @@
         "appPermissions": {},
         "title": "Sonic Mania",
         "url": "https://sonicthehedgehog.com/sonic-mania-plus/" 
-      },
-      {
-        "beta": false,
-        "name": "Fortnite",
-        "bundleIdentifier": "com.realmzer.fortnite",
-        "subtitle": "Fortnite - IOS",
-        "description": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\nStatus: ❔ ",
-        "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\nStatus: ❔",
-        "developerName": "Epic Games",
-        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/FortniteMain.png?raw=true",
-        "tintColor": "2fa1df",
-        "category": "games",
-        "size": 266735616,
-        "version": "31.40",
-        "versionDate": "2024-10-18",
-        "downloadURL": "https://download1322.mediafire.com/pdh08nf4yo0gI8a1ljcts2EfPgJIwX_xOprbeo_03ywTMxe4fUaNtLFJvY36Fhbw36yYZp7L4dGhPVAfV_SIcn6E5AtW7AA5Eg-NJJy2LMsgyaQc3X27RqBpb2k5m9BDk1YT0dJmIi9iMdTwrhRt_-cPYwaxhUxCPuXrJRYrrwy9/wwuslvgkdcs8wlz/Fortnite-31.40+%281%29.ipa",
-        "appPermissions": {},
-        "title": "Fornite",
-        "url": "https://github.com/ichitaso/EpicGamesIPA/" 
       },
       {
         "beta": false,
@@ -333,7 +314,7 @@
       {
         "beta": false,
         "name": "Azula",
-        "bundleIdentifier": "com.realmzer.azula",
+        "bundleIdentifier": "Lilliana.AzulaApp",
         "subtitle": "Injecting dylibs into IPA.",
         "description": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
         "localizedDescription": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
@@ -352,7 +333,7 @@
       {
         "beta": false,
         "name": "Feedback Assistant",
-        "bundleIdentifier": "com.realmzer.feedbackassistant",
+        "bundleIdentifier": "com. yourname028.appleseed.FeedbackAssistant",
         "subtitle": "Feedback Assistant - IPA",
         "description": "App for sending feedback to Apple.\nStatus: ✅",
         "localizedDescription": "App for sending feedback to Apple.\nStatus: ✅",
@@ -371,7 +352,7 @@
       {
         "beta": false,
         "name": "Barcode Scanner",
-        "bundleIdentifier": "com.realmzer.barcodescanner",
+        "bundleIdentifier": "com.yourname028.BarcodeScanner",
         "subtitle": "Barcode Scanner - IPA",
         "description": "A barcode scanner official from Apple\nStatus: ✅",
         "localizedDescription": "A barcode scanner official from Apple\nStatus: ✅",
@@ -390,7 +371,7 @@
       {
         "beta": false,
         "name": "WDB-Remove-Three-App-Limit",
-        "bundleIdentifier": "com.realmzer.wdbremovethreeapplimit",
+        "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
         "subtitle": "WDB-Remove-Three-App-Limit - Remove three app limit on AltStore",
         "description": "Removes three app limit. (iOS 16.1.2 & lower)\nStatus: ✅",
         "localizedDescription": "Removes three app limit. (iOS 16.1.2 & lower)\nStatus: ✅",
