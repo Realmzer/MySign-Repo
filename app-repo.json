@@ -3,9 +3,14 @@
     "identifier": "realmzer.ipa.source",
     "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/realmzerrepoicon.png?raw=true",
     "website": "https://realmzer.github.io/",
-    "subtitle": "Realmzers Altstore source.",
+    "patreonURL": "https://www.patreon.com/c/Realmzer",
+    "subtitle": "The official Realmzer AltStore Repository!",
     "description": "A source that is growing every day.\nDiscord Server: https://discord.gg/9ArHTK64j6\nDiscord handle: @realmzer\n Status:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸: Paid Tweak, not Cracked\n🔥: Recommended by Developer(s)",
     "tintColor": "7400ff",
+    "featuredApps": [
+      "com.box.hd.flix.drama.hub",
+      "p3.xyz.yyyue.esign"
+    ],
     "apps": [
       {
         "beta": false,
