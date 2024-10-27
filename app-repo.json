@@ -615,10 +615,14 @@
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/enmity.png?raw=true",
         "tintColor": "4540af",
         "category": "social",
-        "size": 103346176,
-        "version": "2.2.6",
-        "versionDate": "2024-10-27",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Enmity-2.2.6.ipa",
+        "versions": [
+          {
+            "version": "2.2.6",
+            "date": "2024-10-27",
+            "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Enmity-2.2.6.ipa",
+            "size": 103346176
+          }
+        ],
         "title": "Enmity",
         "url": "https://github.com/enmity-mod"
       }
