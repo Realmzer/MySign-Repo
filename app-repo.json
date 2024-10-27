@@ -10,7 +10,8 @@
     "featuredApps": [
       "com.box.hd.flix.drama.hub",
       "p3.xyz.yyyue.esign",
-      "com.google.ios.ytliteplus"
+      "com.google.ios.ytliteplus",
+      "com.spotify.cilent"
     ],
     "apps": [
       {
@@ -582,6 +583,25 @@
         "appPermissions": {},
         "title": "YTLitePlus",
         "url": "https://ytliteplus.github.io/" 
+      },
+      {
+        "beta": false,
+        "name": "EeveeSpotify",
+        "bundleIdentifier": "com.spotify.client",
+        "subtitle": "EeveeSpotify - Free Premium Patches and more",
+        "description": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
+        "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
+        "developerName": "whoeevee",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/spotify.png?raw=true",
+        "tintColor": "1ed760",
+        "category": "entertainment",
+        "size": 81833984,
+        "version": "8.9.86/Swift 5.7",
+        "versionDate": "2024-10-27",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/EeveeSpotify-5.7-8.9.86.ipa",
+        "appPermissions": {},
+        "title": "EeveeSpotify",
+        "url": "https://github.com/whoeevee/EeveeSpotify" 
       }
     ],
     "news": []
