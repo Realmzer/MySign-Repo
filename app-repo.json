@@ -602,6 +602,28 @@
         "appPermissions": {},
         "title": "EeveeSpotify",
         "url": "https://github.com/whoeevee/EeveeSpotify" 
+      },
+      {
+        "beta": false,
+        "name": "Enmity",
+        "bundleIdentifier": "com.hammerandchisel.discord",
+        "subtitle": "Enmity - The power of addons, all in your hand.",
+        "description": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
+        "localizedDescription": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
+        "developerName": "enmity-mod",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/enmity.png?raw=true",
+        "tintColor": "4540af",
+        "category": "social",
+        "versions": [
+        {
+          "version": "2.2.6",
+          "date": "2024-10-27",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Enmity-2.2.6.ipa",
+          "size": 103346176
+       }
+      ],
+        "title": "Enmity",
+        "url": "https://github.com/enmity-mod" 
       }
     ],
     "news": []
