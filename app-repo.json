@@ -416,6 +416,7 @@
           {
             "version": "1.6",
             "date" : "2024-10-25",
+            "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
             "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-roothide1.6.deb",
             "size": 3166208
           }
@@ -442,6 +443,7 @@
           {
             "version": "1.6",
             "date" : "2024-10-25",
+            "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
             "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-rootless1.6.deb",
             "size": 3166104
           }
@@ -468,6 +470,7 @@
           {
             "version": "1.6",
             "date" : "2024-10-25",
+            "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
             "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-stock-alpha1.6.ipa",
             "size": 66809856
           }
@@ -486,7 +489,7 @@
         "category": "utilities",
         "version": "1.6",
         "versionDate": "2024-10-25",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/YTLitePlus_19.42.1_5.0.2.ipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-trollstore1.6.tipa",
         "size": 70615040,
         "title": "Frida Code Manager (TrollStore)",
         "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -494,6 +497,7 @@
           {
             "version": "1.6",
             "date" : "2024-10-25",
+            "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
             "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-trollstore1.6.tipa",
             "size": 70615040
           }
@@ -615,6 +619,7 @@
           {
             "version": "19.42.1",
             "date" : "2024-10-26",
+            "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅🔥",
             "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/YTLitePlus_19.42.1_5.0.2.ipa",
             "size": 114438144
           }
@@ -627,6 +632,7 @@
         "developerName" : "whoeevee",
         "subtitle": "EeveeSpotify - Free Premium Patches and more",
         "description": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
+        "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/spotify.png?raw=true",
         "tintColor": "1ed760",
         "category": "entertainment",
@@ -640,6 +646,7 @@
           {
             "version": "8.9.86/Swift 5.7",
             "date" : "2024-10-27",
+            "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
             "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/EeveeSpotify-5.7-8.9.86.ipa",
             "size": 81833984
           }
@@ -666,6 +673,7 @@
         {
           "version" : "2.2.6",
           "date" : "2024-10-27",
+          "localizedDescription": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
           "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Enmity-2.2.6.ipa",
           "size": 103346176
         }
