@@ -20,6 +20,6 @@ Status:
 
 🔵 = TrollStore only
 
-💸: Paid Tweak, not Cracked
+💸 = Paid Tweak, not Cracked
 
-🔥: Recommended by Developer's
+🔥 = Recommended by Developer's
