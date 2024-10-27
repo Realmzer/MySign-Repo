@@ -582,25 +582,6 @@
         "appPermissions": {},
         "title": "YTLitePlus",
         "url": "https://ytliteplus.github.io/" 
-      },
-      {
-        "beta": false,
-        "name": "The Binding of Isaac: Rebirth",
-        "bundleIdentifier": "com.nicalis.isaac",
-        "subtitle": "The Binding of Isaac Rebirth - The randomly generated action RPG shooter",
-        "description": "When Isaac's mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement, where he faces droves of deranged enemies, lost brothers and sisters, his fears and eventually his mother.\nStatus: ✅",
-        "localizedDescription": "When Isaac's mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement, where he faces droves of deranged enemies, lost brothers and sisters, his fears and eventually his mother.\nStatus: ✅",
-        "developerName": "Nicalis Inc",
-        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/isaacrebirth.png?raw=true",
-        "tintColor": "d07645",
-        "category": "games",
-        "size": 2179702784,
-        "version": "1.3",
-        "versionDate": "2024-10-27",
-        "downloadURL": "https://download843.mediafire.com/qnt9p0ry0lbgMHdj75N3kd9V2lA9Z70BYYAX-AWSgLL0wzfiKkKmrh1znUcDnKVWhNFp2aRPYLfxpv2o5ZvH5XsktRAp-3vtAUHzmCa_fWHLtA-_Z3Y8DzjvSXK_y8vA2cIrmK9Hx-3uafggVXZ3FYtTlvwI0zKB22rnN_ObfvxQ/i4e1hyc6i28z0ww/TheBindingofIsaac_Rebirth_1.3_decrypted.ipa",
-        "appPermissions": {},
-        "title": "The Binding of Isaac: Rebirth",
-        "url": "https://apps.apple.com/us/app/the-binding-of-isaac-rebirth/id1069549814" 
       }
     ],
     "news": []
