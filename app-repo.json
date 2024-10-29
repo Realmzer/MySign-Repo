@@ -654,28 +654,79 @@
       },
       {
       "beta": false,
-      "name" : "Enmity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName" : "enmity-mod",
-      "subtitle": "Enmity - The power of addons, all in your hand.",
-      "description": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
-      "localizedDescription": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
+      "name" : "Celeste No Virtual Controller",
+      "bundleIdentifier": "gay.rooot.celestemeow",
+      "developerName" : "RoootTheFox, Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+      "subtitle": "Celeste iOS - hacky ios port of celeste",
+      "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
+      "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
       "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/enmity.png?raw=true",
-      "tintColor": "4540af",
-      "category": "social",
-      "version" : "2.2.6",
-      "versionDate" : "2024-10-27",
-      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Enmity-2.2.6.ipa",
-      "size": 103346176,
-      "title": "Enmity",
-      "url": "https://github.com/enmity-mod",
+      "tintColor": "b192ce",
+      "category": "games",
+      "version" : "1.0",
+      "versionDate" : "2024-10-29",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/celestenocontroller.ipa",
+      "size": 883720192,
+      "title": "Celeste No Virtual Controller",
+      "url": "https://github.com/RoootTheFox/celeste-ios",
       "versions" : [
         {
-          "version" : "2.2.6",
-          "date" : "2024-10-27",
-          "localizedDescription": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
-          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Enmity-2.2.6.ipa",
-          "size": 103346176
+          "version" : "1.0",
+          "date" : "2024-10-29",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/celestenocontroller.ipa",
+          "size": 883720192
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Celeste + Virtual Controller",
+      "bundleIdentifier": "gay.rooot.celestemeowvc",
+      "developerName" : "RoootTheFox, Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+      "subtitle": "Celeste iOS - hacky ios port of celeste",
+      "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
+      "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/enmity.png?raw=true",
+      "tintColor": "b192ce",
+      "category": "games",
+      "version" : "1.0",
+      "versionDate" : "2024-10-29",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/CelesteVC.ipa",
+      "size": 883716096,
+      "title": "Celeste + Virtual Controller",
+      "url": "https://github.com/RoootTheFox/celeste-ios",
+      "versions" : [
+        {
+          "version" : "1.0",
+          "date" : "2024-10-29",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/CelesteVC.ipa",
+          "size": 883716096
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "Friday Night Funkin'",
+      "bundleIdentifier": "com.funkin.fnf",
+      "developerName" : "FunkinCrew",
+      "subtitle": "Friday Night Funkin' iOS - Outdated port of FNF",
+      "description": "A rhythm game made with HaxeFlixel\nStatus: ✅",
+      "localizedDescription": "A rhythm game made with HaxeFlixel\nStatus: ✅",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/funkin.png?raw=true",
+      "tintColor": "26a6f8",
+      "category": "games",
+      "version" : "v0.4.1-patch-1",
+      "versionDate" : "2024-10-29",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Funkin-0.4.1-patch1.ipa",
+      "size": 507664411,
+      "title": "Friday Night Funkin'",
+      "url": "https://github.com/FunkinDroidTeam/Funkin",
+      "versions" : [
+        {
+          "version" : "v0.4.1-patch-1",
+          "date" : "2024-10-29",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Funkin-0.4.1-patch1.ipa",
+          "size": 507664411
         }
       ]
     }
