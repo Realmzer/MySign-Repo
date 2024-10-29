@@ -715,7 +715,7 @@
       "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/funkin.png?raw=true",
       "tintColor": "26a6f8",
       "category": "games",
-      "version" : "v0.4.1-patch-1",
+      "version" : "0.4.1-patch-1",
       "versionDate" : "2024-10-29",
       "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Funkin-0.4.1-patch1.ipa",
       "size": 507664411,
@@ -727,6 +727,32 @@
           "date" : "2024-10-29",
           "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Funkin-0.4.1-patch1.ipa",
           "size": 507664411
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "Osu!lazer",
+      "bundleIdentifier": "sh.ppy.osu!lazer",
+      "developerName" : "peppy",
+      "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
+      "description": "rhythm is just a *click* away!\nStatus: ✅",
+      "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/osu.png?raw=true",
+      "tintColor": "f863a6",
+      "category": "games",
+      "version" : "2024.1009.1",
+      "versionDate" : "2024-10-29",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/osu.iOS-2024.1009.1.ipa",
+      "size": 196280320,
+      "title": "Osu!lazer",
+      "url": "https://github.com/ppy/osu/",
+      "versions" : [
+        {
+          "version" : "2024.1009.1",
+          "date" : "2024-10-29",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/osu.iOS-2024.1009.1.ipa",
+          "size": 196280320
         }
       ]
     }
