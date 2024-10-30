@@ -1029,6 +1029,50 @@
       "size": 16416768,
       "title": "LocalSend v1.15.4",
       "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "beta": false,
+      "name" : "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "developerName" : "RobTop Games AB",
+      "subtitle": "Geometry Dash - Push your skills to the limit",
+      "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/geodash.png?raw=true",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "2.2.06",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Geometry-2.206.ipa",
+      "size": 152252416,
+      "title": "Geometry Dash",
+      "url": "https://www.robtopgames.com/",
+      "versions" : [
+        {
+          "version": "2.2.06",
+          "date" : "2024-10-30",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Geometry-2.206.ipa",
+          "size": 152252416
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Geometry Dash v2.2.06",
+      "bundleIdentifier": "com.robtop.geometryjump2206",
+      "developerName" : "RobTop Games AB",
+      "subtitle": "Geometry Dash - Push your skills to the limit",
+      "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/geodash.png?raw=true",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "2.2.06",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Geometry-2.206.ipa",
+      "size": 152252416,
+      "title": "Geometry Dash v2.2.06",
+      "url": "https://www.robtopgames.com/"
     }
     ],
     "news": []
