@@ -836,7 +836,7 @@
       ]
     },
     {
-      "beta": false,
+      "beta": true,
       "name" : "Osu!lazer 2024.1009.1",
       "bundleIdentifier": "sh.ppy.osu!lazer202410091",
       "developerName" : "peppy",
@@ -880,7 +880,7 @@
       ]
     },
     {
-      "beta": true,
+      "beta": false,
       "name" : "Feather v1.0.5",
       "bundleIdentifier": "kh.crysalis.feather105",
       "developerName" : "Samara",
