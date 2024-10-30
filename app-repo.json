@@ -762,6 +762,58 @@
           "size": 196280320
         }
       ]
+    },
+    {
+      "beta": false,
+      "name" : "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName" : "Samara",
+      "subtitle": "On-device signing application",
+      "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/feather.png?raw=true",
+      "tintColor": "848ef9",
+      "category": "utilities",
+      "version" : "1.0.5",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/feather_v1.0.5.ipa",
+      "size": 12375230,
+      "title": "Feather",
+      "url": "https://github.com/khcrysalis/Feather/",
+      "versions" : [
+        {
+          "version" : "1.0.5",
+          "date" : "2024-10-30",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/feather_v1.0.5.ipa",
+          "size": 12375230
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "Feather (TrollStore)",
+      "bundleIdentifier": "kh.crysalis.featherts",
+      "developerName" : "Samara",
+      "subtitle": "On-device signing application",
+      "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/feather.png?raw=true",
+      "tintColor": "848ef9",
+      "category": "utilities",
+      "version" : "1.0.5",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/feather_v1.0.5.tipa",
+      "size": 12375230,
+      "title": "Feather (TrollStore)",
+      "url": "https://github.com/khcrysalis/Feather/",
+      "versions" : [
+        {
+          "version" : "1.0.5",
+          "date" : "2024-10-30",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/feather_v1.0.5.tipa",
+          "size": 12375230
+        }
+      ]
     }
     ],
     "news": []
