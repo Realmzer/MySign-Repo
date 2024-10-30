@@ -431,6 +431,24 @@
       },
       {
         "beta": false,
+        "name" : "Frida Code Manager (Root-Hide) v1.6",
+        "bundleIdentifier": "com.sparklechan.swiftyrh16",
+        "developerName": "fridakitten",
+        "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+        "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+        "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/FCM.png?raw=true",
+        "tintColor": "ab7eaa",
+        "category": "utilities",
+        "version": "1.6",
+        "versionDate": "2024-10-25",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-roothide1.6.deb",
+        "size": 70615040,
+        "title": "Frida Code Manager (Root-Hide) v1.6",
+        "url": "https://github.com/fridakitten/FridaCodeManager/"
+      },
+      {
+        "beta": false,
         "name" : "Frida Code Manager (Root-Less)",
         "bundleIdentifier": "com.sparklechan.swiftyrl",
         "developerName": "fridakitten",
@@ -455,6 +473,24 @@
             "size": 3166104
           }
         ]
+      },
+      {
+        "beta": false,
+        "name" : "Frida Code Manager (Root-Less) v1.6",
+        "bundleIdentifier": "com.sparklechan.swiftyrl16",
+        "developerName": "fridakitten",
+        "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+        "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+        "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/FCM.png?raw=true",
+        "tintColor": "ab7eaa",
+        "category": "utilities",
+        "version": "1.6",
+        "versionDate": "2024-10-25",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-rootless1.6.deb",
+        "size": 70615040,
+        "title": "Frida Code Manager (Root-Less) v1.6",
+        "url": "https://github.com/fridakitten/FridaCodeManager/"
       },
       {
         "beta": false,
@@ -485,6 +521,24 @@
       },
       {
         "beta": false,
+        "name" : "Frida Code Manager (Stock Alpha) v1.6",
+        "bundleIdentifier": "com.sparklechan.swiftysa16",
+        "developerName": "fridakitten",
+        "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+        "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+        "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/FCM.png?raw=true",
+        "tintColor": "ab7eaa",
+        "category": "utilities",
+        "version": "1.6",
+        "versionDate": "2024-10-25",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-stock-alpha1.6.ipa",
+        "size": 70615040,
+        "title": "Frida Code Manager (Stock Alpha)",
+        "url": "https://github.com/fridakitten/FridaCodeManager/"
+      },
+      {
+        "beta": false,
         "name" : "Frida Code Manager (TrollStore)",
         "bundleIdentifier": "com.sparklechan.swiftyts",
         "developerName": "fridakitten",
@@ -509,6 +563,24 @@
             "size": 70615040
           }
         ]
+      },
+      {
+        "beta": false,
+        "name" : "Frida Code Manager (TrollStore) v1.6",
+        "bundleIdentifier": "com.sparklechan.swiftyts16",
+        "developerName": "fridakitten",
+        "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+        "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
+        "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/FCM.png?raw=true",
+        "tintColor": "ab7eaa",
+        "category": "utilities",
+        "version": "1.6",
+        "versionDate": "2024-10-25",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/FridaCodeManager-trollstore1.6.tipa",
+        "size": 70615040,
+        "title": "Frida Code Manager (TrollStore) v1.6",
+        "url": "https://github.com/fridakitten/FridaCodeManager/"
       },
       {
         "beta": false,
@@ -765,6 +837,24 @@
     },
     {
       "beta": false,
+      "name" : "Osu!lazer 2024.1009.1",
+      "bundleIdentifier": "sh.ppy.osu!lazer202410091",
+      "developerName" : "peppy",
+      "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
+      "description": "rhythm is just a *click* away!\nStatus: ✅🔥",
+      "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/osu.png?raw=true",
+      "tintColor": "f863a6",
+      "category": "games",
+      "version" : "2024.1009.1",
+      "versionDate" : "2024-10-29",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/osu.iOS-2024.1009.1.ipa",
+      "size": 196280320,
+      "title": "Osu!lazer",
+      "url": "https://github.com/ppy/osu/"
+    },
+    {
+      "beta": false,
       "name" : "Feather",
       "bundleIdentifier": "kh.crysalis.feather",
       "developerName" : "Samara",
@@ -791,6 +881,24 @@
     },
     {
       "beta": true,
+      "name" : "Feather v1.0.5",
+      "bundleIdentifier": "kh.crysalis.feather105",
+      "developerName" : "Samara",
+      "subtitle": "On-device signing application",
+      "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/feather.png?raw=true",
+      "tintColor": "848ef9",
+      "category": "utilities",
+      "version" : "1.0.5",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/feather_v1.0.5.ipa",
+      "size": 12375230,
+      "title": "Feather v1.0.5",
+      "url": "https://github.com/khcrysalis/Feather/"
+    },
+    {
+      "beta": false,
       "name" : "Feather (TrollStore)",
       "bundleIdentifier": "kh.crysalis.featherts",
       "developerName" : "Samara",
@@ -815,12 +923,30 @@
         }
       ]
     },
+    {
+      "beta": false,
+      "name" : "Feather (TrollStore) v1.0.5",
+      "bundleIdentifier": "kh.crysalis.featherts105",
+      "developerName" : "Samara",
+      "subtitle": "On-device signing application",
+      "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/feather.png?raw=true",
+      "tintColor": "848ef9",
+      "category": "utilities",
+      "version" : "1.0.5",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/feather_v1.0.5.tipa",
+      "size": 12375230,
+      "title": "Feather (TrollStore) v1.0.5",
+      "url": "https://github.com/khcrysalis/Feather/"
+    },
     { "name": "PojavLauncher", 
       "bundleIdentifier": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam", 
       "subtitle": "Bringing Minecraft: Java Edition to mobile devices.", 
       "version": "2.2", 
-      "versionDate": "2023-05-06T17:00:00-05:00", 
+      "versionDate": "2024-10-30T17:00:00-05:00", 
       "versionDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.", 
       "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/net.kdt.pojavlauncher-2.2-ios.ipa", 
       "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\n• Play most versions of Minecraft, from the very first beta to the latest snapshots.\n• Customize with mods, resource packs, and compatible shaders\n• Create multiple instances of Minecraft for multiple versions\n• Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n• Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
@@ -832,6 +958,50 @@
       "appID": "net.kdt.pojavlauncher", 
       "date": "2023-01-02", 
       "notify": true 
+    },
+    {
+      "beta": false,
+      "name" : "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName" : "khanhduytran0",
+      "subtitle": "Run iOS app without actually installing it!",
+      "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/livecontainer.png?raw=true",
+      "tintColor": "0784fc",
+      "category": "utilities",
+      "version": "2.1.2",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/com.kdt.livecontainer_2.1.2.ipa",
+      "size": 194586,
+      "title": "LiveContainer",
+      "url": "https://github.com/khanhduytran0/LiveContainer",
+      "versions" : [
+        {
+          "version": "2.1.2",
+          "date" : "2024-10-30",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/com.kdt.livecontainer_2.1.2.ipa",
+          "size": 194586
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "LiveContainer v2.1.2",
+      "bundleIdentifier": "com.kdt.livecontainer212",
+      "developerName" : "khanhduytran0",
+      "subtitle": "Run iOS app without actually installing it!",
+      "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/livecontainer.png?raw=true",
+      "tintColor": "0784fc",
+      "category": "utilities",
+      "version": "2.1.2",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/com.kdt.livecontainer_2.1.2.ipa",
+      "size": 194586,
+      "title": "LiveContainer v2.1.2",
+      "url": "https://github.com/khanhduytran0/LiveContainer"
     }
     ],
     "news": []
