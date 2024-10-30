@@ -5,7 +5,7 @@
     "website": "https://realmzer.github.io/",
     "patreonURL": "https://www.patreon.com/c/Realmzer",
     "subtitle": "The official Realmzer AltStore Repository!",
-    "description": "A source that is growing every day.\nDiscord Server: https://discord.gg/9ArHTK64j6\nDiscord handle: @realmzer\n Status:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)",
+    "description": "A source that is growing every day.\nDiscord Server: https://discord.gg/9ArHTK64j6\nDiscord handle: @realmzer\n Status:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
     "tintColor": "7400ff",
     "featuredApps": [
       "com.box.hd.flix.drama.hub",
@@ -1073,6 +1073,50 @@
       "size": 152252416,
       "title": "Geometry Dash v2.2.06",
       "url": "https://www.robtopgames.com/"
+    },
+    {
+      "beta": false,
+      "name" : "iCreatePro",
+      "bundleIdentifier": "com.camila314.icreate",
+      "developerName" : "RobTop Games AB & camila314",
+      "subtitle": "ICreatePro - Tweak of Geometry Dash",
+      "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/icreatepro.png?raw=true",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "6.6.1",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+      "size": 155152384,
+      "title": "iCreatePro",
+      "url": "https://icreate.pro/",
+      "versions" : [
+        {
+          "version": "6.6.1",
+          "date" : "2024-10-30",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+          "size": 155152384
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "iCreatePro v6.6.1",
+      "bundleIdentifier": "com.camila314.icreate661",
+      "developerName" : "RobTop Games AB & camila314",
+      "subtitle": "ICreatePro - Tweak of Geometry Dash",
+      "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/icreatepro.png?raw=true",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "6.6.1",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+      "size": 155152384,
+      "title": "iCreatePro v6.6.1",
+      "url": "https://icreate.pro/"
     }
     ],
     "news": []

@@ -23,3 +23,5 @@ Status:
 💸 = Paid Tweak, not Cracked
 
 🔥 = Recommended by Developer's
+
+🌟= Premium features unlocked
