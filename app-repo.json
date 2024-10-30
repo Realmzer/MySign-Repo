@@ -985,6 +985,50 @@
       "size": 194586,
       "title": "LiveContainer v2.1.2",
       "url": "https://github.com/khanhduytran0/LiveContainer"
+    },
+    {
+      "beta": false,
+      "name" : "LocalSend",
+      "bundleIdentifier": "org.localsend.localsendApp",
+      "developerName" : "Tien Do Nam",
+      "subtitle": "LocalSend - Cross-Platform File Sharing",
+      "description": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/localsend.png?raw=true",
+      "tintColor": "008080",
+      "category": "utilities",
+      "version": "1.15.4",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/org.localsend.localsendApp-1.15.4.ipa",
+      "size": 16416768,
+      "title": "LocalSend",
+      "url": "https://github.com/localsend/localsend",
+      "versions" : [
+        {
+          "version": "1.15.4",
+          "date" : "2024-10-30",
+          "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/org.localsend.localsendApp-1.15.4.ipa",
+          "size": 16416768
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "LocalSend v1.15.4",
+      "bundleIdentifier": "org.localsend.localsendApp1154",
+      "developerName" : "Tien Do Nam",
+      "subtitle": "LocalSend - Cross-Platform File Sharing",
+      "description": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/localsend.png?raw=true",
+      "tintColor": "008080",
+      "category": "utilities",
+      "version": "1.15.4",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/org.localsend.localsendApp-1.15.4.ipa",
+      "size": 16416768,
+      "title": "LocalSend v1.15.4",
+      "url": "https://github.com/localsend/localsend"
     }
     ],
     "news": []
