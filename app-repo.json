@@ -853,6 +853,32 @@
     },
     {
       "beta": false,
+      "name" : "uYouEnhanced",
+      "bundleIdentifier": "com.google.ios.uyouenhanced",
+      "developerName" : "arichornlover",
+      "subtitle": "uYouEnhanced - Expanded uYou+",
+      "description": "uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!\nStatus: ✅🔥",
+      "localizedDescription": "uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/u_You_Enhanced-H4.png",
+      "tintColor": "ff4154",
+      "category": "entertainment",
+      "version": "19.21.2-3.0.4",
+      "versionDate" : "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/u_You_Enhanced_19_46_3_3_0_4-fS.ipa",
+      "size": 123060224,
+      "title": "uYouEnhanced",
+      "url": "https://github.com/arichornlover/uYouEnhanced",
+      "versions" : [
+        {
+          "version": "19.21.2-3.0.4",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/u_You_Enhanced_19_46_3_3_0_4-fS.ipa",
+          "size": 123060224
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Swiftgram v11.2",
       "bundleIdentifier": "app.swiftgram.ios112",
       "developerName" : "Akentech Ltd",
