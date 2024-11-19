@@ -44,6 +44,65 @@
       ]
     },
     {
+      "beta": true,
+      "name" : "MySign",
+      "bundleIdentifier": "Squid-Sign.test11",
+      "developerName" : "Glidd6",
+      "subtitle": "Preview Only",
+      "description": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "localizedDescription": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "iconURL": "https://storage.omnidev.org/IMG_3830-wl.png",
+      "tintColor": "3b7f8b",
+      "category": "utilities",
+      "version": "1.5",
+      "versionDate" : "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/My_Sign_Beta_1_5-f8.ipa",
+      "size": 9232384,
+      "title": "MySign Beta",
+      "versions" : [
+        {
+          "version": "1.5",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/My_Sign_Beta_1_5-f8.ipa",
+          "size": 9232384
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "MySign Beta 1",
+      "bundleIdentifier": "Squid-Sign.test110",
+      "subtitle": "Preview Only",
+      "description": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "localizedDescription": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "developerName": "Glidd6",
+      "iconURL": "https://storage.omnidev.org/IMG_3830-wl.png",
+      "tintColor": "3b7f8b",
+      "category": "utilities",
+      "size": 9220096,
+      "version": "1.0",
+      "versionDate": "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/My_Sign_Beta_1-bu.ipa",
+      "title": "MySign Beta 1"
+    },
+    {
+      "beta": true,
+      "name": "MySign Beta 1.5",
+      "bundleIdentifier": "Squid-Sign.test115",
+      "subtitle": "Preview Only",
+      "description": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "localizedDescription": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "developerName": "Glidd6",
+      "iconURL": "https://storage.omnidev.org/IMG_3830-wl.png",
+      "tintColor": "3b7f8b",
+      "category": "utilities",
+      "size": 9232384,
+      "version": "1.5",
+      "versionDate": "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/My_Sign_Beta_1_5-f8.ipa",
+      "title": "MySign Beta 1.5"
+    },
+    {
       "name": "MegaGames",
       "bundleIdentifier": "com.techguy.megagames",
       "subtitle": "Play many games with this app",
