@@ -897,6 +897,57 @@
     },
     {
       "beta": false,
+      "name" : "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName" : "Riley Testut",
+      "subtitle": "Delta - Retro Video Game Emulator",
+      "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
+      "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/Delta4-c3.png",
+      "tintColor": "7f21e9",
+      "category": "games",
+      "version": "1.6",
+      "versionDate" : "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
+      "size": 84283392,
+      "title": "Delta",
+      "url": "https://github.com/rileytestut/Delta",
+      "versions" : [
+        {
+          "version": "1.6",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
+          "size": 84283392
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Bad Piggies (Hack)",
+      "bundleIdentifier": "com.rovio.BadPiggies",
+      "developerName" : "Rovio Entertainment & iOS Gods",
+      "subtitle": "Bad Piggies - funny pig game",
+      "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
+      "localizedDescription": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
+      "iconURL": "https://storage.omnidev.org/100x100bb-cS.png",
+      "tintColor": "58bf2f",
+      "category": "games",
+      "version": "2.3.9",
+      "versionDate" : "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
+      "size": 66232320,
+      "title": "Bad Piggies (Hack)",
+      "versions" : [
+        {
+          "version": "2.3.9",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
+          "size": 66232320
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Swiftgram v11.2",
       "bundleIdentifier": "app.swiftgram.ios112",
       "developerName" : "Akentech Ltd",
