@@ -829,13 +829,19 @@
       "iconURL": "https://storage.omnidev.org/ytliteplus-5K.png",
       "tintColor": "fc0032",
       "category": "entertainment",
-      "version": "19.42.1",
-      "versionDate" : "2024-10-26",
-      "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_42_1_5_0_2-ns.ipa",
-      "size": 114438144,
+      "version": "19.46.3_5.02",
+      "versionDate" : "2024-11-18",
+      "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_46_3_5_0_2-Cr.ipa",
+      "size": 115564544,
       "title": "YTLitePlus",
       "url": "https://ytliteplus.github.io/",
       "versions" : [
+        {
+          "version": "19.46.3_5.02",
+          "date" : "2024-11-18",
+          "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_46_3_5_0_2-Cr.ipa",
+          "size": 115564544
+        },
         {
           "version": "19.42.1",
           "date" : "2024-10-26",
@@ -1018,13 +1024,19 @@
       "iconURL": "https://storage.omnidev.org/swiftgram-we.png",
       "tintColor": "f56d3e",
       "category": "social",
-      "version": "11.2",
-      "versionDate" : "2024-11-05",
-      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
-      "size": 73510912,
+      "version": "11.3.1",
+      "versionDate" : "2024-11-18",
+      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
+      "size": 76226560,
       "title": "Swiftgram",
       "url": "https://swiftgram.app/",
       "versions" : [
+        {
+          "version": "11.3.1",
+          "date" : "2024-11-18",
+          "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
+          "size": 76226560
+        },
         {
           "version": "11.2",
           "date" : "2024-11-05",
@@ -1032,6 +1044,24 @@
           "size": 73510912
         }
       ]
+    },
+    {
+      "beta": false,
+      "name" : "Swiftgram v11.3.1",
+      "bundleIdentifier": "app.swiftgram.ios1131",
+      "developerName" : "Akentech Ltd",
+      "subtitle": "Swiftgram - Telegram for iOS Supercharged",
+      "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/swiftgram-we.png",
+      "tintColor": "f56d3e",
+      "category": "social",
+      "version": "11.3.1",
+      "versionDate" : "2024-11-18",
+      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
+      "size": 76226560,
+      "title": "Swiftgram v11.3.1",
+      "url": "https://swiftgram.app/"
     },
     {
       "beta": false,
@@ -1044,13 +1074,20 @@
       "iconURL": "https://storage.omnidev.org/spotify-63.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "8.9.90/Swift 5.8",
-      "versionDate" : "2024-11-07",
-      "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_8_9_90-lF.ipa",
-      "size": 95408128,
+      "version": "8.9.92/Swift 5.8.1",
+      "versionDate" : "2024-11-18",
+      "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_1_8_9_92-kL.ipa",
+      "size": 84066304,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions" : [
+        {
+          "version": "8.9.92/Swift 5.8.1",
+          "date" : "2024-11-18",
+          "localizedDescription": "*Updated Turkish localization by @gototheskinnyUpdated\n*Traditional Chinese localizaton by @ElliotCHEN37\n*Updated Polish localization by @HackZy01Updated\n*Persian localization by @Incognito-Coder",
+          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_1_8_9_92-kL.ipa",
+          "size": 84066304
+        },
         {
           "version": "8.9.90/Swift 5.8",
           "date" : "2024-11-07",
