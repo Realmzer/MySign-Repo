@@ -18,6 +18,32 @@
   
   "apps": [
     {
+      "beta": false,
+      "name" : "WSF Portal",
+      "bundleIdentifier": "whysoooofurious.portal",
+      "developerName" : "WSF",
+      "subtitle": "WSF Portal - skid portal",
+      "description": "The portal that ended Omni Development. Now decrypted for everyone to see! (use at your own risk, WSF meat riders might get mad\nStatus: ✅",
+      "localizedDescription": "The portal that ended Omni Development. Now decrypted for everyone to see! (use at your own risk, WSF meat riders might get mad\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/wsf-Kg.png",
+      "tintColor": "b6b4e8",
+      "category": "utilities",
+      "version": "1.4.3",
+      "versionDate" : "2024-11-16",
+      "downloadURL": "https://storage.omnidev.org/2h5kse-Ra.ipa",
+      "size": 4186112,
+      "title": "WSF Portal",
+      "url": "https://whysoooofurious.netlify.app/",
+      "versions" : [
+        {
+          "version": "1.4.3",
+          "date" : "2024-11-16",
+          "downloadURL": "https://storage.omnidev.org/2h5kse-Ra.ipa",
+          "size": 4186112
+        }
+      ]
+    },
+    {
       "name": "MegaGames",
       "bundleIdentifier": "com.techguy.megagames",
       "subtitle": "Play many games with this app",
