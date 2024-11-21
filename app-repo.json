@@ -1508,6 +1508,31 @@
   },
   {
     "beta": false,
+    "name" : "Widgy Widgets",
+    "bundleIdentifier": "com.woodsign.Widgy",
+    "developerName" : "Woodsign",
+    "subtitle": "Widgy Widgets - Edit Everything",
+    "description": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅",
+    "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/widgy_widgets_logo-wc.png",
+    "tintColor": "00d395",
+    "category": "utilities",
+    "version": "4.0.0",
+    "versionDate" : "2024-11-21",
+    "downloadURL": "https://storage.omnidev.org/None_v4_0_blatant-9x.ipa",
+    "size": 54976512,
+    "title": "Widgy Widgets",
+    "versions" : [
+      {
+        "version": "4.0.0",
+        "date" : "2024-11-21",
+        "downloadURL": "https://storage.omnidev.org/None_v4_0_blatant-9x.ipa",
+        "size": 54976512
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
