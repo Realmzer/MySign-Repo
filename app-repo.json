@@ -27,13 +27,19 @@
       "iconURL": "https://storage.omnidev.org/wsf-Kg.png",
       "tintColor": "b6b4e8",
       "category": "utilities",
-      "version": "1.4.3",
-      "versionDate" : "2024-11-16",
-      "downloadURL": "https://storage.omnidev.org/2h5kse-Ra.ipa",
-      "size": 4186112,
+      "version": "1.5.0",
+      "versionDate" : "2024-11-20",
+      "downloadURL": "https://storage.omnidev.org/k5qtwk-lo.ipa",
+      "size": 5476352,
       "title": "WSF Portal",
       "url": "https://whysoooofurious.netlify.app/",
       "versions" : [
+        {
+          "version": "1.5.0",
+          "date" : "2024-11-20",
+          "downloadURL": "https://storage.omnidev.org/k5qtwk-lo.ipa",
+          "size": 5476352
+        },
         {
           "version": "1.4.3",
           "date" : "2024-11-16",
