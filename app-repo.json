@@ -1533,6 +1533,31 @@
   },
   {
     "beta": false,
+    "name" : "Clip",
+    "bundleIdentifier": "com.rileytestut.Clip",
+    "developerName" : "Riley Testut",
+    "subtitle": "Manage your clipboard history with ease.",
+    "description": "Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.\nStatus: ✅",
+    "localizedDescription": "Clip is a clipboard manager for iOS that can monitor your clipboard indefinitely in the background — no jailbreak required.\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/63391981_5326f800_c37a_11e9_99d8_760fd06bb601-7n.png",
+    "tintColor": "f64074",
+    "category": "utilities",
+    "version": "1.1",
+    "versionDate" : "2024-11-21",
+    "downloadURL": "https://storage.omnidev.org/clip1_1-o7.ipa",
+    "size": 581632,
+    "title": "Clip",
+    "versions" : [
+      {
+        "version": "1.1",
+        "date" : "2024-11-21",
+        "downloadURL": "https://storage.omnidev.org/clip1_1-o7.ipa",
+        "size": 581632
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
