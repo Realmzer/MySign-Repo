@@ -1629,13 +1629,19 @@
     "iconURL": "https://storage.omnidev.org/Fortnite_Main-Mj.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "32.10.1",
-    "versionDate" : "2024-11-13",
-    "downloadURL": "https://storage.omnidev.org/Fortnite_32_10_1-8F.ipa",
-    "size": 252227584,
+    "version": "32.11",
+    "versionDate" : "2024-11-21",
+    "downloadURL": "https://storage.omnidev.org/Fortnite_32_11-lP.ipa",
+    "size": 252301312,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "32.11",
+        "date" : "2024-11-21",
+        "downloadURL": "https://storage.omnidev.org/Fortnite_32_11-lP.ipa",
+        "size": 252301312
+      },
       {
         "version": "32.10.1",
         "date" : "2024-11-13",
