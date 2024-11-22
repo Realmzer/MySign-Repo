@@ -1533,6 +1533,56 @@
   },
   {
     "beta": false,
+    "name" : "Transparent Icons",
+    "bundleIdentifier": "com.noahgilmore.transparent-icons",
+    "developerName" : "Noah Gilmore",
+    "subtitle": "Transparent Icons - Customize home screen icons",
+    "description": "Transparent App Icons\nStatus: ✅",
+    "localizedDescription": "Transparent App Icons\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/Transparent_Icons_1_7_2-du.png",
+    "tintColor": "9f67c1",
+    "category": "utilities",
+    "version": "1.7.2",
+    "versionDate" : "2024-11-21",
+    "downloadURL": "https://storage.omnidev.org/Transparent_Icons_1_7_2-sL.ipa",
+    "size": 6778880,
+    "title": "Transparent Icons",
+    "versions" : [
+      {
+        "version": "1.7.2",
+        "date" : "2024-11-21",
+        "downloadURL": "https://storage.omnidev.org/Transparent_Icons_1_7_2-sL.ipa",
+        "size": 6778880
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "Climax",
+    "bundleIdentifier": "com.objcmsgsend.Climax",
+    "developerName" : "FAKE Robux Balance",
+    "subtitle": "Climax - Fake Robux Balance",
+    "description": "A long awaited rewrite for Climax\nStatus: ✅",
+    "localizedDescription": "A long awaited rewrite for Climax\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/Climax-7O.png",
+    "tintColor": "88c1e8",
+    "category": "utilities",
+    "version": "2.1",
+    "versionDate" : "2024-11-21",
+    "downloadURL": "https://storage.omnidev.org/Climax-Ot.ipa",
+    "size": 962560,
+    "title": "Climax",
+    "versions" : [
+      {
+        "version": "2.1",
+        "date" : "2024-11-21",
+        "downloadURL": "https://storage.omnidev.org/Climax-Ot.ipa",
+        "size": 962560
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
