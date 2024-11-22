@@ -42,6 +42,23 @@
       ]
     },
     {
+      "beta": true,
+      "name": "MySign Beta 3",
+      "bundleIdentifier": "glidd6.MySign3",
+      "subtitle": "Preview Only",
+      "description": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "localizedDescription": "Currently there is no signing functionality, this is a UI demonstration Status: 🥶",
+      "developerName": "Glidd6",
+      "iconURL": "https://storage.omnidev.org/IMG_3830-wl.png",
+      "tintColor": "3b7f8b",
+      "category": "utilities",
+      "size": 2023424,
+      "version": "3.0",
+      "versionDate": "2024-11-22",
+      "downloadURL": "https://storage.omnidev.org/My_Sign_beta_3-Il.ipa",
+      "title": "MySign Beta 3"
+    },
+    {
       "name": "MegaGames",
       "bundleIdentifier": "com.techguy.megagames",
       "subtitle": "Play many games with this app",
