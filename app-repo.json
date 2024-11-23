@@ -1938,19 +1938,6 @@
     "iconURL": "https://storage.omnidev.org/IMG_5319-eS.png" 
   },
   {
-    "name": "iTorrent", 
-    "bundleIdentifier": "com.xitrix.iTorrent2",
-    "subtitle": "Torrent client for iOS!",
-    "versionDate": "2024-09-19",
-    "version": "2.0.10-1",
-    "category": "utilities",
-    "size": 195238232, 
-    "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.10-1/iTorrent.ipa", 
-    "developerName": "XITRIX", 
-    "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://storage.omnidev.org/IMG_4981-8z.png" 
-  },
-  {
     "name": "Null's Brawl", 
     "bundleIdentifier": "nb.nb.ios", 
     "subtitle": "A private brawl stars server with all items unlocked!",
