@@ -1584,7 +1584,7 @@
   {
     "beta": false,
     "name" : "iTorrent",
-    "bundleIdentifier": "com.xitrix.iTorrent2",
+    "bundleIdentifier": "com.xitrix.iTorrent",
     "developerName": "XITRIX", 
     "subtitle": "Torrent client for iOS!",
     "description": "Torrent client for iOS!\n\nStatus: ✅🔥", 
