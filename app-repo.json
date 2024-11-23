@@ -1583,6 +1583,32 @@
   },
   {
     "beta": false,
+    "name" : "iTorrent",
+    "bundleIdentifier": "com.xitrix.iTorrent2",
+    "developerName": "XITRIX", 
+    "subtitle": "Torrent client for iOS!",
+    "description": "Torrent client for iOS!\n\nStatus: ✅🔥", 
+    "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🔥", 
+    "iconURL": "https://storage.omnidev.org/IMG_4981-8z.png",
+    "tintColor": "e22b3c",
+    "category": "utilities",
+    "version": "2.0.13-2",
+    "versionDate": "2024-11-23",
+    "downloadURL": "https://storage.omnidev.org/i_Torrent2013_2-lM.ipa",
+    "size": 7028736,
+    "title": "iTorrent",
+    "url": "https://github.com/XITRIX/iTorrent",
+    "versions" : [
+      {
+        "version": "2.0.13-2",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/i_Torrent2013_2-lM.ipa",
+        "size": 7028736
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
