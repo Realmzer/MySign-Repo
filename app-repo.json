@@ -2022,6 +2022,32 @@
     ]
   },
   {
+    "beta": false,
+    "name" : "Revenge",
+    "bundleIdentifier": "com.hammerandchisel.discord1",
+    "developerName": "Palm",
+    "subtitle": "Homicidal Discord Client?",
+    "description": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+    "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+    "iconURL": "https://storage.omnidev.org/IMG_5351-7I.png",
+    "tintColor": "48488b",
+    "category": "social",
+    "version": "250.0",
+    "date" : "2024-11-21",
+    "downloadURL": "https://storage.omnidev.org/Revenge-Ry.ipa",
+    "size": 101220352,
+    "title": "Revenge",
+    "url": "https://github.com/revenge-mod/",
+    "versions" : [
+      {
+        "version": "250.0",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/Revenge-Ry.ipa",
+        "size": 101220352
+      }
+    ]
+  },
+  {
     "name": "Apollo for Reddit",
     "bundleIdentifier": "com.christianselig.Apollo",
     "developerName": "Christian Selig",
@@ -2278,19 +2304,6 @@
     "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
     "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
     "versionDate": "2024-10-15"
-  },
-  {
-    "name": "Revenge",
-    "bundleIdentifier": "com.hammerandchisel.homicide",
-    "subtitle": "Homicidal Discord Client?",
-    "developerName": "Palm",
-    "iconURL": "https://storage.omnidev.org/IMG_5351-7I.png",
-    "version": "252.0.0",
-    "category": "social",
-    "size": 197037916,
-    "downloadURL": "https://storage.omnidev.org/Revenge_discordnotrack_IPA_Edit-4G.ipa",
-    "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
-    "versionDate": "2024-10-26"
   },
   {
     "name": "DolphiniOS JIT",
