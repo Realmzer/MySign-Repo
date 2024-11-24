@@ -1677,6 +1677,58 @@
   },
   {
     "beta": false,
+    "name": "TikTok BH++", 
+    "bundleIdentifier": "com.zhiliaoapp.musically", 
+    "developerName": "raulsaeed & ByteDance", 
+    "subtitle": "Updated BH++, working on new versions of TikTok",
+    "description": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
+    "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
+    "iconURL": "https://storage.omnidev.org/Web_P_Image-iE.png",
+    "tintColor": "25f4ee",
+    "category": "social",
+    "version": "32.2.0-2.3",
+    "versionDate" : "2024-11-23",
+    "downloadURL": "https://storage.omnidev.org/Tik_Tok_v32_2_0_BH_v2_3-R6.ipa",
+    "size": 226500608,
+    "title": "TikTok BH++",
+    "url": "https://github.com/raulsaeed/TikTokPlusPlus",
+    "versions" : [
+      {
+        "version": "32.2.0-2.3",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/Tik_Tok_v32_2_0_BH_v2_3-R6.ipa",
+        "size": 226500608
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name": "BH X", 
+    "bundleIdentifier": "com.atebits.Tweetie2",
+    "developerName": "Elon Musk & BanderHL", 
+    "subtitle": "X with BHTwitter!",
+    "description": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥",
+    "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
+    "iconURL": "https://storage.omnidev.org/IMG_5319-eS.png",
+    "tintColor": "25f4ee",
+    "category": "social",
+    "version": "4.3",
+    "versionDate": "2024-09-19",
+    "downloadURL": "https://storage.omnidev.org/BH_Twitter_sideloaded-h8.ipa",
+    "size": 195238232,
+    "title": "BH X",
+    "url": "https://github.com/BandarHL/BHTwitter",
+    "versions" : [
+      {
+        "version": "32.2.0-2.3",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/BH_Twitter_sideloaded-h8.ipa",
+        "size": 195238232
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LocalSend",
     "bundleIdentifier": "org.localsend.localsendApp",
     "developerName" : "Tien Do Nam",
@@ -1886,58 +1938,6 @@
     "url": "https://icreate.pro/"
   },
   {
-    "name": "Pomelo",
-    "bundleIdentifier": "com.stossy11.Pomelo",
-    "developerName": "Stossy11, TechGuy",
-    "subtitle": "A Nintendo Swicth Emulator for iOS",
-    "version": "2.2",
-    "category": "games",
-    "versionDate": "2024-09-20",
-    "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.2/Pomelo.ipa",
-    "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://storage.omnidev.org/IMG_5317-nr.png",
-    "size": 103674391
-  },
-  {
-    "name": "Instagram Regram", 
-    "bundleIdentifier": "com.burbn.instagram", 
-    "versionDate": "2024-09-25",
-    "subtitle": "Instagram with Regram Cracked!",
-    "version": "349.0.8",
-    "category": "social",
-    "size": 195238232, 
-    "downloadURL": "https://ipa.cypwn.xyz/ipas/Regram_1.0-b10_351.0.1.ip", 
-    "developerName": "Meta", 
-    "localizedDescription": "Injected with ReGram Cracked 1.0b10\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://storage.omnidev.org/com_burbn_instagram-DD.png" 
-  },
-  {
-    "name": "TikTok BH++", 
-    "bundleIdentifier": "com.zhiliaoapp.musically", 
-    "subtitle": "Updated BH++, working on new versions of TikTok",
-    "versionDate": "2024-09-24",
-    "version": "30.3.0",
-    "category": "social",
-    "size": 195238232, 
-    "downloadURL": "https://github.com/raulsaeed/TikTokPlusPlus/releases/download/v.1.1.0/TikTok_36.4.0_BH_v1.1.0.ipa", 
-    "developerName": "ByteDance", 
-    "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
-    "iconURL": "https://storage.omnidev.org/Web_P_Image-iE.png"
-  },
-  {
-    "name": "BH X", 
-    "bundleIdentifier": "com.atebits.Tweetie2",
-    "subtitle": "X with BHTwitter!",
-    "versionDate": "2024-09-19",
-    "version": "4.3",
-    "category": "social",
-    "size": 195238232, 
-    "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-sideloaded.ipa", 
-    "developerName": "Elon Musk", 
-    "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://storage.omnidev.org/IMG_5319-eS.png" 
-  },
-  {
     "name": "Null's Brawl", 
     "bundleIdentifier": "nb.nb.ios", 
     "subtitle": "A private brawl stars server with all items unlocked!",
@@ -1988,6 +1988,56 @@
     "iconURL": "https://storage.omnidev.org/Cap_Cut_12_0_Cracked-R0.png",
     "size": 136314880,
     "subtitle": "CapCut with MOST premium features unlocked!"
+  },
+  {
+    "beta": false,
+    "name": "Pomelo", 
+    "bundleIdentifier": "com.stossy11.Pomelo",
+    "developerName": "Stossy11, TechGuy",
+    "subtitle": "A Nintendo Swicth Emulator for iOS",
+    "description": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+    "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+    "iconURL": "https://storage.omnidev.org/IMG_5317-nr.png",
+    "tintColor": "fdaf1f",
+    "category": "games",
+    "version": "2.6",
+    "date" : "2024-11-23",
+    "downloadURL": "https://storage.omnidev.org/Pomelo-v3.ipa",
+    "size": 28909568,
+    "title": "Pomelo",
+    "versions" : [
+      {
+        "version": "2.6",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/Pomelo-v3.ipa",
+        "size": 28909568
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name": "Instagram Regram", 
+    "bundleIdentifier": "com.burbn.instagram", 
+    "developerName": "Meta", 
+    "subtitle": "Instagram with Regram Cracked!",
+    "description": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
+    "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
+    "iconURL": "https://storage.omnidev.org/com_burbn_instagram-DD.png",
+    "tintColor": "fe0297",
+    "category": "social",
+    "version": "356.0.0",
+    "date" : "2024-11-23",
+    "downloadURL": "https://storage.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
+    "size": 193929216,
+    "title": "Instagram Regram",
+    "versions" : [
+      {
+        "version": "356.0.0",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
+        "size": 193929216
+      }
+    ]
   },
   {
     "beta": false,
@@ -2136,19 +2186,6 @@
     "iconURL": "https://storage.omnidev.org/icon_rounded-7l.png",
     "size": 96468992,
     "subtitle": "A near exact clone of the original Flappy Bird!"
-  },
-  {
-    "name": "BH Twitter", 
-    "bundleIdentifier": "com.atebits.Tweetie1", 
-    "subtitle": "X, turned back into Twitter! (With Tweaks)",
-    "versionDate": "2024-09-19",
-    "version": "1",
-    "category": "social",
-    "size": 195238232, 
-    "downloadURL": "https://storage.omnidev.org/BH_Twitter_sideloaded_IPA_Edit-pN.ipa", 
-    "developerName": "Elon Musk", 
-    "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://storage.omnidev.org/twitter_2023_07_24-z7.png" 
   },
   {
     "name": "Reddit RedditFilter", 
