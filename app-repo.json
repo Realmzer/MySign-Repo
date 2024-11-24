@@ -2098,17 +2098,30 @@
     ]
   },
   {
-    "name": "Apollo for Reddit",
+    "beta": false,
+    "name" : "Apollo for Reddit",
     "bundleIdentifier": "com.christianselig.Apollo",
     "developerName": "Christian Selig",
     "subtitle": "An alternative Reddit Client!",
-    "version": "1.15.11",
-    "category": "social",
-    "versionDate": "2024-09-20",
-    "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.5b/Apollo-1.15.11_improvedcustomapi-1.1.5b.ipa",
+    "description": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
     "iconURL": "https://storage.omnidev.org/apollo-4m.png",
-    "size": 108282519
+    "tintColor": "329dfd",
+    "category": "social",
+    "version": "1.15.11_1.1.7b",
+    "date" : "2024-11-23",
+    "downloadURL": "https://storage.omnidev.org/Apollo_1_15_11_improvedcustomapi_1_1_7b-DT.ipa",
+    "size": 108105728,
+    "title": "Apollo for Reddit",
+    "url": "https://github.com/Balackburn/Apollo/",
+    "versions" : [
+      {
+        "version": "1.15.11_1.1.7b",
+        "date" : "2024-11-23",
+        "downloadURL": "https://storage.omnidev.org/Apollo_1_15_11_improvedcustomapi_1_1_7b-DT.ipa",
+        "size": 108105728
+      }
+    ]
   },
   {
     "name": "Carrot++",
