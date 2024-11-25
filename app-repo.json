@@ -1534,6 +1534,56 @@
   },
   {
     "beta": false,
+    "name" : "TikTokAC",
+    "bundleIdentifier": "com.zhiliaoapp.musically1",
+    "developerName" : "ByteDance & moeotf",
+    "subtitle": "TikTokAC - Stable TikTok Tweak",
+    "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
+    "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/tiktok_6338429_1280-wV.webp",
+    "tintColor": "08f3da",
+    "category": "social",
+    "version": "37.4.0",
+    "versionDate" : "2024-11-24",
+    "downloadURL": "https://storage.omnidev.org/Tik_Tok_AC_37_4_0_Moe-D2.ipa",
+    "size": 316399616,
+    "title": "TikTokAC",
+    "versions" : [
+      {
+        "version": "37.4.0",
+        "date" : "2024-11-24",
+        "downloadURL": "https://storage.omnidev.org/Tik_Tok_AC_37_4_0_Moe-D2.ipa",
+        "size": 316399616
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "Picsart iProMoe",
+    "bundleIdentifier": "com.picsart.studio1",
+    "developerName" : "PicsArt & moeotf",
+    "subtitle": "Picsart iProMoe - Cracked Picsart",
+    "description": "Picsart injected with GOLD pro\nStatus: ✅",
+    "localizedDescription": "Picsart injected with GOLD pro\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
+    "tintColor": "0eecec",
+    "category": "photo-video",
+    "version": "26.3.11",
+    "versionDate" : "2024-11-24",
+    "downloadURL": "https://storage.omnidev.org/Picsart26_3_1_Pro_Moe-Kt.ipa",
+    "size": 103763968,
+    "title": "Picsart iProMoe",
+    "versions" : [
+      {
+        "version": "26.3.1",
+        "date" : "2024-11-24",
+        "downloadURL": "https://storage.omnidev.org/Picsart26_3_1_Pro_Moe-Kt.ipa",
+        "size": 103763968
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "Widgy Widgets",
     "bundleIdentifier": "com.woodsign.Widgy",
     "developerName" : "Woodsign",
