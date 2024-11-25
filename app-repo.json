@@ -1508,6 +1508,32 @@
   },
   {
     "beta": false,
+    "name" : "Flero",
+    "bundleIdentifier": "com.sp67.flero",
+    "developerName" : "speedyfriend67 & ???",
+    "subtitle": "Flero - GD Mod Menu",
+    "description": "No JB No JIT iOS Mod Menu for Geometry Dash\nStatus: ✅",
+    "localizedDescription": "No JB No JIT iOS Mod Menu for Geometry Dash\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/flero_C1k2_Qq_1-it.png",
+    "tintColor": "67f7f6",
+    "category": "games",
+    "version": "0.0.6",
+    "versionDate" : "2024-11-24",
+    "downloadURL": "https://storage.omnidev.org/flero_v0_0_6-pN.ipa",
+    "size": 158756864,
+    "title": "Flero",
+    "url": "https://flero.pages.dev/",
+    "versions" : [
+      {
+        "version": "0.0.6",
+        "date" : "2024-11-24",
+        "downloadURL": "https://storage.omnidev.org/flero_v0_0_6-pN.ipa",
+        "size": 158756864
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "Widgy Widgets",
     "bundleIdentifier": "com.woodsign.Widgy",
     "developerName" : "Woodsign",
