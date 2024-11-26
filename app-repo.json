@@ -49,6 +49,32 @@
     },
     {
       "beta": false,
+      "name" : "GBox",
+      "bundleIdentifier": "com.ncs.gbox",
+      "developerName" : "GBox",
+      "subtitle": "GBox - iOS signing tool",
+      "description": "GBox is an iOS signing and testing tool that does not require a computer, used for debugging and testing iOS Apps during the development phase.\nWARNING: MAY HAVE TRACKERS\nStatus: ✅",
+      "localizedDescription": "GBox is an iOS signing and testing tool that does not require a computer, used for debugging and testing iOS Apps during the development phase.\nWARNING: MAY HAVE TRACKERS\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/icon256-wM.png",
+      "tintColor": "03de60",
+      "category": "utilities",
+      "version": "5.6.7",
+      "versionDate" : "2024-11-26",
+      "downloadURL": "https://storage.omnidev.org/G_Box_v5_6_7-9h.ipa",
+      "size": 6766592,
+      "title": "GBox",
+      "url": "https://gbox.run/",
+      "versions" : [
+        {
+          "version": "5.6.7",
+          "date" : "2024-11-26",
+          "downloadURL": "https://storage.omnidev.org/G_Box_v5_6_7-9h.ipa",
+          "size": 6766592
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Nugget v1.0.1",
       "bundleIdentifier": "com.leemin.nugget",
       "subtitle": "Nugget - Mobile",
