@@ -2685,10 +2685,10 @@
   ],
   "news": [
     {
-      "title": "IPAUniverse stealing our Apps",
+      "title": "IPAUniverse stealing our apps",
       "identifier": "ipauniversestealing",
-      "caption": "IPAUniverse has been stealing our Apps from our repository. Report any IPA's stolen to @realmzer on Discord",
-      "date": "2023-11-24",
+      "caption": "IPAUniverse has been stealing our apps from our repository. Report any IPA's stolen to @realmzer on Discord",
+      "date": "2024-11-24",
       "tintColor": "#8223ed",
       "imageURL": "https://storage.omnidev.org/Screenshot_2024_11_24_213043-TL.png",
       "notify": true
