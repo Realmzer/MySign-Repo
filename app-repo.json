@@ -75,6 +75,32 @@
     },
     {
       "beta": false,
+      "name" : "Scarlet",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+      "developerName" : "DebianArch",
+      "subtitle": "Scarlet - iOS signing tool",
+      "description": "Welcome to Scarlet, the fastest and smoothest experience to install and manage your favorite apps.\nWARNING: Easily gets revoked\nStatus: ✅",
+      "localizedDescription": "Welcome to Scarlet, the fastest and smoothest experience to install and manage your favorite apps.\nWARNING: Easily gets revoked\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/community_Icon_hp7dhjnmr58b1-TL.png",
+      "tintColor": "c62d36",
+      "category": "utilities",
+      "version": "1.0.0",
+      "versionDate" : "2024-11-26",
+      "downloadURL": "https://storage.omnidev.org/Scarlet_Alpha_1-mq.ipa",
+      "size": 15515648,
+      "title": "Scarlet",
+      "url": "https://usescarlet.com/",
+      "versions" : [
+        {
+          "version": "1.0.0",
+          "date" : "2024-11-26",
+          "downloadURL": "https://storage.omnidev.org/Scarlet_Alpha_1-mq.ipa",
+          "size": 15515648
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Nugget v1.0.1",
       "bundleIdentifier": "com.leemin.nugget",
       "subtitle": "Nugget - Mobile",
