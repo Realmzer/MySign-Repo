@@ -17,35 +17,56 @@
   
   "apps": [
     {
+      "beta": false,
       "name": "MegaGames",
       "bundleIdentifier": "com.techguy.megagames",
       "subtitle": "Play many games with this app",
       "developerName": "Tech Guy",
-      "iconURL": "https://github.com/TechGuy541/MegaGames/blob/main/App/Assets.xcassets/AppIcon.appiconset/logo%201.png?raw=true",
+      "description": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+      "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/logo_1-CE.png",
+      "tintColor": "1788f2",
+      "category": "games",
       "version": "1.0.0",
+      "versionDate" : "2024-11-03",
+      "downloadURL": "https://storage.omnidev.org/Mega_Games-KW.ipa",
       "size": 35600000,
-      "downloadURL": "https://github.com/TechGuy541/MegaGames/releases/download/1.0/MegaGames.ipa",
-      "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy",
-      "versionDate": "2024-11-03",
-      "beta": false
+      "title": "MegaGames",
+      "url": "https://github.com/TechGuy541/MegaGames",
+      "versions" : [
+        {
+          "version": "1.0.0",
+          "date" : "2024-11-03",
+          "downloadURL": "https://storage.omnidev.org/Mega_Games-KW.ipa",
+          "size": 35600000
+        }
+      ]
     },
     {
       "beta": false,
       "name": "ESign No Logs",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "u/Sharp_Listen3436 & yyy",
       "subtitle": "ESign No Logs - ESign With No Logs",
       "description": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
       "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
-      "developerName": "u/Sharp_Listen3436 & yyy",
       "iconURL": "https://storage.omnidev.org/esign-mg.png",
       "tintColor": "4894ee",
       "category": "utilities",
-      "size": 7245924,
       "version": "5.0.2",
-      "versionDate": "2024-10-11",
+      "versionDate" : "2024-10-11",
       "downloadURL": "https://storage.omnidev.org/E_Sign_V5_0_2_No_Logs-29.ipa",
+      "size": 7245924,
       "title": "ESign No Logs",
-      "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" 
+      "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/",
+      "versions" : [
+        {
+          "version": "5.0.2",
+          "date" : "2024-10-11",
+          "downloadURL": "https://storage.omnidev.org/G_Box_v5_6_7-9h.ipa",
+          "size": 7245924
+        }
+      ]
     },
     {
       "beta": false,
@@ -1132,6 +1153,32 @@
           "date" : "2024-11-19",
           "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
           "size": 84283392
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
+      "developerName": "Joe Mattiello",
+      "subtitle": "Provenance - An emulator frontend",
+      "description": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
+      "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
+      "tintColor": "1ac8fb",
+      "category": "games",
+      "version": "2.2.0",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Provenance-eh.ipa",
+      "size": 33980416,
+      "title": "Provenance",
+      "url": "https://github.com/Provenance-Emu/Provenance/",
+      "versions" : [
+        {
+          "version": "2.2.0",
+          "date" : "2024-11-28",
+          "downloadURL": "https://storage.omnidev.org/Provenance-eh.ipa",
+          "size": 33980416
         }
       ]
     },
@@ -2557,18 +2604,31 @@
     "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
     "iconURL": "https://storage.omnidev.org/unnamed_7-7v.png" 
   },
-   {
+  {
+    "beta": false,
     "name": "OldOS", 
     "bundleIdentifier": "com.zurac.OldOS", 
-    "subtitle": "iOS 4, brought back to life!",
-    "versionDate": "2024-09-26",
-    "version": "1.0.0",
-    "category": "utilities",
-    "size": 195238232, 
-    "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa", 
     "developerName": "zzanehip", 
+    "subtitle": "OldOS - iOS 4, brought back to life!",
+    "description": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅",
     "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅", 
-    "iconURL": "https://storage.omnidev.org/D_Gy5_hww_400x400-aK.png" 
+    "iconURL": "https://storage.omnidev.org/D_Gy5_hww_400x400-aK.png",
+    "tintColor": "1e1e1e",
+    "category": "utilities",
+    "version": "1.0.0",
+    "versionDate": "2024-09-26",
+    "downloadURL": "https://storage.omnidev.org/Old_OS-bi.ipa",
+    "size": 88174592,
+    "title": "OldOS",
+    "url": "https://github.com/zzanehip/The-OldOS-Project",
+    "versions" : [
+      {
+        "version": "1.0.0",
+        "date" : "2024-09-26",
+        "downloadURL": "https://storage.omnidev.org/Old_OS-bi.ipa",
+        "size": 88174592
+      }
+    ]
   },
    {
     "name": "PPSSPP++", 
@@ -2648,30 +2708,30 @@
     "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟"
   },
   {
-  "name": "Provenance Emu",
-  "bundleIdentifier": "org.provenance-emu.provenance",
-  "developerName": "Joe Mattiello",
-  "version": "6.0",
-  "versionDate": "2024-10-07",    
-  "category": "games",
-  "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
-  "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
-  "iconURL": "https://storage.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
-  "size": 59768832
-  },
-  {
-  "name": "Anonycord",
-  "bundleIdentifier": "live.cclerc.Anonycord",
-  "developerName": "c22Dev",
-  "iconURL": "https://storage.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
-  "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
-  "subtitle": "A video-recorder without preview.",
-  "category": "photo-video",
-  "version": "1.2",
-  "date": "2024-10-07",
-  "size": 12375230,
-  "versionDate": "2024-10-09",
-  "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
+    "beta": false,
+    "name": "Anonycord",
+    "bundleIdentifier": "live.cclerc.Anonycord",
+    "developerName": "c22Dev",
+    "subtitle": "Anonycord - A video-recorder without preview.",
+    "description": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
+    "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
+    "tintColor": "6d6d6d",
+    "category": "photo-video",
+    "version": "1.2",
+    "versionDate": "2024-10-09",
+    "downloadURL": "https://storage.omnidev.org/Anonycord-J9.ipa",
+    "size": 1392905,
+    "title": "Anonycord",
+    "url": "https://github.com/c22dev/Anonycord/",
+    "versions" : [
+      {
+        "version": "1.2",
+        "date" : "2024-10-09",
+        "downloadURL": "https://storage.omnidev.org/Anonycord-J9.ipa",
+        "size": 1392905
+      }
+    ]
   },
   {
     "name": "BSD Brawl Stars", 
@@ -2794,17 +2854,29 @@
   },
   {
     "beta": false,
-    "name": "FlyCast",
+    "name" : "FlyCast",
     "bundleIdentifier": "com.flyinghead.Flycast",
-    "subtitle": "Dreamcast Emulator",
     "developerName": "FlyingHead",
-    "category": "games",
-    "iconURL": "https://storage.omnidev.org/images_3-Ox.png",
-    "version": "2.4.0",
-    "size": 7885887,
-    "downloadURL": "https://storage.omnidev.org/Flycast_2_4-W4.ipa",
+    "subtitle": "FlyCast - Dreamcast Emulator",
+    "description": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
     "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
-    "versionDate": "2024-10-31"
+    "iconURL": "https://storage.omnidev.org/images_3-Ox.png",
+    "tintColor": "934df9",
+    "category": "games",
+    "version": "2.4.0",
+    "versionDate": "2024-10-31",
+    "downloadURL": "https://storage.omnidev.org/Flycast_2_4-W4.ipa",
+    "size": 7885887,
+    "title": "FlyCast",
+    "url": "https://github.com/flyinghead/flycast",
+    "versions" : [
+      {
+        "version": "2.4.0",
+        "date" : "2024-10-31",
+        "downloadURL": "https://storage.omnidev.org/Flycast_2_4-W4.ipa",
+        "size": 7885887
+      }
+    ]
   },
   {
     "beta": false,
