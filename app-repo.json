@@ -1025,6 +1025,33 @@
     },
     {
       "beta": false,
+      "name" : "YTMusicUltimate",
+      "bundleIdentifier": "com.ginsu.ytmusicultimate",
+      "developerName" : "dvntms",
+      "subtitle": "YTMusicUltimate - The best tweak for YouTube Music iOS",
+      "description": "A tweaked version of YouTube Music\nStatus: ✅🔥",
+      "localizedDescription": "A tweaked version of YouTube Music\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/235781424_06d81647_b3db_4d9b_94dc_cd65cdf09145_1-i5.png",
+      "tintColor": "ff2120",
+      "category": "entertainment",
+      "version": "7.26.1",
+      "versionDate" : "2024-11-27",
+      "downloadURL": "https://storage.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
+      "size": 82607573,
+      "title": "YTMusicUltimate",
+      "url": "https://github.com/dayanch96/YTMusicUltimate",
+      "versions" : [
+        {
+          "version": "7.26.1",
+          "date" : "2024-11-27",
+          "localizedDescription": "*Move to light version of mobile-ffmpeg\n*Move downloading to native download button (#296)\n*Fix workflow issues (#301)",
+          "downloadURL": "https://storage.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
+          "size": 82607573
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "YTLitePlus",
       "bundleIdentifier": "com.google.ios.ytliteplus",
       "developerName" : "YTLitePlus",
