@@ -2895,6 +2895,15 @@
   ],
   "news": [
     {
+      "title": "Join our Discord Server!",
+      "identifier": "joinourdcserver",
+      "caption": "If your using the Realmzer repo, please join our server for updates and free support",
+      "date": "2024-11-28",
+      "tintColor": "#8223ed",
+      "imageURL": "https://storage.omnidev.org/Discord_Symbol_1141822239-pi.png",
+      "notify": true
+    },
+    {
       "title": "IPAUniverse stealing our apps",
       "identifier": "ipauniversestealing",
       "caption": "IPAUniverse has been stealing our apps from our repository. Report any IPA's stolen to @realmzer on Discord",
