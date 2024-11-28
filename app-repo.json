@@ -2734,17 +2734,30 @@
     ]
   },
   {
+    "beta": false,
     "name": "BSD Brawl Stars", 
     "bundleIdentifier": "bsd.suitcase.release", 
     "subtitle": "Brawl Stars with hacks! This runs on normal servers, so you will be able to use your main account. Not bannable as far as I know.\n\nStatus: ✅🔥",
-    "versionDate": "2024-10-10",
-    "version": "57.325",
-    "size": 195238232, 
-    "category": "games",
-    "downloadURL": "https://bsdbrawl.com/bsd_brawl_v57.325_(26).ipa", 
-    "developerName": "Supercell", 
+    "developerName": "Supercell",
+    "description": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
     "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
-    "iconURL": "https://storage.omnidev.org/512x512bb_1-lM.png"
+    "iconURL": "https://storage.omnidev.org/512x512bb_1-lM.png",
+    "tintColor": "fff301",
+    "category": "games",
+    "version": "58.279",
+    "size": 998449152,
+    "versionDate": "2024-11-28",
+    "downloadURL": "https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
+    "title": "BSD Brawl Stars",
+    "url": "https://bsdbrawl.com/",
+    "versions" : [
+      {
+        "version": "58.279",
+        "date" : "2024-11-28",
+        "downloadURL": "https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
+        "size": 998449152
+      }
+    ]
   },
   {
     "name": "BitLife",
@@ -2760,43 +2773,81 @@
     "versionDate": "2024-10-15"
   },
   {
+    "beta": false,
     "name": "DolphiniOS JIT",
     "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-    "subtitle": "use this if you want to play wii sports",
+    "subtitle": "DolphiniOS JIT - A iOS Wii Emulator",
     "developerName": "OatmealDome",
-    "category": "games",
+    "description": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥", 
+    "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
     "iconURL": "https://storage.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+    "tintColor": "31bdff",
+    "category": "games",
     "version": "4.0.0b7",
     "size": 14470348,
+    "versionDate": "2024-10-25",
     "downloadURL": "https://storage.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
-    "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
-    "versionDate": "2024-10-25"
+    "title": "DolphiniOS JIT",
+    "url": "https://dolphinios.oatmealdome.me/",
+    "versions" : [
+      {
+        "version": "4.0.0b7",
+        "date" : "2024-10-25",
+        "downloadURL": "https://storage.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
+        "size": 14470348
+      }
+    ]
   },
   {
+    "beta": false,
     "name": "DolphiniOS Non-JIT",
     "bundleIdentifier": "com.brand175.DolphiniOS-njb",
-    "subtitle": "use this if you want to play laggy wii sports",
+    "subtitle": "DolphiniOS Non-JIT - A bit more laggier than regular",
     "developerName": "OatmealDome",
-    "category": "games",
+    "description": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥", 
+    "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
     "iconURL": "https://storage.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+    "tintColor": "31bdff",
+    "category": "games",
     "version": "3.2.1",
     "size": 16043212,
+    "versionDate": "2024-10-25",
     "downloadURL": "https://storage.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
-    "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
-    "versionDate": "2024-10-25"
+    "title": "DolphiniOS Non-JIT",
+    "url": "https://dolphinios.oatmealdome.me/",
+    "versions" : [
+      {
+        "version": "3.2.1",
+        "date" : "2024-10-25",
+        "downloadURL": "https://storage.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
+        "size": 16043212
+      }
+    ]
   },
   {
+    "beta": false,
     "name": "Blackhole",
     "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
     "subtitle": "SUDDEN DEATH",
     "developerName": "Blackhole Development Team",
-    "iconURL": "https://storage.omnidev.org/IMG_5355-sq.png", 
-    "version": "3.2.1",
-    "category": "entertainment",
-    "size": 16043212,
-    "downloadURL": "https://storage.omnidev.org/Black_Hole_v1_15_11_ios-7c.ipa",
+    "description": "Music Player with Downloads.\n\nStatus: ✅",
     "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
-    "versionDate": "2024-10-25"
+    "iconURL": "https://storage.omnidev.org/black_hole_apk_icon-Gw.png",
+    "tintColor": "000000",
+    "category": "entertainment",
+    "version": "15.11.2",
+    "size": 18477056,
+    "versionDate": "2024-10-25",
+    "downloadURL": "https://storage.omnidev.org/Black_Hole_v1_15_11_ios-7c.ipa",
+    "title": "Blackhole",
+    "versions" : [
+      {
+        "version": "15.11.2",
+        "date" : "2024-10-25",
+        "downloadURL": "https://storage.omnidev.org/Black_Hole_v1_15_11_ios-7c.ipa",
+        "size": 18477056
+      }
+    ]
   },
   {
     "name": "Infinity Blade I",
@@ -2841,16 +2892,27 @@
     "beta": false,
     "name": "Sonic Runners Revival",
     "bundleIdentifier": "com.sonicrunners.revival",
-    "subtitle": "Dragon Ball for Children",
+    "subtitle": "Sonic Runners Revival - A revival of SR",
     "developerName": "The Sonic Runners Revival Team",
-    "category": "games",
+    "description": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+    "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
     "iconURL": "https://storage.omnidev.org/Sonic_Runners_App_Icon_2_0-mR.png",
+    "tintColor": "4555ef",
+    "category": "games",
     "version": "2.2.4",
     "size": 151322254,
-    "downloadURL": "https://storage.omnidev.org/srr224-QH.ipa",
-    "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
     "versionDate": "2024-10-27",
-    "tintColor": "4555ef"
+    "downloadURL": "https://storage.omnidev.org/srr224-QH.ipa",
+    "title": "Sonic Runners Revival",
+    "url": "https://sonicrunners.com/",
+    "versions" : [
+      {
+        "version": "2.2.4",
+        "date" : "2024-10-31",
+        "downloadURL": "https://storage.omnidev.org/srr224-QH.ipa",
+        "size": 151322254
+      }
+    ]
   },
   {
     "beta": false,
@@ -2884,23 +2946,36 @@
     "bundleIdentifier": "dev.casp.iPlistGen",
     "subtitle": "Distribute your iOS Xcode applications without a computer fast.",
     "developerName": "Winter Bagley",
-    "iconURL": "https://storage.omnidev.org/iplistgen-WG.png",
-    "version": "1.0.0",
-    "category": "utilities",
-    "size": 389728,
-    "downloadURL": "https://storage.omnidev.org/dev_casp_i_Plist_Gen_1_0-xV.ipa",
+    "description": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
     "localizedDescription": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
-    "versionDate": "2024-10-31"
+    "iconURL": "https://storage.omnidev.org/iplistgen-WG.png",
+    "tintColor": "29505e",
+    "category": "utilities",
+    "version": "1.0.0",
+    "versionDate": "2024-10-31",
+    "downloadURL": "https://storage.omnidev.org/dev_casp_i_Plist_Gen_1_0-xV.ipa",
+    "size": 389728,
+    "title": "iPlistGen",
+    "url": "https://github.com/flyinghead/flycast",
+    "versions" : [
+      {
+        "version": "1.0.0",
+        "date" : "2024-10-31",
+        "downloadURL": "https://storage.omnidev.org/dev_casp_i_Plist_Gen_1_0-xV.ipa",
+        "size": 389728
+      }
+    ]
   }
   ],
   "news": [
     {
       "title": "Join our Discord Server!",
       "identifier": "joinourdcserver",
-      "caption": "If your using the Realmzer aka MyApps repo, please join our server for updates and free support\nhttps://discord.gg/hUK5m9MGFc",
+      "caption": "If your using the Realmzer aka MyApps repo, please join our server for updates and free support.",
       "date": "2024-11-28",
       "tintColor": "#8223ed",
       "imageURL": "https://storage.omnidev.org/Discord_Symbol_1141822239-pi.png",
+      "url": "https://discord.gg/hUK5m9MGFc",
       "notify": true
     },
     {
