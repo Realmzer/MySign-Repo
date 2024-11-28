@@ -1374,6 +1374,58 @@
     },
     {
       "beta": false,
+      "name" : "Filza TrollStore",
+      "bundleIdentifier": "com.tigisoftware.Filzats",
+      "developerName" : "TIGI SOFTWARE",
+      "subtitle": "Filza TrollStore - A powerful File Manager for iPhone, iPad, iPod Touch",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅🔵",
+      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅🔵",
+      "iconURL": "https://storage.omnidev.org/cydia_1900000088_icon-4H.png",
+      "tintColor": "1ed760",
+      "category": "utilities",
+      "version": "4.0.2",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
+      "size": 13893632,
+      "title": "Filza TrollStore",
+      "url": "https://www.tigisoftware.com/",
+      "versions" : [
+        {
+          "version": "4.0.2",
+          "date" : "2024-11-28",
+          "downloadURL": "https://storage.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
+          "size": 13893632
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Filza Escaped 16",
+      "bundleIdentifier": "com.tigisoftware.Filza16",
+      "developerName" : "TIGI SOFTWARE & Bas vT",
+      "subtitle": "Filza Escaped 16 - A powerful File Manager for iPhone, iPad, iPod Touch",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅",
+      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/cydia_1900000088_icon-4H.png",
+      "tintColor": "1ed760",
+      "category": "utilities",
+      "version": "16",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Filza_Escaped16-vN.ipa",
+      "size": 14651392,
+      "title": "Filza Escaped 16",
+      "url": "https://basvtdevelopments.com/filzaescaped",
+      "versions" : [
+        {
+          "version": "16",
+          "date" : "2024-11-28",
+          "downloadURL": "https://storage.omnidev.org/Filza_Escaped16-vN.ipa",
+          "size": 14651392
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName" : "whoeevee",
