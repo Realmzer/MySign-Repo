@@ -1107,7 +1107,7 @@
     },
     {
       "beta": false,
-      "name" : "YTLitePlus",
+      "name" : "YTLitePluss",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName" : "YTLitePlus",
       "subtitle": "YTLitePlus - Removes Ads and adds functionality",
