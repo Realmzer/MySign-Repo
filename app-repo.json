@@ -1108,31 +1108,39 @@
     {
       "beta": false,
       "name" : "YTLitePlus",
-      "bundleIdentifier": "com.google.ios.ytliteplus",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName" : "YTLitePlus",
-      "subtitle": "YTLitePlus - Youtube for iOS Supercharged",
-      "description": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅🔥",
-      "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅🔥",
+      "subtitle": "YTLitePlus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
       "iconURL": "https://storage.omnidev.org/ytliteplus-5K.png",
       "tintColor": "fc0032",
       "category": "entertainment",
-      "version": "19.46.3_5.02",
-      "versionDate" : "2024-11-18",
-      "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_46_3_5_0_2-Cr.ipa",
+      "version": "19.47.7",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
       "size": 115564544,
       "title": "YTLitePlus",
       "url": "https://ytliteplus.github.io/",
       "versions" : [
         {
+          "version": "19.47.7",
+          "date" : "2024-11-30",
+          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
+          "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
+          "size": 114438144
+        }
+        {
           "version": "19.46.3_5.02",
-          "date" : "2024-11-18",
+          "date" : "2024-11-18",       
+          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ❔",
           "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_46_3_5_0_2-Cr.ipa",
           "size": 115564544
         },
         {
           "version": "19.42.1",
           "date" : "2024-10-26",
-          "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅🔥",
+          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ❔",
           "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_42_1_5_0_2-ns.ipa",
           "size": 114438144
         }
