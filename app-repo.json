@@ -188,23 +188,31 @@
         }
       ]
     },
-    {
+{
       "beta": false,
-      "name": "PureKFD",
-      "bundleIdentifier": "uwu.lrdsnow.purekfd-iplogger",
+      "name" : "PureKFD",
+      "bundleIdentifier": "uwu.lrdsnow.purekfdiplogger",
+      "developerName" : "lrdiplogger",
       "subtitle": "PureKFD - SparseRestore and KFD exploit in one app",
       "description": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
       "localizedDescription": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
-      "developerName": "lrddox",
       "iconURL": "https://storage.omnidev.org/Icon-Si.png",
-      "tintColor": "ea221f",
-      "category": "entertainment",
-      "size": 11000000,
+      "tintColor": "000000",
+      "category": "utilities",
       "version": "6.0.2",
-      "versionDate": "2024-11-28",
+      "versionDate" : "2024-11-29",
       "downloadURL": "https://storage.omnidev.org/Pure_KFD-Gl.ipa",
+      "size": 11000000,
       "title": "PureKFD",
-      "url": "https://github.com/Lrdsnow/PureKFD" 
+      "url": "https://github.com/Lrdsnow/PureKFD",
+      "versions" : [
+        {
+          "version": "6.0.2",
+          "date" : "2024-11-29",
+          "downloadURL": "https://storage.omnidev.org/Pure_KFD-Gl.ipa",
+          "size": 11000000
+        }
+      ]
     },
     {
       "beta": false,
