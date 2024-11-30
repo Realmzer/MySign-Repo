@@ -1572,6 +1572,32 @@
     ]
   },
   {
+    "beta": false,
+    "name" : "Celeste + Virtual Controller (FullScreen)",
+    "bundleIdentifier": "gay.rooot.celestemeowvcfs",
+    "developerName" : "RoootTheFox, Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+    "subtitle": "Celeste iOS - hacky ios port of celeste",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nModified by: Kn0tzer\nStatus: ✅",
+    "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nModified by: Kn0tzer\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/celeste-f4.png",
+    "tintColor": "b192ce",
+    "category": "games",
+    "version" : "1.0",
+    "versionDate" : "2024-11-29",
+    "downloadURL": "https://storage.omnidev.org/Celeste_full_screen-mf.ipa",
+    "size": 885006336,
+    "title": "Celeste + Virtual Controller (FullScreen)",
+    "url": "https://github.com/RoootTheFox/celeste-ios",
+    "versions" : [
+      {
+        "version" : "1.0",
+        "date" : "2024-11-29",
+        "downloadURL": "https://storage.omnidev.org/Celeste_full_screen-mf.ipa",
+        "size": 885006336
+      }
+    ]
+  },
+  {
     "beta": true,
     "name" : "Friday Night Funkin'",
     "bundleIdentifier": "com.funkin.fnf",
