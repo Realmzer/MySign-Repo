@@ -208,6 +208,32 @@
     },
     {
       "beta": false,
+      "name" : "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName" : "straight-tamago",
+      "subtitle": "Misaka - iOS & tvOS customisation tool for KFD & MDC",
+      "description": "The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.\nStatus: ✅",
+      "localizedDescription": "The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/3_Ce7_c0d_400x400-ZD.png",
+      "tintColor": "fa86f9",
+      "category": "utilities",
+      "version": "8.2.4",
+      "versionDate" : "2024-11-29",
+      "downloadURL": "https://storage.omnidev.org/misaka_v8_2_4-Mn.ipa",
+      "size": 30744576,
+      "title": "Misaka",
+      "url": "https://github.com/straight-tamago/misaka",
+      "versions" : [
+        {
+          "version": "8.2.4",
+          "date" : "2024-11-29",
+          "downloadURL": "https://storage.omnidev.org/misaka_v8_2_4-Mn.ipa",
+          "size": 30744576
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "LogRide",
       "bundleIdentifier": "com.parksman.LogRide",
       "developerName" : "PARKWIDE LLC",
