@@ -68,6 +68,24 @@
         }
       ]
     },
+     {
+      "beta": false,
+      "name": "HD Flix (No Ads)",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "subtitle": "HD Flix - Watch and Discover Movies and Shows",
+      "description": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
+      "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
+      "developerName": "Hung Nguyen",
+      "iconURL": "https://storage.omnidev.org/hdflix-9M.png",
+      "tintColor": "ea221f",
+      "category": "entertainment",
+      "size": 14737408,
+      "version": "4.0",
+      "versionDate": "2024-10-26",
+      "downloadURL": "https://storage.omnidev.org/hdflixnoads4_0-Yb.ipa",
+      "title": "HD Flix (No Ads)",
+      "url": "https://t.me/HD_Flix_Channel/" 
+    },
     {
       "beta": false,
       "name" : "GBox",
@@ -805,24 +823,6 @@
       "size": 70615040,
       "title": "Frida Code Manager (TrollStore) v1.6",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
-    },
-    {
-      "beta": false,
-      "name": "HD Flix (No Ads)",
-      "bundleIdentifier": "com.box.hd.flix.drama.hub",
-      "subtitle": "HD Flix - Watch and Discover Movies and Shows",
-      "description": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
-      "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
-      "developerName": "Hung Nguyen",
-      "iconURL": "https://storage.omnidev.org/hdflix-9M.png",
-      "tintColor": "ea221f",
-      "category": "entertainment",
-      "size": 14737408,
-      "version": "4.0",
-      "versionDate": "2024-10-26",
-      "downloadURL": "https://storage.omnidev.org/hdflixnoads4_0-Yb.ipa",
-      "title": "HD Flix (No Ads)",
-      "url": "https://t.me/HD_Flix_Channel/" 
     },
     {
       "beta": false,
