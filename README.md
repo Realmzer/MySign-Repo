@@ -1,4 +1,4 @@
-# Realmzers/MySigns Repository
+# MySigns IPA Repository
 A source that is growing everyday.
 
 Status:
