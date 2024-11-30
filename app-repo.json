@@ -1119,7 +1119,7 @@
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
       "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
-      "size": 115564544,
+      "size": 98000000,
       "title": "YTLitePlus",
       "url": "https://ytliteplus.github.io/",
       "versions" : [
@@ -1153,8 +1153,8 @@
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
       "downloadURL": "https://storage.omnidev.org/youtube_enhanced_19_47_7-uo.ipa",
-      "size": 123060224,
-      "title": "YouTubeEnhanced",
+      "size": 117000000,
+      "title": "uYouEnhanced",
       "url": "https://github.com/arichornlover/uYouEnhanced",
       "versions" : [
         {
