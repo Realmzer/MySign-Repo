@@ -17,6 +17,88 @@
   ],
   
   "apps": [
+     {
+      "beta": false,
+      "name": "Nugget v2.0",
+      "bundleIdentifier": "com.leemin.nugget2",
+      "subtitle": "Nugget - Mobile",
+      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
+      "developerName": "leminlimez",
+      "iconURL": "https://storage.omnidev.org/nugget-N9.png",
+      "tintColor": "9a2bff",
+      "category": "utilities",
+      "size": 7675473,
+      "version": "2.0",
+      "versionDate": "2024-10-18",
+      "downloadURL": "https://storage.omnidev.org/Nugget2_0-cM.ipa",
+      "title": "Nugget",
+      "url": "https://github.com/leminlimez/Nugget-Mobile" 
+    },
+    {
+      "beta": true,
+      "name" : "Sparsebox",
+      "bundleIdentifier": "com.kdt.sparsebox",
+      "developerName" : "khanhduytran0",
+      "subtitle": "Sparsebox - Backup's without a computer",
+      "description": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅🔥",
+      "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/file-H0.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version" : "0.1-2940d11",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
+      "size": 7274496,
+      "title": "Sparsebox",
+      "url": "https://github.com/khanhduytran0/SparseBox",
+      "versions" : [
+        {
+          "version" : "0.1-2940d11",
+          "date" : "2024-11-30",
+          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
+          "size": 7274496
+        },
+        {
+          "version" : "0.1-1ff1702",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1_11_19_2024-Rb.ipa",
+          "size": 7274496
+        },
+        {
+          "version" : "Unknown",
+          "date" : "2024-10-29",
+          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-Ei.ipa",
+          "size": 7237632
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "PureKFD",
+      "bundleIdentifier": "uwu.lrdsnow.purekfdiplogger",
+      "developerName" : "lrdiplogger",
+      "subtitle": "PureKFD - Alternative to Nugget with slightly more functionality",
+      "description": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
+      "localizedDescription": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/Icon-Si.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "6.0.2",
+      "versionDate" : "2024-11-29",
+      "downloadURL": "https://storage.omnidev.org/Pure_KFD-Gl.ipa",
+      "size": 11000000,
+      "title": "PureKFD",
+      "url": "https://github.com/Lrdsnow/PureKFD",
+      "versions" : [
+        {
+          "version": "6.0.2",
+          "date" : "2024-11-29",
+          "downloadURL": "https://storage.omnidev.org/Pure_KFD-Gl.ipa",
+          "size": 11000000
+        }
+      ]
+    },
     {
       "beta": false,
       "name": "MegaGames",
@@ -69,7 +151,7 @@
         }
       ]
     },
-     {
+    {
       "beta": false,
       "name": "HD Flix No Ads",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
@@ -266,88 +348,6 @@
           "date" : "2024-11-25",
           "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
           "size": 8503296
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name": "Nugget v2.0",
-      "bundleIdentifier": "com.leemin.nugget2",
-      "subtitle": "Nugget - Mobile",
-      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued",
-      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
-      "developerName": "leminlimez",
-      "iconURL": "https://storage.omnidev.org/nugget-N9.png",
-      "tintColor": "9a2bff",
-      "category": "utilities",
-      "size": 7675473,
-      "version": "2.0",
-      "versionDate": "2024-10-18",
-      "downloadURL": "https://storage.omnidev.org/Nugget2_0-cM.ipa",
-      "title": "Nugget",
-      "url": "https://github.com/leminlimez/Nugget-Mobile" 
-    },
-    {
-      "beta": true,
-      "name" : "Sparsebox",
-      "bundleIdentifier": "com.kdt.sparsebox",
-      "developerName" : "khanhduytran0",
-      "subtitle": "Sparsebox - Backup's without a computer",
-      "description": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅🔥",
-      "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/file-H0.png",
-      "tintColor": "000000",
-      "category": "utilities",
-      "version" : "0.1-2940d11",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
-      "size": 7274496,
-      "title": "Sparsebox",
-      "url": "https://github.com/khanhduytran0/SparseBox",
-      "versions" : [
-        {
-          "version" : "0.1-2940d11",
-          "date" : "2024-11-30",
-          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
-          "size": 7274496
-        },
-        {
-          "version" : "0.1-1ff1702",
-          "date" : "2024-11-19",
-          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1_11_19_2024-Rb.ipa",
-          "size": 7274496
-        },
-        {
-          "version" : "Unknown",
-          "date" : "2024-10-29",
-          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-Ei.ipa",
-          "size": 7237632
-        }
-      ]
-    },
-{
-      "beta": false,
-      "name" : "PureKFD",
-      "bundleIdentifier": "uwu.lrdsnow.purekfdiplogger",
-      "developerName" : "lrdiplogger",
-      "subtitle": "PureKFD - Alternative to Nugget with slightly more functionality",
-      "description": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
-      "localizedDescription": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/Icon-Si.png",
-      "tintColor": "000000",
-      "category": "utilities",
-      "version": "6.0.2",
-      "versionDate" : "2024-11-29",
-      "downloadURL": "https://storage.omnidev.org/Pure_KFD-Gl.ipa",
-      "size": 11000000,
-      "title": "PureKFD",
-      "url": "https://github.com/Lrdsnow/PureKFD",
-      "versions" : [
-        {
-          "version": "6.0.2",
-          "date" : "2024-11-29",
-          "downloadURL": "https://storage.omnidev.org/Pure_KFD-Gl.ipa",
-          "size": 11000000
         }
       ]
     },
