@@ -1114,7 +1114,7 @@
     },
     {
       "beta": false,
-      "name" : "YTLitePlus",
+      "name" : "YouTubeLitePlus",
       "bundleIdentifier": "com.google.ios.youtubeliteplus",
       "developerName" : "YTLitePlus",
       "subtitle": "YTLitePlus - Removes Ads and adds functionality",
@@ -1148,7 +1148,7 @@
     },
     {
       "beta": false,
-      "name" : "YouTubeEnhanced",
+      "name" : "uYouEnhanced",
       "bundleIdentifier": "com.google.ios.youtubeenhanced",
       "developerName" : "arichornlover",
       "subtitle": "uYouEnhanced - Removes Ads and adds functionality",
