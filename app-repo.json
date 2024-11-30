@@ -1840,12 +1840,18 @@
     "iconURL": "https://storage.omnidev.org/tiktok_6338429_1280-wV.webp",
     "tintColor": "08f3da",
     "category": "social",
-    "version": "37.4.0",
-    "versionDate" : "2024-11-24",
-    "downloadURL": "https://storage.omnidev.org/Tik_Tok_AC_37_4_0_Moe-D2.ipa",
-    "size": 316399616,
+    "version": "37.5.0",
+    "versionDate" : "2024-11-29",
+    "downloadURL": "https://storage.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
+    "size": 326307840,
     "title": "TikTokAC",
     "versions" : [
+      {
+        "version": "37.5.0",
+        "date" : "2024-11-29",
+        "downloadURL": "https://storage.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
+        "size": 326307840
+      },
       {
         "version": "37.4.0",
         "date" : "2024-11-24",
