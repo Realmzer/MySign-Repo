@@ -141,6 +141,136 @@
     },
     {
       "beta": false,
+      "name" : "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "developerName" : "alfiecg24",
+      "subtitle": "TrollInstallerX - A TrollStore installer for iOS 14.0 - 16.6.1",
+      "description": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.\nTrollInstallerX supports all devices running iOS 14.0 - 16.6.1, both arm64 and arm64e. It makes use of one of two different methods to install TrollStore, depending on what device and iOS you have.\nStatus: ✅",
+      "localizedDescription": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.\nTrollInstallerX supports all devices running iOS 14.0 - 16.6.1, both arm64 and arm64e. It makes use of one of two different methods to install TrollStore, depending on what device and iOS you have.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/l_Qt6_Wq_H-4F.png",
+      "tintColor": "377ee8",
+      "category": "utilities",
+      "version": "1.0.3",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://storage.omnidev.org/Troll_Installer_X-DT.ipa",
+      "size": 6889472,
+      "title": "TrollInstallerX",
+      "url": "https://github.com/alfiecg24/TrollInstallerX",
+      "versions" : [
+        {
+          "version": "1.0.3",
+          "date" : "2024-11-25",
+          "downloadURL": "https://storage.omnidev.org/Troll_Installer_X-DT.ipa",
+          "size": 6889472
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName" : "Pwn20wnd",
+      "subtitle": "unc0ver - A jailbreak for iOS 11.0 to 14.8",
+      "description": "A jailbreak for iOS 11.0 to 14.8\nStatus: ✅",
+      "localizedDescription": "One of the most powerful jailbreaking tools yet.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/Icon_App_60x60_3x-Qf.png",
+      "tintColor": "292929",
+      "category": "utilities",
+      "version": "8.0.2",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://storage.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
+      "size": 54493184,
+      "title": "unc0ver",
+      "url": "https://github.com/pwn20wndstuff/Undecimus",
+      "versions" : [
+        {
+          "version": "8.0.2",
+          "date" : "2024-11-25",
+          "downloadURL": "https://storage.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
+          "size": 54493184
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Taurine",
+      "bundleIdentifier": "com.coolstar.taurine",
+      "developerName" : "Odyssey Team",
+      "subtitle": "A jailbreak for iOS 14.0 to 14.8.1.",
+      "description": "A jailbreak for iOS 14.0 to 14.8.1.\nStatus: ✅",
+      "localizedDescription": "Taurine is a fast, supercharged experience, using libhooker and extensive testing to ensure the best possible jailbreaking experience.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/images_5_1-KQ.png",
+      "tintColor": "d25171",
+      "category": "utilities",
+      "version": "1.1.7-3",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://storage.omnidev.org/Taurine_1_1_7_3-6h.ipa",
+      "size": 32247808,
+      "title": "Taurine",
+      "url": "https://taurine.app/",
+      "versions" : [
+        {
+          "version": "1.1.70-3",
+          "date" : "2024-11-25",
+          "downloadURL": "https://storage.omnidev.org/Taurine_1_1_7_3-6h.ipa",
+          "size": 32247808
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName" : "opa334",
+      "subtitle": "Dopamine - rootless semi-untethered jailbreak for iOS 15 and 16",
+      "description": "A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64).\nStatus: ✅",
+      "localizedDescription": "A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64).\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/67ffxs_D-1v.png",
+      "tintColor": "acccd2",
+      "category": "utilities",
+      "version": "2.2.2",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://storage.omnidev.org/Dopamine-ZO.ipa",
+      "size": 49696768,
+      "title": "Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "versions" : [
+        {
+          "version": "2.2.2",
+          "date" : "2024-11-25",
+          "downloadURL": "https://storage.omnidev.org/Dopamine-ZO.ipa",
+          "size": 49696768
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "Postbox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "developerName" : "Postboxteam",
+      "subtitle": "Postbox - Get the latest jailbreak news and more",
+      "description": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place./nStatus: ✅",
+      "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/app_Icon_Site-Rl.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "8.1",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+      "size": 8503296,
+      "title": "Postbox",
+      "url": "https://www.postbox.news/",
+      "versions" : [
+        {
+          "version": "8.1",
+          "date" : "2024-11-25",
+          "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+          "size": 8503296
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Nugget v2.0",
       "bundleIdentifier": "com.leemin.nugget2",
       "subtitle": "Nugget - Mobile",
@@ -954,136 +1084,6 @@
       "downloadURL": "https://storage.omnidev.org/Psych_Engine063-pH.ipa",
       "title": "Friday Night Funkin: Psych Engine 0.6.3",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
-    },
-    {
-      "beta": false,
-      "name" : "TrollInstallerX",
-      "bundleIdentifier": "com.Alfie.TrollInstallerX",
-      "developerName" : "alfiecg24",
-      "subtitle": "TrollInstallerX - A TrollStore installer for iOS 14.0 - 16.6.1",
-      "description": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.\nTrollInstallerX supports all devices running iOS 14.0 - 16.6.1, both arm64 and arm64e. It makes use of one of two different methods to install TrollStore, depending on what device and iOS you have.\nStatus: ✅",
-      "localizedDescription": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.\nTrollInstallerX supports all devices running iOS 14.0 - 16.6.1, both arm64 and arm64e. It makes use of one of two different methods to install TrollStore, depending on what device and iOS you have.\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/l_Qt6_Wq_H-4F.png",
-      "tintColor": "377ee8",
-      "category": "utilities",
-      "version": "1.0.3",
-      "versionDate" : "2024-11-25",
-      "downloadURL": "https://storage.omnidev.org/Troll_Installer_X-DT.ipa",
-      "size": 6889472,
-      "title": "TrollInstallerX",
-      "url": "https://github.com/alfiecg24/TrollInstallerX",
-      "versions" : [
-        {
-          "version": "1.0.3",
-          "date" : "2024-11-25",
-          "downloadURL": "https://storage.omnidev.org/Troll_Installer_X-DT.ipa",
-          "size": 6889472
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName" : "Pwn20wnd",
-      "subtitle": "unc0ver - A jailbreak for iOS 11.0 to 14.8",
-      "description": "A jailbreak for iOS 11.0 to 14.8\nStatus: ✅",
-      "localizedDescription": "One of the most powerful jailbreaking tools yet.\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/Icon_App_60x60_3x-Qf.png",
-      "tintColor": "292929",
-      "category": "utilities",
-      "version": "8.0.2",
-      "versionDate" : "2024-11-25",
-      "downloadURL": "https://storage.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
-      "size": 54493184,
-      "title": "unc0ver",
-      "url": "https://github.com/pwn20wndstuff/Undecimus",
-      "versions" : [
-        {
-          "version": "8.0.2",
-          "date" : "2024-11-25",
-          "downloadURL": "https://storage.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
-          "size": 54493184
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "Taurine",
-      "bundleIdentifier": "com.coolstar.taurine",
-      "developerName" : "Odyssey Team",
-      "subtitle": "A jailbreak for iOS 14.0 to 14.8.1.",
-      "description": "A jailbreak for iOS 14.0 to 14.8.1.\nStatus: ✅",
-      "localizedDescription": "Taurine is a fast, supercharged experience, using libhooker and extensive testing to ensure the best possible jailbreaking experience.\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/images_5_1-KQ.png",
-      "tintColor": "d25171",
-      "category": "utilities",
-      "version": "1.1.7-3",
-      "versionDate" : "2024-11-25",
-      "downloadURL": "https://storage.omnidev.org/Taurine_1_1_7_3-6h.ipa",
-      "size": 32247808,
-      "title": "Taurine",
-      "url": "https://taurine.app/",
-      "versions" : [
-        {
-          "version": "1.1.70-3",
-          "date" : "2024-11-25",
-          "downloadURL": "https://storage.omnidev.org/Taurine_1_1_7_3-6h.ipa",
-          "size": 32247808
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "developerName" : "opa334",
-      "subtitle": "Dopamine - rootless semi-untethered jailbreak for iOS 15 and 16",
-      "description": "A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64).\nStatus: ✅",
-      "localizedDescription": "A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64).\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/67ffxs_D-1v.png",
-      "tintColor": "acccd2",
-      "category": "utilities",
-      "version": "2.2.2",
-      "versionDate" : "2024-11-25",
-      "downloadURL": "https://storage.omnidev.org/Dopamine-ZO.ipa",
-      "size": 49696768,
-      "title": "Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "versions" : [
-        {
-          "version": "2.2.2",
-          "date" : "2024-11-25",
-          "downloadURL": "https://storage.omnidev.org/Dopamine-ZO.ipa",
-          "size": 49696768
-        }
-      ]
-    },
-    {
-      "beta": true,
-      "name" : "Postbox",
-      "bundleIdentifier": "com.simplycode.PostBox",
-      "developerName" : "Postboxteam",
-      "subtitle": "Postbox - Get the latest jailbreak news and more",
-      "description": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place./nStatus: ✅",
-      "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/app_Icon_Site-Rl.png",
-      "tintColor": "000000",
-      "category": "utilities",
-      "version": "8.1",
-      "versionDate" : "2024-11-25",
-      "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
-      "size": 8503296,
-      "title": "Postbox",
-      "url": "https://www.postbox.news/",
-      "versions" : [
-        {
-          "version": "8.1",
-          "date" : "2024-11-25",
-          "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
-          "size": 8503296
-        }
-      ]
     },
     {
       "beta": false,
