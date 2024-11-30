@@ -2750,8 +2750,9 @@
   {
     "name": "BitLife",
     "bundleIdentifier": "com.wtfapps.apollo16",
-    "subtitle": "A ()life() simulator",
+    "subtitle": "A very special simulator",
     "developerName": "Candywriter LLC",
+    "description": "A very special life simulator\nStatus: ✅", 
     "category": "games",
     "iconURL": "https://storage.omnidev.org/512x512bb_2-zO.png",
     "version": "3.15.9",
