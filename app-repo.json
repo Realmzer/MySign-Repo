@@ -1128,7 +1128,7 @@
       "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
       "size": 98000000,
       "title": "YTLitePlus",
-      "url": "https://ytliteplus.github.io/",
+      "url": "",
       "versions" : [
         {
           "version": "19.47.7",
@@ -1145,6 +1145,24 @@
           "size": 114438144
         }
       ]
+    },
+    {
+      "beta": false,
+      "name" : "YouTubePlus",
+      "bundleIdentifier": "com.google.ios.youtubeplus",
+      "developerName" : "dayanch96",
+      "subtitle": "YouTubePlus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
+      "tintColor": "ff4154",
+      "category": "entertainment",
+      "version": "19.47.7",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/You_Tube_19_47_7-VE.ipa",
+      "size": 115900000,
+      "title": "YouTubePlus",
+      "url": "https://github.com/dayanch96/YTLite",
     },
     {
       "beta": false,
