@@ -1,10 +1,10 @@
 {
-  "name": "Realmzers AltStore Source",
+  "name": "Realmzers/MySign Repository",
   "identifier": "realmzer.ipa.source",
   "iconURL": "https://storage.omnidev.org/realmzerrepoicon-9x.png?raw=true",
   "website": "https://realmzer.github.io/",
   "patreonURL": "https://www.patreon.com/c/Realmzer",
-  "subtitle": "The official Realmzer AltStore Repository!",
+  "subtitle": "The official Realmzer/MySign AltStore Repository!",
   "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
   "tintColor": "7400ff",
   "featuredApps": [
