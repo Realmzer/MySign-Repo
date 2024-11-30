@@ -1,15 +1,16 @@
 {
-  "name": "Realmzers/MySign Repository",
+  "name": "MySign IPA Repository",
   "identifier": "realmzer.ipa.source",
   "iconURL": "https://storage.omnidev.org/IMG_3830-3H.png",
   "website": "https://discord.gg/HKdtmYUEzD",
   "patreonURL": "https://www.patreon.com/c/Realmzer",
-  "subtitle": "The official Realmzer/MySign Repository!",
+  "subtitle": "The official MySign Repository!",
   "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
   "tintColor": "7400ff",
   "featuredApps": [
     "com.box.hd.flix.drama.hub",
-    "com.google.ios.ytliteplus",
+    "com.google.ios.youtubeliteplus",
+    "com.google.ios.youtubeenhanced",
     "com.spotify.client",
     "com.kdt.sparsebox",
     "com.kdt.livecontainer"
