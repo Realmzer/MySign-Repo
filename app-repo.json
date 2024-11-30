@@ -168,13 +168,19 @@
       "iconURL": "https://storage.omnidev.org/file-H0.png",
       "tintColor": "000000",
       "category": "utilities",
-      "version" : "0.1-1ff1702",
-      "versionDate" : "2024-11-19",
-      "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1_11_19_2024-Rb.ipa",
+      "version" : "0.1-2940d11",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
       "size": 7274496,
       "title": "Sparsebox",
-      "url": "https://github.com/khanhduytran0/SparseBox" ,
+      "url": "https://github.com/khanhduytran0/SparseBox",
       "versions" : [
+        {
+          "version" : "0.1-2940d11",
+          "date" : "2024-11-30",
+          "downloadURL": "https://storage.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
+          "size": 7274496
+        },
         {
           "version" : "0.1-1ff1702",
           "date" : "2024-11-19",
