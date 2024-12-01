@@ -17,24 +17,6 @@
   ],
   
   "apps": [
-     {
-      "beta": false,
-      "name": "Nugget v2.0",
-      "bundleIdentifier": "com.leemin.nugget2",
-      "subtitle": "Nugget - Mobile",
-      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued",
-      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
-      "developerName": "leminlimez",
-      "iconURL": "https://storage.omnidev.org/nugget-N9.png",
-      "tintColor": "9a2bff",
-      "category": "utilities",
-      "size": 7675473,
-      "version": "2.0",
-      "versionDate": "2024-10-18",
-      "downloadURL": "https://storage.omnidev.org/Nugget2_0-cM.ipa",
-      "title": "Nugget",
-      "url": "https://github.com/leminlimez/Nugget-Mobile" 
-    },
     {
       "beta": true,
       "name" : "Sparsebox",
@@ -101,29 +83,21 @@
     },
     {
       "beta": false,
-      "name": "MegaGames",
-      "bundleIdentifier": "com.techguy.megagames",
-      "subtitle": "Play many games with this app",
-      "developerName": "Tech Guy",
-      "description": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
-      "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/logo_1-CE.png",
-      "tintColor": "1788f2",
-      "category": "games",
-      "version": "1.0.0",
-      "versionDate" : "2024-11-03",
-      "downloadURL": "https://storage.omnidev.org/Mega_Games-KW.ipa",
-      "size": 35600000,
-      "title": "MegaGames",
-      "url": "https://github.com/TechGuy541/MegaGames",
-      "versions" : [
-        {
-          "version": "1.0.0",
-          "date" : "2024-11-03",
-          "downloadURL": "https://storage.omnidev.org/Mega_Games-KW.ipa",
-          "size": 35600000
-        }
-      ]
+      "name": "Nugget v2.0",
+      "bundleIdentifier": "com.leemin.nugget2",
+      "subtitle": "Nugget - Mobile",
+      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued, still works though",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued, still works though",
+      "developerName": "leminlimez",
+      "iconURL": "https://storage.omnidev.org/nugget-N9.png",
+      "tintColor": "9a2bff",
+      "category": "utilities",
+      "size": 7675473,
+      "version": "2.0",
+      "versionDate": "2024-10-18",
+      "downloadURL": "https://storage.omnidev.org/Nugget2_0-cM.ipa",
+      "title": "Nugget",
+      "url": "https://github.com/leminlimez/Nugget-Mobile" 
     },
     {
       "beta": false,
@@ -2341,6 +2315,32 @@
         "date" : "2024-11-06",
         "downloadURL": "https://storage.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipad",
         "size": 1369145344
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name": "MegaGames",
+    "bundleIdentifier": "com.techguy.megagames",
+    "subtitle": "Play many games with this app",
+    "developerName": "Tech Guy",
+    "description": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+    "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/logo_1-CE.png",
+    "tintColor": "1788f2",
+    "category": "games",
+    "version": "1.0.0",
+    "versionDate" : "2024-11-03",
+    "downloadURL": "https://storage.omnidev.org/Mega_Games-KW.ipa",
+    "size": 35600000,
+    "title": "MegaGames",
+    "url": "https://github.com/TechGuy541/MegaGames",
+    "versions" : [
+      {
+        "version": "1.0.0",
+        "date" : "2024-11-03",
+        "downloadURL": "https://storage.omnidev.org/Mega_Games-KW.ipa",
+        "size": 35600000
       }
     ]
   },
