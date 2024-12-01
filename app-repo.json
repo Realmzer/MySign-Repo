@@ -2248,6 +2248,31 @@
   },
   {
     "beta": false,
+    "name": "Call of Mini Zombies 2",
+    "bundleIdentifier": "com.realmzer.comz2",
+    "subtitle": "64bit port of COMZ2",
+    "developerName": "Triniti, Realmzer, Zweronz",
+    "description": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.\nStatus: ✅",
+    "localizedDescription": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/19b1f5c56ecb9a5b0c96cd853049d28a8765665385607bed9b8d566abdaf7e2e_100-jQ.png",
+    "tintColor": "1788f2",
+    "category": "ebc426",
+    "version": "2.2.2",
+    "versionDate" : "2024-11-30",
+    "downloadURL": "https://storage.omnidev.org/comz2fixfortheloveofgod-S3.ipa",
+    "size": 136024064,
+    "title": "Call of Mini Zombies 2",
+    "versions" : [
+      {
+        "version": "2.2.2",
+        "date" : "2024-11-30",
+        "downloadURL": "https://storage.omnidev.org/comz2fixfortheloveofgod-S3.ipa",
+        "size": 136024064
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name": "MegaGames",
     "bundleIdentifier": "com.techguy.megagames",
     "subtitle": "Play many games with this app",
