@@ -109,11 +109,37 @@
     },
     {
       "beta": false,
+      "name" : "Nugget",
+      "bundleIdentifier": "com.leemin.nugget",
+      "developerName" : "leminlimez",
+      "subtitle": "Nugget - Mobile",
+      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
+      "tintColor": "9a2bff",
+      "category": "utilities",
+      "version": "2.0.1",
+      "versionDate" : "2024-12-01",
+      "downloadURL": "https://cdn.omnidev.org/Nugget_4-9n.ipa",
+      "size": 7680000,
+      "title": "Nugget",
+      "url": "https://github.com/leminlimez/Nugget-Mobile",
+      "versions" : [
+        {
+          "version": "2.0.1",
+          "date" : "2024-12-01",
+          "downloadURL": "https://cdn.omnidev.org/Nugget_4-9n.ipa",
+          "size": 7680000
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Nugget v2.0",
       "bundleIdentifier": "com.leemin.nugget2",
       "subtitle": "Nugget - Mobile",
-      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ❌: Discontinued, still works though",
-      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued, still works though",
+      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
+      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ✅",
       "developerName": "leminlimez",
       "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
       "tintColor": "9a2bff",
