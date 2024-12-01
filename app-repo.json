@@ -593,24 +593,6 @@
     },
     {
       "beta": false,
-      "name": "FNAF World",
-      "bundleIdentifier": "com.clickteam.fnafworld",
-      "subtitle": "FNAF World - IOS Port",
-      "description": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
-      "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
-      "developerName": "Scott Cawthon",
-      "iconURL": "https://storage.omnidev.org/fnafworldworks-WA.png",
-      "tintColor": "e103f7",
-      "category": "games",
-      "size": 100229120,
-      "version": "2.0.0",
-      "versionDate": "2024-10-12",
-      "downloadURL": "https://storage.omnidev.org/fnaf_world_mobile2-Yj.ipa",
-      "title": "FNAF World",
-      "url": "https://https://gamejolt.com/games/fnaf-world/124921" 
-    },
-    {
-      "beta": false,
       "name": "PPSSPP",
       "bundleIdentifier": "org.ppsspp.ppsspp-free",
       "subtitle": "PPSSPP - A PSP Emulator",
@@ -1258,6 +1240,24 @@
           "size": 66232320
         }
       ]
+    },
+    {
+      "beta": false,
+      "name": "FNAF World",
+      "bundleIdentifier": "com.clickteam.fnafworld",
+      "subtitle": "FNAF World - IOS Port",
+      "description": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
+      "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
+      "developerName": "Scott Cawthon",
+      "iconURL": "https://storage.omnidev.org/fnafworldworks-WA.png",
+      "tintColor": "e103f7",
+      "category": "games",
+      "size": 100229120,
+      "version": "2.0.0",
+      "versionDate": "2024-10-12",
+      "downloadURL": "https://storage.omnidev.org/fnaf_world_mobile2-Yj.ipa",
+      "title": "FNAF World",
+      "url": "https://https://gamejolt.com/games/fnaf-world/124921" 
     },
     {
       "beta": false,
