@@ -19,6 +19,32 @@
   "apps": [
     {
       "beta": true,
+      "name" : "Postbox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "developerName" : "Postboxteam",
+      "subtitle": "Postbox - Get the latest jailbreak news and more",
+      "description": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place./nStatus: ✅",
+      "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/app_Icon_Site-Rl.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "8.1",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+      "size": 8503296,
+      "title": "Postbox",
+      "url": "https://www.postbox.news/",
+      "versions" : [
+        {
+          "version": "8.1",
+          "date" : "2024-11-25",
+          "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+          "size": 8503296
+        }
+      ]
+    },
+    {
+      "beta": true,
       "name" : "Sparsebox",
       "bundleIdentifier": "com.kdt.sparsebox",
       "developerName" : "khanhduytran0",
@@ -200,32 +226,6 @@
           "date" : "2024-11-25",
           "downloadURL": "https://storage.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
           "size": 54493184
-        }
-      ]
-    },
-    {
-      "beta": true,
-      "name" : "Postbox",
-      "bundleIdentifier": "com.simplycode.PostBox",
-      "developerName" : "Postboxteam",
-      "subtitle": "Postbox - Get the latest jailbreak news and more",
-      "description": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place./nStatus: ✅",
-      "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/app_Icon_Site-Rl.png",
-      "tintColor": "000000",
-      "category": "utilities",
-      "version": "8.1",
-      "versionDate" : "2024-11-25",
-      "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
-      "size": 8503296,
-      "title": "Postbox",
-      "url": "https://www.postbox.news/",
-      "versions" : [
-        {
-          "version": "8.1",
-          "date" : "2024-11-25",
-          "downloadURL": "https://storage.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
-          "size": 8503296
         }
       ]
     },
