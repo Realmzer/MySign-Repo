@@ -845,6 +845,138 @@
     },
     {
       "beta": false,
+      "name" : "Filza TrollStore",
+      "bundleIdentifier": "com.tigisoftware.Filzats",
+      "developerName" : "TIGI SOFTWARE",
+      "subtitle": "Filza TrollStore - A powerful File Manager for iPhone, iPad, iPod Touch",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅🔵",
+      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅🔵",
+      "iconURL": "https://storage.omnidev.org/cydia_1900000088_icon-4H.png",
+      "tintColor": "66d0f3",
+      "category": "utilities",
+      "version": "4.0.2",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
+      "size": 13893632,
+      "title": "Filza TrollStore",
+      "url": "https://www.tigisoftware.com/",
+      "versions" : [
+        {
+          "version": "4.0.2",
+          "date" : "2024-11-28",
+          "downloadURL": "https://storage.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
+          "size": 13893632
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Filza Escaped 16",
+      "bundleIdentifier": "com.tigisoftware.Filza16",
+      "developerName" : "TIGI SOFTWARE & Bas vT",
+      "subtitle": "Filza Escaped 16 - A powerful File Manager for iPhone, iPad, iPod Touch",
+      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅",
+      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/cydia_1900000088_icon-4H.png",
+      "tintColor": "66d0f3",
+      "category": "utilities",
+      "version": "16",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Filza_Escaped16-vN.ipa",
+      "size": 14651392,
+      "title": "Filza Escaped 16",
+      "url": "https://basvtdevelopments.com/filzaescaped",
+      "versions" : [
+        {
+          "version": "16",
+          "date" : "2024-11-28",
+          "downloadURL": "https://storage.omnidev.org/Filza_Escaped16-vN.ipa",
+          "size": 14651392
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName" : "Akentech Ltd",
+      "subtitle": "Swiftgram - Telegram for iOS Supercharged",
+      "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/swiftgram-we.png",
+      "tintColor": "f56d3e",
+      "category": "social",
+      "version": "11.3.1",
+      "versionDate" : "2024-11-18",
+      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
+      "size": 76226560,
+      "title": "Swiftgram",
+      "url": "https://swiftgram.app/",
+      "versions" : [
+        {
+          "version": "11.3.1",
+          "date" : "2024-11-18",
+          "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
+          "size": 76226560
+        },
+        {
+          "version": "11.2",
+          "date" : "2024-11-05",
+          "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
+          "size": 73510912
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName" : "whoeevee",
+      "subtitle": "Free Spotify Premium",
+      "description": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
+      "localizedDescription": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/spotify-63.png",
+      "tintColor": "1ed760",
+      "category": "entertainment",
+      "version": "8.9.94/Swift 5.8.1",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_8_9_94_Widget_Working-AR.ipa",
+      "size": 80715776,
+      "title": "EeveeSpotify",
+      "url": "https://github.com/whoeevee/EeveeSpotify",
+      "versions" : [
+        {
+          "version": "8.9.94/Swift 5.8.1",
+          "date" : "2024-11-28",
+          "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy @SultanModsIPAs",
+          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_8_9_94_Widget_Working-AR.ipa",
+          "size": 80715776
+        },
+        {
+          "version": "8.9.92/Swift 5.8.1",
+          "date" : "2024-11-18",
+          "localizedDescription": "*Updated Turkish localization by @gototheskinnyUpdated\n*Traditional Chinese localizaton by @ElliotCHEN37\n*Updated Polish localization by @HackZy01Updated\n*Persian localization by @Incognito-Coder",
+          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_1_8_9_92-kL.ipa",
+          "size": 84066304
+        },
+        {
+          "version": "8.9.90/Swift 5.8",
+          "date" : "2024-11-07",
+          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
+          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_8_9_90-lF.ipa",
+          "size": 95408128
+        },
+        {
+          "version": "8.9.86/Swift 5.7",
+          "date" : "2024-10-27",
+          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
+          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_7_8_9_86-fh.ipa",
+          "size": 81833984
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "YTMusicUltimate",
       "bundleIdentifier": "com.ginsu.ytmusicultimate",
       "developerName" : "dvntms",
@@ -1402,138 +1534,6 @@
       "size": 591884288,
       "title": "Five Nights at Freddy's: HW",
       "url": "https://www.steelwoolstudios.com/"
-    },
-    {
-      "beta": false,
-      "name" : "Swiftgram",
-      "bundleIdentifier": "app.swiftgram.ios",
-      "developerName" : "Akentech Ltd",
-      "subtitle": "Swiftgram - Telegram for iOS Supercharged",
-      "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
-      "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/swiftgram-we.png",
-      "tintColor": "f56d3e",
-      "category": "social",
-      "version": "11.3.1",
-      "versionDate" : "2024-11-18",
-      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
-      "size": 76226560,
-      "title": "Swiftgram",
-      "url": "https://swiftgram.app/",
-      "versions" : [
-        {
-          "version": "11.3.1",
-          "date" : "2024-11-18",
-          "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
-          "size": 76226560
-        },
-        {
-          "version": "11.2",
-          "date" : "2024-11-05",
-          "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
-          "size": 73510912
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "Filza TrollStore",
-      "bundleIdentifier": "com.tigisoftware.Filzats",
-      "developerName" : "TIGI SOFTWARE",
-      "subtitle": "Filza TrollStore - A powerful File Manager for iPhone, iPad, iPod Touch",
-      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅🔵",
-      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅🔵",
-      "iconURL": "https://storage.omnidev.org/cydia_1900000088_icon-4H.png",
-      "tintColor": "66d0f3",
-      "category": "utilities",
-      "version": "4.0.2",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://storage.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
-      "size": 13893632,
-      "title": "Filza TrollStore",
-      "url": "https://www.tigisoftware.com/",
-      "versions" : [
-        {
-          "version": "4.0.2",
-          "date" : "2024-11-28",
-          "downloadURL": "https://storage.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
-          "size": 13893632
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "Filza Escaped 16",
-      "bundleIdentifier": "com.tigisoftware.Filza16",
-      "developerName" : "TIGI SOFTWARE & Bas vT",
-      "subtitle": "Filza Escaped 16 - A powerful File Manager for iPhone, iPad, iPod Touch",
-      "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅",
-      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/cydia_1900000088_icon-4H.png",
-      "tintColor": "66d0f3",
-      "category": "utilities",
-      "version": "16",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://storage.omnidev.org/Filza_Escaped16-vN.ipa",
-      "size": 14651392,
-      "title": "Filza Escaped 16",
-      "url": "https://basvtdevelopments.com/filzaescaped",
-      "versions" : [
-        {
-          "version": "16",
-          "date" : "2024-11-28",
-          "downloadURL": "https://storage.omnidev.org/Filza_Escaped16-vN.ipa",
-          "size": 14651392
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "EeveeSpotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName" : "whoeevee",
-      "subtitle": "Free Spotify Premium",
-      "description": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
-      "localizedDescription": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/spotify-63.png",
-      "tintColor": "1ed760",
-      "category": "entertainment",
-      "version": "8.9.94/Swift 5.8.1",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_8_9_94_Widget_Working-AR.ipa",
-      "size": 80715776,
-      "title": "EeveeSpotify",
-      "url": "https://github.com/whoeevee/EeveeSpotify",
-      "versions" : [
-        {
-          "version": "8.9.94/Swift 5.8.1",
-          "date" : "2024-11-28",
-          "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy @SultanModsIPAs",
-          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_8_9_94_Widget_Working-AR.ipa",
-          "size": 80715776
-        },
-        {
-          "version": "8.9.92/Swift 5.8.1",
-          "date" : "2024-11-18",
-          "localizedDescription": "*Updated Turkish localization by @gototheskinnyUpdated\n*Traditional Chinese localizaton by @ElliotCHEN37\n*Updated Polish localization by @HackZy01Updated\n*Persian localization by @Incognito-Coder",
-          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_1_8_9_92-kL.ipa",
-          "size": 84066304
-        },
-        {
-          "version": "8.9.90/Swift 5.8",
-          "date" : "2024-11-07",
-          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_8_9_90-lF.ipa",
-          "size": 95408128
-        },
-        {
-          "version": "8.9.86/Swift 5.7",
-          "date" : "2024-10-27",
-          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_7_8_9_86-fh.ipa",
-          "size": 81833984
-        }
-      ]
     },
     {
     "beta": false,
