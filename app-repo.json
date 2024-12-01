@@ -845,6 +845,163 @@
     },
     {
       "beta": false,
+      "name" : "YTMusicUltimate",
+      "bundleIdentifier": "com.ginsu.ytmusicultimate",
+      "developerName" : "dvntms",
+      "subtitle": "YTMusicUltimate - The best tweak for YouTube Music iOS",
+      "description": "A tweaked version of YouTube Music\nStatus: ✅🔥",
+      "localizedDescription": "A tweaked version of YouTube Music\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/235781424_06d81647_b3db_4d9b_94dc_cd65cdf09145_1-i5.png",
+      "tintColor": "ff2120",
+      "category": "entertainment",
+      "version": "7.26.1",
+      "versionDate" : "2024-11-27",
+      "downloadURL": "https://storage.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
+      "size": 82607573,
+      "title": "YTMusicUltimate",
+      "url": "https://github.com/dayanch96/YTMusicUltimate",
+      "versions" : [
+        {
+          "version": "7.26.1",
+          "date" : "2024-11-27",
+          "localizedDescription": "*Move to light version of mobile-ffmpeg\n*Move downloading to native download button (#296)\n*Fix workflow issues (#301)",
+          "downloadURL": "https://storage.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
+          "size": 82607573
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "YouTubeLitePlus",
+      "bundleIdentifier": "com.google.ios.youtubeliteplus",
+      "developerName" : "YTLitePlus",
+      "subtitle": "YTLitePlus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
+      "tintColor": "fc0032",
+      "category": "entertainment",
+      "version": "19.47.7",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
+      "size": 98000000,
+      "title": "YTLitePlus",
+      "url": "https://github.com/YTLitePlus/YTLitePlus",
+      "versions" : [
+        {
+          "version": "19.47.7",
+          "date" : "2024-11-30",
+          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
+          "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
+          "size": 114438144
+        },
+        {
+          "version": "19.42.1",
+          "date" : "2024-10-26",
+          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ❔",
+          "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_42_1_5_0_2-ns.ipa",
+          "size": 114438144
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "YouTubePlus",
+      "bundleIdentifier": "com.google.ios.youtubeplus",
+      "developerName" : "dayanch96",
+      "subtitle": "YouTubePlus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
+      "tintColor": "ff4154",
+      "category": "entertainment",
+      "version": "19.47.7",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/You_Tube_19_47_7-VE.ipa",
+      "size": 115900000,
+      "title": "YouTubePlus",
+      "url": "https://github.com/dayanch96/YTLite",
+    },
+    {
+      "beta": false,
+      "name" : "uYouEnhanced",
+      "bundleIdentifier": "com.google.ios.youtubeenhanced",
+      "developerName" : "arichornlover",
+      "subtitle": "uYouEnhanced - Removes Ads and adds functionality",
+      "description": "YouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
+      "tintColor": "ff4154",
+      "category": "entertainment",
+      "version": "19.47.7",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://storage.omnidev.org/youtube_enhanced_19_47_7-uo.ipa",
+      "size": 117000000,
+      "title": "uYouEnhanced",
+      "url": "https://github.com/arichornlover/uYouEnhanced",
+      "versions" : [
+        {
+          "version": "19.21.2-3.0.4",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/u_You_Enhanced_19_46_3_3_0_4-fS.ipa",
+          "size": 123060224
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName" : "Riley Testut",
+      "subtitle": "Delta - Retro Video Game Emulator",
+      "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
+      "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/Delta4-c3.png",
+      "tintColor": "7f21e9",
+      "category": "games",
+      "version": "1.6",
+      "versionDate" : "2024-11-19",
+      "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
+      "size": 84283392,
+      "title": "Delta",
+      "url": "https://github.com/rileytestut/Delta",
+      "versions" : [
+        {
+          "version": "1.6",
+          "date" : "2024-11-19",
+          "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
+          "size": 84283392
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
+      "developerName": "Joe Mattiello",
+      "subtitle": "Provenance - An emulator frontend",
+      "description": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
+      "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
+      "tintColor": "1ac8fb",
+      "category": "games",
+      "version": "2.2.0",
+      "versionDate" : "2024-11-28",
+      "downloadURL": "https://storage.omnidev.org/Provenance-eh.ipa",
+      "size": 33980416,
+      "title": "Provenance",
+      "url": "https://github.com/Provenance-Emu/Provenance/",
+      "versions" : [
+        {
+          "version": "2.2.0",
+          "date" : "2024-11-28",
+          "downloadURL": "https://storage.omnidev.org/Provenance-eh.ipa",
+          "size": 33980416
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Deltarune Chapter 1",
       "bundleIdentifier": "com.jockelholm.undertaledr",
       "subtitle": "Deltarune Chapter 1 - IOS Port",
@@ -1058,163 +1215,6 @@
       "downloadURL": "https://storage.omnidev.org/Psych_Engine063-pH.ipa",
       "title": "Friday Night Funkin: Psych Engine 0.6.3",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
-    },
-    {
-      "beta": false,
-      "name" : "YTMusicUltimate",
-      "bundleIdentifier": "com.ginsu.ytmusicultimate",
-      "developerName" : "dvntms",
-      "subtitle": "YTMusicUltimate - The best tweak for YouTube Music iOS",
-      "description": "A tweaked version of YouTube Music\nStatus: ✅🔥",
-      "localizedDescription": "A tweaked version of YouTube Music\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/235781424_06d81647_b3db_4d9b_94dc_cd65cdf09145_1-i5.png",
-      "tintColor": "ff2120",
-      "category": "entertainment",
-      "version": "7.26.1",
-      "versionDate" : "2024-11-27",
-      "downloadURL": "https://storage.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
-      "size": 82607573,
-      "title": "YTMusicUltimate",
-      "url": "https://github.com/dayanch96/YTMusicUltimate",
-      "versions" : [
-        {
-          "version": "7.26.1",
-          "date" : "2024-11-27",
-          "localizedDescription": "*Move to light version of mobile-ffmpeg\n*Move downloading to native download button (#296)\n*Fix workflow issues (#301)",
-          "downloadURL": "https://storage.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
-          "size": 82607573
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "YouTubeLitePlus",
-      "bundleIdentifier": "com.google.ios.youtubeliteplus",
-      "developerName" : "YTLitePlus",
-      "subtitle": "YTLitePlus - Removes Ads and adds functionality",
-      "description": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
-      "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
-      "tintColor": "fc0032",
-      "category": "entertainment",
-      "version": "19.47.7",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
-      "size": 98000000,
-      "title": "YTLitePlus",
-      "url": "https://github.com/YTLitePlus/YTLitePlus",
-      "versions" : [
-        {
-          "version": "19.47.7",
-          "date" : "2024-11-30",
-          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
-          "downloadURL": "https://storage.omnidev.org/youtubelite_19_47_7-lF.ipa",
-          "size": 114438144
-        },
-        {
-          "version": "19.42.1",
-          "date" : "2024-10-26",
-          "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ❔",
-          "downloadURL": "https://storage.omnidev.org/YT_Lite_Plus_19_42_1_5_0_2-ns.ipa",
-          "size": 114438144
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "YouTubePlus",
-      "bundleIdentifier": "com.google.ios.youtubeplus",
-      "developerName" : "dayanch96",
-      "subtitle": "YouTubePlus - Removes Ads and adds functionality",
-      "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
-      "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
-      "tintColor": "ff4154",
-      "category": "entertainment",
-      "version": "19.47.7",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://storage.omnidev.org/You_Tube_19_47_7-VE.ipa",
-      "size": 115900000,
-      "title": "YouTubePlus",
-      "url": "https://github.com/dayanch96/YTLite",
-    },
-    {
-      "beta": false,
-      "name" : "uYouEnhanced",
-      "bundleIdentifier": "com.google.ios.youtubeenhanced",
-      "developerName" : "arichornlover",
-      "subtitle": "uYouEnhanced - Removes Ads and adds functionality",
-      "description": "YouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
-      "localizedDescription": "YouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/IMG_4242-or.webp",
-      "tintColor": "ff4154",
-      "category": "entertainment",
-      "version": "19.47.7",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://storage.omnidev.org/youtube_enhanced_19_47_7-uo.ipa",
-      "size": 117000000,
-      "title": "uYouEnhanced",
-      "url": "https://github.com/arichornlover/uYouEnhanced",
-      "versions" : [
-        {
-          "version": "19.21.2-3.0.4",
-          "date" : "2024-11-19",
-          "downloadURL": "https://storage.omnidev.org/u_You_Enhanced_19_46_3_3_0_4-fS.ipa",
-          "size": 123060224
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
-      "developerName" : "Riley Testut",
-      "subtitle": "Delta - Retro Video Game Emulator",
-      "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
-      "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/Delta4-c3.png",
-      "tintColor": "7f21e9",
-      "category": "games",
-      "version": "1.6",
-      "versionDate" : "2024-11-19",
-      "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
-      "size": 84283392,
-      "title": "Delta",
-      "url": "https://github.com/rileytestut/Delta",
-      "versions" : [
-        {
-          "version": "1.6",
-          "date" : "2024-11-19",
-          "downloadURL": "https://storage.omnidev.org/delta-tE.ipa",
-          "size": 84283392
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name": "Provenance",
-      "bundleIdentifier": "org.provenance-emu.provenance",
-      "developerName": "Joe Mattiello",
-      "subtitle": "Provenance - An emulator frontend",
-      "description": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
-      "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
-      "iconURL": "https://storage.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
-      "tintColor": "1ac8fb",
-      "category": "games",
-      "version": "2.2.0",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://storage.omnidev.org/Provenance-eh.ipa",
-      "size": 33980416,
-      "title": "Provenance",
-      "url": "https://github.com/Provenance-Emu/Provenance/",
-      "versions" : [
-        {
-          "version": "2.2.0",
-          "date" : "2024-11-28",
-          "downloadURL": "https://storage.omnidev.org/Provenance-eh.ipa",
-          "size": 33980416
-        }
-      ]
     },
     {
       "beta": false,
