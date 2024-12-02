@@ -23,31 +23,36 @@ If you would like to contribute to this repository, ask us in our [discord serve
 
 # Reposters
 
-Reposter,Original Tweak/Maintainer
-IPAUniverse: Telegram channel → IPAUniverse: GitHub repository → IPAUniverse: Website (MASSIVE CLONE, UNSAFE),TrollStore-IPAs / zxcvbn’s tweaked IPAs / iOSGods! / DPixel / binnichtaktiv’s iPA Library / CyPwn IPA Library / AppDB / ipalibrary.me / Kanji’s discord / BandarHL / dayanch96 / Manpreet Singh @thisismanpreeets / iOS Tutorials + App Cracks / whoeevee / EeveeSpotify IPAs
-CyPwn IPA Library,TrollStore-IPAs / iOSGods!
-LEOZIN_IPA (UNSAFE),TrollStore-IPAs / Sultan Mods
-AppCake (CLONE),zxcvbn’s tweaked IPAs / TrollStore-IPAs / iOSGods! / CyPwn IPA Library
-KAMO HACkS,zxcvbn’s tweaked IPAs / iOSGods!
-AppleFavour iPA Library,zxcvbn’s tweaked IPAs
-IPA-GOLD (UNSAFE),zxcvbn’s tweaked IPAs / HertzSign iPA Library / binnichtaktiv’s iPA Library
-iOS_MATRIX (UNSAFE),zxcvbn’s tweaked IPAs / AppDB / iOSGods! / iStorePlus / LazyShop
-IPA Fire (UNSAFE),zxcvbn’s tweaked IPAs / AppDB / Crack Hub / Blatant
-Panda Helper,zxcvbn’s tweaked IPAs / AppDB / iOSGods!
-AppValley VIP,zxcvbn’s tweaked IPAs / AppDB / iOSGods!
-DVC iPA (UNSAFE),zxcvbn’s tweaked IPAs / HertzSign iPA Library
-ipa.tweakdoor,zxcvbn’s tweaked IPAs / AppDB
-WuXu1 → AppDB,zxcvbn’s tweaked IPAs / Haidar_Phantom / CyPwn IPA Library
-Sultan Mods,zxcvbn’s tweaked IPAs / AppDB
-Da StashSpot 2.0 (UNSAFE),zxcvbn’s tweaked IPAs / AppDB / BandarHL / dayanch96 / ipalibrary.me / DPixel / iOSGods!
-Makarr iOS TikTok mod,iStorePlus / LazyShop / DzMoha / BandarHL / dayanch96
-ipaomtk,iOSGods! / AppDB
-IPA Free,iOSGods! / ipalibrary.me
-Trollstore+jailbreak,nowesr1
-TrollStore AppsUpdates,nowesr1
-Zappfree → TweakHome: Website (UNSAFE),iOSGods!
-TweakHome: Telegram channel (UNSAFE),iOSGods!
-IAppsBestLibrary,iOS Tutorials + App Cracks
-iexmo (CLONE),TrollStore-IPAs / ipalibrary.me
-shuyuan (CLONE),TrollStore-IPAs
-ThuthuatJB,TrollStore-IPAs
+# IPA Libraries & Tweaked IPAs Repositories
+
+A collection of repositories and sources for IPAs, tweaks, and apps.
+
+| **Reposter** | **Original Tweak/Maintainer** |
+|:-------------|------------------------------|
+| [IPAUniverse: Telegram channel](https://t.me/lPAUniverse) → [IPAUniverse: GitHub repository](https://github.com/abdoomaster/IPA_Archive/) → [IPAUniverse: Website](https://www.ipauniverse.com/) **(MASSIVE CLONE, UNSAFE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) / [DPixel](https://t.me/dpixel) / [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/) / [ipalibrary.me](https://ipalibrary.me) / [Kanji's discord](https://discord.gg/iotatweak) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) / [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) / [whoeevee](https://github.com/whoeevee/EeveeSpotify) / [EeveeSpotify IPAs](https://t.me/SpotilifeIPAs) |
+| [CyPwn IPA Library](https://ipa.cypwn.xyz) | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [iOSGods!](https://iosgods.com/) |
+| [LEOZIN_IPA](https://t.me/LEOZIN_IPA) **(UNSAFE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [Sultan Mods](https://t.me/SultanModsIPAs) |
+| [AppCake](https://www.iphonecake.com/tweak_index.php) **(CLONE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [iOSGods!](https://iosgods.com/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
+| [KAMO HACkS](https://t.me/kamohacks) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) |
+| [AppleFavour iPA Library](https://t.me/iparsiv) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) |
+| [IPA-GOLD](https://t.me/Proxy_Matrix) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [HertzSign iPA Library](https://t.me/HertzSign) / [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) |
+| [iOS_MATRIX](https://t.me/iOS_MATRIX) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) / [iStorePlus](https://t.me/iStoreplus) / [LazyShop](https://lazyshop.app/) |
+| [IPA Fire](https://t.me/ipafire) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [Crack Hub](https://t.me/crackhub_69) / [Blatant](https://t.me/notblatant) |
+| [Panda Helper](https://pandahelp.vip/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) |
+| [AppValley VIP](https://signulous.app-valley.vip/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [iOSGods!](https://iosgods.com/) |
+| [DVC iPA](https://t.me/dvcipaios) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [HertzSign iPA Library](https://t.me/HertzSign) |
+| [ipa.tweakdoor](https://ipa.tweakdoor.com/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) |
+| [WuXu1](https://github.com/WuXu1/WuXu1.github.io/) → [AppDB](https://appdb.to/) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [Haidar_Phantom](https://iosgods.com/topic/171723-ytkillerplus_v18229_2214-cracked/) / [CyPwn IPA Library](https://ipa.cypwn.xyz) |
+| [Sultan Mods](https://t.me/SultanModsIPAs) | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) |
+| [Da StashSpot 2.0](https://t.me/DaStashSpot) **(UNSAFE)** | [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [AppDB](https://appdb.to/) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) / [ipalibrary.me](https://ipalibrary.me) / [DPixel](https://t.me/dpixel) / [iOSGods!](https://iosgods.com/) |
+| [Makarr iOS TikTok mod](https://t.me/MakarrIOS) | [iStorePlus](https://t.me/iStoreplus) / [LazyShop](https://lazyshop.app/) / [DzMoha](https://twitter.com/contact_nadhir) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) |
+| [ipaomtk](https://ipaomtk.com/) | [iOSGods!](https://iosgods.com/) / [AppDB](https://appdb.to/) |
+| [IPA Free](https://t.me/IPA_FREE_RAK) | [iOSGods!](https://iosgods.com/) / [ipalibrary.me](https://ipalibrary.me) |
+| [Trollstore+jailbreak](https://t.me/trollstorebootstrap) | [nowesr1](https://twitter.com/nowesr1) |
+| [TrollStore AppsUpdates](https://t.me/TrollStoreApps) | [nowesr1](https://twitter.com/nowesr1) |
+| [Zappfree](https://zappfree.com/ipa-library/) → [TweakHome: Website](https://tweakhome.app/) **(UNSAFE)** | [iOSGods!](https://iosgods.com/) |
+| [TweakHome: Telegram channel](https://t.me/tweakhomeapps) **(UNSAFE)** | [iOSGods!](https://iosgods.com/) |
+| [IAppsBestLibrary](https://t.me/IAppsBestLibrary) | [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) |
+| [iexmo](https://iexmo.com/ipastore/) **(CLONE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [ipalibrary.me](https://ipalibrary.me) |
+| [shuyuan](https://github.com/shidahuilang/shuyuan) **(CLONE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) |
+| [ThuthuatJB](https://ipa.thuthuatjb.com/) | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IP
