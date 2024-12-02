@@ -1,10 +1,10 @@
 {
-  "name": "MySign IPA Repository",
+  "name": "MyApps IPA Repository",
   "identifier": "realmzer.ipa.source",
   "iconURL": "https://cdn.omnidev.org/IMG_3830-3H.png",
   "website": "https://discord.gg/HKdtmYUEzD",
   "patreonURL": "https://www.patreon.com/c/Realmzer",
-  "subtitle": "The official MySign Repository!",
+  "subtitle": "The official MyApp  Repository!",
   "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
   "tintColor": "4d9fb3",
   "featuredApps": [
@@ -3037,7 +3037,7 @@
     {
       "title": "Join our Discord Server!",
       "identifier": "joinourdcserver",
-      "caption": "If your using the Realmzer aka MyApps repo, please join our server for updates and free support. Tap this to join.",
+      "caption": "If your using the MyApps repo, please join our server for updates and free support. Tap this to join or join here: discord.gg/v4rGF3w3Vs",
       "date": "2024-11-28",
       "tintColor": "#8223ed",
       "imageURL": "https://cdn.omnidev.org/Discord_Symbol_1141822239-pi.png",
