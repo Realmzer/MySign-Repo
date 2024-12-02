@@ -23,10 +23,6 @@ If you would like to contribute to this repository, ask us in our [discord serve
 
 # Reposters
 
-# IPA Libraries & Tweaked IPAs Repositories
-
-A collection of repositories and sources for IPAs, tweaks, and apps.
-
 | **Reposter** | **Original Tweak/Maintainer** |
 |:-------------|------------------------------|
 | [IPAUniverse: Telegram channel](https://t.me/lPAUniverse) → [IPAUniverse: GitHub repository](https://github.com/abdoomaster/IPA_Archive/) → [IPAUniverse: Website](https://www.ipauniverse.com/) **(MASSIVE CLONE, UNSAFE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [zxcvbn's tweaked IPAs](https://t.me/zxcvbn_tweaked) / [iOSGods!](https://iosgods.com/) / [DPixel](https://t.me/dpixel) / [binnichtaktiv's iPA Library](https://t.me/binnichtaktivsipas) / [CyPwn IPA Library](https://ipa.cypwn.xyz) / [AppDB](https://appdb.to/) / [ipalibrary.me](https://ipalibrary.me) / [Kanji's discord](https://discord.gg/iotatweak) / [BandarHL](https://github.com/BandarHL/BHTikTok) / [dayanch96](https://github.com/dayanch96/BHTikTok) / [Manpreet Singh @thisismanpreeets](https://t.me/AppleTesters) / [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) / [whoeevee](https://github.com/whoeevee/EeveeSpotify) / [EeveeSpotify IPAs](https://t.me/SpotilifeIPAs) |
