@@ -1,8 +1,10 @@
 # MySigns IPA Repository
+
 A source that is growing everyday.
 
-Status:
+If you would like to contribute to this repository, ask us in our [discord server](https://discord.gg/hUK5m9MGFc)
 
+# Status Legend
 ✅ = Working
 
 ❌ = Not Working or discontinued
