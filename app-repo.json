@@ -18,24 +18,6 @@
   
   "apps": [
     {
-      "beta": false,
-      "name" : "Finger on the nothing",
-      "bundleIdentifier": "nothing",
-      "developerName" : "nothing",
-      "subtitle": "nothing",
-      "description": "nothing",
-      "localizedDescription": "nothing",
-      "iconURL": "https://cdn.omnidev.org/IMG_4252-HS.jpeg",
-      "tintColor": "FF0000",
-      "category": "utilities",
-      "version": "1.0",
-      "versionDate" : "2024-12-1",
-      "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
-      "size": 696969696969,
-      "title": "Finger on the nothing",
-      "url": "https://roblox.com",
-    },
-    {
       "beta": true,
       "name" : "Postbox",
       "bundleIdentifier": "com.simplycode.PostBox",
