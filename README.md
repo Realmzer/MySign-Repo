@@ -20,3 +20,34 @@ If you would like to contribute to this repository, ask us in our [discord serve
 🔥 = Recommended by Developer's
 
 🌟= Premium features unlocked
+
+# Reposters
+
+Reposter,Original Tweak/Maintainer
+IPAUniverse: Telegram channel→ IPAUniverse: GitHub repository→ IPAUniverse: Website (MASSIVE CLONE, UNSAFE),TrollStore-IPAs / zxcvbn’s tweaked IPAs / iOSGods! / DPixel / binnichtaktiv’s iPA Library / CyPwn IPA Library / AppDB / ipalibrary.me / Kanji’s discord / BandarHL / dayanch96 / Manpreet Singh @thisismanpreeets / iOS Tutorials + App Cracks / whoeevee / EeveeSpotify IPAs
+CyPwn IPA Library,TrollStore-IPAs / iOSGods!
+LEOZIN_IPA (UNSAFE),TrollStore-IPAs / Sultan Mods
+AppCake (CLONE),zxcvbn’s tweaked IPAs / TrollStore-IPAs / iOSGods! / CyPwn IPA Library
+KAMO HACkS,zxcvbn’s tweaked IPAs / iOSGods!
+AppleFavour iPA Library,zxcvbn’s tweaked IPAs
+IPA-GOLD (UNSAFE),zxcvbn’s tweaked IPAs / HertzSign iPA Library / binnichtaktiv’s iPA Library
+iOS_MATRIX (UNSAFE),zxcvbn’s tweaked IPAs / iOSGods! / iStorePlus ØªØ­Ø¯ÙØ«Ø§Øª / LazyShop
+IPA Fire (UNSAFE),zxcvbn’s tweaked IPAs / iOSGods! / Crack Hub / Blatant
+Panda Helper,zxcvbn’s tweaked IPAs / iOSGods!
+AppValley VIP,zxcvbn’s tweaked IPAs / iOSGods!
+DVC iPA (UNSAFE),zxcvbn’s tweaked IPAs / HertzSign iPA Library
+ipa.tweakdoor,zxcvbn’s tweaked IPAs / iOSGods!
+WuXu1→ AppDB,zxcvbn’s tweaked IPAs / Haidar_Phantom / CyPwn IPA Library
+Sultan Mods,zxcvbn’s tweaked IPAs / iOSGods!
+Da StashSpot 2.0 (UNSAFE),zxcvbn’s tweaked IPAs / iOSGods! / BandarHL / dayanch96 / ipalibrary.me / DPixel
+TikTok mod on iPhone / Makarr iOS TikTok mod on iPhone,iStorePlus ØªØ­Ø¯ÙØ«Ø§Øª / LazyShop
+ipaomtk,iOSGods! / iOS Tutorials + App Cracks
+IPA Free,iOSGods! / ipalibrary.me
+Trollstore+jailbreak,nowesr1
+TrollStore AppsUpdates,nowesr1
+Zappfree→ TweakHome: Website (UNSAFE),iOSGods!
+TweakHome: Telegram channel (UNSAFE),iOSGods!
+IAppsBestLibrary,iOS Tutorials + App Cracks
+iexmo (CLONE),TrollStore-IPAs / ipalibrary.me
+shuyuan (CLONE),TrollStore-IPAs
+ThuthuatJB,TrollStore-IPAs / [binnichtaktiv’s iPA Library](
