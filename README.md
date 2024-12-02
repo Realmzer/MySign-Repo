@@ -27,7 +27,7 @@ If you would like to contribute to this repository, ask us in our [discord serve
 
 A collection of repositories and sources for IPAs, tweaks, and apps. 
 
-| **Library Name**                                      | **Reposter**                                                                 |
+| **Reposter**                                      | **Source**                                                                 |
 |-------------------------------------------------------|-------------------------------------------------------------------------------|
 | **IPAUniverse**                                        | TrollStore-IPAs / zxcvbn’s tweaked IPAs / iOSGods! / DPixel / binnichtaktiv’s iPA Library / CyPwn IPA Library / ipalibrary.me / Kanji’s discord / BandarHL / dayanch96 / Manpreet Singh @thisismanpreeets / iOS Tutorials + App Cracks / whoeevee / EeveeSpotify IPAs |
 | **CyPwn IPA Library**                                  | TrollStore-IPAs / iOSGods!                                                   |
