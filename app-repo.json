@@ -18,6 +18,24 @@
   
   "apps": [
     {
+      "beta": false,
+      "name" : "Finger on the Trigger",
+      "bundleIdentifier": "black.oily.men",
+      "developerName" : "Skidz",
+      "subtitle": "(App needs demo password) Take your finger off and your phone explodes! (Literally)",
+      "description": "(App needs demo password) Take your finger off and your phone explodes! (Literally)\nStatus: 🤯",
+      "localizedDescription": "Take your finger off and your phone explodes! (Literally)\nStatus: 🤯",
+      "iconURL": "https://cdn.omnidev.org/IMG_4252-HS.jpeg",
+      "tintColor": "FF0000",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-1",
+      "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
+      "size": 696969696969,
+      "title": "Finger on the Trigger",
+      "url": "https://x.com/skadz108",
+    },
+    {
       "beta": true,
       "name" : "Postbox",
       "bundleIdentifier": "com.simplycode.PostBox",
