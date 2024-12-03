@@ -493,6 +493,32 @@
     },
     {
       "beta": false,
+      "name": "OldOS", 
+      "bundleIdentifier": "com.zurac.OldOS", 
+      "developerName": "zzanehip", 
+      "subtitle": "OldOS - iOS 4, brought back to life!",
+      "description": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅",
+      "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅", 
+      "iconURL": "https://cdn.omnidev.org/D_Gy5_hww_400x400-aK.png",
+      "tintColor": "1e1e1e",
+      "category": "utilities",
+      "version": "1.0.0",
+      "versionDate": "2024-09-26",
+      "downloadURL": "https://cdn.omnidev.org/Old_OS-bi.ipa",
+      "size": 88174592,
+      "title": "OldOS",
+      "url": "https://github.com/zzanehip/The-OldOS-Project",
+      "versions" : [
+        {
+          "version": "1.0.0",
+          "date" : "2024-09-26",
+          "downloadURL": "https://cdn.omnidev.org/Old_OS-bi.ipa",
+          "size": 88174592
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Sideload Bypass (1)",
       "bundleIdentifier": "com.realmzer.sideloadbypass1",
       "subtitle": "Easily make it so your sideloading it undetectable.",
@@ -1957,31 +1983,6 @@
   },
   {
     "beta": false,
-    "name" : "Climax",
-    "bundleIdentifier": "com.objcmsgsend.Climax",
-    "developerName" : "This is a porn app dont actually download it",
-    "subtitle": "Climax - Fake Robux Balance",
-    "description": "The best fake robux balance for iOS\nStatus: ✅",
-    "localizedDescription": "The best fake robux balance for iOS\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Climax-7O.png",
-    "tintColor": "88c1e8",
-    "category": "utilities",
-    "version": "2.1",
-    "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
-    "size": 962560,
-    "title": "Climax",
-    "versions" : [
-      {
-        "version": "2.1",
-        "date" : "2024-11-21",
-        "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
-        "size": 962560
-      }
-    ]
-  },
-  {
-    "beta": false,
     "name" : "iTorrent",
     "bundleIdentifier": "com.xitrix.iTorrent",
     "developerName": "XITRIX", 
@@ -2670,32 +2671,6 @@
     "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png" 
   },
   {
-    "beta": false,
-    "name": "OldOS", 
-    "bundleIdentifier": "com.zurac.OldOS", 
-    "developerName": "zzanehip", 
-    "subtitle": "OldOS - iOS 4, brought back to life!",
-    "description": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅",
-    "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅", 
-    "iconURL": "https://cdn.omnidev.org/D_Gy5_hww_400x400-aK.png",
-    "tintColor": "1e1e1e",
-    "category": "utilities",
-    "version": "1.0.0",
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://cdn.omnidev.org/Old_OS-bi.ipa",
-    "size": 88174592,
-    "title": "OldOS",
-    "url": "https://github.com/zzanehip/The-OldOS-Project",
-    "versions" : [
-      {
-        "version": "1.0.0",
-        "date" : "2024-09-26",
-        "downloadURL": "https://cdn.omnidev.org/Old_OS-bi.ipa",
-        "size": 88174592
-      }
-    ]
-  },
-   {
     "name": "PPSSPP++", 
     "bundleIdentifier": "org.ppsspp.ppsspp", 
     "subtitle": "The best retro game emulator!",
@@ -2708,7 +2683,7 @@
     "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
     "iconURL": "https://cdn.omnidev.org/x_Fmk_Q_Tz-L2.png" 
   },
-   {
+  {
     "name": "Mangayomi", 
     "bundleIdentifier": "com.kodjodevf.mangayomi", 
     "subtitle": "Manga and Anime viewer!",
@@ -2837,6 +2812,49 @@
     "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
     "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
     "versionDate": "2024-10-15"
+  },
+  {
+    "beta": false,
+    "name" : "Climax",
+    "bundleIdentifier": "com.objcmsgsend.Climax",
+    "developerName" : "This is a porn app dont actually download it",
+    "subtitle": "Climax - Fake Robux Balance",
+    "description": "The best fake robux balance for iOS\nStatus: ✅",
+    "localizedDescription": "The best fake robux balance for iOS\nStatus: ✅",
+    "iconURL": "https://cdn.omnidev.org/Climax-7O.png",
+    "tintColor": "88c1e8",
+    "category": "utilities",
+    "version": "2.1",
+    "versionDate" : "2024-11-21",
+    "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
+    "size": 962560,
+    "title": "Climax",
+    "versions" : [
+      {
+        "version": "2.1",
+        "date" : "2024-11-21",
+        "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
+        "size": 962560
+      }
+    ]
+  },
+  {
+    "beta": true,
+    "name" : "Hot Tub",
+    "bundleIdentifier": "com.c1d3r.Hot-Tub",
+    "developerName" : "c1d3rdev",
+    "subtitle": "Introducing Hot Tub: The best way to watch porn on iOS",
+    "description": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
+    "localizedDescription": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
+    "iconURL": "https://cdn.omnidev.org/IMG_4263-0O.png",
+    "tintColor": "f5896f",
+    "category": "entertainment",
+    "version": "2.0.1",
+    "versionDate" : "2024-12-2",
+    "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
+    "size": 19610000,
+    "title": "Hot Tub",
+     "url": "https://hottubapp.io/",
   },
   {
     "beta": false,
