@@ -84,11 +84,11 @@
     {
       "beta": false,
       "name" : "PureKFD",
-      "bundleIdentifier": "uwu.lrdsnow.purekfdiplogger",
-      "developerName" : "lrdiplogger",
-      "subtitle": "PureKFD - Alternative to Nugget PC with slightly more functionality",
-      "description": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
-      "localizedDescription": "Warning: Dont sideload this app with a enterprise certificate\nPureKFD - SparseRestore and KFD exploit in one app\nStatus: ✅🔥",
+      "bundleIdentifier": "uwu.lrdsnow.purekfd",
+      "developerName" : "lrdsnow",
+      "subtitle": "PureKFD - on device customization",
+      "description": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🔥",
+      "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🔥",
       "iconURL": "https://cdn.omnidev.org/Icon-Si.png",
       "tintColor": "000000",
       "category": "utilities",
@@ -112,9 +112,9 @@
       "name" : "Nugget",
       "bundleIdentifier": "com.leemin.nugget",
       "developerName" : "leminlimez",
-      "subtitle": "Nugget - Mobile",
-      "description": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
-      "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ✅",
+      "subtitle": "Nugget - on device customization",
+      "description": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅",
+      "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅",
       "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
       "tintColor": "9a2bff",
       "category": "utilities",
@@ -306,6 +306,44 @@
           "size": 7245924
         }
       ]
+    },     
+    {
+      "beta": false,
+      "name" : "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName" : "Samara",
+      "subtitle": "On-device signing application",
+      "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/feather-au.png",
+      "tintColor": "848ef9",
+      "category": "utilities",
+      "version" : "1.1.3",
+      "versionDate" : "2024-11-02",
+      "downloadURL": "https://cdn.omnidev.org/feather_v1_1_3-Xp.ipa",
+      "size": 12496896,
+      "title": "Feather",
+      "url": "https://github.com/khcrysalis/Feather/",
+      "versions" : [
+        {
+          "version" : "1.1.3",
+          "date" : "2024-11-02",
+          "downloadURL": "https://cdn.omnidev.org/feather_v1_1_3-Xp.ipa",
+          "size": 12496896
+        },
+        {
+          "version" : "1.0.5",
+          "date" : "2024-10-30",
+          "downloadURL": "https://cdn.omnidev.org/feather_v1_0_5-e6.ipa",
+          "size": 12375230
+        },
+        {
+          "version" : "1.1.2",
+          "date" : "2024-11-01",
+          "downloadURL": "https://cdn.omnidev.org/feather_v1_1_2-IW.ipa",
+          "size": 13107200
+        }
+      ]
     },
     {
       "beta": false,
@@ -376,32 +414,6 @@
       "downloadURL": "https://cdn.omnidev.org/hdflixnoads4_0-Yb.ipa",
       "title": "HD Flix No Ads",
       "url": "https://t.me/HD_Flix_Channel/" 
-    },
-    {
-      "beta": false,
-      "name" : "LogRide",
-      "bundleIdentifier": "com.parksman.LogRide",
-      "developerName" : "PARKWIDE LLC",
-      "subtitle": "LogRide - Largest theme park database",
-      "description": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
-      "localizedDescription": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/logride-aP.png",
-      "tintColor": "68b547",
-      "category": "utilities",
-      "version" : "6.9.4",
-      "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
-      "size": 24649728,
-      "title": "LogRide",
-      "url": "https://logrideapp.com/",
-      "versions" : [
-        {
-          "version" : "6.9.4",
-          "date" : "2024-11-04",
-          "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
-          "size": 24649728
-        }
-      ]
     },
     {
       "beta": false,
@@ -1116,6 +1128,32 @@
     },
     {
       "beta": false,
+      "name" : "LogRide",
+      "bundleIdentifier": "com.parksman.LogRide",
+      "developerName" : "PARKWIDE LLC",
+      "subtitle": "LogRide - Largest theme park database",
+      "description": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
+      "localizedDescription": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/logride-aP.png",
+      "tintColor": "68b547",
+      "category": "utilities",
+      "version" : "6.9.4",
+      "versionDate" : "2024-11-04",
+      "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+      "size": 24649728,
+      "title": "LogRide",
+      "url": "https://logrideapp.com/",
+      "versions" : [
+        {
+          "version" : "6.9.4",
+          "date" : "2024-11-04",
+          "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+          "size": 24649728
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
@@ -1165,6 +1203,24 @@
           "size": 33980416
         }
       ]
+    },
+    {
+      "beta": false,
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp-free",
+      "subtitle": "PPSSPP - A PSP Emulator",
+      "description": "The best PSP Emulator for IOS Written in C++ Status: ✅",
+      "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
+      "developerName": "hrydgard",
+      "iconURL": "https://cdn.omnidev.org/ppsspp-Kh.png",
+      "tintColor": "96cbda",
+      "category": "games",
+      "size": 11534336,
+      "version": "1.17.4",
+      "versionDate": "2024-10-12",
+      "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
+      "title": "PPSSPP",
+      "url": "https://www.ppsspp.org/" 
     },
     {
       "beta": false,
@@ -1273,24 +1329,6 @@
       "downloadURL": "https://cdn.omnidev.org/Undertale_BNP-El.ipa",
       "title": "Undertale Bits & Pieces",
       "url": "https://gamejolt.com/games/UndertaleBnP/574044" 
-    },
-    {
-      "beta": false,
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp-free",
-      "subtitle": "PPSSPP - A PSP Emulator",
-      "description": "The best PSP Emulator for IOS Written in C++ Status: ✅",
-      "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
-      "developerName": "hrydgard",
-      "iconURL": "https://cdn.omnidev.org/ppsspp-Kh.png",
-      "tintColor": "96cbda",
-      "category": "games",
-      "size": 11534336,
-      "version": "1.17.4",
-      "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
-      "title": "PPSSPP",
-      "url": "https://www.ppsspp.org/" 
     },
     {
       "beta": false,
@@ -1702,44 +1740,6 @@
         "date" : "2024-10-29",
         "downloadURL": "https://cdn.omnidev.org/osu_i_OS_2024_1009_1-G8.ipa",
         "size": 196280320
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Feather",
-    "bundleIdentifier": "kh.crysalis.feather",
-    "developerName" : "Samara",
-    "subtitle": "On-device signing application",
-    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
-    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/feather-au.png",
-    "tintColor": "848ef9",
-    "category": "utilities",
-    "version" : "1.1.3",
-    "versionDate" : "2024-11-02",
-    "downloadURL": "https://cdn.omnidev.org/feather_v1_1_3-Xp.ipa",
-    "size": 12496896,
-    "title": "Feather",
-    "url": "https://github.com/khcrysalis/Feather/",
-    "versions" : [
-      {
-        "version" : "1.1.3",
-        "date" : "2024-11-02",
-        "downloadURL": "https://cdn.omnidev.org/feather_v1_1_3-Xp.ipa",
-        "size": 12496896
-      },
-      {
-        "version" : "1.0.5",
-        "date" : "2024-10-30",
-        "downloadURL": "https://cdn.omnidev.org/feather_v1_0_5-e6.ipa",
-        "size": 12375230
-      },
-      {
-        "version" : "1.1.2",
-        "date" : "2024-11-01",
-        "downloadURL": "https://cdn.omnidev.org/feather_v1_1_2-IW.ipa",
-        "size": 13107200
       }
     ]
   },
