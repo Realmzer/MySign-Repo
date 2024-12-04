@@ -1049,6 +1049,68 @@
     },
     {
       "beta": false,
+      "name" : "TikTokAC",
+      "bundleIdentifier": "com.zhiliaoapp.musically1",
+      "developerName" : "ByteDance & moeotf",
+      "subtitle": "TikTokAC - Stable TikTok Tweak",
+      "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
+      "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/tiktok_6338429_1280-wV.webp",
+      "tintColor": "08f3da",
+      "category": "social",
+      "version": "37.5.0-Patched",
+      "versionDate" : "2024-11-30",
+      "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
+      "size": 326320128,
+      "title": "TikTokAC",
+      "versions" : [
+        {
+          "version": "37.5.0-Patched",
+          "date" : "2024-11-30",
+          "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0_Moe_patched-y4.ipa",
+          "size": 326320128
+        },
+        {
+          "version": "37.5.0",
+          "date" : "2024-11-29",
+          "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
+          "size": 326307840
+        },
+        {
+          "version": "37.4.0",
+          "date" : "2024-11-24",
+          "downloadURL": "https://cdn.omnidev.org/Tik_Tok_AC_37_4_0_Moe-D2.ipa",
+          "size": 316399616
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Instagram Regram", 
+      "bundleIdentifier": "com.burbn.instagram", 
+      "developerName": "Meta", 
+      "subtitle": "Instagram with Regram Cracked!",
+      "description": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
+      "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn.omnidev.org/com_burbn_instagram-DD.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "356.0.0",
+      "date" : "2024-11-23",
+      "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
+      "size": 193929216,
+      "title": "Instagram Regram",
+      "versions" : [
+        {
+          "version": "356.0.0",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
+          "size": 193929216
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "YTMusicUltimate",
       "bundleIdentifier": "com.ginsu.ytmusicultimate",
       "developerName" : "dvntms",
@@ -1247,6 +1309,32 @@
       "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
       "title": "PPSSPP",
       "url": "https://www.ppsspp.org/" 
+    },
+    {
+      "beta": false,
+      "name" : "FlyCast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "developerName": "FlyingHead",
+      "subtitle": "FlyCast - Dreamcast Emulator",
+      "description": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
+      "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/images_3-Ox.png",
+      "tintColor": "934df9",
+      "category": "games",
+      "version": "2.4.0",
+      "versionDate": "2024-10-31",
+      "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
+      "size": 7885887,
+      "title": "FlyCast",
+      "url": "https://github.com/flyinghead/flycast",
+      "versions" : [
+        {
+          "version": "2.4.0",
+          "date" : "2024-10-31",
+          "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
+          "size": 7885887
+        }
+      ]
     },
     {
       "beta": false,
@@ -1897,43 +1985,6 @@
   },
   {
     "beta": false,
-    "name" : "TikTokAC",
-    "bundleIdentifier": "com.zhiliaoapp.musically1",
-    "developerName" : "ByteDance & moeotf",
-    "subtitle": "TikTokAC - Stable TikTok Tweak",
-    "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
-    "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/tiktok_6338429_1280-wV.webp",
-    "tintColor": "08f3da",
-    "category": "social",
-    "version": "37.5.0-Patched",
-    "versionDate" : "2024-11-30",
-    "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
-    "size": 326320128,
-    "title": "TikTokAC",
-    "versions" : [
-      {
-        "version": "37.5.0-Patched",
-        "date" : "2024-11-30",
-        "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0_Moe_patched-y4.ipa",
-        "size": 326320128
-      },
-      {
-        "version": "37.5.0",
-        "date" : "2024-11-29",
-        "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
-        "size": 326307840
-      },
-      {
-        "version": "37.4.0",
-        "date" : "2024-11-24",
-        "downloadURL": "https://cdn.omnidev.org/Tik_Tok_AC_37_4_0_Moe-D2.ipa",
-        "size": 316399616
-      }
-    ]
-  },
-  {
-    "beta": false,
     "name" : "Picsart iProMoe",
     "bundleIdentifier": "com.picsart.studio1",
     "developerName" : "PicsArt & moeotf",
@@ -2505,31 +2556,6 @@
   },
   {
     "beta": false,
-    "name": "Instagram Regram", 
-    "bundleIdentifier": "com.burbn.instagram", 
-    "developerName": "Meta", 
-    "subtitle": "Instagram with Regram Cracked!",
-    "description": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
-    "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/com_burbn_instagram-DD.png",
-    "tintColor": "fe0297",
-    "category": "social",
-    "version": "356.0.0",
-    "date" : "2024-11-23",
-    "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
-    "size": 193929216,
-    "title": "Instagram Regram",
-    "versions" : [
-      {
-        "version": "356.0.0",
-        "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
-        "size": 193929216
-      }
-    ]
-  },
-  {
-    "beta": false,
     "name" : "Enmity",
     "bundleIdentifier": "com.hammerandchisel.discord",
     "developerName": "Emnity Development Team",
@@ -3027,32 +3053,6 @@
         "date" : "2024-10-31",
         "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
         "size": 151322254
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "FlyCast",
-    "bundleIdentifier": "com.flyinghead.Flycast",
-    "developerName": "FlyingHead",
-    "subtitle": "FlyCast - Dreamcast Emulator",
-    "description": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
-    "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/images_3-Ox.png",
-    "tintColor": "934df9",
-    "category": "games",
-    "version": "2.4.0",
-    "versionDate": "2024-10-31",
-    "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
-    "size": 7885887,
-    "title": "FlyCast",
-    "url": "https://github.com/flyinghead/flycast",
-    "versions" : [
-      {
-        "version": "2.4.0",
-        "date" : "2024-10-31",
-        "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
-        "size": 7885887
       }
     ]
   }
