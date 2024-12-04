@@ -531,6 +531,32 @@
     },
     {
       "beta": false,
+      "name": "Anonycord",
+      "bundleIdentifier": "live.cclerc.Anonycord",
+      "developerName": "c22Dev",
+      "subtitle": "Anonycord - A video-recorder without preview.",
+      "description": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
+      "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
+      "tintColor": "6d6d6d",
+      "category": "photo-video",
+      "version": "1.2",
+      "versionDate": "2024-10-09",
+      "downloadURL": "https://cdn.omnidev.org/Anonycord-J9.ipa",
+      "size": 1392905,
+      "title": "Anonycord",
+      "url": "https://github.com/c22dev/Anonycord/",
+      "versions" : [
+        {
+          "version": "1.2",
+          "date" : "2024-10-09",
+          "downloadURL": "https://cdn.omnidev.org/Anonycord-J9.ipa",
+          "size": 1392905
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "iPlistGen",
       "bundleIdentifier": "dev.casp.iPlistGen",
       "subtitle": "Distribute your iOS Xcode applications without a computer fast.",
@@ -1526,6 +1552,32 @@
       "downloadURL": "https://cdn.omnidev.org/Sonic_Mania-BK.ipa",
       "title": "Sonic Mania",
       "url": "https://sonicthehedgehog.com/sonic-mania-plus/" 
+    },   
+    {
+      "beta": false,
+      "name": "Sonic Runners Revival",
+      "bundleIdentifier": "com.sonicrunners.revival",
+      "subtitle": "Sonic Runners Revival - A revival of SR",
+      "developerName": "The Sonic Runners Revival Team",
+      "description": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+      "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/Sonic_Runners_App_Icon_2_0-mR.png",
+      "tintColor": "4555ef",
+      "category": "games",
+      "version": "2.2.4",
+      "size": 151322254,
+      "versionDate": "2024-10-27",
+      "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
+      "title": "Sonic Runners Revival",
+      "url": "https://sonicrunners.com/",
+      "versions" : [
+        {
+          "version": "2.2.4",
+          "date" : "2024-10-31",
+          "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
+          "size": 151322254
+        }
+      ]
     },
     {
       "beta": false,
@@ -2859,32 +2911,6 @@
   },
   {
     "beta": false,
-    "name": "Anonycord",
-    "bundleIdentifier": "live.cclerc.Anonycord",
-    "developerName": "c22Dev",
-    "subtitle": "Anonycord - A video-recorder without preview.",
-    "description": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
-    "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
-    "tintColor": "6d6d6d",
-    "category": "photo-video",
-    "version": "1.2",
-    "versionDate": "2024-10-09",
-    "downloadURL": "https://cdn.omnidev.org/Anonycord-J9.ipa",
-    "size": 1392905,
-    "title": "Anonycord",
-    "url": "https://github.com/c22dev/Anonycord/",
-    "versions" : [
-      {
-        "version": "1.2",
-        "date" : "2024-10-09",
-        "downloadURL": "https://cdn.omnidev.org/Anonycord-J9.ipa",
-        "size": 1392905
-      }
-    ]
-  },
-  {
-    "beta": false,
     "name": "BSD Brawl Stars", 
     "bundleIdentifier": "bsd.suitcase.release", 
     "subtitle": "Brawl Stars with hacks! This runs on normal servers, so you will be able to use your main account. Not bannable as far as I know.\n\nStatus: ✅🔥",
@@ -3030,32 +3056,6 @@
     "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   },
-  {
-    "beta": false,
-    "name": "Sonic Runners Revival",
-    "bundleIdentifier": "com.sonicrunners.revival",
-    "subtitle": "Sonic Runners Revival - A revival of SR",
-    "developerName": "The Sonic Runners Revival Team",
-    "description": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
-    "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/Sonic_Runners_App_Icon_2_0-mR.png",
-    "tintColor": "4555ef",
-    "category": "games",
-    "version": "2.2.4",
-    "size": 151322254,
-    "versionDate": "2024-10-27",
-    "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
-    "title": "Sonic Runners Revival",
-    "url": "https://sonicrunners.com/",
-    "versions" : [
-      {
-        "version": "2.2.4",
-        "date" : "2024-10-31",
-        "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
-        "size": 151322254
-      }
-    ]
-  }
   ],
   "news": [
     {
