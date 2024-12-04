@@ -1583,96 +1583,43 @@
       "beta": false,
       "name": "Friday Night Funkin: Psych Engine 1.0",
       "bundleIdentifier": "com.shadowmario.psychengine10",
+      "developerName": "ShadowMario & MobilePorting",
       "subtitle": "Psych Engine: Open Source FNF Engine",
       "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
       "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "developerName": "ShadowMario & MobilePorting",
       "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
       "tintColor": "6633cc",
       "category": "games",
-      "size": 328896512,
       "version": "1.0",
       "versionDate": "2024-10-26",
       "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0-nN.ipa",
+      "size": 328896512,
       "title": "Friday Night Funkin: Psych Engine 1.0",
-      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
-    },
-    {
-      "beta": true,
-      "name": "Friday Night Funkin: Psych Engine 1.0 Pre-Release",
-      "bundleIdentifier": "com.shadowmario.psychengine10pre",
-      "subtitle": "Psych Engine: Open Source FNF Engine",
-      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "developerName": "ShadowMario & MobilePorting",
-      "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
-      "tintColor": "6633cc",
-      "category": "games",
-      "size": 327700480,
-      "version": "1.0-Pre",
-      "versionDate": "2024-10-26",
-      "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0pre-II.ipa",
-      "title": "Friday Night Funkin: Psych Engine 1.0 Pre-Release",
-      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
-    },
-    {
-      "beta": false,
-      "name": "Friday Night Funkin: Psych Engine 0.7.3",
-      "bundleIdentifier": "com.shadowmario.psychengine073",
-      "subtitle": "Psych Engine: Open Source FNF Engine",
-      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "developerName": "ShadowMario & MobilePorting",
-      "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
-      "tintColor": "6633cc",
-      "category": "games",
-      "size": 182427648,
-      "version": "0.7.3",
-      "versionDate": "2024-10-26",
-      "downloadURL": "https://cdn.omnidev.org/Psych_Engine073-h9.ipa",
-      "title": "Friday Night Funkin: Psych Engine 0.7.3",
-      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
-    },
-    {
-      "beta": false,
-      "name": "Friday Night Funkin: Psych Engine 0.6.3",
-      "bundleIdentifier": "com.shadowmario.psychengine063",
-      "subtitle": "Psych Engine: Open Source FNF Engine",
-      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "developerName": "ShadowMario & MobilePorting",
-      "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
-      "tintColor": "6633cc",
-      "category": "games",
-      "size": 219418624,
-      "version": "0.6.3",
-      "versionDate": "2024-10-26",
-      "downloadURL": "https://cdn.omnidev.org/Psych_Engine063-pH.ipa",
-      "title": "Friday Night Funkin: Psych Engine 0.6.3",
-      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile" 
-    },
-    {
-      "beta": false,
-      "name" : "Bad Piggies (Hack)",
-      "bundleIdentifier": "com.rovio.BadPiggies",
-      "developerName" : "Rovio Entertainment & iOS Gods",
-      "subtitle": "Bad Piggies - funny pig game",
-      "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
-      "localizedDescription": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
-      "iconURL": "https://cdn.omnidev.org/100x100bb-cS.png",
-      "tintColor": "58bf2f",
-      "category": "games",
-      "version": "2.3.9",
-      "versionDate" : "2024-11-19",
-      "downloadURL": "https://cdn.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
-      "size": 66232320,
-      "title": "Bad Piggies (Hack)",
-      "versions" : [
+      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
+      "versions": [
         {
-          "version": "2.3.9",
-          "date" : "2024-11-19",
-          "downloadURL": "https://cdn.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
-          "size": 66232320
+          "version": "1.0",
+          "date": "2024-10-26",
+          "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0-nN.ipa",
+          "size": 328896512
+        },
+        {
+          "version": "1.0-Pre",
+          "date": "2024-10-26",
+          "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0pre-II.ipa",
+          "size": 327700480
+        },
+        {
+          "version": "0.7.3",
+          "date": "2024-10-26",
+          "downloadURL": "https://cdn.omnidev.org/Psych_Engine073-h9.ipa",
+          "size": 182427648
+        },
+        {
+          "version": "0.6.3",
+          "date": "2024-10-26",
+          "downloadURL": "https://cdn.omnidev.org/Psych_Engine063-pH.ipa",
+          "size": 219418624
         }
       ]
     },
@@ -1913,6 +1860,31 @@
         "date" : "2024-11-29",
         "downloadURL": "https://cdn.omnidev.org/Celeste_full_screen-mf.ipa",
         "size": 885006336
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "Bad Piggies (Hack)",
+    "bundleIdentifier": "com.rovio.BadPiggies",
+    "developerName" : "Rovio Entertainment & iOS Gods",
+    "subtitle": "Bad Piggies - funny pig game",
+    "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
+    "localizedDescription": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
+    "iconURL": "https://cdn.omnidev.org/100x100bb-cS.png",
+    "tintColor": "58bf2f",
+    "category": "games",
+    "version": "2.3.9",
+    "versionDate" : "2024-11-19",
+    "downloadURL": "https://cdn.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
+    "size": 66232320,
+    "title": "Bad Piggies (Hack)",
+    "versions" : [
+      {
+        "version": "2.3.9",
+        "date" : "2024-11-19",
+        "downloadURL": "https://cdn.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
+        "size": 66232320
       }
     ]
   },
