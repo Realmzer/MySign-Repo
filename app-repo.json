@@ -1311,6 +1311,19 @@
       "url": "https://www.ppsspp.org/" 
     },
     {
+      "name": "PPSSPP++", 
+      "bundleIdentifier": "org.ppsspp.ppsspp", 
+      "subtitle": "The best retro game emulator!",
+      "versionDate": "2024-09-26",
+      "version": "1.15.3",
+      "size": 195238232, 
+      "category": "games",
+      "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa", 
+      "developerName": "Henrik Rydgard", 
+      "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
+      "iconURL": "https://cdn.omnidev.org/x_Fmk_Q_Tz-L2.png" 
+    },
+    {
       "beta": false,
       "name" : "FlyCast",
       "bundleIdentifier": "com.flyinghead.Flycast",
@@ -1333,6 +1346,58 @@
           "date" : "2024-10-31",
           "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
           "size": 7885887
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "DolphiniOS JIT",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "subtitle": "DolphiniOS JIT - A iOS Wii Emulator",
+      "developerName": "OatmealDome",
+      "description": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥", 
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+      "tintColor": "31bdff",
+      "category": "games",
+      "version": "4.0.0b7",
+      "size": 14470348,
+      "versionDate": "2024-10-25",
+      "downloadURL": "https://cdn.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
+      "title": "DolphiniOS JIT",
+      "url": "https://dolphinios.oatmealdome.me/",
+      "versions" : [
+        {
+          "version": "4.0.0b7",
+          "date" : "2024-10-25",
+          "downloadURL": "https://cdn.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
+          "size": 14470348
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "DolphiniOS Non-JIT",
+      "bundleIdentifier": "com.brand175.DolphiniOS-njb",
+      "subtitle": "DolphiniOS Non-JIT - A bit more laggier than regular",
+      "developerName": "OatmealDome",
+      "description": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥", 
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+      "tintColor": "31bdff",
+      "category": "games",
+      "version": "3.2.1",
+      "size": 16043212,
+      "versionDate": "2024-10-25",
+      "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
+      "title": "DolphiniOS Non-JIT",
+      "url": "https://dolphinios.oatmealdome.me/",
+      "versions" : [
+        {
+          "version": "3.2.1",
+          "date" : "2024-10-25",
+          "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
+          "size": 16043212
         }
       ]
     },
@@ -2729,19 +2794,6 @@
     "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png" 
   },
   {
-    "name": "PPSSPP++", 
-    "bundleIdentifier": "org.ppsspp.ppsspp", 
-    "subtitle": "The best retro game emulator!",
-    "versionDate": "2024-09-26",
-    "version": "1.15.3",
-    "size": 195238232, 
-    "category": "games",
-    "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa", 
-    "developerName": "Henrik Rydgard", 
-    "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
-    "iconURL": "https://cdn.omnidev.org/x_Fmk_Q_Tz-L2.png" 
-  },
-  {
     "name": "Mangayomi", 
     "bundleIdentifier": "com.kodjodevf.mangayomi", 
     "subtitle": "Manga and Anime viewer!",
@@ -2913,58 +2965,6 @@
     "size": 19610000,
     "title": "Hot Tub",
      "url": "https://hottubapp.io/"
-  },
-  {
-    "beta": false,
-    "name": "DolphiniOS JIT",
-    "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-    "subtitle": "DolphiniOS JIT - A iOS Wii Emulator",
-    "developerName": "OatmealDome",
-    "description": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥", 
-    "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
-    "tintColor": "31bdff",
-    "category": "games",
-    "version": "4.0.0b7",
-    "size": 14470348,
-    "versionDate": "2024-10-25",
-    "downloadURL": "https://cdn.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
-    "title": "DolphiniOS JIT",
-    "url": "https://dolphinios.oatmealdome.me/",
-    "versions" : [
-      {
-        "version": "4.0.0b7",
-        "date" : "2024-10-25",
-        "downloadURL": "https://cdn.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
-        "size": 14470348
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "DolphiniOS Non-JIT",
-    "bundleIdentifier": "com.brand175.DolphiniOS-njb",
-    "subtitle": "DolphiniOS Non-JIT - A bit more laggier than regular",
-    "developerName": "OatmealDome",
-    "description": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥", 
-    "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
-    "tintColor": "31bdff",
-    "category": "games",
-    "version": "3.2.1",
-    "size": 16043212,
-    "versionDate": "2024-10-25",
-    "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
-    "title": "DolphiniOS Non-JIT",
-    "url": "https://dolphinios.oatmealdome.me/",
-    "versions" : [
-      {
-        "version": "3.2.1",
-        "date" : "2024-10-25",
-        "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
-        "size": 16043212
-      }
-    ]
   },
   {
     "beta": false,
