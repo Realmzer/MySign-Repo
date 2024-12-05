@@ -492,6 +492,32 @@
           "size": 88174592
         }
       ]
+    },    
+    {
+      "beta": false,
+      "name" : "LocalSend",
+      "bundleIdentifier": "org.localsend.localsendApp",
+      "developerName" : "Tien Do Nam",
+      "subtitle": "LocalSend - Cross-Platform File Sharing",
+      "description": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/localsend-TR.png",
+      "tintColor": "008080",
+      "category": "utilities",
+      "version": "1.15.4",
+      "versionDate" : "2024-10-30",
+      "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
+      "size": 16416768,
+      "title": "LocalSend",
+      "url": "https://github.com/localsend/localsend",
+      "versions" : [
+        {
+          "version": "1.15.4",
+          "date" : "2024-10-30",
+          "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
+          "size": 16416768
+        }
+      ]
     },
     {
       "beta": false,
@@ -1393,6 +1419,31 @@
     },
     {
       "beta": false,
+      "name": "Pomelo", 
+      "bundleIdentifier": "com.stossy11.Pomelo",
+      "developerName": "Stossy11, TechGuy",
+      "subtitle": "A Nintendo Swicth Emulator for iOS",
+      "description": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn.omnidev.org/IMG_5317-nr.png",
+      "tintColor": "fdaf1f",
+      "category": "games",
+      "version": "2.6",
+      "date" : "2024-11-23",
+      "downloadURL": "https://cdn.omnidev.org/Pomelo-v3.ipa",
+      "size": 28909568,
+      "title": "Pomelo",
+      "versions" : [
+        {
+          "version": "2.6",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn.omnidev.org/Pomelo-v3.ipa",
+          "size": 28909568
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Deltarune Chapter 1",
       "bundleIdentifier": "com.jockelholm.undertaledr",
       "subtitle": "Deltarune Chapter 1 - IOS Port",
@@ -2265,50 +2316,6 @@
   },
   {
     "beta": false,
-    "name" : "LocalSend",
-    "bundleIdentifier": "org.localsend.localsendApp",
-    "developerName" : "Tien Do Nam",
-    "subtitle": "LocalSend - Cross-Platform File Sharing",
-    "description": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
-    "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/localsend-TR.png",
-    "tintColor": "008080",
-    "category": "utilities",
-    "version": "1.15.4",
-    "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
-    "size": 16416768,
-    "title": "LocalSend",
-    "url": "https://github.com/localsend/localsend",
-    "versions" : [
-      {
-        "version": "1.15.4",
-        "date" : "2024-10-30",
-        "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
-        "size": 16416768
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "LocalSend v1.15.4",
-    "bundleIdentifier": "org.localsend.localsendApp1154",
-    "developerName" : "Tien Do Nam",
-    "subtitle": "LocalSend - Cross-Platform File Sharing",
-    "description": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
-    "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/localsend-TR.png",
-    "tintColor": "008080",
-    "category": "utilities",
-    "version": "1.15.4",
-    "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
-    "size": 16416768,
-    "title": "LocalSend v1.15.4",
-    "url": "https://github.com/localsend/localsend"
-  },
-  {
-    "beta": false,
     "name" : "Fortnite",
     "bundleIdentifier": "org.epicgames.FortniteGame",
     "developerName" : "Epic Games",
@@ -2581,31 +2588,6 @@
     "iconURL": "https://cdn.omnidev.org/Cap_Cut_12_0_Cracked-R0.png",
     "size": 136314880,
     "subtitle": "CapCut with MOST premium features unlocked!"
-  },
-  {
-    "beta": false,
-    "name": "Pomelo", 
-    "bundleIdentifier": "com.stossy11.Pomelo",
-    "developerName": "Stossy11, TechGuy",
-    "subtitle": "A Nintendo Swicth Emulator for iOS",
-    "description": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/IMG_5317-nr.png",
-    "tintColor": "fdaf1f",
-    "category": "games",
-    "version": "2.6",
-    "date" : "2024-11-23",
-    "downloadURL": "https://cdn.omnidev.org/Pomelo-v3.ipa",
-    "size": 28909568,
-    "title": "Pomelo",
-    "versions" : [
-      {
-        "version": "2.6",
-        "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/Pomelo-v3.ipa",
-        "size": 28909568
-      }
-    ]
   },
   {
     "beta": false,
