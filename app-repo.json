@@ -347,25 +347,31 @@
     },
     {
       "beta": false,
-      "name" : "GBox",
+      "name": "GBox",
       "bundleIdentifier": "com.ncs.gbox",
-      "developerName" : "GBox",
+      "developerName": "GBox",
       "subtitle": "GBox - IPA signer",
-      "description": "GBox is an iOS signer that doesnt need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
-      "localizedDescription": "GBox is an iOS signer that doesnt need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
+      "description": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
+      "localizedDescription": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
       "iconURL": "https://cdn.omnidev.org/icon256-wM.png",
       "tintColor": "03de60",
       "category": "utilities",
-      "version": "5.6.8",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn.omnidev.org/Gbox_5_6_8-5D.ipa",
+      "version": "5.6.9",
+      "versionDate": "2024-12-04",
+      "downloadURL": "https://cdn.omnidev.org/G_Box_v5_6_9-CI.ipa",
       "size": 6766592,
       "title": "GBox",
       "url": "https://gbox.run/",
-      "versions" : [
+      "versions": [
+        {
+          "version": "5.6.8",
+          "date": "2024-11-28",
+          "downloadURL": "https://cdn.omnidev.org/Gbox_5_6_8-5D.ipa",
+          "size": 6766592
+        },
         {
           "version": "5.6.7",
-          "date" : "2024-11-26",
+          "date": "2024-11-26",
           "downloadURL": "https://cdn.omnidev.org/G_Box_v5_6_7-9h.ipa",
           "size": 6766592
         }
