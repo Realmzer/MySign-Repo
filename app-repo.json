@@ -1080,12 +1080,18 @@
       "iconURL": "https://cdn.omnidev.org/tiktok_6338429_1280-wV.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "37.5.0-Patched",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
-      "size": 326320128,
+      "version": "37.6.0",
+      "versionDate" : "2024-12-04",
+      "downloadURL": "https://cdn.omnidev.org/AC_Tik_Tok37_6_0-Ic.ipa",
+      "size": 311889920,
       "title": "TikTokAC",
       "versions" : [
+        {
+          "version": "37.6.0",
+          "date" : "2024-12-04",
+          "downloadURL": "https://cdn.omnidev.org/AC_Tik_Tok37_6_0-Ic.ipa",
+          "size": 311889920
+        },
         {
           "version": "37.5.0-Patched",
           "date" : "2024-11-30",
