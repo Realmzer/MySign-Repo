@@ -1157,7 +1157,7 @@
           "size": 82607573
         }
       ]
-    }
+    },
     {
       "beta": false,
       "name" : "YouTubeLitePlus",
@@ -1434,12 +1434,18 @@
       "iconURL": "https://cdn.omnidev.org/IMG_5317-nr.png",
       "tintColor": "fdaf1f",
       "category": "games",
-      "version": "2.6",
-      "date" : "2024-11-23",
-      "downloadURL": "https://cdn.omnidev.org/Pomelo-v3.ipa",
-      "size": 28909568,
+      "version": "2.7.1",
+      "date" : "2024-12-04",
+      "downloadURL": "https://cdn.omnidev.org/Pomelo_1-gl.ipa",
+      "size": 28938240,
       "title": "Pomelo",
       "versions" : [
+        {
+          "version": "2.7.1",
+          "date" : "2024-12-04",
+          "downloadURL": "https://cdn.omnidev.org/Pomelo_1-gl.ipa",
+          "size": 28938240
+        },
         {
           "version": "2.6",
           "date" : "2024-11-23",
@@ -2331,13 +2337,19 @@
     "iconURL": "https://cdn.omnidev.org/Fortnite_Main-Mj.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.00",
-    "versionDate" : "2024-12-02",
-    "downloadURL": "https://cdn.omnidev.org/Fortnite_33_00_1-3P.ipa",
-    "size": 217632768,
+    "version": "33.00.1",
+    "versionDate" : "2024-12-04",
+    "downloadURL": "https://cdn.omnidev.org/Fortnite_33_00_1-60.ipa",
+    "size": 205209600,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.00.1",
+        "date" : "2024-12-04",
+        "downloadURL": "https://cdn.omnidev.org/Fortnite_33_00_1-60.ipa",
+        "size": 205209600
+      },
       {
         "version": "33.00",
         "date" : "2024-12-02",
@@ -2979,7 +2991,7 @@
     "downloadURL": "https://cdn.omnidev.org/Infinity_Blade_III_Community_Patch_v2_2-hU.ipa",
     "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
-  },
+  }
   ],
   "news": [
     {
