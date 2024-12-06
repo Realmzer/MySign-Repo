@@ -1303,6 +1303,31 @@
     },
     {
       "beta": false,
+      "name" : "Egern",
+      "bundleIdentifier": "com.bytecrossing.Egern",
+      "developerName" : "Byte Crossing",
+      "subtitle": "Powerful Networking Tool",
+      "description": "Egern is a feature-rich and powerful networking tool, specifically designed for proxying, intercepting, and modifying network traffic.\nStatus: ✅🔥",
+      "localizedDescription": "Egern is a feature-rich and powerful networking tool, specifically designed for proxying, intercepting, and modifying network traffic.\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/egern-rU.png",
+      "tintColor": "388ce3",
+      "category": "utilities",
+      "version": "1.27.0",
+      "versionDate" : "2024-12-06",
+      "downloadURL": "https://cdn.omnidev.org/Egernv1_27_0-7M.ipa",
+      "size": 18321408,
+      "title": "Egern",
+      "versions" : [
+        {
+          "version": "1.27.0",
+          "date" : "2024-12-06",
+          "downloadURL": "https://cdn.omnidev.org/Egernv1_27_0-7M.ipa",
+          "size": 18321408
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
