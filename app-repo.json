@@ -1032,13 +1032,20 @@
       "iconURL": "https://cdn.omnidev.org/spotify-63.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "8.9.94/Swift 5.8.1",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_8_9_94_Widget_Working-AR.ipa",
-      "size": 80715776,
+      "version": "8.9.94/Swift 5.8.2",
+      "versionDate" : "2024-12-06",
+      "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_5_8_2_8_9_96-Dn.ipa",
+      "size": 83517440,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions" : [
+        {
+          "version": "8.9.94/Swift 5.8.2",
+          "date" : "2024-12-06",
+          "localizedDescription": "*Updated German localization by @wlxxd",
+          "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_5_8_2_8_9_96-Dn.ipa",
+          "size": 83517440
+        },
         {
           "version": "8.9.94/Swift 5.8.1",
           "date" : "2024-11-28",
