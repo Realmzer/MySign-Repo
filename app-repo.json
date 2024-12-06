@@ -1328,6 +1328,31 @@
     },
     {
       "beta": false,
+      "name" : "Pedometer++",
+      "bundleIdentifier": "ccom.crossforward.pedometer",
+      "developerName" : "Cross Forward Consulting, LLC",
+      "subtitle": "Step Counter",
+      "description": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
+      "localizedDescription": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/pedometerplusplus-aL.png",
+      "tintColor": "00e85e",
+      "category": "utilities",
+      "version": "6.1",
+      "versionDate" : "2024-12-06",
+      "downloadURL": "https://cdn.omnidev.org/com_crossforward_pedometer_6_1_eeveedecrypter-yA.ipa",
+      "size": 18321408,
+      "title": "Pedometer++",
+      "versions" : [
+        {
+          "version": "6.1",
+          "date" : "2024-12-06",
+          "downloadURL": "https://cdn.omnidev.org/com_crossforward_pedometer_6_1_eeveedecrypter-yA.ipa",
+          "size": 18321408
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
