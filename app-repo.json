@@ -1078,6 +1078,32 @@
     },
     {
       "beta": false,
+      "name" : "Twitch No Ads",
+      "bundleIdentifier": "tv.twitch",
+      "developerName" : "moeotf & level3tjg",
+      "subtitle": "Twitch with no ads included",
+      "description": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥",
+      "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/twitch-bF.png",
+      "tintColor": "9145fd",
+      "category": "entertainment",
+      "version": "22.3.3",
+      "versionDate" : "2024-12-06",
+      "downloadURL": "https://cdn.omnidev.org/Twitchadfree22_3_3_Fixedbundle_patched_nofix-Hg.ipa",
+      "size": 104194048,
+      "title": "Twitch No Ads",
+      "versions" : [
+        {
+          "version": "22.3.3",
+          "date" : "2024-12-06",
+          "localizedDescription": "- Updated Twitch (https://apps.apple.com/us/app/twitch-live-streaming/id460177396) to 22.3.3 (today's update no ads)\n- Video game streaming\n- adfree \n-Injected AdBlock by level3tjg\n-injected with keychain and sideload fix and the bundle file that was missing\n-injected open in safari extension\n-injected pluginwidgetsfix\n-now I'm not seeing any ads \nBy @wlxxd & @SultanModsIPAs",
+          "downloadURL": "https://cdn.omnidev.org/Twitchadfree22_3_3_Fixedbundle_patched_nofix-Hg.ipa",
+          "size": 104194048
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "TikTokAC",
       "bundleIdentifier": "com.zhiliaoapp.musically1",
       "developerName" : "ByteDance & moeotf",
