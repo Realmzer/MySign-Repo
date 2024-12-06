@@ -3038,7 +3038,7 @@
       "identifier": "joinourdcserver",
       "caption": "If your using the MyApps repo, please join our server for updates and free support. Tap this to join or join here: discord.gg/v4rGF3w3Vs",
       "date": "2024-11-28",
-      "tintColor": "#8223ed",
+      "tintColor": "#4d9fb3",
       "imageURL": "https://cdn.omnidev.org/Discord_Symbol_1141822239-pi.png",
       "url": "https://discord.gg/hUK5m9MGFc",
       "notify": true
@@ -3048,7 +3048,7 @@
       "identifier": "ipauniversestealing",
       "caption": "IPAUniverse has been stealing our apps from our repository. Report any IPA's stolen to @realmzer on Discord",
       "date": "2024-11-24",
-      "tintColor": "#8223ed",
+      "tintColor": "#4d9fb3",
       "imageURL": "https://cdn.omnidev.org/Screenshot_2024_11_24_213043-TL.png",
       "notify": true
     }
