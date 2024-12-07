@@ -2690,45 +2690,79 @@
     "url": "https://icreate.pro/"
   },
   {
+    "beta": false,
     "name": "Duolingo Cracked",
     "bundleIdentifier": "com.duolingo.DuolingoMobile",
     "developerName": "Duolingo",
-    "version": "7.37.1",
-    "versionDate": "2024-09-13",
-    "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+    "subtitle": "Duolingo with Max unlocked!",
+    "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
     "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
     "iconURL": "https://cdn.omnidev.org/Duolingo_Max_7_37_1-tJ.png",
     "tintColor": "FFC300",
+    "category": "education",
+    "version": "7.37.1",
+    "versionDate": "2024-09-13",
+    "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
     "size": 111149056,
-    "subtitle": "Duolingo with Max unlocked!"
+    "title": "Duolingo Cracked",
+    "versions" : [
+      {
+        "version": "7.37.1",
+        "date": "2024-09-13",
+        "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+        "size": 111149056
+      }
+    ]
   },
   {
+    "beta": false,
     "name": "Picsart++",
     "bundleIdentifier": "com.picsart.studio",
     "developerName": "Picsart Inc.",
+    "subtitle": "Picsart with premium features unlocked!",
+    "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+    "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+    "iconURL": "https://cdn.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
+    "tintColor": "4e89d9",
+    "category": "photo-video",
     "version": "25.5.1",
     "versionDate": "2024-09-21",
-    "category": "photo-video",
     "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
-    "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
-    "tintColor": "4e89d9",
-    "iconURL": "https://cdn.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
     "size": 103809024,
-    "subtitle": "Picsart with premium features unlocked!"
+    "title": "Picsart++",
+    "versions" : [
+      {
+        "version": "25.5.1",
+        "date" : "2024-09-21",
+        "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
+        "size": 103809024
+      }
+    ]
   },
   {
+    "beta": false,
     "name": "CapCut++",
     "bundleIdentifier": "com.lemon.Ivoverseas",
     "developerName": "ByteDance",
-    "version": "12.0",
-    "versionDate": "2024-09-21",
-    "category": "photo-video",
-    "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+    "subtitle": "CapCut with MOST premium features unlocked!",
+    "description": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
     "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
     "iconURL": "https://cdn.omnidev.org/Cap_Cut_12_0_Cracked-R0.png",
-    "size": 136314880,
     "tintColor": "000000",
-    "subtitle": "CapCut with MOST premium features unlocked!"
+    "category": "photo-video",
+    "version": "12.0",
+    "versionDate": "2024-09-21",
+    "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+    "size": 136314880,
+    "title": "CapCut++",
+    "versions" : [
+      {
+        "version": "12.0",
+        "date" : "2024-09-21",
+        "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+        "size": 136314880
+      }
+    ]
   },
   {
     "beta": false,
