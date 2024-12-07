@@ -1405,35 +1405,53 @@
     },
     {
       "beta": false,
-      "name": "PPSSPP",
+      "name": "PPSSPP", 
       "bundleIdentifier": "org.ppsspp.ppsspp-free",
       "subtitle": "PPSSPP - A PSP Emulator",
+      "developerName": "Henrik Rydgard",
       "description": "The best PSP Emulator for IOS Written in C++ Status: ✅",
       "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
-      "developerName": "hrydgard",
       "iconURL": "https://cdn.omnidev.org/ppsspp-Kh.png",
       "tintColor": "96cbda",
       "category": "games",
-      "size": 11534336,
       "version": "1.17.4",
       "versionDate": "2024-10-12",
       "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
+      "size": 11534336,
       "title": "PPSSPP",
-      "url": "https://www.ppsspp.org/" 
+      "versions" : [
+        {
+          "version": "1.17.4",
+          "date" : "2024-09-26",
+          "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
+          "size": 11534336
+        }
+      ]
     },
     {
+      "beta": false,
       "name": "PPSSPP++", 
       "bundleIdentifier": "org.ppsspp.ppsspp", 
       "subtitle": "The best retro game emulator!",
-      "versionDate": "2024-09-26",
-      "version": "1.15.3",
-      "size": 195238232, 
+      "developerName": "Henrik Rydgard",
+      "description": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
+      "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
+      "iconURL": "https://cdn.omnidev.org/x_Fmk_Q_Tz-L2.png",
       "tintColor": "ffc53c",
       "category": "games",
-      "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa", 
-      "developerName": "Henrik Rydgard", 
-      "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
-      "iconURL": "https://cdn.omnidev.org/x_Fmk_Q_Tz-L2.png" 
+      "version": "1.15.3",
+      "versionDate": "2024-09-26",
+      "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa",
+      "size": 195238232,
+      "title": "PPSSPP++",
+      "versions" : [
+        {
+          "version": "1.15.3",
+          "date" : "2024-09-26",
+          "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa",
+          "size": 195238232
+        }
+      ]
     },
     {
       "beta": false,
