@@ -2968,32 +2968,79 @@
     "subtitle": "PhotoMath with Plus features unlocked!"
   },
   {
-    "name": "Fall Guys", 
-    "bundleIdentifier": "uk.co.mediatonic.fallguys", 
-    "subtitle": "Fall Guys, outside of the EU!",
-    "version": "11.3.0",
-    "size": 195238232, 
-    "category": "games",
-    "tintColor": "cb0e90",
-    "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
-    "developerName": "Epic Games", 
-    "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
-     "versionDate": "2024-10-9",
-    "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png"
+    "beta": false,
+    "name": "PhotoMath++",
+    "bundleIdentifier": ".com.microblink.PhotoMath",
+    "developerName": "Gogle",
+    "subtitle": "PhotoMath with Plus features unlocked!",
+    "description": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+    "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+    "iconURL": "https://cdn.omnidev.org/Photo_Math_Plus_8_35_0-t7.png",
+    "tintColor": "be0b34",
+    "category": "utilities",
+    "version": "8.35.0",
+    "versionDate": "2024-09-26",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
+    "size": 14680064,
+    "title": "PhotoMath++",
+    "versions" : [
+      {
+        "version": "8.35.0",
+        "date" : "2024-09-26",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
+        "size": 14680064
+      }
+    ]
   },
   {
+    "beta": false,
+    "name": "Fall Guys", 
+    "bundleIdentifier": "uk.co.mediatonic.fallguys", 
+    "developerName": "Epic Games", 
+    "subtitle": "Fall Guys, outside of the EU!", 
+    "description": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
+    "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
+    "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
+    "tintColor": "cb0e90",
+    "category": "games",
+    "version": "11.3.0",
+    "versionDate": "2024-10-9",
+    "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
+    "size": 195238232,
+    "title": "Fall Guys",
+    "versions" : [
+      {
+        "version": "11.3.0",
+        "date" : "2024-10-09",
+        "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
+        "size": 195238232
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name": "Minecraft",
     "bundleIdentifier": "com.mojang.minecraftpe",
     "developerName": "Microsoft/Mojang",
-    "version": "1.21.22",
-    "versionDate": "2024-09-26",
-    "category": "games",
-    "tintColor": "86d562",
-    "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
+    "subtitle": "Minecraft ($7.99) for free!",
+    "description": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
     "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
     "iconURL": "https://cdn.omnidev.org/Homepage_Gameplay_Trailer_MC_OV_logo_300x300-3H.png",
+    "tintColor": "86d562",
+    "category": "games",
+    "version": "1.21.22",
+    "versionDate": "2024-09-26",
+    "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
     "size": 96468992,
-    "subtitle": "Minecraft ($7.99) for free!"
+    "title": "Minecraft",
+    "versions" : [
+      {
+        "version": "1.21.22",
+        "date" : "2024-09-26",
+        "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
+        "size": 96468992
+      }
+    ]
   },
   {
     "name": "PojavLauncher", 
