@@ -2959,33 +2959,56 @@
     "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
     "iconURL": "https://cdn.omnidev.org/icon_red-ic.png" 
   },
+   {
+    "beta": false,
+    "name": "AI Chat Smith++",
+    "bundleIdentifier": "co.vulcanlabs.moodtracker",
+    "subtitle": "Access to ChatGPT Premium models!",
+    "developerName": "OpenAI",
+    "description": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
+    "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
+    "iconURL": "https://cdn.omnidev.org/AI_Chat_Smith_Premium_7_0_0-4a.png",
+    "tintColor": "00a180",
+    "category": "utilities",
+    "version": "7.0.0",
+    "size": 74448896,
+    "versionDate": "2024-09-26",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
+    "title": "AI Chat Smith++",
+    "versions" : [
+      {
+        "version": "7.0.0",
+        "date" : "2024-09-26",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
+        "size": 74448896
+      }
+    ]
+  },    
   {
-  "name": "AI Chat Smith++",
-  "bundleIdentifier": "co.vulcanlabs.moodtracker",
-  "developerName": "OpenAI",
-  "version": "7.0.0",
-  "versionDate": "2024-09-26",
-  "category": "utilities",
-  "tintColor": "00a180",
-  "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
-  "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
-  "iconURL": "https://cdn.omnidev.org/AI_Chat_Smith_Premium_7_0_0-4a.png",
-  "size": 74448896,    
-  "subtitle": "Access to ChatGPT Premium models!"
-   },
-  {
+    "beta": false,
     "name": "Genie++",
     "bundleIdentifier": "co.appnation.geniechat",
+    "subtitle": "Cracked Genie AI",
     "developerName": "OpenAI",
-    "version": "7.1.2",
-    "versionDate": "2024-10-05",
-    "category": "utilities",
-    "tintColor": "40e6b4",
+    "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
+    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
     "iconURL": "https://cdn.omnidev.org/Genie_Pro_7_1_2-ST.png",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
+    "tintColor": "40e6b4",
+    "category": "utilities",
+    "version": "7.1.2",
     "size": 59768832,
-    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟"
-  },
+    "versionDate": "2024-10-05",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
+    "title": "Genie++",
+    "versions" : [
+      {
+        "version": "7.1.2",
+        "date" : "2024-10-05",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
+        "size": 59768832
+      }
+    ]
+  },    
   {
     "beta": false,
     "name": "BSD Brawl Stars", 
