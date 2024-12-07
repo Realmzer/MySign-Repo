@@ -2905,32 +2905,54 @@
     ]
   },
   {
+    "beta": false,
     "name": "Reddit RedditFilter", 
     "bundleIdentifier": "com.reddit.Reddit", 
-    "subtitle": "Reddit with RedditFilter!",
-    "versionDate": "2024-09-26",
-    "version": "1.1.6",
-    "category": "social",
-    "tintColor": "ff4500",
-    "size": 195238232, 
-    "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
     "developerName": "Reddit Development Team", 
+    "subtitle": "Reddit with RedditFilter!",
+    "description": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
     "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png" 
+    "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png",
+    "tintColor": "ff4500",
+    "category": "social",
+    "version": "1.1.6",
+    "versionDate": "2024-09-26",
+    "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
+    "size": 195238232,
+    "title": "Reddit RedditFilter",
+    "versions" : [
+      {
+        "version": "1.1.6",
+        "date" : "2024-09-26",
+        "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
+        "size": 195238232
+      }
+    ]
   },
   {
+    "beta": false,
     "name": "Carrot++",
     "bundleIdentifier": "com.grailr.CARROTweather",
     "developerName": "Brian Muller",
-    "version": "6.1",
-    "versionDate": "2024-09-16",
-    "category": "utilities",
-    "tintColor": "5b09a8",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
+    "subtitle": "A cool weather app, premium unlocked!",
+    "description": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
     "iconURL": "https://cdn.omnidev.org/Carrot_Premium_6_1-dS.png",
+    "tintColor": "5b09a8",
+    "category": "social",
+    "version": "6.1",
+    "versionDate": "2024-09-16",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
     "size": 104857600,
-    "subtitle": "A cool weather app, premium unlocked!"
+    "title": "Carrot++",
+    "versions" : [
+      {
+        "version": "6.1",
+        "date" : "2024-09-26",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
+        "size": 104857600
+      }
+    ]
   },
   {
     "name": "PhotoMath++",
@@ -3002,19 +3024,30 @@
     "subtitle": "A near exact clone of the original Flappy Bird!"
   },
   {
+    "beta": false,
     "name": "Mangayomi", 
     "bundleIdentifier": "com.kodjodevf.mangayomi", 
     "subtitle": "Manga and Anime viewer!",
-    "versionDate": "2024-09-26",
-    "version": "0.3.5",
-    "size": 195238232, 
-    "category": "entertainment",
-    "tintColor": "be1622",
-    "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa", 
     "developerName": "Kodjodevf", 
+    "description": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
     "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
-    "iconURL": "https://cdn.omnidev.org/icon_red-ic.png" 
-  },
+    "iconURL": "https://cdn.omnidev.org/icon_red-ic.png" ,
+    "tintColor": "be1622",
+    "category": "entertainment",
+    "version": "0.3.5",
+    "size": 195238232,
+    "versionDate": "2024-09-26",
+    "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa", 
+    "title": "Mangayomi",
+    "versions" : [
+      {
+        "version": "0.3.5",
+        "date" : "2024-09-26",
+        "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa", 
+        "size": 195238232
+      }
+    ]
+  },    
    {
     "beta": false,
     "name": "AI Chat Smith++",
