@@ -2389,7 +2389,7 @@
       }
     ]
   },
-  
+
   {
     "beta": false,
     "name": "TikTok BH++", 
@@ -2522,7 +2522,6 @@
     "downloadURL": "https://cdn.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipa",
     "size": 1369145344,
     "title": "Dead Cells+",
-    "url": "https://github.com/localsend/localsend",
     "versions" : [
       {
         "version": "3.3.2",
