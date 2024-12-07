@@ -2720,13 +2720,19 @@
     "iconURL": "https://cdn.omnidev.org/enmity-qy.png",
     "tintColor": "433dac",
     "category": "social",
-    "version": "2.2.6-c91537b",
-    "date" : "2024-11-13",
-    "downloadURL": "https://cdn.omnidev.org/Enmity_c91537b-OZ.ipa",
-    "size": 101167104,
+    "version": "2.2.6-12-6-2024",
+    "date" : "2024-12-06",
+    "downloadURL": "https://cdn.omnidev.org/Enmity_2-un.ipa",
+    "size": 102019072,
     "title": "Enmity",
     "url": "https://enmity.unbound.rip/",
     "versions" : [
+      {
+        "version": "2.2.6-12-6-2024",
+        "date" : "2024-12-06",
+        "downloadURL": "https://cdn.omnidev.org/Enmity_2-un.ipa",
+        "size": 102019072
+      },
       {
         "version": "2.2.6-c91537b",
         "date" : "2024-11-13",
