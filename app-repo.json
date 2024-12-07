@@ -2628,78 +2628,60 @@
   },
   {
     "beta": false,
+    "name" : "iCreatePro v6.6.1",
+    "bundleIdentifier": "com.camila314.icreate661",
+    "developerName" : "RobTop Games AB & camila314",
+    "subtitle": "ICreatePro - Tweak of Geometry Dash",
+    "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+    "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+    "iconURL": "https://cdn.omnidev.org/icreatepro-my.png",
+    "tintColor": "ffb304",
+    "category": "games",
+    "version": "6.6.1",
+    "versionDate" : "2024-10-30",
+    "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+    "size": 155152384,
+    "title": "iCreatePro v6.6.1",
+    "url": "https://icreate.pro/"
+  },
+  {
     "name": "Duolingo Cracked",
     "bundleIdentifier": "com.duolingo.DuolingoMobile",
     "developerName": "Duolingo",
-    "subtitle": "Duolingo with Max unlocked!",
-    "description": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Duolingo_Max_7_37_1-tJ.png",
-    "tintColor": "FFC300",
-    "category": "other",
     "version": "7.37.1",
     "versionDate": "2024-09-13",
     "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+    "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
+    "iconURL": "https://cdn.omnidev.org/Duolingo_Max_7_37_1-tJ.png",
+    "tintColor": "FFC300",
     "size": 111149056,
-    "title": "Duolingo Cracked",
-    "versions" : [
-      {
-        "version": "7.37.1",
-        "date" : "2024-09-13",
-        "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
-        "size": 111149056
-      }
-    ]
+    "subtitle": "Duolingo with Max unlocked!"
   },
   {
-    "beta": false,
     "name": "Picsart++",
     "bundleIdentifier": "com.picsart.studio",
     "developerName": "Picsart Inc.",
-    "subtitle": "Picsart with premium features unlocked!",
-    "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
-    "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
-    "tintColor": "FFC300",
-    "category": "photo-video",
     "version": "25.5.1",
     "versionDate": "2024-09-21",
+    "category": "photo-video",
     "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
-    "size": 111149056,
-    "title": "Picsart++",
-    "versions" : [
-      {
-        "version": "25.5.1",
-        "date" : "2024-09-21",
-        "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
-        "size": 111149056
-      }
-    ]
+    "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+    "iconURL": "https://cdn.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
+    "size": 103809024,
+    "subtitle": "Picsart with premium features unlocked!"
   },
   {
-    "beta": false,
     "name": "CapCut++",
     "bundleIdentifier": "com.lemon.Ivoverseas",
     "developerName": "ByteDance",
-    "subtitle": "CapCut with MOST premium features unlocked!",
-    "description": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
-    "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Cap_Cut_12_0_Cracked-R0.png",
-    "tintColor": "FFC300",
-    "category": "photo-video",
     "version": "12.0",
     "versionDate": "2024-09-21",
+    "category": "photo-video",
     "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+    "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
+    "iconURL": "https://cdn.omnidev.org/Cap_Cut_12_0_Cracked-R0.png",
     "size": 136314880,
-    "title": "CapCut++",
-    "versions" : [
-      {
-        "version": "12.0",
-        "date" : "2024-09-21",
-        "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
-        "size": 136314880
-      }
-    ]
+    "subtitle": "CapCut with MOST premium features unlocked!"
   },
   {
     "beta": false,
@@ -2760,55 +2742,30 @@
     ]
   },
   {
-    "beta": false,
-    "name": "Bunny Discord",
+    "name": "Bunny_Discord",
     "bundleIdentifier": "com.hammerandchisel.bunny",
     "developerName": "Bunny Development Team",
-    "subtitle": "The best discord Client, unfortuantely discontinued.",
-    "description": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
-    "tintColor": "329dfd",
-    "category": "social",
     "version": "224.0",
     "versionDate": "2024-04-10",
+    "category": "social",
     "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
+    "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
+    "iconURL": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
     "size": 96468992,
-    "title": "Bunny Discord",
-    "versions" : [
-      {
-        "version": "224.0",
-        "date": "2024-04-10",
-        "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
-        "size": 96468992
-      }
-    ]
+    "subtitle": "The best discord Client, unfortuantely discontinued."
   },
   {
-    "beta": false,
     "name": "StossyCord",
     "bundleIdentifier": "com.stossy11.Stossycord",
     "developerName": "Stossy11",
-    "subtitle": "Another cool Discord Client!",
-    "description":"Another cool Discord client!\n\nStatus: ✅",
-    "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Stossycord-eB.png",
-    "tintColor": "329dfd",
-    "category": "social",
     "version": "224.0",
     "versionDate": "2024-09-26",
+    "category": "social",
     "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+    "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
+    "iconURL": "https://cdn.omnidev.org/Stossycord-eB.png",
     "size": 96468992,
-    "title": "StossyCord",
-    "url": "https://github.com/Stossycord/Stossycord/",
-    "versions" : [
-      {
-        "version": "224.0",
-        "date": "2024-09-26",
-        "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
-        "size": 96468992
-      }
-    ]
+    "subtitle": "Another cool Discord Client!"
   },
   {
     "beta": false,
@@ -2837,261 +2794,138 @@
     ]
   },
   {
-    "beta": false,
-    "name": "RedditFilter", 
+    "name": "Reddit RedditFilter", 
     "bundleIdentifier": "com.reddit.Reddit", 
     "subtitle": "Reddit with RedditFilter!",
-    "developerName": "Christian Selig",
-    "description":"A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
-    "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png" ,
-    "tintColor": "329dfd",
-    "category": "social",
-    "version": "1.1.6",
     "versionDate": "2024-09-26",
+    "version": "1.1.6",
+    "category": "social",
+    "size": 195238232, 
     "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
-    "size": 195238232,
-    "title": "Reddit RedditFilter",
-    "url": "https://github.com/level3tjg/RedditFilter",
-    "versions" : [
-      {
-        "version": "1.1.6",
-        "date" : "2024-09-26",
-        "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
-        "size": 195238232
-      }
-    ]
+    "developerName": "Reddit Development Team", 
+    "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
+    "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png" 
   },
   {
-    "beta": false,
     "name": "Carrot++",
     "bundleIdentifier": "com.grailr.CARROTweather",
-    "subtitle": "A cool weather app, premium unlocked!",
     "developerName": "Brian Muller",
-    "description": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
+    "version": "6.1",
+    "versionDate": "2024-09-16",
+    "category": "utilities",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
     "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
     "iconURL": "https://cdn.omnidev.org/Carrot_Premium_6_1-dS.png",
-    "tintColor": "33b49a",
-    "category": "utilities",
-    "version": "6.1",
     "size": 104857600,
-    "versionDate": "2024-09-26",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
-    "title": "Carrot++",
-    "versions" : [
-      {
-        "version": "6.1",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
-        "size": 104857600
-      }
-    ]
-  },    
+    "subtitle": "A cool weather app, premium unlocked!"
+  },
   {
-    "beta": false,
     "name": "PhotoMath++",
     "bundleIdentifier": ".com.microblink.PhotoMath",
-    "subtitle": "PhotoMath with Plus features unlocked!",
     "developerName": "Gogle",
-    "description": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Photo_Math_Plus_8_35_0-t7.png",
-    "tintColor": "33b49a",
-    "category": "utilities",
     "version": "8.35.0",
-    "size": 14680064,
     "versionDate": "2024-09-26",
     "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
-    "title": "PhotoMath++",
-    "versions" : [
-      {
-        "version": "8.35.0",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
-        "size": 14680064
-      }
-    ]
-  },    
+    "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+    "iconURL": "https://cdn.omnidev.org/Photo_Math_Plus_8_35_0-t7.png",
+    "size": 14680064, 
+    "subtitle": "PhotoMath with Plus features unlocked!"
+  },
   {
-    "beta": false,
     "name": "Fall Guys", 
     "bundleIdentifier": "uk.co.mediatonic.fallguys", 
     "subtitle": "Fall Guys, outside of the EU!",
-    "developerName": "Epic Games", 
-    "description": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
-    "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
-    "tintColor": "33b49a",
-    "category": "games",
     "version": "11.3.0",
-    "size": 195238232,
-    "versionDate": "2024-10-9",
+    "size": 195238232, 
+    "category": "games",
     "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
-    "title": "Fall Guys",
-    "versions" : [
-      {
-        "version": "8.35.0",
-        "versionDate": "2024-10-9",
-        "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
-        "size": 195238232
-      }
-    ]
-  },    
+    "developerName": "Epic Games", 
+    "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
+     "versionDate": "2024-10-9",
+    "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png"
+  },
   {
-    "beta": false,
     "name": "Minecraft",
     "bundleIdentifier": "com.mojang.minecraftpe",
-    "subtitle": "Minecraft ($7.99) for free!",
-    "developerName": "Microsoft/Mojang", 
-    "description": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
+    "developerName": "Microsoft/Mojang",
+    "version": "1.21.22",
+    "versionDate": "2024-09-26",
+    "category": "games",
+    "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
     "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
     "iconURL": "https://cdn.omnidev.org/Homepage_Gameplay_Trailer_MC_OV_logo_300x300-3H.png",
-    "tintColor": "33b49a",
-    "category": "games",
-    "version": "1.21.22",
     "size": 96468992,
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
-    "title": "Minecraft",
-    "versions" : [
-      {
-        "version": "1.21.22",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
-        "size": 96468992
-      }
-    ]
-  },    
+    "subtitle": "Minecraft ($7.99) for free!"
+  },
   {
-    "beta": false,
     "name": "PojavLauncher", 
     "bundleIdentifier": "net.kdt.pojavlauncher", 
     "subtitle": "Minecraft Java Edition on iOS!",
-    "developerName": "Stossy11", 
-    "description": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
-    "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
-    "iconURL": "https://cdn.omnidev.org/logo_2-IU.png" ,
-    "tintColor": "33b49a",
-    "category": "games",
+    "versionDate": "2024-09-26",
     "version": "2.2 DeepSlate",
     "size": 195238232,
-    "versionDate": "2024-09-26",
+    "category": "games", 
     "downloadURL": "https://cdn.omnidev.org/net_kdt_pojavlauncher_2_2_ios-ON.ipa", 
-    "title": "PojavLauncher",
-    "versions" : [
-      {
-        "version": "2.2 DeepSlate",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https://cdn.omnidev.org/net_kdt_pojavlauncher_2_2_ios-ON.ipa", 
-        "size": 195238232
-      }
-    ]
-  },    
+    "developerName": "Stossy11", 
+    "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
+    "iconURL": "https://cdn.omnidev.org/logo_2-IU.png" 
+  },
   {
-    "beta": false,
     "name": "Flappy Bird",
     "bundleIdentifier": "org.brandonplank.flappybird",
-    "subtitle": "A near exact clone of the original Flappy Bird!",
     "developerName": "Dong Nguyen",
-    "description": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🔥",
+    "version": "1.21.22",
+    "versionDate": "2024-09-26",
+    "category": "games",
+    "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
     "localizedDescription": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🔥",
     "iconURL": "https://cdn.omnidev.org/icon_rounded-7l.png",
-    "tintColor": "33b49a",
-    "category": "games",
-    "version": "4.3",
     "size": 96468992,
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-    "title": "Flappy Bird",
-    "versions" : [
-      {
-        "version": "4.3",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-        "size": 96468992
-      }
-    ]
-  },    
+    "subtitle": "A near exact clone of the original Flappy Bird!"
+  },
   {
-    "beta": false,
     "name": "Mangayomi", 
     "bundleIdentifier": "com.kodjodevf.mangayomi", 
     "subtitle": "Manga and Anime viewer!",
-    "developerName": "Kodjodevf",
-    "description": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
-    "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
-    "iconURL": "https://cdn.omnidev.org/icon_red-ic.png" ,
-    "tintColor": "33b49a",
-    "category": "entertainment",
+    "versionDate": "2024-09-26",
     "version": "0.3.5",
-    "size": 195238232,
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa",
-    "title": "Mangayomi",
-    "versions" : [
-      {
-        "version": "0.3.5",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa",
-        "size": 195238232
-      }
-    ]
-  },    
-   {
-    "beta": false,
-    "name": "AI Chat Smith++",
-    "bundleIdentifier": "co.vulcanlabs.moodtracker",
-    "subtitle": "Access to ChatGPT Premium models!",
-    "developerName": "OpenAI",
-    "description": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
-    "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/AI_Chat_Smith_Premium_7_0_0-4a.png",
-    "tintColor": "33b49a",
-    "category": "utilities",
-    "version": "7.0.0",
-    "size": 74448896,
-    "versionDate": "2024-09-26",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
-    "title": "AI Chat Smith++",
-    "versions" : [
-      {
-        "version": "7.0.0",
-        "versionDate": "2024-09-26",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
-        "size": 74448896
-      }
-    ]
-  },    
+    "size": 195238232, 
+    "category": "entertainment",
+    "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa", 
+    "developerName": "Kodjodevf", 
+    "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
+    "iconURL": "https://cdn.omnidev.org/icon_red-ic.png" 
+  },
   {
-    "beta": false,
+  "name": "AI Chat Smith++",
+  "bundleIdentifier": "co.vulcanlabs.moodtracker",
+  "developerName": "OpenAI",
+  "version": "7.0.0",
+  "versionDate": "2024-09-26",
+  "category": "utilities",
+  "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
+  "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
+  "iconURL": "https://cdn.omnidev.org/AI_Chat_Smith_Premium_7_0_0-4a.png",
+  "size": 74448896,    
+  "subtitle": "Access to ChatGPT Premium models!"
+   },
+  {
     "name": "Genie++",
     "bundleIdentifier": "co.appnation.geniechat",
-    "subtitle": "Genie AI Cracked",
     "developerName": "OpenAI",
-    "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟", 
-    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
-    "iconURL": "https://cdn.omnidev.org/Genie_Pro_7_1_2-ST.png",
-    "tintColor": "41e9b7",
-    "category": "utilities",
     "version": "7.1.2",
-    "size": 59768832,
     "versionDate": "2024-10-05",
+    "category": "utilities",
+    "iconURL": "https://cdn.omnidev.org/Genie_Pro_7_1_2-ST.png",
     "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
-    "title": "Genie++",
-    "versions" : [
-      {
-        "version": "7.1.2",
-        "date" : "2024-10-05",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
-        "size": 59768832
-      }
-    ]
-  },    
+    "size": 59768832,
+    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟"
+  },
   {
     "beta": false,
     "name": "BSD Brawl Stars", 
     "bundleIdentifier": "bsd.suitcase.release", 
-    "subtitle": "Brawl Stars with hacks! This runs on normal servers, so you will be able to use your main account. Not bannable as far as I know.",
+    "subtitle": "Brawl Stars with hacks! This runs on normal servers, so you will be able to use your main account. Not bannable as far as I know.\n\nStatus: ✅🔥",
     "developerName": "Supercell",
     "description": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
     "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
@@ -3114,55 +2948,32 @@
     ]
   },    
   {
-    "beta": false,
     "name": "Null's Brawl", 
     "bundleIdentifier": "nb.nb.ios", 
     "subtitle": "A private brawl stars server with all items unlocked!",
-    "developerName": "Supercell",
-    "description": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥",  
-    "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://cdn.omnidev.org/Nulls_Brawl-G8.png",
-    "tintColor": "fff301",
+    "versionDate": "2024-09-20",
     "category": "games",
     "version": "57.325",
-    "size": 195238232,
-    "versionDate": "2024-09-20",
+    "size": 195238232, 
     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
-    "title": "Null's Brawl",
-    "versions" : [
-      {
-        "version": "57.325",
-        "date" : "2024-09-20",
-        "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
-        "size": 195238232
-      }
-    ]
-  },    
+    "developerName": "Supercell", 
+    "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
+    "iconURL": "https://cdn.omnidev.org/Nulls_Brawl-G8.png"
+  },
   {
-    "beta": false,
     "name": "BitLife",
     "bundleIdentifier": "com.wtfapps.apollo16",
     "subtitle": "A very special simulator",
     "developerName": "Candywriter LLC",
     "description": "A very special life simulator\nStatus: ✅", 
-    "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/512x512bb_2-zO.png",
-    "tintColor": "fff100",
     "category": "games",
+    "iconURL": "https://cdn.omnidev.org/512x512bb_2-zO.png",
     "version": "3.15.9",
     "size": 209020146,
-    "versionDate": "2024-10-15",
     "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
-    "title": "BitLife",
-    "versions" : [
-      {
-        "version": "3.15.9",
-        "versionDate": "2024-10-15",
-        "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
-        "size": 209020146
-      }
-    ]
-  },    
+    "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
+    "versionDate": "2024-10-15"
+  },
   {
     "beta": false,
     "name" : "Climax",
@@ -3204,15 +3015,7 @@
     "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
     "size": 19610000,
     "title": "Hot Tub",
-    "url": "https://hottubapp.io/",
-    "versions" : [
-      {
-        "version": "2.0.1",
-        "versionDate" : "2024-12-2",
-        "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
-        "size": 19610000
-      }
-    ]
+     "url": "https://hottubapp.io/"
   },
   {
     "beta": false,
