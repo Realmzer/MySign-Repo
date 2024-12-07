@@ -2990,12 +2990,18 @@
     "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
     "tintColor": "cb0e90",
     "category": "games",
-    "version": "11.3.0",
-    "versionDate": "2024-10-9",
-    "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
-    "size": 195238232,
+    "version": "11.40.0",
+    "versionDate": "2024-12-07",
+    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa", 
+    "size": 1956483072,
     "title": "Fall Guys",
     "versions" : [
+      {
+        "version": "11.40.0",
+        "date" : "2024-12-07",
+        "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa", 
+        "size": 1956483072
+      },
       {
         "version": "11.3.0",
         "date" : "2024-10-09",
