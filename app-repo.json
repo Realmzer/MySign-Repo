@@ -2365,6 +2365,33 @@
   },
   {
     "beta": false,
+    "name" : "Cowabunga",
+    "bundleIdentifier": "com.leemin.Cowabunga",
+    "developerName" : "leminlimez",
+    "subtitle": "Jailed Toolbox for iOS 14-15.7.1",
+    "description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
+    "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
+    "iconURL": "https://cdn.omnidev.org/215552092_9dc1e029_da35_43da_867f_17279e3dc180-4O.png",
+    "tintColor": "0784fc",
+    "category": "utilities",
+    "version": "10.3.2",
+    "versionDate" : "2024-12-06",
+    "downloadURL": "https://cdn.omnidev.org/Cowabunga-R8.ipa",
+    "size": 16289792,
+    "title": "Cowabunga",
+    "url": "https://github.com/leminlimez/Cowabunga",
+    "versions" : [
+      {
+        "version": "10.3.2",
+        "date" : "2024-12-06",
+        "downloadURL": "https://cdn.omnidev.org/Cowabunga-R8.ipa",
+        "size": 16289792
+      }
+    ]
+  },
+  
+  {
+    "beta": false,
     "name": "TikTok BH++", 
     "bundleIdentifier": "com.zhiliaoapp.musically", 
     "developerName": "raulsaeed & ByteDance", 
