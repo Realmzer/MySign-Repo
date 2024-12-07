@@ -2795,32 +2795,54 @@
     ]
   },
   {
+    "beta": false,
     "name": "Bunny Discord",
     "bundleIdentifier": "com.hammerandchisel.bunny",
     "developerName": "Bunny Development Team",
-    "version": "224.0",
-    "versionDate": "2024-04-10",
-    "category": "social",
-    "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
+    "subtitle": "The best discord Client, unfortuantely discontinued.",
+    "description": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
     "iconURL": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
     "tintColor": "5662f6",
+    "category": "social",
+    "version": "224.0",
+    "versionDate": "2024-04-10",
+    "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
     "size": 96468992,
-    "subtitle": "The best discord Client, unfortuantely discontinued."
+    "title": "Bunny Discord",
+    "versions" : [
+      {
+        "version": "224.0",
+        "date" : "2024-04-10",
+        "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
+        "size": 96468992
+      }
+    ]
   },
   {
+    "beta": false,
     "name": "StossyCord",
     "bundleIdentifier": "com.stossy11.Stossycord",
     "developerName": "Stossy11",
-    "version": "224.0",
-    "versionDate": "2024-09-26",
-    "category": "social",
-    "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+    "subtitle": "Another cool Discord Client!",
+    "description": "Another cool Discord client!\n\nStatus: ✅",
     "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
     "iconURL": "https://cdn.omnidev.org/Stossycord-eB.png",
+    "tintColor": "88c800",
+    "category": "social",
+    "version": "224.0",
+    "versionDate": "2024-09-26",
+    "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
     "size": 96468992,
-    "subtitle": "Another cool Discord Client!",
-    "tintColor": "88c800"
+    "title": "StossyCord",
+    "versions" : [
+      {
+        "version": "224.0",
+        "date" : "2024-09-26",
+        "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+        "size": 96468992
+      }
+    ]
   },
   {
     "beta": false,
