@@ -3036,34 +3036,56 @@
     ]
   },    
   {
+    "beta": false,
     "name": "Null's Brawl", 
     "bundleIdentifier": "nb.nb.ios", 
     "subtitle": "A private brawl stars server with all items unlocked!",
-    "versionDate": "2024-09-20",
+    "developerName": "Supercell",
+    "description":"A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
+    "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
+    "iconURL": "https://cdn.omnidev.org/Nulls_Brawl-G8.png",
+    "tintColor": "440099",
     "category": "games",
     "version": "57.325",
-    "size": 195238232, 
-    "tintColor": "440099",
+    "size": 195238232,
+    "versionDate": "2024-09-20",
     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
-    "developerName": "Supercell", 
-    "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://cdn.omnidev.org/Nulls_Brawl-G8.png"
-  },
+    "title": "Null's Brawl",
+    "url": "https://bsdbrawl.com/",
+      "versions" : [
+      {
+        "version": "58.279",
+        "date" : "2024-09-20",
+        "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
+        "size": 195238232
+      }
+    ]
+  },    
   {
+    "beta": false,
     "name": "BitLife",
     "bundleIdentifier": "com.wtfapps.apollo16",
     "subtitle": "A very special simulator",
     "developerName": "Candywriter LLC",
     "description": "A very special life simulator\nStatus: ✅", 
-    "category": "games",
+    "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
     "iconURL": "https://cdn.omnidev.org/512x512bb_2-zO.png",
+    "tintColor": "fff100",
+    "category": "games",
     "version": "3.15.9",
     "size": 209020146,
-    "tintColor": "fff100",
+    "versionDate": "2024-10-15",
     "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
-    "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
-    "versionDate": "2024-10-15"
-  },
+    "title": "BitLife",
+      "versions" : [
+      {
+        "version": "3.15.9",
+        "date" : "2024-10-15",
+        "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
+        "size": 209020146
+      }
+    ]
+  },    
   {
     "beta": false,
     "name" : "Climax",
@@ -3090,7 +3112,7 @@
     ]
   },
   {
-    "beta": true,
+    "beta": false,
     "name" : "Hot Tub",
     "bundleIdentifier": "com.c1d3r.Hot-Tub",
     "developerName" : "c1d3rdev",
@@ -3105,7 +3127,14 @@
     "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
     "size": 19610000,
     "title": "Hot Tub",
-     "url": "https://hottubapp.io/"
+    "versions" : [
+      {
+        "version": "2.0.1",
+        "date" : "2024-12-2",
+        "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
+        "size": 19610000
+      }
+    ]
   },
   {
     "beta": false,
