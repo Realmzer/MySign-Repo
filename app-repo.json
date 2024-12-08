@@ -2889,13 +2889,19 @@
     "iconURL": "https://cdn.omnidev.org/apollo-4m.png",
     "tintColor": "329dfd",
     "category": "social",
-    "version": "1.15.11_1.1.7b",
-    "date" : "2024-11-23",
-    "downloadURL": "https://cdn.omnidev.org/Apollo_1_15_11_improvedcustomapi_1_1_7b-DT.ipa",
+    "version": "1.15.11_1.1.8",
+    "date" : "2024-12-08",       
+    "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",    
     "size": 108105728,
     "title": "Apollo for Reddit",
     "url": "https://github.com/Balackburn/Apollo/",
     "versions" : [
+      {
+        "version": "1.15.11_1.1.8",
+        "date" : "2024-12-08",
+        "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",
+        "size": 108105728
+      },
       {
         "version": "1.15.11_1.1.7b",
         "date" : "2024-11-23",
