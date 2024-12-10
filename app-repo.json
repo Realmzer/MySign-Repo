@@ -3108,19 +3108,19 @@
     "developerName": "StreamerApp", 
     "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
     "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-    "iconURL": "https://cdn1.realmzer.xyz//streamerios-dV.png" ,
+    "iconURL": "https://cdn1.realmzer.xyz//streamerios-Wq.png" ,
     "tintColor": "8b3f22",
     "category": "entertainment",
     "version": "1.2.41",
     "size": 34734080,
     "versionDate": "2024-12-09",
-    "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41-mp.ipa", 
+    "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Oj.ipa", 
     "title": "Streamer",
     "versions" : [
       {
         "version": "1.2.41",
         "date" : "2024-12-09",
-        "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41-mp.ipa", 
+        "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Oj.ipa", 
         "size": 34734080
       }
     ]
