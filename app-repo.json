@@ -3100,6 +3100,31 @@
       }
     ]
   },    
+  {
+    "beta": false,
+    "name": "Streamer", 
+    "bundleIdentifier": "com.streamer.ios", 
+    "subtitle": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS",
+    "developerName": "StreamerApp", 
+    "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
+    "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
+    "iconURL": "https://cdn1.realmzer.xyz//streamerios-dV.png" ,
+    "tintColor": "8b3f22",
+    "category": "entertainment",
+    "version": "1.2.41",
+    "size": 34734080,
+    "versionDate": "2024-12-09",
+    "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41-mp.ipa", 
+    "title": "Streamer",
+    "versions" : [
+      {
+        "version": "1.2.41",
+        "date" : "2024-12-09",
+        "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41-mp.ipa", 
+        "size": 34734080
+      }
+    ]
+  },    
    {
     "beta": false,
     "name": "AI Chat Smith++",
