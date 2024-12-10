@@ -2478,13 +2478,19 @@
     "iconURL": "https://cdn.omnidev.org/Fortnite_Main-Mj.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.00.1",
-    "versionDate" : "2024-12-04",
-    "downloadURL": "https://cdn.omnidev.org/Fortnite_33_00_1-60.ipa",
-    "size": 205209600,
+    "version": "33.10",
+    "versionDate" : "2024-12-10",
+    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v33.10/Fortnite-33.10.ipa",
+    "size": 227766272,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.10",
+        "date" : "2024-12-10",
+        "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v33.10/Fortnite-33.10.ipa",
+        "size": 227766272
+      },
       {
         "version": "33.00.1",
         "date" : "2024-12-04",
@@ -3002,12 +3008,18 @@
     "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
     "tintColor": "cb0e90",
     "category": "games",
-    "version": "11.40.0",
-    "versionDate": "2024-12-07",
-    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa", 
-    "size": 1956483072,
+    "version": "11.5.0",
+    "versionDate": "2024-12-10",
+    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa", 
+    "size": 1964947537,
     "title": "Fall Guys",
     "versions" : [
+      {
+        "version": "11.5.0",
+        "date" : "2024-12-10",
+        "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa", 
+        "size": 1964947537
+      },
       {
         "version": "11.40.0",
         "date" : "2024-12-07",
@@ -3108,13 +3120,13 @@
     "developerName": "StreamerApp", 
     "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
     "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-    "iconURL": "https://cdn1.realmzer.xyz//streamerios-Wq.png" ,
+    "iconURL": "https://cdn1.realmzer.xyz/streamerios-Wq.png",
     "tintColor": "8b3f22",
     "category": "entertainment",
     "version": "1.2.41",
     "size": 34734080,
     "versionDate": "2024-12-09",
-    "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Oj.ipa", 
+    "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41-Oj.ipa", 
     "title": "Streamer",
     "versions" : [
       {
