@@ -1156,15 +1156,21 @@
       "iconURL": "https://cdn.omnidev.org/com_burbn_instagram-DD.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "356.0.0",
-      "date" : "2024-11-23",
-      "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
-      "size": 193929216,
+      "version": "360.1.0",
+      "date": "2024-12-12",
+      "downloadURL": "https://cdn.omnidev.org/Instagram_v360_1_0_Regramb15_eth_Sign-tO.ipa",
+      "size": 200000000,
       "title": "Instagram Regram",
-      "versions" : [
+      "versions": [
+        {
+          "version": "360.1.0",
+          "date": "2024-12-12",
+          "downloadURL": "https://cdn.omnidev.org/Instagram_v360_1_0_Regramb15_eth_Sign-tO.ipa",
+          "size": 200000000
+        },
         {
           "version": "356.0.0",
-          "date" : "2024-11-23",
+          "date": "2024-11-23",
           "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
           "size": 193929216
         }
