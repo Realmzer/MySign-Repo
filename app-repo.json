@@ -2491,13 +2491,19 @@
     "iconURL": "https://cdn.omnidev.org/Fortnite_Main-Mj.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.10",
-    "versionDate" : "2024-12-10",
-    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v33.10/Fortnite-33.10.ipa",
-    "size": 227766272,
+    "version": "33.10.1",
+    "versionDate" : "2024-12-12",
+    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v33.10.1/Fortnite-33.10.1.ipa",
+    "size": 227774464,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.10.1",
+        "date" : "2024-12-12",
+        "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v33.10.1/Fortnite-33.10.1.ipa",
+        "size": 227774464
+      },
       {
         "version": "33.10",
         "date" : "2024-12-10",
