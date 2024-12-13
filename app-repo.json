@@ -1,7 +1,7 @@
 {
   "name": "MyApps IPA Repository",
   "identifier": "realmzer.ipa.source",
-  "iconURL": "https://cdn.omnidev.org/IMG_3830-3H.png",
+  "iconURL": "https://cdn1.realmzer.xyz/IMG_3830-3H.png",
   "website": "https://discord.gg/HKdtmYUEzD",
   "patreonURL": "https://www.patreon.com/c/Realmzer",
   "subtitle": "The official MyApp  Repository!",
@@ -25,12 +25,12 @@
       "subtitle": "Postbox - Get the latest jailbreak news and more",
       "description": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place./nStatus: ✅",
       "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/app_Icon_Site-Rl.png",
+      "iconURL": "https://cdn1.realmzer.xyz/app_Icon_Site.png",
       "tintColor": "000000",
       "category": "entertainment",
       "version": "8.1",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Post_Box_0_8_1_beta.ipa",
       "size": 8503296,
       "title": "Postbox",
       "url": "https://www.postbox.news/",
@@ -38,7 +38,7 @@
         {
           "version": "8.1",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Post_Box_0_8_1_beta.ipa",
           "size": 8503296
         }
       ]
@@ -51,12 +51,12 @@
       "subtitle": "Sparsebox - 3 app limit bypass",
       "description": "Tutorial: bit.ly/sparsebox\n\nFeatures\nBypass SideStore/AltStore 3 app limit\nAction Button\nAlways on Display (18.0+)\nApple Intelligence\nCamera button (18.0rc+)\nCharge limit\nDynamic Island\nStage Manager\nStatus: ✅🔥",
       "localizedDescription": "Tutorial: bit.ly/sparsebox\n\nBypass SideStore/AltStore 3 app limit\nAction Button\nAlways on Display (18.0+)\nApple Intelligence\nCamera button (18.0rc+)\nCharge limit\nDynamic Island\nStage Manager\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/file-H0.png",
+      "iconURL": "https://cdn1.realmzer.xyz/file.png",
       "tintColor": "000000",
       "category": "utilities",
       "version" : "0.1-2940d11",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1.ipa",
       "size": 7274496,
       "title": "Sparsebox",
       "url": "https://github.com/khanhduytran0/SparseBox",
@@ -64,19 +64,19 @@
         {
           "version" : "0.1-2940d11",
           "date" : "2024-11-30",
-          "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_0_1-R2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1.ipa",
           "size": 7274496
         },
         {
           "version" : "0.1-1ff1702",
           "date" : "2024-11-19",
-          "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_0_1_11_19_2024-Rb.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1_11_19_2024.ipa",
           "size": 7274496
         },
         {
           "version" : "Unknown",
           "date" : "2024-10-29",
-          "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_0_1-Ei.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1.ipa",
           "size": 7237632
         }
       ]
@@ -89,12 +89,12 @@
       "subtitle": "PureKFD - on device customization",
       "description": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🔥",
       "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/IMG_4277-3M.jpeg",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_4277.jpeg",
       "tintColor": "000000",
       "category": "utilities",
       "version": "6.0.2",
       "versionDate" : "2024-11-29",
-      "downloadURL": "https://cdn.omnidev.org/Pure_KFD-Gl.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Pure_KFD.ipa",
       "size": 11000000,
       "title": "PureKFD",
       "url": "https://github.com/Lrdsnow/PureKFD",
@@ -102,7 +102,7 @@
         {
           "version": "6.0.2",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn.omnidev.org/Pure_KFD-Gl.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Pure_KFD.ipa",
           "size": 11000000
         }
       ]
@@ -115,12 +115,12 @@
       "subtitle": "Nugget - on device customization",
       "description": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅",
       "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
+      "iconURL": "https://cdn1.realmzer.xyz/nugget.png",
       "tintColor": "9a2bff",
       "category": "utilities",
       "version": "2.0.1",
       "versionDate" : "2024-12-01",
-      "downloadURL": "https://cdn.omnidev.org/Nugget_4-9n.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Nugget_4.ipa",
       "size": 7680000,
       "title": "Nugget",
       "url": "https://github.com/leminlimez/Nugget-Mobile",
@@ -128,7 +128,7 @@
         {
           "version": "2.0.1",
           "date" : "2024-12-01",
-          "downloadURL": "https://cdn.omnidev.org/Nugget_4-9n.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Nugget_4.ipa",
           "size": 7680000
         }
       ]
@@ -141,12 +141,12 @@
       "subtitle": "TrollInstallerX - the best permanent sideloader (no app limit, no dns, no 7 day refresh)",
       "description": "Permasigner for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
       "localizedDescription": "Permasigner for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/l_Qt6_Wq_H-4F.png",
+      "iconURL": "https://cdn1.realmzer.xyz/l_Qt6_Wq_H.png",
       "tintColor": "377ee8",
       "category": "utilities",
       "version": "1.0.3",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Troll_Store_My_Sign-Ra.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Troll_Store_My_Sign.pa",
       "size": 6889472,
       "title": "TrollInstallerX",
       "url": "https://github.com/alfiecg24/TrollInstallerX",
@@ -154,7 +154,7 @@
         {
           "version": "1.0.3",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn.omnidev.org/Troll_Installer_X-DT.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Troll_Installer_X.ipa",
           "size": 6889472
         }
       ]
@@ -167,15 +167,15 @@
       "subtitle": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore",
       "description": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: ✅🔥",
       "localizedDescription": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_4095-FQ.jpeg",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4095.jpeg",
       "tintColor": "00BFFE",
       "category": "utilities",
       "version": "2.1",
       "versionDate" : "2024-12-13",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Store_2_1_1734062976-3Z.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Store_2_1_1734062976.ipa",
       "size": 3470000,
       "title": "TrollTrollStore",
-      "url": "https://discord.gg/hUK5m9MGFc",
+      "url": "https://discord.gg/hUK5m9MGFc"
     },
     {
       "beta": false,
@@ -185,12 +185,12 @@
       "subtitle": "",
       "description": "Jailbreak for iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
       "localizedDescription": "iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/67ffxs_D-1v.png",
+      "iconURL": "https://cdn1.realmzer.xyz/67ffxs_D.png",
       "tintColor": "acccd2",
       "category": "utilities",
       "version": "2.2.2",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn.omnidev.org/Dopamine-ZO.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Dopamine.ipa",
       "size": 49696768,
       "title": "Dopamine",
       "url": "https://github.com/opa334/Dopamine",
@@ -198,7 +198,7 @@
         {
           "version": "2.2.2",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn.omnidev.org/Dopamine-ZO.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Dopamine.ipa",
           "size": 49696768
         }
       ]
@@ -211,12 +211,12 @@
       "subtitle": "Jailbreak for iOS 14.0 to iOS 14.8.1.",
       "description": "Jailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
       "localizedDescription": "Jailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/images_5_1-KQ.png",
+      "iconURL": "https://cdn1.realmzer.xyz/images_5_1.png",
       "tintColor": "d25171",
       "category": "utilities",
       "version": "1.1.7-3",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn.omnidev.org/Taurine_1_1_7_3-6h.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Taurine_1_1_7_3.ipa",
       "size": 32247808,
       "title": "Taurine",
       "url": "https://taurine.app/",
@@ -224,7 +224,7 @@
         {
           "version": "1.1.70-3",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn.omnidev.org/Taurine_1_1_7_3-6h.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Taurine_1_1_7_3.ipa",
           "size": 32247808
         }
       ]
@@ -237,12 +237,12 @@
       "subtitle": "Jailbreak for iOS 13.0 to iOS 13.7.",
       "description": "Jailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
       "localizedDescription": "Jailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/IMG_4248-Wv.png",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_4248.png",
       "tintColor": "f5896f",
       "category": "utilities",
       "version": "1.4.3",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn.omnidev.org/Odyssey_1_4_3-Yb.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Odyssey_1_4_3.ipa",
       "size": 25940000,
       "title": "Odyssey",
       "url": "https://theodyssey.dev"
@@ -255,12 +255,12 @@
       "subtitle": "Jailbreak for iOS 11.0 to 14.8",
       "description": "Jailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
       "localizedDescription": "Jailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/Icon_App_60x60_3x-Qf.png",
+      "iconURL": "https://cdn1.realmzer.xyz/Icon_App_60x60_3x.png",
       "tintColor": "292929",
       "category": "utilities",
       "version": "8.0.2",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/unc0ver_Release_8_0_2.ipa",
       "size": 54493184,
       "title": "unc0ver",
       "url": "https://github.com/pwn20wndstuff/Undecimus",
@@ -268,7 +268,7 @@
         {
           "version": "8.0.2",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn.omnidev.org/unc0ver_Release_8_0_2-38.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/unc0ver_Release_8_0_2.ipa",
           "size": 54493184
         }
       ]
@@ -281,12 +281,12 @@
       "subtitle": "Misaka - iOS & tvOS customisation tool for KFD & MDC",
       "description": "Misaka lets you customise your phone without a jailbreak.\nStatus: ✅",
       "localizedDescription": "Misaka lets you customise your phone without a jailbreak.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/3_Ce7_c0d_400x400-ZD.png",
+      "iconURL": "https://cdn1.realmzer.xyz/3_Ce7_c0d_400x400.png",
       "tintColor": "fa86f9",
       "category": "utilities",
       "version": "8.2.4",
       "versionDate" : "2024-11-29",
-      "downloadURL": "https://cdn.omnidev.org/misaka_v8_2_4-Mn.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/misaka_v8_2_4.ipa",
       "size": 30744576,
       "title": "Misaka",
       "url": "https://github.com/straight-tamago/misaka",
@@ -294,7 +294,7 @@
         {
           "version": "8.2.4",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn.omnidev.org/misaka_v8_2_4-Mn.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/misaka_v8_2_4.ipa",
           "size": 30744576
         }
       ]
@@ -307,12 +307,12 @@
       "subtitle": "E-Sign no logs - IPA Signer with no telemetry",
       "description": "The best no PC iOS sideloader\nStatus: ✅",
       "localizedDescription": "The best no PC iOS sideloader\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/esign-mg.png",
+      "iconURL": "https://cdn1.realmzer.xyz/esign.png",
       "tintColor": "4894ee",
       "category": "utilities",
       "version": "5.0.2",
       "versionDate" : "2024-10-11",
-      "downloadURL": "https://cdn.omnidev.org/E_Sign_V5_0_2_No_Logs-29.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/E_Sign_V5_0_2_No_Logs.ipa",
       "size": 7245924,
       "title": "ESign No Logs",
       "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/",
@@ -320,7 +320,7 @@
         {
           "version": "5.0.2",
           "date" : "2024-10-11",
-          "downloadURL": "https://cdn.omnidev.org/G_Box_v5_6_7-9h.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/G_Box_v5_6_7.ipa",
           "size": 7245924
         }
       ]
@@ -333,12 +333,12 @@
       "subtitle": "Feather - IPA Signer",
       "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
       "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/feather-au.png",
+      "iconURL": "https://cdn1.realmzer.xyz/feather.png",
       "tintColor": "848ef9",
       "category": "utilities",
       "version" : "1.1.3",
       "versionDate" : "2024-11-02",
-      "downloadURL": "https://cdn.omnidev.org/feather_v1_1_3-Xp.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_1_3.ipa",
       "size": 12496896,
       "title": "Feather",
       "url": "https://github.com/khcrysalis/Feather/",
@@ -346,19 +346,19 @@
         {
           "version" : "1.1.3",
           "date" : "2024-11-02",
-          "downloadURL": "https://cdn.omnidev.org/feather_v1_1_3-Xp.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_1_3.ipa",
           "size": 12496896
         },
         {
           "version" : "1.0.5",
           "date" : "2024-10-30",
-          "downloadURL": "https://cdn.omnidev.org/feather_v1_0_5-e6.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_0_5.ipa",
           "size": 12375230
         },
         {
           "version" : "1.1.2",
           "date" : "2024-11-01",
-          "downloadURL": "https://cdn.omnidev.org/feather_v1_1_2-IW.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_1_2.ipa",
           "size": 13107200
         }
       ]
@@ -371,12 +371,12 @@
       "subtitle": "GBox - IPA signer",
       "description": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
       "localizedDescription": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/icon256-wM.png",
+      "iconURL": "https://cdn1.realmzer.xyz/icon256.png",
       "tintColor": "03de60",
       "category": "utilities",
       "version": "5.6.9",
       "versionDate": "2024-12-04",
-      "downloadURL": "https://cdn.omnidev.org/G_Box_v5_6_9-CI.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/G_Box_v5_6_9.ipa",
       "size": 6766592,
       "title": "GBox",
       "url": "https://gbox.run/",
@@ -384,13 +384,13 @@
         {
           "version": "5.6.8",
           "date": "2024-11-28",
-          "downloadURL": "https://cdn.omnidev.org/Gbox_5_6_8-5D.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Gbox_5_6_8.ipa",
           "size": 6766592
         },
         {
           "version": "5.6.7",
           "date": "2024-11-26",
-          "downloadURL": "https://cdn.omnidev.org/G_Box_v5_6_7-9h.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/G_Box_v5_6_7.ipa",
           "size": 6766592
         }
       ]
@@ -403,12 +403,12 @@
       "subtitle": "Scarlet - IPA Signer",
       "description": "Scarlet is a iOS signer that doesn't need a pc and doesnt have a app limit\nWARNING: Easily gets revoked, just use E-Sign\nStatus: ✅",
       "localizedDescription": "Scarlet is a iOS signer that doesn't need a pc and doesnt have a app limit\nWARNING: Easily gets revoked, just use E-Sign\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/community_Icon_hp7dhjnmr58b1-TL.png",
+      "iconURL": "https://cdn1.realmzer.xyz/community_Icon_hp7dhjnmr58b1.png",
       "tintColor": "c62d36",
       "category": "utilities",
       "version": "1.0.0",
       "versionDate" : "2024-11-26",
-      "downloadURL": "https://cdn.omnidev.org/Scarlet_Alpha_1-mq.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Scarlet_Alpha_1.ipa",
       "size": 15515648,
       "title": "Scarlet",
       "url": "https://usescarlet.com/",
@@ -416,7 +416,7 @@
         {
           "version": "1.0.0",
           "date" : "2024-11-26",
-          "downloadURL": "https://cdn.omnidev.org/Scarlet_Alpha_1-mq.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Scarlet_Alpha_1.ipa",
           "size": 15515648
         }
       ]
@@ -429,13 +429,13 @@
       "description": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
       "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
       "developerName": "Hung Nguyen",
-      "iconURL": "https://cdn.omnidev.org/hdflix-9M.png",
+      "iconURL": "https://cdn1.realmzer.xyz/hdflix.png",
       "tintColor": "ea221f",
       "category": "entertainment",
       "size": 14737408,
       "version": "4.0",
       "versionDate": "2024-11-29",
-      "downloadURL": "https://cdn.omnidev.org/hdflixnoads4_0-Yb.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/hdflixnoads4_0.ipa",
       "title": "HD Flix No Ads",
       "url": "https://t.me/HD_Flix_Channel/" 
     },
@@ -447,15 +447,15 @@
       "subtitle": "A very good but simple wallpaper editor",
       "description": "A very good but simple wallpaper editor\nStatus: ✅🔥",
       "localizedDescription": "A very good but simple wallpaper editor\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_4414-H3.png",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4414.png",
       "tintColor": "E9E9E6",
       "category": "utilities",
       "version": "2.5.3",
       "versionDate" : "2024-12-13",
-      "downloadURL": "https://cdn1.realmzer.xyz//design_jli_minipaper_2_5_3-WA.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//design_jli_minipaper_2_5_3.ipa",
       "size": 72820000,
       "title": "Minipaper",
-      "url": "https://apps.apple.com/us/app/minipaper/id1665815391",
+      "url": "https://apps.apple.com/us/app/minipaper/id1665815391"
     },
     {
       "beta": false,
@@ -465,12 +465,12 @@
       "subtitle": "UTM - Run virtual machines on iOS",
       "description": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
       "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/utm-mo.png",
+      "iconURL": "https://cdn1.realmzer.xyz/utm.png",
       "tintColor": "1a3cc9",
       "category": "utilities",
       "version" : "4.5.4",
       "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn.omnidev.org/UTM-01.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/UTM.ipa",
       "size": 122064896,
       "title": "UTM",
       "url": "https://getutm.app/",
@@ -478,7 +478,7 @@
         {
           "version" : "4.5.4",
           "date" : "2024-11-04",
-          "downloadURL": "https://cdn.omnidev.org/UTM-01.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/UTM.ipa",
           "size": 122064896
         }
       ]
@@ -491,12 +491,12 @@
       "subtitle": "UTM SE - Run virtual machines on iOS just a bit slower",
       "description": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
       "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/utm-mo.png",
+      "iconURL": "https://cdn1.realmzer.xyz/utm.png",
       "tintColor": "1a3cc9",
       "category": "utilities",
       "version" : "4.5.4",
       "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn.omnidev.org/UTM_SE-QQ.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/UTM_SE.ipa",
       "size": 217464832,
       "title": "UTM SE",
       "url": "https://getutm.app/",
@@ -504,7 +504,7 @@
         {
           "version" : "4.5.4",
           "date" : "2024-11-04",
-          "downloadURL": "https://cdn.omnidev.org/UTM_SE-QQ.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/UTM_SE.ipa",
           "size": 217464832
         }
       ]
@@ -517,12 +517,12 @@
       "subtitle": "OldOS - iOS 4, brought back to life!",
       "description": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅",
       "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅", 
-      "iconURL": "https://cdn.omnidev.org/D_Gy5_hww_400x400-aK.png",
+      "iconURL": "https://cdn1.realmzer.xyz/D_Gy5_hww_400x400.png",
       "tintColor": "1e1e1e",
       "category": "utilities",
       "version": "1.0.0",
       "versionDate": "2024-09-26",
-      "downloadURL": "https://cdn.omnidev.org/Old_OS-bi.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Old_OS.ipa",
       "size": 88174592,
       "title": "OldOS",
       "url": "https://github.com/zzanehip/The-OldOS-Project",
@@ -530,7 +530,7 @@
         {
           "version": "1.0.0",
           "date" : "2024-09-26",
-          "downloadURL": "https://cdn.omnidev.org/Old_OS-bi.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Old_OS.ipa",
           "size": 88174592
         }
       ]
@@ -543,12 +543,12 @@
       "subtitle": "LocalSend - Cross-Platform File Sharing",
       "description": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
       "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/localsend-TR.png",
+      "iconURL": "https://cdn1.realmzer.xyz/localsend.png",
       "tintColor": "008080",
       "category": "utilities",
       "version": "1.15.4",
       "versionDate" : "2024-10-30",
-      "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/org_localsend_localsend_App_1_15_4.ipa",
       "size": 16416768,
       "title": "LocalSend",
       "url": "https://github.com/localsend/localsend",
@@ -556,7 +556,7 @@
         {
           "version": "1.15.4",
           "date" : "2024-10-30",
-          "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/org_localsend_localsend_App_1_15_4.ipa",
           "size": 16416768
         }
       ]
@@ -569,12 +569,12 @@
       "subtitle": "Anonycord - A video-recorder without preview.",
       "description": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
       "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
+      "iconURL": "https://cdn1.realmzer.xyz/2024_08_07_04s_Kleki.png",
       "tintColor": "6d6d6d",
       "category": "photo-video",
       "version": "1.2",
       "versionDate": "2024-10-09",
-      "downloadURL": "https://cdn.omnidev.org/Anonycord-J9.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Anonycord.ipa",
       "size": 1392905,
       "title": "Anonycord",
       "url": "https://github.com/c22dev/Anonycord/",
@@ -582,7 +582,7 @@
         {
           "version": "1.2",
           "date" : "2024-10-09",
-          "downloadURL": "https://cdn.omnidev.org/Anonycord-J9.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Anonycord.ipa",
           "size": 1392905
         }
       ]
@@ -595,12 +595,12 @@
       "developerName": "Winter Bagley",
       "description": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
       "localizedDescription": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/iplistgen-WG.png",
+      "iconURL": "https://cdn1.realmzer.xyz/iplistgen.png",
       "tintColor": "29505e",
       "category": "utilities",
       "version": "1.0.0",
       "versionDate": "2024-10-31",
-      "downloadURL": "https://cdn.omnidev.org/dev_casp_i_Plist_Gen_1_0-xV.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/dev_casp_i_Plist_Gen_1_0.ipa",
       "size": 389728,
       "title": "iPlistGen",
       "url": "https://github.com/flyinghead/flycast",
@@ -608,7 +608,7 @@
         {
           "version": "1.0.0",
           "date" : "2024-10-31",
-          "downloadURL": "https://cdn.omnidev.org/dev_casp_i_Plist_Gen_1_0-xV.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/dev_casp_i_Plist_Gen_1_0.ipa",
           "size": 389728
         }
       ]
@@ -621,13 +621,13 @@
       "description": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
       "localizedDescription": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
       "developerName": "Paisseon",
-      "iconURL": "https://cdn.omnidev.org/Azula-BF.png",
+      "iconURL": "https://cdn1.realmzer.xyz/Azula.png",
       "tintColor": "0aa6c9",
       "category": "utilities",
       "size": 1536000,
       "version": "1.0.1",
       "versionDate": "2024-10-18",
-      "downloadURL": "https://cdn.omnidev.org/Azula-bW.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Azula.ipa",
       "title": "Azula",
       "url": "https://github.com/Paisseon/Azula/" 
     },
@@ -639,13 +639,13 @@
       "description": "Removes three app limit. (iOS 16.1.2 & lower)\nStatus: ✅",
       "localizedDescription": "Removes three app limit. (iOS 16.1.2 & lower)\nStatus: ✅",
       "developerName": "zhuowei",
-      "iconURL": "https://cdn.omnidev.org/noicon-y4.png",
+      "iconURL": "https://cdn1.realmzer.xyz/noicon.png",
       "tintColor": "f05138",
       "category": "utilities",
       "size": 32768 ,
       "version": "1.0",
       "versionDate": "2024-10-24",
-      "downloadURL": "https://cdn.omnidev.org/WDB_Remove_Three_App_Limit_v1_0-qz.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/WDB_Remove_Three_App_Limit_v1_0.ipa",
       "title": "WDB-Remove-Three-App-Limit",
       "url": "https://github.com/zhuowei/WDBRemoveThreeAppLimit" 
     },
@@ -657,13 +657,13 @@
       "description": "App for sending feedback to Apple.\nStatus: ✅",
       "localizedDescription": "App for sending feedback to Apple.\nStatus: ✅",
       "developerName": "Apple",
-      "iconURL": "https://cdn.omnidev.org/Feedback_Assistant-rW.png",
+      "iconURL": "https://cdn1.realmzer.xyz/Feedback_Assistant.png",
       "tintColor": "af53d9",
       "category": "utilities",
       "size": 1544192,
       "version": "1.0.0",
       "versionDate": "2024-10-24",
-      "downloadURL": "https://cdn.omnidev.org/Feedback_Assistant_i_OS-OB.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Feedback_Assistant_i_OS.ipa",
       "title": "Feedback Assistant",
       "url": "https://developer.apple.com/bug-reporting/" 
     }, 
@@ -675,13 +675,13 @@
       "description": "A barcode scanner official from Apple\nStatus: ✅",
       "localizedDescription": "A barcode scanner official from Apple\nStatus: ✅",
       "developerName": "Apple",
-      "iconURL": "https://cdn.omnidev.org/barcodescanner-za.png",
+      "iconURL": "https://cdn1.realmzer.xyz/barcodescanner.png",
       "tintColor": "c8cacc",
       "category": "utilities",
       "size": 184903,
       "version": "1.0.0",
       "versionDate": "2024-10-24",
-      "downloadURL": "https://cdn.omnidev.org/Barcode_Scanner-wc.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Barcode_Scanner.ipa",
       "title": "Barcode Scanner",
       "url": "https://apple.com/" 
     },
@@ -693,7 +693,7 @@
       "description": "Blocks some apps sideloading protections.\nStatus: ✅✨",
       "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
       "developerName": "Realmzer",
-      "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+      "iconURL": "https://cdn1.realmzer.xyz/tweakicon.png",
       "tintColor": "690ff5",
       "category": "dylib",
       "size": 204800,
@@ -711,7 +711,7 @@
       "description": "Blocks some apps sideloading protections.\nStatus: ✅✨",
       "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
       "developerName": "Realmzer",
-      "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+      "iconURL": "https://cdn1.realmzer.xyz/tweakicon.png",
       "tintColor": "690ff5",
       "category": "dylib",
       "size": 86016,
@@ -729,13 +729,13 @@
       "description": "Although this is a nice tweak, LocaliApStore does not work for some games such as Borderlands & the new Batman game but this tweak does!\nStatus: ✅✨",
       "localizedDescription": "Although this is a nice tweak, LocaliApStore does not work for some games such as Borderlands & the new Batman game but this tweak does!\nStatus: ✅✨",
       "developerName": "iOS Gods",
-      "iconURL": "https://cdn.omnidev.org/iitsk_FB-Ya.png",
+      "iconURL": "https://cdn1.realmzer.xyz/iitsk_FB.png",
       "tintColor": "e8a7b0",
       "category": "dylib",
       "size": 4096,
       "version": "0.0.1",
       "versionDate": "2024-11-17",
-      "downloadURL": "https://cdn.omnidev.org/i_OS_Gods_com_i_AP_Cracker_0_0_1_1_debug_iphoneos_arm-Cg.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz/i_OS_Gods_com_i_AP_Cracker_0_0_1_1_debug_iphoneos_arm-Cg.deb",
       "title": "iOS Gods iAP Cracker",
       "url": "https://iosgods.com/topic/60193-iosgods-iap-cracker-iap-tweak-modifier/" 
     },
@@ -747,13 +747,13 @@
       "description": "Unlocks some apps FPS\nStatus: ✅✨",
       "localizedDescription": "Unlocks some apps FP\nStatus: ✅✨",
       "developerName": "PoomSmart",
-      "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+      "iconURL": "https://cdn1.realmzer.xyz/tweakicon.png",
       "tintColor": "690ff5",
       "category": "dylib",
       "size": 8192,
       "version": "1.3.1",
       "versionDate": "2024-11-17",
-      "downloadURL": "https://cdn.omnidev.org/com_ps_cahighfps_1_3_1_iphoneos_arm64-9E.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz/com_ps_cahighfps_1_3_1_iphoneos_arm64-9E.deb",
       "title": "CA-High-FPS",
       "url": "https://www.ios-repo-updates.com/repository/poomsmart/" 
     },
@@ -765,7 +765,7 @@
       "description": "Allows you to get free IAP in some apps while sideloading.\nStatus: ✅✨",
       "localizedDescription": "Allows you to get free IAP in some apps while sideloading.\nStatus: ✅✨",
       "developerName": "Paisseon",
-      "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+      "iconURL": "https://cdn1.realmzer.xyz/tweakicon.png",
       "tintColor": "690ff5",
       "category": "dylib",
       "size": 8331776,
@@ -783,7 +783,7 @@
       "description": "Adds an adblock to applications of your choice.\nStatus: ✅✨",
       "localizedDescription": "Adds an adblock to applications of your choice.\nStatus: ✅✨",
       "developerName": "Julioverne",
-      "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+      "iconURL": "https://cdn1.realmzer.xyz/tweakicon.png",
       "tintColor": "690ff5",
       "category": "dylib",
       "size": 12288,
@@ -801,12 +801,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_roothide1_6-11.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_roothide1_6.deb",
       "size": 3166208,
       "title": "Frida Code Manager (Root-Hide)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -815,7 +815,7 @@
           "version": "1.6",
           "date" : "2024-10-25",
           "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-          "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_roothide1_6-11.deb",
+          "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_roothide1_6.deb",
           "size": 3166208
         }
       ]
@@ -828,12 +828,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_roothide1_6-11.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_roothide1_6.deb",
       "size": 70615040,
       "title": "Frida Code Manager (Root-Hide) v1.6",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
@@ -846,12 +846,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_rootless1_6-3P.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_rootless1_6.deb",
       "size": 3166104,
       "title": "Frida Code Manager (Root-Less)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -860,7 +860,7 @@
           "version": "1.6",
           "date" : "2024-10-25",
           "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-          "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_rootless1_6-3P.deb",
+          "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_rootless1_6.deb",
           "size": 3166104
         }
       ]
@@ -873,12 +873,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_rootless1_6-3P.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_rootless1_6.deb",
       "size": 70615040,
       "title": "Frida Code Manager (Root-Less) v1.6",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
@@ -891,12 +891,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_stock_alpha1_6-1G.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_stock_alpha1_6.ipa",
       "size": 66809856,
       "title": "Frida Code Manager (Stock Alpha)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -905,7 +905,7 @@
           "version": "1.6",
           "date" : "2024-10-25",
           "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-          "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_stock_alpha1_6-1G.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_stock_alpha1_6.ipa",
           "size": 66809856
         }
       ]
@@ -918,12 +918,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_stock_alpha1_6-1G.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_stock_alpha1_6.ipa",
       "size": 70615040,
       "title": "Frida Code Manager (Stock Alpha)",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
@@ -936,12 +936,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_trollstore1_6-rk.tipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_trollstore1_6.tipa",
       "size": 70615040,
       "title": "Frida Code Manager (TrollStore)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -950,7 +950,7 @@
           "version": "1.6",
           "date" : "2024-10-25",
           "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-          "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_trollstore1_6-rk.tipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_trollstore1_6.tipa",
           "size": 70615040
         }
       ]
@@ -963,12 +963,12 @@
       "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
       "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
       "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
-      "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+      "iconURL": "https://cdn1.realmzer.xyz/FCM.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_trollstore1_6-rk.tipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_trollstore1_6.tipa",
       "size": 70615040,
       "title": "Frida Code Manager (TrollStore) v1.6",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
@@ -981,12 +981,12 @@
       "subtitle": "Filza TrollStore - A powerful File Manager for iPhone, iPad, iPod Touch",
       "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅🔵",
       "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅🔵",
-      "iconURL": "https://cdn.omnidev.org/cydia_1900000088_icon-4H.png",
+      "iconURL": "https://cdn1.realmzer.xyz/cydia_1900000088_icon.png",
       "tintColor": "66d0f3",
       "category": "utilities",
       "version": "4.0.2",
       "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Filza_No_URL_Scheme_4_0_2.ipa",
       "size": 13893632,
       "title": "Filza TrollStore",
       "url": "https://www.tigisoftware.com/",
@@ -994,7 +994,7 @@
         {
           "version": "4.0.2",
           "date" : "2024-11-28",
-          "downloadURL": "https://cdn.omnidev.org/Filza_No_URL_Scheme_4_0_2-xn.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Filza_No_URL_Scheme_4_0_2.ipa",
           "size": 13893632
         }
       ]
@@ -1007,12 +1007,12 @@
       "subtitle": "Filza Escaped 16 - A powerful File Manager for iPhone, iPad, iPod Touch",
       "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅",
       "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/cydia_1900000088_icon-4H.png",
+      "iconURL": "https://cdn1.realmzer.xyz/cydia_1900000088_icon.png",
       "tintColor": "66d0f3",
       "category": "utilities",
       "version": "16",
       "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn.omnidev.org/Filza_Escaped16-vN.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Filza_Escaped16.ipa",
       "size": 14651392,
       "title": "Filza Escaped 16",
       "url": "https://basvtdevelopments.com/filzaescaped",
@@ -1020,7 +1020,7 @@
         {
           "version": "16",
           "date" : "2024-11-28",
-          "downloadURL": "https://cdn.omnidev.org/Filza_Escaped16-vN.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Filza_Escaped16.ipa",
           "size": 14651392
         }
       ]
@@ -1033,12 +1033,12 @@
       "subtitle": "Swiftgram - Telegram for iOS Supercharged",
       "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
       "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/swiftgram-we.png",
+      "iconURL": "https://cdn1.realmzer.xyz/swiftgram.png",
       "tintColor": "f56d3e",
       "category": "social",
       "version": "11.3.2",
       "versionDate" : "2024-12-12",
-      "downloadURL": "https://cdn.omnidev.org/app_swiftgram_ios_11_3_2_eeveedecrypter-ko.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_3_2_eeveedecrypter.ipa",
       "size": 76230656,
       "title": "Swiftgram",
       "url": "https://swiftgram.app/",
@@ -1046,19 +1046,19 @@
         {
           "version": "11.3.2",
           "date" : "2024-12-12",
-          "downloadURL": "https://cdn.omnidev.org/app_swiftgram_ios_11_3_2_eeveedecrypter-ko.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_3_2_eeveedecrypter.ipa",
           "size": 76230656
         },
         {
           "version": "11.3.1",
           "date" : "2024-11-18",
-          "downloadURL": "https://cdn.omnidev.org/app_swiftgram_ios_11_3_1_eeveedecrypter-3I.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_3_1_eeveedecrypter.ipa",
           "size": 76226560
         },
         {
           "version": "11.2",
           "date" : "2024-11-05",
-          "downloadURL": "https://cdn.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_2.ipa",
           "size": 73510912
         }
       ]
@@ -1071,12 +1071,12 @@
       "subtitle": "Free Spotify Premium",
       "description": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
       "localizedDescription": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/spotify-63.png",
+      "iconURL": "https://cdn1.realmzer.xyz/spotify.png",
       "tintColor": "1ed760",
       "category": "entertainment",
       "version": "9.0.0",
       "versionDate": "2024-12-12",
-      "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_9_0_0-ba.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_9_0_0.ipa",
       "size": 85000000,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
@@ -1085,42 +1085,42 @@
           "version": "9.0.0",
           "date": "2024-12-12",
           "localizedDescription": "*Latest release with improved stability and additional features.",
-          "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_9_0_0-ba.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_9_0_0.ipa",
           "size": 85000000
         },
         {
           "version": "8.9.94/Swift 5.8.2",
           "date": "2024-12-06",
           "localizedDescription": "*Updated German localization \nBy @wlxxd & @SultanModsIPAs",
-          "downloadURL": "https://cdn.omnidev.org/Spotify_v8_9_96_Eevee_v5_8_2-8k.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Spotify_v8_9_96_Eevee_v5_8_2.ipa",
           "size": 83750912
         },
         {
           "version": "8.9.94/Swift 5.8.1",
           "date": "2024-11-28",
           "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy @SultanModsIPAs",
-          "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_8_9_94_Widget_Working-AR.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_8_9_94_Widget_Working.ipa",
           "size": 80715776
         },
         {
           "version": "8.9.92/Swift 5.8.1",
           "date": "2024-11-18",
           "localizedDescription": "*Updated Turkish localization by @gototheskinnyUpdated\n*Traditional Chinese localizaton by @ElliotCHEN37\n*Updated Polish localization by @HackZy01Updated\n*Persian localization by @Incognito-Coder",
-          "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_5_8_1_8_9_92-kL.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_5_8_1_8_9_92.ipa",
           "size": 84066304
         },
         {
           "version": "8.9.90/Swift 5.8",
           "date": "2024-11-07",
           "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_5_8_8_9_90-lF.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_5_8_8_9_90.ipa",
           "size": 95408128
         },
         {
           "version": "8.9.86/Swift 5.7",
           "date": "2024-10-27",
           "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://cdn.omnidev.org/Eevee_Spotify_5_7_8_9_86-fh.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_5_7_8_9_86.ipa",
           "size": 81833984
         }
       ]
@@ -1133,12 +1133,12 @@
       "subtitle": "Twitch with no ads included",
       "description": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥",
       "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/twitch-bF.png",
+      "iconURL": "https://cdn1.realmzer.xyz/twitch.png",
       "tintColor": "9145fd",
       "category": "entertainment",
       "version": "22.3.3",
       "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn.omnidev.org/Twitchadfree22_3_3_Fixedbundle_patched_nofix-Hg.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Twitchadfree22_3_3_Fixedbundle_patched_nofix.ipa",
       "size": 104194048,
       "title": "Twitch No Ads",
       "versions" : [
@@ -1146,7 +1146,7 @@
           "version": "22.3.3",
           "date" : "2024-12-06",
           "localizedDescription": "- Updated Twitch (https://apps.apple.com/us/app/twitch-live-streaming/id460177396) to 22.3.3 (today's update no ads)\n- Video game streaming\n- adfree \n-Injected AdBlock by level3tjg\n-injected with keychain and sideload fix and the bundle file that was missing\n-injected open in safari extension\n-injected pluginwidgetsfix\n-now I'm not seeing any ads \nBy @wlxxd & @SultanModsIPAs",
-          "downloadURL": "https://cdn.omnidev.org/Twitchadfree22_3_3_Fixedbundle_patched_nofix-Hg.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Twitchadfree22_3_3_Fixedbundle_patched_nofix.ipa",
           "size": 104194048
         }
       ]
@@ -1159,37 +1159,37 @@
       "subtitle": "TikTokAC - Stable TikTok Tweak",
       "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
       "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/tiktok_6338429_1280-wV.webp",
+      "iconURL": "https://cdn1.realmzer.xyz/tiktok_6338429_1280.webp",
       "tintColor": "08f3da",
       "category": "social",
       "version": "37.6.0",
       "versionDate" : "2024-12-04",
-      "downloadURL": "https://cdn.omnidev.org/AC_Tik_Tok37_6_0-Ic.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/AC_Tik_Tok37_6_0.ipa",
       "size": 311889920,
       "title": "TikTokAC",
       "versions" : [
         {
           "version": "37.6.0",
           "date" : "2024-12-04",
-          "downloadURL": "https://cdn.omnidev.org/AC_Tik_Tok37_6_0-Ic.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/AC_Tik_Tok37_6_0.ipa",
           "size": 311889920
         },
         {
           "version": "37.5.0-Patched",
           "date" : "2024-11-30",
-          "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0_Moe_patched-y4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Tiktok_AC_37_5_0_Moe_patched.ipa",
           "size": 326320128
         },
         {
           "version": "37.5.0",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn.omnidev.org/Tiktok_AC_37_5_0-fC.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Tiktok_AC_37_5_0.ipa",
           "size": 326307840
         },
         {
           "version": "37.4.0",
           "date" : "2024-11-24",
-          "downloadURL": "https://cdn.omnidev.org/Tik_Tok_AC_37_4_0_Moe-D2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Tik_Tok_AC_37_4_0_Moe.ipa",
           "size": 316399616
         }
       ]
@@ -1202,25 +1202,25 @@
       "subtitle": "Instagram with Regram Cracked!",
       "description": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
       "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
-      "iconURL": "https://cdn.omnidev.org/com_burbn_instagram-DD.png",
+      "iconURL": "https://cdn1.realmzer.xyz/com_burbn_instagram.png",
       "tintColor": "fe0297",
       "category": "social",
       "version": "360.1.0",
       "date": "2024-12-12",
-      "downloadURL": "https://cdn.omnidev.org/Instagram_v360_1_0_Regramb15_eth_Sign-tO.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Instagram_v360_1_0_Regramb15_eth_Sign.ipa",
       "size": 200000000,
       "title": "Instagram Regram",
       "versions": [
         {
           "version": "360.1.0",
           "date": "2024-12-12",
-          "downloadURL": "https://cdn.omnidev.org/Instagram_v360_1_0_Regramb15_eth_Sign-tO.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Instagram_v360_1_0_Regramb15_eth_Sign.ipa",
           "size": 200000000
         },
         {
           "version": "356.0.0",
           "date": "2024-11-23",
-          "downloadURL": "https://cdn.omnidev.org/com_burbn_instagram_356_0_0_regram_1_0_b15_sl-Is.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/com_burbn_instagram_356_0_0_regram_1_0_b15_sl.ipa",
           "size": 193929216
         }
       ]
@@ -1233,12 +1233,12 @@
       "subtitle": "YTMusicUltimate - The best tweak for YouTube Music iOS",
       "description": "A tweaked version of YouTube Music\nStatus: ✅🔥", 
       "localizedDescription": "A tweaked version of YouTube Music\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/IMG_4249-ZO.png",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_4249.png",
       "tintColor": "ff2120",
       "category": "entertainment",
       "version": "7.29.1",
       "versionDate": "2024-12-04",
-      "downloadURL": "https://cdn.omnidev.org/YT_Music_Ultimate_7_29_1-2u.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/YT_Music_Ultimate_7_29_1.ipa",
       "size": 82607573,
       "title": "YTMusicUltimate",
       "url": "https://github.com/dayanch96/YTMusicUltimate",
@@ -1247,7 +1247,7 @@
           "version": "7.26.1",
           "date": "2024-11-27",
           "localizedDescription": "*Move to light version of mobile-ffmpeg\n*Move downloading to native download button (#296)\n*Fix workflow issues (#301)",
-          "downloadURL": "https://cdn.omnidev.org/YT_Music_Ultimate_v7_26_1-rg.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/YT_Music_Ultimate_v7_26_1.ipa",
           "size": 82607573
         }
       ]
@@ -1260,12 +1260,12 @@
       "subtitle": "YTLitePlus - Removes Ads and adds functionality",
       "description": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
       "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/IMG_4242-or.webp",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_4242.webp",
       "tintColor": "fc0032",
       "category": "entertainment",
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn.omnidev.org/youtubelite_19_47_7-lF.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/youtubelite_19_47_7.ipa",
       "size": 98000000,
       "title": "YTLitePlus",
       "url": "https://github.com/YTLitePlus/YTLitePlus",
@@ -1274,14 +1274,14 @@
           "version": "19.47.7",
           "date" : "2024-11-30",
           "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
-          "downloadURL": "https://cdn.omnidev.org/youtubelite_19_47_7-lF.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/youtubelite_19_47_7.ipa",
           "size": 114438144
         },
         {
           "version": "19.42.1",
           "date" : "2024-10-26",
           "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ❔",
-          "downloadURL": "https://cdn.omnidev.org/YT_Lite_Plus_19_42_1_5_0_2-ns.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/YT_Lite_Plus_19_42_1_5_0_2.ipa",
           "size": 114438144
         }
       ]
@@ -1294,12 +1294,12 @@
       "subtitle": "YouTubePlus - Removes Ads and adds functionality",
       "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
       "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/IMG_4242-or.webp",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_4242.webp",
       "tintColor": "ff4154",
       "category": "entertainment",
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn.omnidev.org/You_Tube_19_47_7-VE.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/You_Tube_19_47_7.ipa",
       "size": 115900000,
       "title": "YouTubePlus",
       "url": "https://github.com/dayanch96/YTLite"
@@ -1312,12 +1312,12 @@
       "subtitle": "uYouEnhanced - Removes Ads and adds functionality",
       "description": "YouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
       "localizedDescription": "YouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/IMG_4242-or.webp",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_4242.webp",
       "tintColor": "ff4154",
       "category": "entertainment",
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn.omnidev.org/youtube_enhanced_19_47_7-uo.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/youtube_enhanced_19_47_7.ipa",
       "size": 117000000,
       "title": "uYouEnhanced",
       "url": "https://github.com/arichornlover/uYouEnhanced",
@@ -1325,7 +1325,7 @@
         {
           "version": "19.21.2-3.0.4",
           "date" : "2024-11-19",
-          "downloadURL": "https://cdn.omnidev.org/u_You_Enhanced_19_46_3_3_0_4-fS.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/u_You_Enhanced_19_46_3_3_0_4.ipa",
           "size": 123060224
         }
       ]
@@ -1338,12 +1338,12 @@
       "subtitle": "LogRide - Largest theme park database",
       "description": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
       "localizedDescription": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/logride-aP.png",
+      "iconURL": "https://cdn1.realmzer.xyz/logride.png",
       "tintColor": "68b547",
       "category": "utilities",
       "version" : "6.9.4",
       "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/com_parksman_Log_Ride_6_9_4.ipa",
       "size": 24649728,
       "title": "LogRide",
       "url": "https://logrideapp.com/",
@@ -1351,7 +1351,7 @@
         {
           "version" : "6.9.4",
           "date" : "2024-11-04",
-          "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/com_parksman_Log_Ride_6_9_4.ipa",
           "size": 24649728
         }
       ]
@@ -1364,19 +1364,19 @@
       "subtitle": "Powerful Networking Tool",
       "description": "Egern is a feature-rich and powerful networking tool, specifically designed for proxying, intercepting, and modifying network traffic.\nStatus: ✅🔥",
       "localizedDescription": "Egern is a feature-rich and powerful networking tool, specifically designed for proxying, intercepting, and modifying network traffic.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/egern-rU.png",
+      "iconURL": "https://cdn1.realmzer.xyz/egern.png",
       "tintColor": "388ce3",
       "category": "utilities",
       "version": "1.27.0",
       "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn.omnidev.org/Egernv1_27_0-7M.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Egernv1_27_0.ipa",
       "size": 18321408,
       "title": "Egern",
       "versions" : [
         {
           "version": "1.27.0",
           "date" : "2024-12-06",
-          "downloadURL": "https://cdn.omnidev.org/Egernv1_27_0-7M.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Egernv1_27_0.ipa",
           "size": 18321408
         }
       ]
@@ -1389,19 +1389,19 @@
       "subtitle": "Step Counter",
       "description": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
       "localizedDescription": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/pedometerplusplus-aL.png",
+      "iconURL": "https://cdn1.realmzer.xyz/pedometerplusplus.png",
       "tintColor": "00e85e",
       "category": "utilities",
       "version": "6.1",
       "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn.omnidev.org/com_crossforward_pedometer_6_1_eeveedecrypter-yA.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/com_crossforward_pedometer_6_1_eeveedecrypter.ipa",
       "size": 18321408,
       "title": "Pedometer++",
       "versions" : [
         {
           "version": "6.1",
           "date" : "2024-12-06",
-          "downloadURL": "https://cdn.omnidev.org/com_crossforward_pedometer_6_1_eeveedecrypter-yA.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/com_crossforward_pedometer_6_1_eeveedecrypter.ipa",
           "size": 18321408
         }
       ]
@@ -1414,12 +1414,12 @@
       "subtitle": "Delta - Retro Video Game Emulator",
       "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
       "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/Delta4-c3.png",
+      "iconURL": "https://cdn1.realmzer.xyz/Delta4.png",
       "tintColor": "7f21e9",
       "category": "games",
       "version": "1.6",
       "versionDate" : "2024-11-19",
-      "downloadURL": "https://cdn.omnidev.org/delta-tE.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/delta.ipa",
       "size": 84283392,
       "title": "Delta",
       "url": "https://github.com/rileytestut/Delta",
@@ -1427,7 +1427,7 @@
         {
           "version": "1.6",
           "date" : "2024-11-19",
-          "downloadURL": "https://cdn.omnidev.org/delta-tE.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/delta.ipa",
           "size": 84283392
         }
       ]
@@ -1440,12 +1440,12 @@
       "subtitle": "Provenance - An emulator frontend",
       "description": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
       "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
+      "iconURL": "https://cdn1.realmzer.xyz/Iv0_D_Ty_QA_400x400.png",
       "tintColor": "1ac8fb",
       "category": "games",
       "version": "2.2.0",
       "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn.omnidev.org/Provenance-eh.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Provenance.ipa",
       "size": 33980416,
       "title": "Provenance",
       "url": "https://github.com/Provenance-Emu/Provenance/",
@@ -1453,7 +1453,7 @@
         {
           "version": "2.2.0",
           "date" : "2024-11-28",
-          "downloadURL": "https://cdn.omnidev.org/Provenance-eh.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Provenance.ipa",
           "size": 33980416
         }
       ]
@@ -1466,19 +1466,19 @@
       "developerName": "Henrik Rydgard",
       "description": "The best PSP Emulator for IOS Written in C++ Status: ✅",
       "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
-      "iconURL": "https://cdn.omnidev.org/ppsspp-Kh.png",
+      "iconURL": "https://cdn1.realmzer.xyz/ppsspp.png",
       "tintColor": "96cbda",
       "category": "games",
       "version": "1.17.4",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/PPSSPP_v1_17_4.ipa",
       "size": 11534336,
       "title": "PPSSPP",
       "versions" : [
         {
           "version": "1.17.4",
           "date" : "2024-09-26",
-          "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/PPSSPP_v1_17_4.ipa",
           "size": 11534336
         }
       ]
@@ -1491,7 +1491,7 @@
       "developerName": "Henrik Rydgard",
       "description": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
       "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
-      "iconURL": "https://cdn.omnidev.org/x_Fmk_Q_Tz-L2.png",
+      "iconURL": "https://cdn1.realmzer.xyz/x_Fmk_Q_Tz.png",
       "tintColor": "ffc53c",
       "category": "games",
       "version": "1.15.3",
@@ -1516,12 +1516,12 @@
       "subtitle": "FlyCast - Dreamcast Emulator",
       "description": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
       "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/images_3-Ox.png",
+      "iconURL": "https://cdn1.realmzer.xyz/images_3.png",
       "tintColor": "934df9",
       "category": "games",
       "version": "2.4.0",
       "versionDate": "2024-10-31",
-      "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Flycast_2_4.ipa",
       "size": 7885887,
       "title": "FlyCast",
       "url": "https://github.com/flyinghead/flycast",
@@ -1529,7 +1529,7 @@
         {
           "version": "2.4.0",
           "date" : "2024-10-31",
-          "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Flycast_2_4.ipa",
           "size": 7885887
         }
       ]
@@ -1542,20 +1542,20 @@
       "developerName": "OatmealDome",
       "description": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥", 
       "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+      "iconURL": "https://cdn1.realmzer.xyz/community_Icon_jqq2ogu91q851.png",
       "tintColor": "31bdff",
       "category": "games",
       "version": "4.0.0b7",
       "size": 14470348,
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/dolphin_Non_Jailbroken.ipa",
       "title": "DolphiniOS JIT",
       "url": "https://dolphinios.oatmealdome.me/",
       "versions" : [
         {
           "version": "4.0.0b7",
           "date" : "2024-10-25",
-          "downloadURL": "https://cdn.omnidev.org/dolphin_Non_Jailbroken-JW.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/dolphin_Non_Jailbroken.ipa",
           "size": 14470348
         }
       ]
@@ -1568,20 +1568,20 @@
       "developerName": "OatmealDome",
       "description": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥", 
       "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+      "iconURL": "https://cdn1.realmzer.xyz/community_Icon_jqq2ogu91q851.png",
       "tintColor": "31bdff",
       "category": "games",
       "version": "3.2.1",
       "size": 16043212,
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Dolphini_OS_No_JIT.ipa",
       "title": "DolphiniOS Non-JIT",
       "url": "https://dolphinios.oatmealdome.me/",
       "versions" : [
         {
           "version": "3.2.1",
           "date" : "2024-10-25",
-          "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Dolphini_OS_No_JIT.ipa",
           "size": 16043212
         }
       ]
@@ -1594,25 +1594,25 @@
       "subtitle": "A Nintendo Swicth Emulator for iOS",
       "description": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
       "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
-      "iconURL": "https://cdn.omnidev.org/IMG_5317-nr.png",
+      "iconURL": "https://cdn1.realmzer.xyz/IMG_5317.png",
       "tintColor": "fdaf1f",
       "category": "games",
       "version": "2.7.1",
       "date" : "2024-12-04",
-      "downloadURL": "https://cdn.omnidev.org/Pomelo_1-gl.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Pomelo_1.ipa",
       "size": 28938240,
       "title": "Pomelo",
       "versions" : [
         {
           "version": "2.7.1",
           "date" : "2024-12-04",
-          "downloadURL": "https://cdn.omnidev.org/Pomelo_1-gl.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Pomelo_1.ipa",
           "size": 28938240
         },
         {
           "version": "2.6",
           "date" : "2024-11-23",
-          "downloadURL": "https://cdn.omnidev.org/Pomelo-v3.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Pomelo.ipa",
           "size": 28909568
         }
       ]
@@ -1625,7 +1625,7 @@
       "description": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE\n Status: ✅",
       "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...!\n Status: ✅",
       "developerName": "Toby Fox & jockeholm",
-      "iconURL": "https://cdn.omnidev.org/deltarune-QI.png",
+      "iconURL": "https://cdn1.realmzer.xyz/deltarune.png",
       "tintColor": "000000",
       "category": "games",
       "size": 70279168,
@@ -1643,13 +1643,13 @@
       "description": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE\n Status: ✅",
       "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...!\n Status: ✅",
       "developerName": "Toby Fox & Nathan",
-      "iconURL": "https://cdn.omnidev.org/deltarune-QI.png",
+      "iconURL": "https://cdn1.realmzer.xyz/deltarune.png",
       "tintColor": "000000",
       "category": "games",
       "size": 70279168,
       "version": "1.0.0",
       "versionDate": "2024-11-19",
-      "downloadURL": "https://cdn.omnidev.org/DELTARUNE-94.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/DELTARUNE.ipa",
       "title": "Deltarune Chapter 2",
       "url": "https://deltarune.com" 
     },
@@ -1661,13 +1661,13 @@
       "description": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅🔥",
       "localizedDescription": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅🔥",
       "developerName": "Toby Fox & jockeholm",
-      "iconURL": "https://cdn.omnidev.org/undertale-Eh.png",
+      "iconURL": "https://cdn1.realmzer.xyz/undertale.png",
       "tintColor": "ff0000",
       "category": "games",
       "size": 140505088,
       "version": "1.2",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn.omnidev.org/UNDERTALE-ej.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/UNDERTALE.ipa",
       "title": "Undertale",
       "url": "https://undertale.com" 
     },
@@ -1679,13 +1679,13 @@
       "description": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
       "localizedDescription": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
       "developerName": "Team Undertale Yellow",
-      "iconURL": "https://cdn.omnidev.org/undertaleyellow-Jx.png",
+      "iconURL": "https://cdn1.realmzer.xyz/undertaleyellow.png",
       "tintColor": "ffff00",
       "category": "games",
       "size": 247910400,
       "version": "1.2",
       "versionDate": "2024-10-14",
-      "downloadURL": "https://cdn.omnidev.org/undertale_yellow_port_1_2-Fd.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/undertale_yellow_port_1_2.ipa",
       "title": "Undertale Yellow",
       "url": "https://gamejolt.com/games/UndertaleYellow/136925" 
     },
@@ -1697,13 +1697,13 @@
       "description": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red & Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\n Status: ✅",
       "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red & Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\nStatus: ✅",
       "developerName": "Shinix",
-      "iconURL": "https://cdn.omnidev.org/undertaleredandyellow-kp.png",
+      "iconURL": "https://cdn1.realmzer.xyz/undertaleredandyellow.png",
       "tintColor": "FFA500",
       "category": "games",
       "size": 256716800,
       "version": "1.6.1",
       "versionDate": "2024-10-14",
-      "downloadURL": "https://cdn.omnidev.org/Undertale_Red_Yellow-y4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Undertale_Red_Yellow.ipa",
       "title": "Undertale Red & Yellow",
       "url": "https://gamejolt.com/games/undertale-red-yellow/877387" 
     },
@@ -1715,13 +1715,13 @@
       "description": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
       "localizedDescription": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
       "developerName": "Tophat Interactive",
-      "iconURL": "https://cdn.omnidev.org/undertalebnp-aV.png",
+      "iconURL": "https://cdn1.realmzer.xyz/undertalebnp.png",
       "tintColor": "161023",
       "category": "games",
       "size": 223920128,
       "version": "5.0.0",
       "versionDate": "2024-10-14",
-      "downloadURL": "https://cdn.omnidev.org/Undertale_BNP-El.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Undertale_BNP.ipa",
       "title": "Undertale Bits & Pieces",
       "url": "https://gamejolt.com/games/UndertaleBnP/574044" 
     },
@@ -1733,13 +1733,13 @@
       "description": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅🔥",
       "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅🔥",
       "developerName": "SEGA",
-      "iconURL": "https://cdn.omnidev.org/sonicmania-Xn.png",
+      "iconURL": "https://cdn1.realmzer.xyz/sonicmania.png",
       "tintColor": "ffc000",
       "category": "games",
       "size": 2805760,
       "version": "RSDK5",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn.omnidev.org/Sonic_Mania-BK.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Sonic_Mania.ipa",
       "title": "Sonic Mania",
       "url": "https://sonicthehedgehog.com/sonic-mania-plus/" 
     },   
@@ -1751,20 +1751,20 @@
       "developerName": "The Sonic Runners Revival Team",
       "description": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
       "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
-      "iconURL": "https://cdn.omnidev.org/Sonic_Runners_App_Icon_2_0-mR.png",
+      "iconURL": "https://cdn1.realmzer.xyz/Sonic_Runners_App_Icon_2_0.png",
       "tintColor": "4555ef",
       "category": "games",
       "version": "2.2.4",
       "size": 151322254,
       "versionDate": "2024-10-27",
-      "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/srr224.ipa",
       "title": "Sonic Runners Revival",
       "url": "https://sonicrunners.com/",
       "versions" : [
         {
           "version": "2.2.4",
           "date" : "2024-10-31",
-          "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/srr224.ipa",
           "size": 151322254
         }
       ]
@@ -1777,12 +1777,12 @@
       "subtitle": "Psych Engine: Open Source FNF Engine",
       "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
       "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
+      "iconURL": "https://cdn1.realmzer.xyz/funkin.png",
       "tintColor": "6633cc",
       "category": "games",
       "version": "1.0",
       "versionDate": "2024-10-26",
-      "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0-nN.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine_v1_0.ipa",
       "size": 328896512,
       "title": "Friday Night Funkin: Psych Engine 1.0",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
@@ -1790,25 +1790,25 @@
         {
           "version": "1.0",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0-nN.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine_v1_0.ipa",
           "size": 328896512
         },
         {
           "version": "1.0-Pre",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0pre-II.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine_v1_0pre.ipa",
           "size": 327700480
         },
         {
           "version": "0.7.3",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn.omnidev.org/Psych_Engine073-h9.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine073.ipa",
           "size": 182427648
         },
         {
           "version": "0.6.3",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn.omnidev.org/Psych_Engine063-pH.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine063.ipa",
           "size": 219418624
         }
       ]
@@ -1821,13 +1821,13 @@
       "description": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
       "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
       "developerName": "Scott Cawthon",
-      "iconURL": "https://cdn.omnidev.org/fnafworldworks-WA.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fnafworldworks.png",
       "tintColor": "e103f7",
       "category": "games",
       "size": 100229120,
       "version": "2.0.0",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn.omnidev.org/fnaf_world_mobile2-Yj.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/fnaf_world_mobile2.ipa",
       "title": "FNAF World",
       "url": "https://https://gamejolt.com/games/fnaf-world/124921" 
     },
@@ -1839,12 +1839,12 @@
       "subtitle": "Five Nights at Freddy's - Point and click surivival horror",
       "description": "Five Nights at Freddy's (FNaF) is a 2014 point-and-click survival horror game developed and published by Scott Cawthon.\nStatus: ✅",
       "localizedDescription": "Five Nights at Freddy's (FNaF) is a 2014 point-and-click survival horror game developed and published by Scott Cawthon.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/fivenights-d7.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fivenights.png",
       "tintColor": "8e4201",
       "category": "games",
       "version": "2.0.3",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_v_2_0_3-jN.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_v_2_0_3.ipa",
       "size": 108331008,
       "title": "Five Nights at Freddy's",
       "url": "https://scottgames.com/"
@@ -1857,12 +1857,12 @@
       "subtitle": "Five Nights at Freddy's 2 - Point and click surivival horror",
       "description": "Five Nights at Freddy's 2 is a 2014 point-and-click survival horror game developed and published by Scott Cawthon. It is the second installment in the Five Nights at Freddy's series.\nStatus: ✅",
       "localizedDescription": "Five Nights at Freddy's 2 is a 2014 point-and-click survival horror game developed and published by Scott Cawthon. It is the second installment in the Five Nights at Freddy's series.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/fivenights2-GY.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fivenights2.png",
       "tintColor": "920100",
       "category": "games",
       "version": "2.0.4",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_2_v_2_0_4-xJ.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_2_v_2_0_4.ipa",
       "size": 116584448,
       "title": "Five Nights at Freddy's 2",
       "url": "https://scottgames.com/"
@@ -1875,12 +1875,12 @@
       "subtitle": "Five Nights at Freddy's 3 - Point and click surivival horror",
       "description": "Five Nights at Freddy's 3 (FNaF 3) is a 2015 point-and-click survival horror video game developed and published by Scott Cawthon. It is the third installment in the Five Nights at Freddy's series, and takes place in a horror-themed attraction based on the restaurant chain featured in the first two games.\nStatus: ✅",
       "localizedDescription": "Five Nights at Freddy's 3 (FNaF 3) is a 2015 point-and-click survival horror video game developed and published by Scott Cawthon. It is the third installment in the Five Nights at Freddy's series, and takes place in a horror-themed attraction based on the restaurant chain featured in the first two games.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/fivenights3-YG.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fivenights3.png",
       "tintColor": "e1fb25",
       "category": "games",
       "version": "2.0.2",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_3_v2_0_2-cs.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_3_v2_0_2.ipa",
       "size": 65323008,
       "title": "Five Nights at Freddy's 3",
       "url": "https://scottgames.com/"
@@ -1893,12 +1893,12 @@
       "subtitle": "Five Nights at Freddy's 4 - Point and click surivival horror",
       "description": "Five Nights at Freddy's 4 (FNaF 4) is a 2015 point-and-click survival horror video game made and published by Scott Cawthon. It is the fourth installment of the Five Nights at Freddy's series.\nStatus: ✅",
       "localizedDescription": "Five Nights at Freddy's 4 (FNaF 4) is a 2015 point-and-click survival horror video game made and published by Scott Cawthon. It is the fourth installment of the Five Nights at Freddy's series.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/fivenights4-tA.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fivenights4.png",
       "tintColor": "ff1200",
       "category": "games",
       "version": "2.0.2",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_4_v2_0_2-tK.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_4_v2_0_2.ipa",
       "size": 65323008,
       "title": "Five Nights at Freddy's 4",
       "url": "https://scottgames.com/"
@@ -1911,12 +1911,12 @@
       "subtitle": "Five Nights at Freddy's: Sister Location - Point and click surivival horror",
       "description": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror video game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series and the sixth game overall.\nStatus: ✅",
       "localizedDescription": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror video game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series and the sixth game overall.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/sisterlocation-YQ.png",
+      "iconURL": "https://cdn1.realmzer.xyz/sisterlocation.png",
       "tintColor": "545bf8",
       "category": "games",
       "version": "2.0.3",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_SL_v2_0_3-Hu.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_SL_v2_0_3.ipa",
       "size": 289501184,
       "title": "Five Nights at Freddy's: Sister Location",
       "url": "https://scottgames.com/"
@@ -1929,12 +1929,12 @@
       "subtitle": "Ultimate Custom Night - Point and click surivival horror",
       "description": "Ultimate Custom Night is a point-and-click survival horror video game created by Scott Cawthon. It is the second official spin-off of the Five Nights at Freddy's game series, the first one being FNaF World, and the eight game overall.\nStatus: ✅",
       "localizedDescription": "Ultimate Custom Night is a point-and-click survival horror video game created by Scott Cawthon. It is the second official spin-off of the Five Nights at Freddy's game series, the first one being FNaF World, and the eight game overall.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/ultimate_custom_night-Em.png",
+      "iconURL": "https://cdn1.realmzer.xyz/ultimate_custom_night.png",
       "tintColor": "ca0607",
       "category": "games",
       "version": "1.0.5",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Ultimate_Custom_Night_v1_0_52-1Z.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Ultimate_Custom_Night_v1_0_52.ipa",
       "size": 208191488,
       "title": "Ultimate Custom Night",
       "url": "https://scottgames.com/"
@@ -1947,12 +1947,12 @@
       "subtitle": "Five Nights at Freddy's: Pizzeria Simulator - Point and click surivival horror",
       "description": "Freddy Fazbear's Pizzeria Simulator, commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an indie point-and-click survival horror video game developed and published by Scottgames and is the sixth installment of the Five Nights at Freddy's series.\nStatus: ✅",
       "localizedDescription": "Freddy Fazbear's Pizzeria Simulator, commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an indie point-and-click survival horror video game developed and published by Scottgames and is the sixth installment of the Five Nights at Freddy's series.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/fnafps-ph.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fnafps.png",
       "tintColor": "9818ad",
       "category": "games",
       "version": "1.0.2",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/FNAF_6_Pizzeria_simulator-7t.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/FNAF_6_Pizzeria_simulator.ipa",
       "size": 163811328,
       "title": "Five Nights at Freddy's: Pizzeria Simulator",
       "url": "https://www.scottgames.com/"
@@ -1965,12 +1965,12 @@
       "subtitle": "Five Nights at Freddy's: HW - Point and click surivival horror",
       "description": "Five Nights at Freddy's: Help Wanted is a 2019 virtual reality survival horror video game created by Steel Wool Studios and published by ScottGames. The game is the seventh main game in the Five Nights at Freddy's series and the ninth game overall, and presents itself as 'The Freddy Fazbear Virtual Experience'.\nStatus: ✅",
       "localizedDescription": "Five Nights at Freddy's: Help Wanted is a 2019 virtual reality survival horror video game created by Steel Wool Studios and published by ScottGames. The game is the seventh main game in the Five Nights at Freddy's series and the ninth game overall, and presents itself as 'The Freddy Fazbear Virtual Experience'.\nStatus: ✅",
-      "iconURL": "https://cdn.omnidev.org/fnafhw-9i.png",
+      "iconURL": "https://cdn1.realmzer.xyz/fnafhw.png",
       "tintColor": "23636c",
       "category": "games",
       "version": "1.1.3",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_HW_v1_1_3-nw.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_HW_v1_1_3.ipa",
       "size": 591884288,
       "title": "Five Nights at Freddy's: HW",
       "url": "https://www.steelwoolstudios.com/"
@@ -1983,12 +1983,12 @@
     "subtitle": "Celeste iOS - hacky ios port of celeste",
     "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
     "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/celeste-f4.png",
+    "iconURL": "https://cdn1.realmzer.xyz/celeste.png",
     "tintColor": "b192ce",
     "category": "games",
     "version" : "1.0",
     "versionDate" : "2024-10-29",
-    "downloadURL": "https://cdn.omnidev.org/celestenocontroller_IPA_Edit-6N.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/celestenocontroller_IPA_Edit.ipa",
     "size": 883720192,
     "title": "Celeste No Virtual Controller",
     "url": "https://github.com/RoootTheFox/celeste-ios",
@@ -1996,7 +1996,7 @@
       {
         "version" : "1.0",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn.omnidev.org/celestenocontroller_IPA_Edit-6N.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/celestenocontroller_IPA_Edit.ipa",
         "size": 883720192
       }
     ]
@@ -2009,12 +2009,12 @@
     "subtitle": "Celeste iOS - hacky ios port of celeste",
     "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
     "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/celeste-f4.png",
+    "iconURL": "https://cdn1.realmzer.xyz/celeste.png",
     "tintColor": "b192ce",
     "category": "games",
     "version" : "1.0",
     "versionDate" : "2024-10-29",
-    "downloadURL": "https://cdn.omnidev.org/Celeste_VC-Tp.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Celeste_VC.ipa",
     "size": 883716096,
     "title": "Celeste + Virtual Controller",
     "url": "https://github.com/RoootTheFox/celeste-ios",
@@ -2022,7 +2022,7 @@
       {
         "version" : "1.0",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn.omnidev.org/Celeste_VC-Tp.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Celeste_VC.ipa",
         "size": 883716096
       }
     ]
@@ -2035,12 +2035,12 @@
     "subtitle": "Celeste iOS - hacky ios port of celeste",
     "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nModified by: Kn0tzer\nStatus: ✅",
     "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nModified by: Kn0tzer\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/celeste-f4.png",
+    "iconURL": "https://cdn1.realmzer.xyz/celeste.png",
     "tintColor": "b192ce",
     "category": "games",
     "version" : "1.0",
     "versionDate" : "2024-11-29",
-    "downloadURL": "https://cdn.omnidev.org/Celeste_full_screen-mf.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Celeste_full_screen.ipa",
     "size": 885006336,
     "title": "Celeste + Virtual Controller (FullScreen)",
     "url": "https://github.com/RoootTheFox/celeste-ios",
@@ -2048,7 +2048,7 @@
       {
         "version" : "1.0",
         "date" : "2024-11-29",
-        "downloadURL": "https://cdn.omnidev.org/Celeste_full_screen-mf.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Celeste_full_screen.ipa",
         "size": 885006336
       }
     ]
@@ -2061,19 +2061,19 @@
     "subtitle": "Bad Piggies - funny pig game",
     "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
     "localizedDescription": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
-    "iconURL": "https://cdn.omnidev.org/100x100bb-cS.png",
+    "iconURL": "https://cdn1.realmzer.xyz/100x100bb.png",
     "tintColor": "58bf2f",
     "category": "games",
     "version": "2.3.9",
     "versionDate" : "2024-11-19",
-    "downloadURL": "https://cdn.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com.ipa",
     "size": 66232320,
     "title": "Bad Piggies (Hack)",
     "versions" : [
       {
         "version": "2.3.9",
         "date" : "2024-11-19",
-        "downloadURL": "https://cdn.omnidev.org/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-XU.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com.ipa",
         "size": 66232320
       }
     ]
@@ -2086,12 +2086,12 @@
     "subtitle": "Friday Night Funkin' iOS - Outdated port of FNF",
     "description": "A rhythm game made with HaxeFlixel\nStatus: ✅",
     "localizedDescription": "A rhythm game made with HaxeFlixel\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
+    "iconURL": "https://cdn1.realmzer.xyz/funkin.png",
     "tintColor": "26a6f8",
     "category": "games",
     "version" : "0.4.1-patch-1",
     "versionDate" : "2024-10-29",
-    "downloadURL": "https://cdn.omnidev.org/Funkin_0_4_1_patch1-ZU.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Funkin_0_4_1_patch1.ipa",
     "size": 507664411,
     "title": "Friday Night Funkin'",
     "url": "https://github.com/FunkinDroidTeam/Funkin",
@@ -2099,7 +2099,7 @@
       {
         "version" : "v0.4.1-patch-1",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn.omnidev.org/Funkin_0_4_1_patch1-ZU.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Funkin_0_4_1_patch1.ipa",
         "size": 507664411
       }
     ]
@@ -2112,12 +2112,12 @@
     "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
     "description": "rhythm is just a *click* away!\nStatus: ✅🔥",
     "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/osu-Wu.png",
+    "iconURL": "https://cdn1.realmzer.xyz/osu.png",
     "tintColor": "f863a6",
     "category": "games",
     "version" : "2024.1208.0",
     "versionDate" : "2024-12-08",
-    "downloadURL": "https://storage.realmzer.xyz/uploads/osu.iOS2024.1208.0.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/uploads/osu.iOS2024.1208.0.ipa",
     "size": 192061747,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
@@ -2125,19 +2125,19 @@
       {
         "version" : "2024.1208.0",
         "date" : "2024-12-08",
-        "downloadURL": "https://storage.realmzer.xyz/uploads/osu.iOS2024.1208.0.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/uploads/osu.iOS2024.1208.0.ipa",
         "size": 192061747
       }, 
       {
         "version" : "2024.1115.3",
         "date" : "2024-11-16",
-        "downloadURL": "https://cdn.omnidev.org/osu2024_1115_3-TG.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/osu2024_1115_3.ipa",
         "size": 195981312
       }, 
       {
         "version" : "2024.1009.1",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn.omnidev.org/osu_i_OS_2024_1009_1-G8.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/osu_i_OS_2024_1009_1.ipa",
         "size": 196280320
       }
     ]
@@ -2150,19 +2150,19 @@
     "subtitle": "Charlie the Steak - Stress-Breaker",
     "description": "Charlie The Steak is an ultimate stress-breaker. It is a scapegoat we have created just for you, so you don’t hurt yourself are someone else when you are angry. Don’t worry, he’s not a real person nor he is a living creature. He is a steak!\nStatus: ✅",
     "localizedDescription": "Charlie The Steak is an ultimate stress-breaker. It is a scapegoat we have created just for you, so you don’t hurt yourself are someone else when you are angry. Don’t worry, he’s not a real person nor he is a living creature. He is a steak!\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/download_1_1-HD.png",
+    "iconURL": "https://cdn1.realmzer.xyz/download_1_1.png",
     "tintColor": "4f0205",
     "category": "games",
     "version": "1.2",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn.omnidev.org/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-Nk.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked.ipa",
     "size": 123207680,
     "title": "Charlie the Steak",
     "versions" : [
       {
       "version": "1.2",
       "date" : "2024-11-17",
-      "downloadURL": "https://cdn.omnidev.org/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-Nk.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked.ipa",
       "size": 123207680
       }
     ]
@@ -2175,19 +2175,19 @@
     "subtitle": "Fake cash app prank",
     "description": "Fake cash app prank\nStatus: ✅",
     "localizedDescription": "Fake cash app prank\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Square_Cash_app_logopng-ab.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Square_Cash_app_logopng.png",
     "tintColor": "01d633",
     "category": "utilities",
     "version": "4",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn.omnidev.org/Cash_App_V3_esign-HW.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Cash_App_V3_esign.ipa",
     "size": 16207872,
     "title": "Cash App (FAKE)",
     "versions" : [
       {
       "version": "4",
       "date" : "2024-11-17",
-      "downloadURL": "https://cdn.omnidev.org/Cash_App_V3_esign-HW.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/Cash_App_V3_esign.ipa",
       "size": 16207872
       }
     ]
@@ -2200,19 +2200,19 @@
     "subtitle": "Track Flights + Airlines 24 h.",
     "description": "Ladies and gentlemen, this is The Flight Tracker speaking. \nWelcome aboard the World’s most accurate and reliable flight-tracking app. Trusted by 8M satisfied travelers.\nStatus: ✅",
     "localizedDescription": "Ladies and gentlemen, this is The Flight Tracker speaking. \nWelcome aboard the World’s most accurate and reliable flight-tracking app. Trusted by 8M satisfied travelers.\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/512x512bb_5-uI.png",
+    "iconURL": "https://cdn1.realmzer.xyz/512x512bb_5.png",
     "tintColor": "0077ff",
     "category": "utilities",
     "version": "8.2.0",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn.omnidev.org/com_iaftt_flightplusfree_8_2_0_eeveedecrypter-Wz.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/com_iaftt_flightplusfree_8_2_0_eeveedecrypter.ipa",
     "size": 153665536,
     "title": "Flight Tracker +",
     "versions" : [
       {
         "version": "8.2.0",
         "date" : "2024-11-17",
-        "downloadURL": "https://cdn.omnidev.org/com_iaftt_flightplusfree_8_2_0_eeveedecrypter-Wz.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/com_iaftt_flightplusfree_8_2_0_eeveedecrypter.ipa",
         "size": 153665536
       }
     ]
@@ -2225,19 +2225,19 @@
     "subtitle": "Sketch and Paint on iPhone",
     "description": "Procreate Pocket has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations.\nStatus: ✅",
     "localizedDescription": "Procreate Pocket has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations.\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/procreate_pocket_icon_white-1c.png",
+    "iconURL": "https://cdn1.realmzer.xyz/procreate_pocket_icon_white.png",
     "tintColor": "ff6ada",
     "category": "utilities",
     "version": "4.0.9",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn.omnidev.org/Procreate_Pocket-4z.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Procreate_Pocket.ipa",
     "size": 301252608,
     "title": "Procreate Pocket",
     "versions" : [
       {
         "version": "4.0.9",
         "date" : "2024-11-17",
-        "downloadURL": "https://cdn.omnidev.org/Procreate_Pocket-4z.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Procreate_Pocket.ipa",
         "size": 301252608
       }
     ]
@@ -2250,12 +2250,12 @@
     "subtitle": "Flero - GD Mod Menu",
     "description": "No JB No JIT iOS Mod Menu for Geometry Dash\nStatus: ✅",
     "localizedDescription": "No JB No JIT iOS Mod Menu for Geometry Dash\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/flero_C1k2_Qq_1-it.png",
+    "iconURL": "https://cdn1.realmzer.xyz/flero_C1k2_Qq_1.png",
     "tintColor": "67f7f6",
     "category": "games",
     "version": "0.0.6",
     "versionDate" : "2024-11-24",
-    "downloadURL": "https://cdn.omnidev.org/flero_v0_0_6-pN.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/flero_v0_0_6.ipa",
     "size": 158756864,
     "title": "Flero",
     "url": "https://flero.pages.dev/",
@@ -2263,7 +2263,7 @@
       {
         "version": "0.0.6",
         "date" : "2024-11-24",
-        "downloadURL": "https://cdn.omnidev.org/flero_v0_0_6-pN.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/flero_v0_0_6.ipa",
         "size": 158756864
       }
     ]
@@ -2276,19 +2276,19 @@
     "subtitle": "Picsart iProMoe - Cracked Picsart",
     "description": "Picsart injected with GOLD pro\nStatus: ✅🌟",
     "localizedDescription": "Picsart injected with GOLD pro\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Picsart_25_5_1_Cracked.png",
     "tintColor": "0eecec",
     "category": "photo-video",
     "version": "26.3.11",
     "versionDate" : "2024-11-24",
-    "downloadURL": "https://cdn.omnidev.org/Picsart26_3_1_Pro_Moe-Kt.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Picsart26_3_1_Pro_Moe.ipa",
     "size": 103763968,
     "title": "Picsart iProMoe",
     "versions" : [
       {
         "version": "26.3.1",
         "date" : "2024-11-24",
-        "downloadURL": "https://cdn.omnidev.org/Picsart26_3_1_Pro_Moe-Kt.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Picsart26_3_1_Pro_Moe.ipa",
         "size": 103763968
       }
     ]
@@ -2301,19 +2301,19 @@
     "subtitle": "Widgy Widgets - Edit Everything",
     "description": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
     "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/widgy_widgets_logo-wc.png",
+    "iconURL": "https://cdn1.realmzer.xyz/widgy_widgets_logo.png",
     "tintColor": "00d395",
     "category": "utilities",
     "version": "4.0.0",
     "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn.omnidev.org/None_v4_0_blatant-9x.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/None_v4_0_blatant.ipa",
     "size": 54976512,
     "title": "Widgy Widgets",
     "versions" : [
       {
         "version": "4.0.0",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn.omnidev.org/None_v4_0_blatant-9x.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/None_v4_0_blatant.ipa",
         "size": 54976512
       }
     ]
@@ -2326,19 +2326,19 @@
     "subtitle": "Transparent Icons - Customize home screen icons",
     "description": "Transparent App Icons\nStatus: ✅",
     "localizedDescription": "Transparent App Icons\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Transparent_Icons_1_7_2-du.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Transparent_Icons_1_7_2.png",
     "tintColor": "9f67c1",
     "category": "utilities",
     "version": "1.7.2",
     "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn.omnidev.org/Transparent_Icons_1_7_2-sL.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Transparent_Icons_1_7_2.ipa",
     "size": 6778880,
     "title": "Transparent Icons",
     "versions" : [
       {
         "version": "1.7.2",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn.omnidev.org/Transparent_Icons_1_7_2-sL.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Transparent_Icons_1_7_2.ipa",
         "size": 6778880
       }
     ]
@@ -2351,12 +2351,12 @@
     "subtitle": "Torrent client for iOS!",
     "description": "Torrent client for iOS!\n\nStatus: ✅🔥", 
     "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn.omnidev.org/IMG_4981-8z.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_4981.png",
     "tintColor": "e22b3c",
     "category": "utilities",
     "version": "2.0.14-1",
     "versionDate": "2024-11-29",
-    "downloadURL": "https://cdn.omnidev.org/i_Torrent_2-20.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/i_Torrent_2.ipa",
     "size": 7028736,
     "title": "iTorrent",
     "url": "https://github.com/XITRIX/iTorrent",
@@ -2364,13 +2364,13 @@
       {
         "version": "2.0.14-1",
         "date" : "2024-11-29",
-        "downloadURL": "https://cdn.omnidev.org/i_Torrent_2-20.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/i_Torrent_2.ipa",
         "size": 7028736
       },
       {
         "version": "2.0.13-2",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/i_Torrent2013_2-lM.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/i_Torrent2013_2.ipa",
         "size": 7028736
       }
     ]
@@ -2383,12 +2383,12 @@
     "subtitle": "Run iOS app without actually installing it!",
     "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
     "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/livecontainer-ZM.png",
+    "iconURL": "https://cdn1.realmzer.xyz/livecontainer.png",
     "tintColor": "0784fc",
     "category": "utilities",
     "version": "8b6e503",
     "versionDate" : "2024-11-16",
-    "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer8b6e503-b3.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer8b6e503.ipa",
     "size": 921600,
     "title": "LiveContainer",
     "url": "https://github.com/khanhduytran0/LiveContainer",
@@ -2396,13 +2396,13 @@
       {
         "version": "8b6e503",
         "date" : "2024-11-16",
-        "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer8b6e503-b3.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer8b6e503.ipa",
         "size": 921600
       },
       {
       "version": "2.1.2",
       "date" : "2024-10-30",
-      "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_2_1_2-3Z.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer_2_1_2 .ipa",
       "size": 194586
       }
     ]
@@ -2415,12 +2415,12 @@
     "subtitle": "Run iOS app without actually installing it!",
     "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
     "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/livecontainer-ZM.png",
+    "iconURL": "https://cdn1.realmzer.xyz/livecontainer.png",
     "tintColor": "0784fc",
     "category": "utilities",
     "version": "8b6e503",
     "versionDate" : "2024-11-16",
-    "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer8b6e503-b3.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer8b6e503.ipa",
     "size": 921600,
     "title": "LiveContainer Commit 8b6e503",
     "url": "https://github.com/khanhduytran0/LiveContainer"
@@ -2433,12 +2433,12 @@
     "subtitle": "Run iOS app without actually installing it!",
     "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
     "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/livecontainer-ZM.png",
+    "iconURL": "https://cdn1.realmzer.xyz/livecontainer.png",
     "tintColor": "0784fc",
     "category": "utilities",
     "version": "2.1.2",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_2_1_2-3Z.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer_2_1_2.ipa",
     "size": 194586,
     "title": "LiveContainer v2.1.2",
     "url": "https://github.com/khanhduytran0/LiveContainer"
@@ -2451,12 +2451,12 @@
     "subtitle": "Jailed Toolbox for iOS 14-15.7.1",
     "description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
     "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
-    "iconURL": "https://cdn.omnidev.org/215552092_9dc1e029_da35_43da_867f_17279e3dc180-4O.png",
+    "iconURL": "https://cdn1.realmzer.xyz/215552092_9dc1e029_da35_43da_867f_17279e3dc180.png",
     "tintColor": "0784fc",
     "category": "utilities",
     "version": "10.3.2",
     "versionDate" : "2024-12-06",
-    "downloadURL": "https://cdn.omnidev.org/Cowabunga-R8.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Cowabunga.ipa",
     "size": 16289792,
     "title": "Cowabunga",
     "url": "https://github.com/leminlimez/Cowabunga",
@@ -2464,7 +2464,7 @@
       {
         "version": "10.3.2",
         "date" : "2024-12-06",
-        "downloadURL": "https://cdn.omnidev.org/Cowabunga-R8.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Cowabunga.ipa",
         "size": 16289792
       }
     ]
@@ -2478,12 +2478,12 @@
     "subtitle": "Updated BH++, working on new versions of TikTok",
     "description": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
     "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
-    "iconURL": "https://cdn.omnidev.org/Web_P_Image-iE.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Web_P_Image.png",
     "tintColor": "fe2c55",
     "category": "social",
     "version": "32.2.0-2.3",
     "versionDate" : "2024-11-23",
-    "downloadURL": "https://cdn.omnidev.org/Tik_Tok_v32_2_0_BH_v2_3-R6.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Tik_Tok_v32_2_0_BH_v2_3.ipa",
     "size": 226500608,
     "title": "TikTok BH++",
     "url": "https://github.com/raulsaeed/TikTokPlusPlus",
@@ -2491,7 +2491,7 @@
       {
         "version": "32.2.0-2.3",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/Tik_Tok_v32_2_0_BH_v2_3-R6.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Tik_Tok_v32_2_0_BH_v2_3.ipa",
         "size": 226500608
       }
     ]
@@ -2504,12 +2504,12 @@
     "subtitle": "X with BHTwitter!",
     "description": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥",
     "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://cdn.omnidev.org/IMG_5319-eS.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_5319.png",
     "tintColor": "000000",
     "category": "social",
     "version": "4.3",
     "versionDate": "2024-09-19",
-    "downloadURL": "https://cdn.omnidev.org/BH_Twitter_sideloaded-h8.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/BH_Twitter_sideloaded.ipa",
     "size": 195238232,
     "title": "BH X",
     "url": "https://github.com/BandarHL/BHTwitter",
@@ -2517,7 +2517,7 @@
       {
         "version": "4.3",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/BH_Twitter_sideloaded-h8.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/BH_Twitter_sideloaded.ipa",
         "size": 195238232
       }
     ]
@@ -2530,7 +2530,7 @@
     "subtitle": "Fortnite - Funny shooter game",
     "description": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅",
     "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Fortnite_Main-Mj.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Fortnite_Main.png",
     "tintColor": "b036e6",
     "category": "games",
     "version": "33.10.1",
@@ -2555,45 +2555,45 @@
       {
         "version": "33.00.1",
         "date" : "2024-12-04",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_33_00_1-60.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_33_00_1.ipa",
         "size": 205209600
       },
       {
         "version": "33.00",
         "date" : "2024-12-02",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_33_00_1-3P.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_33_00_1.ipa",
         "size": 217632768
       },
       {
         "version": "32.11",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_32_11-lP.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_11.ipa",
         "size": 252301312
       },
       {
         "version": "32.10.1",
         "date" : "2024-11-13",
         "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_32_10_1-8F.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_10_1.ipa",
         "size": 252227584
       },
       {
         "version": "32.00.2",
         "date" : "2024-11-06",
         "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_32_00_2-Dt.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_00_2.ipa",
         "size": 251150336
       },
       {
         "version": "31.41",
         "date" : "2024-11-01",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_31_41-HL.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_31_41.ipa",
         "size": 266780672
       },
       {
         "version": "32.00",
         "date" : "2024-11-04",
-        "downloadURL": "https://cdn.omnidev.org/Fortnite_32_00-Mi.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_00.ipa",
         "size": 251158528
       }
     ]
@@ -2606,19 +2606,19 @@
     "subtitle": "Dead Cells+ - Dead Cells but with all DLCS",
     "description": "Dead Cells is a 2018 roguelike-Metroidvania game developed by Motion Twin and Evil Empire, and published by Motion Twin. The player takes the role of an amorphous creature called the Prisoner. As the Prisoner, the player must fight their way out of a diseased island in order to slay the island's King.\nStatus: ✅🌟",
     "localizedDescription": "Dead Cells is a 2018 roguelike-Metroidvania game developed by Motion Twin and Evil Empire, and published by Motion Twin. The player takes the role of an amorphous creature called the Prisoner. As the Prisoner, the player must fight their way out of a diseased island in order to slay the island's King.\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Dead_Cells_768x768-VH.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Dead_Cells_768x768.png",
     "tintColor": "08f9f9",
     "category": "games",
     "version": "3.3.2",
     "versionDate" : "2024-11-06",
-    "downloadURL": "https://cdn.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Dead_Cells_plus_v3_3_2.ipa",
     "size": 1369145344,
     "title": "Dead Cells+",
     "versions" : [
       {
         "version": "3.3.2",
         "date" : "2024-11-06",
-        "downloadURL": "https://cdn.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipad",
+        "downloadURL": "https://cdn1.realmzer.xyz/Dead_Cells_plus_v3_3_2.ipa",
         "size": 1369145344
       }
     ]
@@ -2631,19 +2631,19 @@
     "developerName": "Triniti, Realmzer, Zweronz",
     "description": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.\nStatus: ✅",
     "localizedDescription": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/19b1f5c56ecb9a5b0c96cd853049d28a8765665385607bed9b8d566abdaf7e2e_100-jQ.png",
+    "iconURL": "https://cdn1.realmzer.xyz/19b1f5c56ecb9a5b0c96cd853049d28a8765665385607bed9b8d566abdaf7e2e_100.png",
     "tintColor": "e6cc28",
     "category": "games",
     "version": "2.2.2",
     "versionDate" : "2024-11-30",
-    "downloadURL": "https://cdn.omnidev.org/comz2fixfortheloveofgod-S3.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/comz2fixfortheloveofgod.ipa",
     "size": 136024064,
     "title": "Call of Mini Zombies 2",
     "versions" : [
       {
         "version": "2.2.2",
         "date" : "2024-11-30",
-        "downloadURL": "https://cdn.omnidev.org/comz2fixfortheloveofgod-S3.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/comz2fixfortheloveofgod.ipa",
         "size": 136024064
       }
     ]
@@ -2656,12 +2656,12 @@
     "developerName": "Tech Guy",
     "description": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
     "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/logo_1-CE.png",
+    "iconURL": "https://cdn1.realmzer.xyz/logo_1.png",
     "tintColor": "1788f2",
     "category": "games",
     "version": "1.0.0",
     "versionDate" : "2024-11-03",
-    "downloadURL": "https://cdn.omnidev.org/Mega_Games-KW.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Mega_Games.ipa",
     "size": 35600000,
     "title": "MegaGames",
     "url": "https://github.com/TechGuy541/MegaGames",
@@ -2669,7 +2669,7 @@
       {
         "version": "1.0.0",
         "date" : "2024-11-03",
-        "downloadURL": "https://cdn.omnidev.org/Mega_Games-KW.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Mega_Games.ipa",
         "size": 35600000
       }
     ]
@@ -2682,12 +2682,12 @@
     "subtitle": "Geometry Dash - Push your skills to the limit",
     "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
     "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/geodash-5O.png",
+    "iconURL": "https://cdn1.realmzer.xyz/geodash.png",
     "tintColor": "ffb304",
     "category": "games",
     "version": "2.2.06",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn.omnidev.org/Geometry_2_206-2v.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Geometry_2_206.ipa",
     "size": 152252416,
     "title": "Geometry Dash",
     "url": "https://www.robtopgames.com/",
@@ -2695,7 +2695,7 @@
       {
         "version": "2.2.06",
         "date" : "2024-10-30",
-        "downloadURL": "https://cdn.omnidev.org/Geometry_2_206-2v.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Geometry_2_206.ipa",
         "size": 152252416
       }
     ]
@@ -2708,12 +2708,12 @@
     "subtitle": "Geometry Dash - Push your skills to the limit",
     "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
     "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/geodash-5O.png",
+    "iconURL": "https://cdn1.realmzer.xyz/geodash.png",
     "tintColor": "ffb304",
     "category": "games",
     "version": "2.2.06",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn.omnidev.org/Geometry_2_206-2v.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Geometry_2_206.ipa",
     "size": 152252416,
     "title": "Geometry Dash v2.2.06",
     "url": "https://www.robtopgames.com/"
@@ -2726,7 +2726,7 @@
     "subtitle": "ICreatePro - Tweak of Geometry Dash",
     "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
     "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/icreatepro-my.png",
+    "iconURL": "https://cdn1.realmzer.xyz/icreatepro.png",
     "tintColor": "ffb304",
     "category": "games",
     "version": "6.6.1",
@@ -2752,7 +2752,7 @@
     "subtitle": "ICreatePro - Tweak of Geometry Dash",
     "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
     "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/icreatepro-my.png",
+    "iconURL": "https://cdn1.realmzer.xyz/icreatepro.png",
     "tintColor": "ffb304",
     "category": "games",
     "version": "6.6.1",
@@ -2770,7 +2770,7 @@
     "subtitle": "Duolingo with Max unlocked!",
     "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
     "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Duolingo_Max_7_37_1-tJ.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Duolingo_Max_7_37_1.png",
     "tintColor": "FFC300",
     "category": "education",
     "version": "7.37.1",
@@ -2795,7 +2795,7 @@
     "subtitle": "Picsart with premium features unlocked!",
     "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
     "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Picsart_25_5_1_Cracked-Nv.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Picsart_25_5_1_Cracked.png",
     "tintColor": "4e89d9",
     "category": "photo-video",
     "version": "25.5.1",
@@ -2820,7 +2820,7 @@
     "subtitle": "CapCut with MOST premium features unlocked!",
     "description": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
     "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Cap_Cut_12_0_Cracked-R0.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Cap_Cut_12_0_Cracked.png",
     "tintColor": "000000",
     "category": "photo-video",
     "version": "12.0",
@@ -2845,12 +2845,12 @@
     "subtitle": "Enmity - A tweak for Discord allowing plugins",
     "description": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
     "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/enmity-qy.png",
+    "iconURL": "https://cdn1.realmzer.xyz/enmity.png",
     "tintColor": "433dac",
     "category": "social",
     "version": "2.2.6-12-6-2024",
     "date" : "2024-12-06",
-    "downloadURL": "https://cdn.omnidev.org/Enmity_2-un.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Enmity_2.ipa",
     "size": 102019072,
     "title": "Enmity",
     "url": "https://enmity.unbound.rip/",
@@ -2858,19 +2858,19 @@
       {
         "version": "2.2.6-12-6-2024",
         "date" : "2024-12-06",
-        "downloadURL": "https://cdn.omnidev.org/Enmity_2-un.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Enmity_2.ipa",
         "size": 102019072
       },
       {
         "version": "2.2.6-c91537b",
         "date" : "2024-11-13",
-        "downloadURL": "https://cdn.omnidev.org/Enmity_c91537b-OZ.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Enmity_c91537b.ipa",
         "size": 101167104
       },
       {
         "version": "2.2.6",
         "date" : "2024-11-05",
-        "downloadURL": "https://cdn.omnidev.org/Enmity_1-Zn.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Enmity_1.ipa",
         "size": 103809024
       }
     ]
@@ -2883,12 +2883,12 @@
     "subtitle": "Homicidal Discord Client?",
     "description": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
     "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/IMG_5351-7I.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_5351.png",
     "tintColor": "48488b",
     "category": "social",
     "version": "250.0",
     "date" : "2024-11-21",
-    "downloadURL": "https://cdn.omnidev.org/Revenge-Ry.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Revenge.ipa",
     "size": 101220352,
     "title": "Revenge",
     "url": "https://github.com/revenge-mod/",
@@ -2896,7 +2896,7 @@
       {
         "version": "250.0",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/Revenge-Ry.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Revenge.ipa",
         "size": 101220352
       }
     ]
@@ -2909,19 +2909,19 @@
     "subtitle": "The best discord Client, unfortuantely discontinued.",
     "description": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Bunny_Pyoncord_224_0.png",
     "tintColor": "5662f6",
     "category": "social",
     "version": "224.0",
     "versionDate": "2024-04-10",
-    "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Bunny_IPA_Edit.ipa",
     "size": 96468992,
     "title": "Bunny Discord",
     "versions" : [
       {
         "version": "224.0",
         "date" : "2024-04-10",
-        "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Bunny_IPA_Edit.ipa",
         "size": 96468992
       }
     ]
@@ -2934,7 +2934,7 @@
     "subtitle": "Another cool Discord Client!",
     "description": "Another cool Discord client!\n\nStatus: ✅",
     "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Stossycord-eB.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Stossycord.png",
     "tintColor": "88c800",
     "category": "social",
     "version": "224.0",
@@ -2959,7 +2959,7 @@
     "subtitle": "An alternative Reddit Client!",
     "description": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/apollo-4m.png",
+    "iconURL": "https://cdn1.realmzer.xyz/apollo.png",
     "tintColor": "329dfd",
     "category": "social",
     "version": "1.15.11_1.1.8",
@@ -2978,7 +2978,7 @@
       {
         "version": "1.15.11_1.1.7b",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn.omnidev.org/Apollo_1_15_11_improvedcustomapi_1_1_7b-DT.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Apollo_1_15_11_improvedcustomapi_1_1_7b.ipa",
         "size": 108105728
       }
     ]
@@ -2991,7 +2991,7 @@
     "subtitle": "Reddit with RedditFilter!",
     "description": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
     "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn.omnidev.org/unnamed_7-7v.png",
+    "iconURL": "https://cdn1.realmzer.xyz/unnamed_7.png",
     "tintColor": "ff4500",
     "category": "social",
     "version": "1.1.6",
@@ -3016,7 +3016,7 @@
     "subtitle": "A cool weather app, premium unlocked!",
     "description": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Carrot_Premium_6_1-dS.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Carrot_Premium_6_1.png",
     "tintColor": "5b09a8",
     "category": "social",
     "version": "6.1",
@@ -3041,7 +3041,7 @@
     "subtitle": "PhotoMath with Plus features unlocked!",
     "description": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
     "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn.omnidev.org/Photo_Math_Plus_8_35_0-t7.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Photo_Math_Plus_8_35_0.png",
     "tintColor": "be0b34",
     "category": "utilities",
     "version": "8.35.0",
@@ -3066,7 +3066,7 @@
     "subtitle": "Fall Guys, outside of the EU!", 
     "description": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
     "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
+    "iconURL": "https://cdn1.realmzer.xyz/fall_guys_mobile_icon_v0_d3n68howgkhd1.png",
     "tintColor": "cb0e90",
     "category": "games",
     "version": "11.5.0",
@@ -3103,7 +3103,7 @@
     "subtitle": "Minecraft ($7.99) for free!",
     "description": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
     "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/Homepage_Gameplay_Trailer_MC_OV_logo_300x300-3H.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Homepage_Gameplay_Trailer_MC_OV_logo_300x300.png",
     "tintColor": "86d562",
     "category": "games",
     "version": "1.21.22",
@@ -3129,10 +3129,10 @@
     "size": 195238232,
     "tintColor": "bf9946",
     "category": "games", 
-    "downloadURL": "https://cdn.omnidev.org/net_kdt_pojavlauncher_2_2_ios-ON.ipa", 
+    "downloadURL": "https://cdn1.realmzer.xyz/net_kdt_pojavlauncher_2_2_ios.ipa", 
     "developerName": "Stossy11", 
     "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
-    "iconURL": "https://cdn.omnidev.org/logo_2-IU.png" 
+    "iconURL": "https://cdn1.realmzer.xyz/logo_2-IU.png" 
   },
   {
     "name": "Flappy Bird",
@@ -3144,7 +3144,7 @@
     "tintColor": "f9f144",
     "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
     "localizedDescription": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn.omnidev.org/icon_rounded-7l.png",
+    "iconURL": "https://cdn1.realmzer.xyz/icon_rounded.png",
     "size": 96468992,
     "subtitle": "A near exact clone of the original Flappy Bird!"
   },
@@ -3156,7 +3156,7 @@
     "developerName": "Kodjodevf", 
     "description": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
     "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
-    "iconURL": "https://cdn.omnidev.org/icon_red-ic.png" ,
+    "iconURL": "https://cdn1.realmzer.xyz/icon_red.png" ,
     "tintColor": "be1622",
     "category": "entertainment",
     "version": "0.3.5",
@@ -3181,19 +3181,19 @@
     "developerName": "StreamerApp", 
     "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
     "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-    "iconURL": "https://cdn1.realmzer.xyz/streamerios-Wq.png",
+    "iconURL": "https://cdn1.realmzer.xyz/streamerios.png",
     "tintColor": "8b3f22",
     "category": "entertainment",
     "version": "1.2.41",
     "size": 34734080,
     "versionDate": "2024-12-09",
-    "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41-Oj.ipa", 
+    "downloadURL": "https://cdn1.realmzer.xyz/Streamer_i_OS_1_2_41.ipa", 
     "title": "Streamer",
     "versions" : [
       {
         "version": "1.2.41",
         "date" : "2024-12-09",
-        "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Oj.ipa", 
+        "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41.ipa", 
         "size": 34734080
       }
     ]
@@ -3206,7 +3206,7 @@
     "developerName": "OpenAI",
     "description": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
     "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn.omnidev.org/AI_Chat_Smith_Premium_7_0_0-4a.png",
+    "iconURL": "https://cdn1.realmzer.xyz/AI_Chat_Smith_Premium_7_0_0.png",
     "tintColor": "00a180",
     "category": "utilities",
     "version": "7.0.0",
@@ -3231,7 +3231,7 @@
     "developerName": "OpenAI",
     "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
     "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
-    "iconURL": "https://cdn.omnidev.org/Genie_Pro_7_1_2-ST.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Genie_Pro_7_1_2.png",
     "tintColor": "40e6b4",
     "category": "utilities",
     "version": "7.1.2",
@@ -3256,7 +3256,7 @@
     "developerName": "Supercell",
     "description": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
     "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn.omnidev.org/512x512bb_1-lM.png",
+    "iconURL": "https://cdn1.realmzer.xyz/512x512bb_1.png",
     "tintColor": "fff301",
     "category": "games",
     "version": "58.279",
@@ -3282,7 +3282,7 @@
     "developerName": "Supercell",
     "description":"A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
     "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://cdn.omnidev.org/Nulls_Brawl-G8.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Nulls_Brawl.png",
     "tintColor": "440099",
     "category": "games",
     "version": "57.325",
@@ -3308,7 +3308,7 @@
     "developerName": "Candywriter LLC",
     "description": "A very special life simulator\nStatus: ✅", 
     "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/512x512bb_2-zO.png",
+    "iconURL": "https://cdn1.realmzer.xyz/512x512bb_2.png",
     "tintColor": "fff100",
     "category": "games",
     "version": "3.15.9",
@@ -3333,19 +3333,19 @@
     "subtitle": "Climax - Fake Robux Balance",
     "description": "The best fake robux balance for iOS\nStatus: ✅",
     "localizedDescription": "The best fake robux balance for iOS\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/Climax-7O.png",
+    "iconURL": "https://cdn1.realmzer.xyz/Climax.png",
     "tintColor": "88c1e8",
     "category": "utilities",
     "version": "2.1",
     "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Climax.ipa",
     "size": 962560,
     "title": "Climax",
     "versions" : [
       {
         "version": "2.1",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn.omnidev.org/Climax-Ot.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Climax.ipa",
         "size": 962560
       }
     ]
@@ -3358,19 +3358,19 @@
     "subtitle": "Introducing Hot Tub: The best way to watch porn on iOS",
     "description": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
     "localizedDescription": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
-    "iconURL": "https://cdn.omnidev.org/IMG_4263-0O.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_4263.png",
     "tintColor": "f5896f",
     "category": "entertainment",
     "version": "2.0.1",
     "versionDate" : "2024-12-2",
-    "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Hot_Tub_2_0_1_2.ipa",
     "size": 19610000,
     "title": "Hot Tub",
     "versions" : [
       {
         "version": "2.0.1",
         "date" : "2024-12-2",
-        "downloadURL": "https://cdn.omnidev.org/Hot_Tub_2_0_1_2-eG.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Hot_Tub_2_0_1_2.ipa",
         "size": 19610000
       }
     ]
@@ -3383,19 +3383,19 @@
     "developerName": "Blackhole Development Team",
     "description": "Music Player with Downloads.\n\nStatus: ✅",
     "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
-    "iconURL": "https://cdn.omnidev.org/black_hole_apk_icon-Gw.png",
+    "iconURL": "https://cdn1.realmzer.xyz/black_hole_apk_icon.png",
     "tintColor": "000000",
     "category": "entertainment",
     "version": "15.11.2",
     "size": 18477056,
     "versionDate": "2024-10-25",
-    "downloadURL": "https://cdn.omnidev.org/Black_Hole_v1_15_11_ios-7c.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Black_Hole_v1_15_11_ios.ipa",
     "title": "Blackhole",
     "versions" : [
       {
         "version": "15.11.2",
         "date" : "2024-10-25",
-        "downloadURL": "https://cdn.omnidev.org/Black_Hole_v1_15_11_ios-7c.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz/Black_Hole_v1_15_11_ios.ipa",
         "size": 18477056
       }
     ]
@@ -3406,11 +3406,11 @@
     "subtitle": "Fortnite Predecessor",
     "developerName": "Epic Games",
     "category": "games",
-    "iconURL": "https://cdn.omnidev.org/IMG_2127-68.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_2127.png",
     "version": "1.4.3",
     "tintColor": "ff1200",
     "size": 636863119,
-    "downloadURL": "https://cdn.omnidev.org/Infinity_Blade_I_Community_Patch_v2_0-dt.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Infinity_Blade_I_Community_Patch_v2_0.ipa",
     "localizedDescription": "Infinity Blade is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   },
@@ -3420,11 +3420,11 @@
     "subtitle": "Fortnite Predecessor",
     "developerName": "Epic Games",
     "category": "games",
-    "iconURL": "https://cdn.omnidev.org/IMG_2128-dT.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_2128.png",
     "version": "1.3.5",
     "size": 1103584296,
     "tintColor": "ff1200",
-    "downloadURL": "https://cdn.omnidev.org/Infinity_Blade_II_Community_Patch_v2_0-Bs.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Infinity_Blade_II_Community_Patch_v2_0.ipa",
     "localizedDescription": "Infinity Blade II is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   },
@@ -3434,11 +3434,11 @@
     "subtitle": "Fortnite Predecessor",
     "developerName": "Epic Games",
     "category": "games",
-    "iconURL": "https://cdn.omnidev.org/IMG_2129-lf.png",
+    "iconURL": "https://cdn1.realmzer.xyz/IMG_2129.png",
     "version": "1.4.4",
     "tintColor": "ff1200",
     "size": 1884353986,
-    "downloadURL": "https://cdn.omnidev.org/Infinity_Blade_III_Community_Patch_v2_2-hU.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz/Infinity_Blade_III_Community_Patch_v2_2.ipa",
     "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   }
@@ -3450,7 +3450,7 @@
       "caption": "If your using the MyApps repo, please join our server for updates and free support. Tap this to join or join here: discord.gg/v4rGF3w3Vs",
       "date": "2024-11-28",
       "tintColor": "#4d9fb3",
-      "imageURL": "https://cdn.omnidev.org/Discord_Symbol_1141822239-pi.png",
+      "imageURL": "https://cdn1.realmzer.xyz/Discord_Symbol_1141822239.png",
       "url": "https://discord.gg/hUK5m9MGFc",
       "notify": true
     },
@@ -3460,7 +3460,7 @@
       "caption": "IPAUniverse has been stealing our apps from our repository. Report any IPA's stolen to @realmzer on Discord",
       "date": "2024-11-24",
       "tintColor": "#4d9fb3",
-      "imageURL": "https://cdn.omnidev.org/Screenshot_2024_11_24_213043-TL.png",
+      "imageURL": "https://cdn1.realmzer.xyz/Screenshot_2024_11_24_213043.png",
       "notify": true
     }
   ]
