@@ -1,6 +1,6 @@
 # MySigns IPA Repository
 
-A source that is growing everyday.
+Star our repo if you find it useful!
 
 If you would like to contribute to this repository, ask us in our [discord server](https://discord.gg/hUK5m9MGFc)
 
