@@ -5,7 +5,7 @@
   "website": "https://discord.gg/HKdtmYUEzD",
   "patreonURL": "https://www.patreon.com/c/Realmzer",
   "subtitle": "The official MyApp  Repository!",
-  "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
+  "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
   "tintColor": "4d9fb3",
   "featuredApps": [
     "com.box.hd.flix.drama.hub",
@@ -438,6 +438,32 @@
       "downloadURL": "https://cdn1.realmzer.xyz/hdflixnoads4_0.ipa",
       "title": "HD Flix No Ads",
       "url": "https://t.me/HD_Flix_Channel/" 
+    },
+    {
+      "beta": false,
+      "name" : "MovieBox Pro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName" : "MovieBoxPro",
+      "subtitle": "MovieBox Pro - Movie Streaming Platform",
+      "description": "MovieBox Pro is a free & paid movie streaming platform.\nFree: 360p content\nPaid 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
+      "localizedDescription": "MovieBox Pro is a free & paid movie streaming platform.\nFree: 360p content\nPaid 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
+      "iconURL": "https://cdn1.realmzer.xyz//movieboxpro-Uk.png",
+      "tintColor": "fcd940",
+      "category": "entertainment",
+      "version" : "14.1",
+      "versionDate" : "2024-12-13",
+      "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
+      "size": 48226304,
+      "title": "MovieBox Pro",
+      "url": "https://www.movieboxpro.app/",
+      "versions" : [
+        {
+          "version" : "14.1",
+          "date" : "2024-12-13",
+          "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
+          "size": 48226304
+        }
+      ]
     },
     {
       "beta": true,
