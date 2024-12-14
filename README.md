@@ -15,7 +15,7 @@ If you would like to contribute to this repository, ask us in our [discord serve
 
 🔵 = TrollStore only
 
-💸 = Paid Tweak, not Cracked
+💸 = Paid, not Cracked
 
 🔥 = Recommended by Developer's
 
