@@ -30,7 +30,7 @@
       "category": "entertainment",
       "version": "8.1",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Post_Box_0_8_1_beta.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
       "size": 8503296,
       "title": "Postbox",
       "url": "https://www.postbox.news/",
@@ -38,7 +38,7 @@
         {
           "version": "8.1",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/Post_Box_0_8_1_beta.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
           "size": 8503296
         }
       ]
@@ -56,7 +56,7 @@
       "category": "utilities",
       "version" : "0.1-2940d11",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1-7T.ipa",
       "size": 7274496,
       "title": "Sparsebox",
       "url": "https://github.com/khanhduytran0/SparseBox",
@@ -64,19 +64,19 @@
         {
           "version" : "0.1-2940d11",
           "date" : "2024-11-30",
-          "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1-7T.ipa",
           "size": 7274496
         },
         {
           "version" : "0.1-1ff1702",
           "date" : "2024-11-19",
-          "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1_11_19_2024.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1_11_19_2024-V8.ipa",
           "size": 7274496
         },
         {
           "version" : "Unknown",
           "date" : "2024-10-29",
-          "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_sparsebox_0_0_1.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1_1-9K.ipa",
           "size": 7237632
         }
       ]
@@ -94,7 +94,7 @@
       "category": "utilities",
       "version": "6.0.2",
       "versionDate" : "2024-11-29",
-      "downloadURL": "https://cdn1.realmzer.xyz/Pure_KFD.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Pure_KFD-ZN.ipa",
       "size": 11000000,
       "title": "PureKFD",
       "url": "https://github.com/Lrdsnow/PureKFD",
@@ -102,7 +102,7 @@
         {
           "version": "6.0.2",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn1.realmzer.xyz/Pure_KFD.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Pure_KFD-ZN.ipa",
           "size": 11000000
         }
       ]
@@ -120,7 +120,7 @@
       "category": "utilities",
       "version": "2.0.1",
       "versionDate" : "2024-12-01",
-      "downloadURL": "https://cdn1.realmzer.xyz/Nugget_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Nugget_4-Be.ipa",
       "size": 7680000,
       "title": "Nugget",
       "url": "https://github.com/leminlimez/Nugget-Mobile",
@@ -128,7 +128,7 @@
         {
           "version": "2.0.1",
           "date" : "2024-12-01",
-          "downloadURL": "https://cdn1.realmzer.xyz/Nugget_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Nugget_4-Be.ipa",
           "size": 7680000
         }
       ]
@@ -146,7 +146,7 @@
       "category": "utilities",
       "version": "1.0.3",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Troll_Store_My_Sign.pa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Installer_X-Qn.ipa",
       "size": 6889472,
       "title": "TrollInstallerX",
       "url": "https://github.com/alfiecg24/TrollInstallerX",
@@ -154,7 +154,7 @@
         {
           "version": "1.0.3",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/Troll_Installer_X.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Installer_X-Qn.ipa",
           "size": 6889472
         }
       ]
@@ -190,7 +190,7 @@
       "category": "utilities",
       "version": "2.2.2",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Dopamine.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dopamine-ZL.ipa",
       "size": 49696768,
       "title": "Dopamine",
       "url": "https://github.com/opa334/Dopamine",
@@ -198,7 +198,7 @@
         {
           "version": "2.2.2",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/Dopamine.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dopamine-ZL.ipa",
           "size": 49696768
         }
       ]
@@ -216,7 +216,7 @@
       "category": "utilities",
       "version": "1.1.7-3",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Taurine_1_1_7_3.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Taurine_1_1_7_3-jL.ipa",
       "size": 32247808,
       "title": "Taurine",
       "url": "https://taurine.app/",
@@ -224,7 +224,7 @@
         {
           "version": "1.1.70-3",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/Taurine_1_1_7_3.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Taurine_1_1_7_3-jL.ipa",
           "size": 32247808
         }
       ]
@@ -242,7 +242,7 @@
       "category": "utilities",
       "version": "1.4.3",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/Odyssey_1_4_3.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Odyssey_1_4_3-HY.ipa",
       "size": 25940000,
       "title": "Odyssey",
       "url": "https://theodyssey.dev"
@@ -260,7 +260,7 @@
       "category": "utilities",
       "version": "8.0.2",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/unc0ver_Release_8_0_2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//unc0ver_Release_8_0_2-sI.ipa",
       "size": 54493184,
       "title": "unc0ver",
       "url": "https://github.com/pwn20wndstuff/Undecimus",
@@ -268,7 +268,7 @@
         {
           "version": "8.0.2",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/unc0ver_Release_8_0_2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//unc0ver_Release_8_0_2-sI.ipa",
           "size": 54493184
         }
       ]
@@ -286,7 +286,7 @@
       "category": "utilities",
       "version": "8.2.4",
       "versionDate" : "2024-11-29",
-      "downloadURL": "https://cdn1.realmzer.xyz/misaka_v8_2_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//misaka_v8_2_4-oy.ipa",
       "size": 30744576,
       "title": "Misaka",
       "url": "https://github.com/straight-tamago/misaka",
@@ -294,7 +294,7 @@
         {
           "version": "8.2.4",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn1.realmzer.xyz/misaka_v8_2_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//misaka_v8_2_4-oy.ipa",
           "size": 30744576
         }
       ]
@@ -312,7 +312,7 @@
       "category": "utilities",
       "version": "5.0.2",
       "versionDate" : "2024-10-11",
-      "downloadURL": "https://cdn1.realmzer.xyz/E_Sign_V5_0_2_No_Logs.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//E_Sign_V5_0_2_No_Logs-SQ.ipa",
       "size": 7245924,
       "title": "ESign No Logs",
       "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/",
@@ -320,7 +320,7 @@
         {
           "version": "5.0.2",
           "date" : "2024-10-11",
-          "downloadURL": "https://cdn1.realmzer.xyz/G_Box_v5_6_7.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//E_Sign_V5_0_2_No_Logs-SQ.ipa",
           "size": 7245924
         }
       ]
@@ -338,7 +338,7 @@
       "category": "utilities",
       "version" : "1.1.3",
       "versionDate" : "2024-11-02",
-      "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_1_3.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_1_3-6B.ipa",
       "size": 12496896,
       "title": "Feather",
       "url": "https://github.com/khcrysalis/Feather/",
@@ -346,19 +346,19 @@
         {
           "version" : "1.1.3",
           "date" : "2024-11-02",
-          "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_1_3.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_1_3-6B.ipa",
           "size": 12496896
         },
         {
           "version" : "1.0.5",
           "date" : "2024-10-30",
-          "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_0_5.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_0_5-rM.ipa",
           "size": 12375230
         },
         {
           "version" : "1.1.2",
           "date" : "2024-11-01",
-          "downloadURL": "https://cdn1.realmzer.xyz/feather_v1_1_2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_1_2-mw.ipa",
           "size": 13107200
         }
       ]
@@ -376,21 +376,27 @@
       "category": "utilities",
       "version": "5.6.9",
       "versionDate": "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/G_Box_v5_6_9.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_6_9-j6.ipa",
       "size": 6766592,
       "title": "GBox",
       "url": "https://gbox.run/",
       "versions": [
         {
+          "version": "5.6.9",
+          "date": "2024-12-04",
+          "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_6_9-j6.ipa",
+          "size": 6766592
+        },
+        {
           "version": "5.6.8",
           "date": "2024-11-28",
-          "downloadURL": "https://cdn1.realmzer.xyz/Gbox_5_6_8.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Gbox_5_6_8-zK.ipa",
           "size": 6766592
         },
         {
           "version": "5.6.7",
           "date": "2024-11-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/G_Box_v5_6_7.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_6_7-we.ipa",
           "size": 6766592
         }
       ]
@@ -408,7 +414,7 @@
       "category": "utilities",
       "version": "1.0.0",
       "versionDate" : "2024-11-26",
-      "downloadURL": "https://cdn1.realmzer.xyz/Scarlet_Alpha_1.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Scarlet_Alpha_1-v8.ipa",
       "size": 15515648,
       "title": "Scarlet",
       "url": "https://usescarlet.com/",
@@ -416,7 +422,7 @@
         {
           "version": "1.0.0",
           "date" : "2024-11-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/Scarlet_Alpha_1.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Scarlet_Alpha_1-v8.ipa",
           "size": 15515648
         }
       ]
@@ -435,7 +441,7 @@
       "size": 14737408,
       "version": "4.0",
       "versionDate": "2024-11-29",
-      "downloadURL": "https://cdn1.realmzer.xyz/hdflixnoads4_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//hdflixnoads4_0-mX.ipa",
       "title": "HD Flix No Ads",
       "url": "https://t.me/HD_Flix_Channel/" 
     },
@@ -496,7 +502,7 @@
       "category": "utilities",
       "version" : "4.5.4",
       "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/UTM.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM-zF.ipa",
       "size": 122064896,
       "title": "UTM",
       "url": "https://getutm.app/",
@@ -504,7 +510,7 @@
         {
           "version" : "4.5.4",
           "date" : "2024-11-04",
-          "downloadURL": "https://cdn1.realmzer.xyz/UTM.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//UTM-zF.ipa",
           "size": 122064896
         }
       ]
@@ -522,7 +528,7 @@
       "category": "utilities",
       "version" : "4.5.4",
       "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/UTM_SE.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM_SE-sW.ipa",
       "size": 217464832,
       "title": "UTM SE",
       "url": "https://getutm.app/",
@@ -530,7 +536,7 @@
         {
           "version" : "4.5.4",
           "date" : "2024-11-04",
-          "downloadURL": "https://cdn1.realmzer.xyz/UTM_SE.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//UTM_SE-sW.ipa",
           "size": 217464832
         }
       ]
@@ -548,7 +554,7 @@
       "category": "utilities",
       "version": "1.0.0",
       "versionDate": "2024-09-26",
-      "downloadURL": "https://cdn1.realmzer.xyz/Old_OS.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Old_OS-ia.ipa",
       "size": 88174592,
       "title": "OldOS",
       "url": "https://github.com/zzanehip/The-OldOS-Project",
@@ -556,7 +562,7 @@
         {
           "version": "1.0.0",
           "date" : "2024-09-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/Old_OS.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Old_OS-ia.ipa",
           "size": 88174592
         }
       ]
@@ -574,7 +580,7 @@
       "category": "utilities",
       "version": "1.15.4",
       "versionDate" : "2024-10-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/org_localsend_localsend_App_1_15_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_15_4-VP.ipa",
       "size": 16416768,
       "title": "LocalSend",
       "url": "https://github.com/localsend/localsend",
@@ -582,7 +588,7 @@
         {
           "version": "1.15.4",
           "date" : "2024-10-30",
-          "downloadURL": "https://cdn1.realmzer.xyz/org_localsend_localsend_App_1_15_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_15_4-VP.ipa",
           "size": 16416768
         }
       ]
@@ -600,7 +606,7 @@
       "category": "photo-video",
       "version": "1.2",
       "versionDate": "2024-10-09",
-      "downloadURL": "https://cdn1.realmzer.xyz/Anonycord.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Anonycord-3E.ipa",
       "size": 1392905,
       "title": "Anonycord",
       "url": "https://github.com/c22dev/Anonycord/",
@@ -608,7 +614,7 @@
         {
           "version": "1.2",
           "date" : "2024-10-09",
-          "downloadURL": "https://cdn1.realmzer.xyz/Anonycord.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Anonycord-3E.ipa",
           "size": 1392905
         }
       ]
@@ -626,7 +632,7 @@
       "category": "utilities",
       "version": "1.0.0",
       "versionDate": "2024-10-31",
-      "downloadURL": "https://cdn1.realmzer.xyz/dev_casp_i_Plist_Gen_1_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//dev_casp_i_Plist_Gen_1_0-8T.ipa",
       "size": 389728,
       "title": "iPlistGen",
       "url": "https://github.com/flyinghead/flycast",
@@ -634,7 +640,7 @@
         {
           "version": "1.0.0",
           "date" : "2024-10-31",
-          "downloadURL": "https://cdn1.realmzer.xyz/dev_casp_i_Plist_Gen_1_0.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//dev_casp_i_Plist_Gen_1_0-8T.ipa",
           "size": 389728
         }
       ]
@@ -653,7 +659,7 @@
       "size": 1536000,
       "version": "1.0.1",
       "versionDate": "2024-10-18",
-      "downloadURL": "https://cdn1.realmzer.xyz/Azula.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Azula-ud.ipa",
       "title": "Azula",
       "url": "https://github.com/Paisseon/Azula/" 
     },
@@ -671,7 +677,7 @@
       "size": 32768 ,
       "version": "1.0",
       "versionDate": "2024-10-24",
-      "downloadURL": "https://cdn1.realmzer.xyz/WDB_Remove_Three_App_Limit_v1_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//WDB_Remove_Three_App_Limit_v1_0-IG.ipa",
       "title": "WDB-Remove-Three-App-Limit",
       "url": "https://github.com/zhuowei/WDBRemoveThreeAppLimit" 
     },
@@ -689,7 +695,7 @@
       "size": 1544192,
       "version": "1.0.0",
       "versionDate": "2024-10-24",
-      "downloadURL": "https://cdn1.realmzer.xyz/Feedback_Assistant_i_OS.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Feedback_Assistant_i_OS-eG.ipa",
       "title": "Feedback Assistant",
       "url": "https://developer.apple.com/bug-reporting/" 
     }, 
@@ -707,7 +713,7 @@
       "size": 184903,
       "version": "1.0.0",
       "versionDate": "2024-10-24",
-      "downloadURL": "https://cdn1.realmzer.xyz/Barcode_Scanner.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Barcode_Scanner-tz.ipa",
       "title": "Barcode Scanner",
       "url": "https://apple.com/" 
     },
@@ -922,7 +928,7 @@
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_stock_alpha1_6.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_stock_alpha1_6-ud.ipa",
       "size": 66809856,
       "title": "Frida Code Manager (Stock Alpha)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -931,7 +937,7 @@
           "version": "1.6",
           "date" : "2024-10-25",
           "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-          "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_stock_alpha1_6.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_stock_alpha1_6-ud.ipa",
           "size": 66809856
         }
       ]
@@ -949,7 +955,7 @@
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_stock_alpha1_6.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_stock_alpha1_6-ud.ipa",
       "size": 70615040,
       "title": "Frida Code Manager (Stock Alpha)",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
@@ -967,7 +973,7 @@
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_trollstore1_6.tipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_trollstore1_6-Fr.tipa",
       "size": 70615040,
       "title": "Frida Code Manager (TrollStore)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
@@ -976,7 +982,7 @@
           "version": "1.6",
           "date" : "2024-10-25",
           "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
-          "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_trollstore1_6.tipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_trollstore1_6-Fr.tipa",
           "size": 70615040
         }
       ]
@@ -994,7 +1000,7 @@
       "category": "utilities",
       "version": "1.6",
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_trollstore1_6.tipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_trollstore1_6-Fr.tipa",
       "size": 70615040,
       "title": "Frida Code Manager (TrollStore) v1.6",
       "url": "https://github.com/fridakitten/FridaCodeManager/"
@@ -1012,7 +1018,7 @@
       "category": "utilities",
       "version": "4.0.2",
       "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn1.realmzer.xyz/Filza_No_URL_Scheme_4_0_2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Filza_No_URL_Scheme_4_0_2-Dz.ipa",
       "size": 13893632,
       "title": "Filza TrollStore",
       "url": "https://www.tigisoftware.com/",
@@ -1020,7 +1026,7 @@
         {
           "version": "4.0.2",
           "date" : "2024-11-28",
-          "downloadURL": "https://cdn1.realmzer.xyz/Filza_No_URL_Scheme_4_0_2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Filza_No_URL_Scheme_4_0_2-Dz.ipa",
           "size": 13893632
         }
       ]
@@ -1038,7 +1044,7 @@
       "category": "utilities",
       "version": "16",
       "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn1.realmzer.xyz/Filza_Escaped16.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Filza_Escaped16-Dh.ipa",
       "size": 14651392,
       "title": "Filza Escaped 16",
       "url": "https://basvtdevelopments.com/filzaescaped",
@@ -1046,7 +1052,7 @@
         {
           "version": "16",
           "date" : "2024-11-28",
-          "downloadURL": "https://cdn1.realmzer.xyz/Filza_Escaped16.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Filza_Escaped16-Dh.ipa",
           "size": 14651392
         }
       ]
@@ -1064,7 +1070,7 @@
       "category": "social",
       "version": "11.3.2",
       "versionDate" : "2024-12-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_3_2_eeveedecrypter.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_3_2_eeveedecrypter-Xi.ipa",
       "size": 76230656,
       "title": "Swiftgram",
       "url": "https://swiftgram.app/",
@@ -1072,19 +1078,19 @@
         {
           "version": "11.3.2",
           "date" : "2024-12-12",
-          "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_3_2_eeveedecrypter.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_3_2_eeveedecrypter-Xi.ipa",
           "size": 76230656
         },
         {
           "version": "11.3.1",
           "date" : "2024-11-18",
-          "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_3_1_eeveedecrypter.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_3_1_eeveedecrypter-8h.ipa",
           "size": 76226560
         },
         {
           "version": "11.2",
           "date" : "2024-11-05",
-          "downloadURL": "https://cdn1.realmzer.xyz/app_swiftgram_ios_11_2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_2-vD.ipa",
           "size": 73510912
         }
       ]
@@ -1102,7 +1108,7 @@
       "category": "entertainment",
       "version": "9.0.0",
       "versionDate": "2024-12-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_9_0_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_0-Gk.ipa",
       "size": 85000000,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
@@ -1111,42 +1117,42 @@
           "version": "9.0.0",
           "date": "2024-12-12",
           "localizedDescription": "*Latest release with improved stability and additional features.",
-          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_9_0_0.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_0-Gk.ipa",
           "size": 85000000
         },
         {
           "version": "8.9.94/Swift 5.8.2",
           "date": "2024-12-06",
           "localizedDescription": "*Updated German localization \nBy @wlxxd & @SultanModsIPAs",
-          "downloadURL": "https://cdn1.realmzer.xyz/Spotify_v8_9_96_Eevee_v5_8_2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spotify_v8_9_96_Eevee_v5_8_2-0U.ipa",
           "size": 83750912
         },
         {
           "version": "8.9.94/Swift 5.8.1",
           "date": "2024-11-28",
           "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy @SultanModsIPAs",
-          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_8_9_94_Widget_Working.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_8_9_94_Widget_Working-tp.ipa",
           "size": 80715776
         },
         {
           "version": "8.9.92/Swift 5.8.1",
           "date": "2024-11-18",
           "localizedDescription": "*Updated Turkish localization by @gototheskinnyUpdated\n*Traditional Chinese localizaton by @ElliotCHEN37\n*Updated Polish localization by @HackZy01Updated\n*Persian localization by @Incognito-Coder",
-          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_5_8_1_8_9_92.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_1_8_9_92-ww.ipa",
           "size": 84066304
         },
         {
           "version": "8.9.90/Swift 5.8",
           "date": "2024-11-07",
           "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_5_8_8_9_90.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_8_9_90-8k.ipa",
           "size": 95408128
         },
         {
           "version": "8.9.86/Swift 5.7",
           "date": "2024-10-27",
           "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://cdn1.realmzer.xyz/Eevee_Spotify_5_7_8_9_86.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_7_8_9_86-4G.ipa",
           "size": 81833984
         }
       ]
@@ -1164,7 +1170,7 @@
       "category": "entertainment",
       "version": "22.3.3",
       "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Twitchadfree22_3_3_Fixedbundle_patched_nofix.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitchadfree22_3_3_Fixedbundle_patched_nofix-0q.ipa",
       "size": 104194048,
       "title": "Twitch No Ads",
       "versions" : [
@@ -1172,7 +1178,7 @@
           "version": "22.3.3",
           "date" : "2024-12-06",
           "localizedDescription": "- Updated Twitch (https://apps.apple.com/us/app/twitch-live-streaming/id460177396) to 22.3.3 (today's update no ads)\n- Video game streaming\n- adfree \n-Injected AdBlock by level3tjg\n-injected with keychain and sideload fix and the bundle file that was missing\n-injected open in safari extension\n-injected pluginwidgetsfix\n-now I'm not seeing any ads \nBy @wlxxd & @SultanModsIPAs",
-          "downloadURL": "https://cdn1.realmzer.xyz/Twitchadfree22_3_3_Fixedbundle_patched_nofix.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Twitchadfree22_3_3_Fixedbundle_patched_nofix-0q.ipa",
           "size": 104194048
         }
       ]
@@ -1190,32 +1196,32 @@
       "category": "social",
       "version": "37.6.0",
       "versionDate" : "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/AC_Tik_Tok37_6_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
       "size": 311889920,
       "title": "TikTokAC",
       "versions" : [
         {
           "version": "37.6.0",
           "date" : "2024-12-04",
-          "downloadURL": "https://cdn1.realmzer.xyz/AC_Tik_Tok37_6_0.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
           "size": 311889920
         },
         {
           "version": "37.5.0-Patched",
           "date" : "2024-11-30",
-          "downloadURL": "https://cdn1.realmzer.xyz/Tiktok_AC_37_5_0_Moe_patched.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
           "size": 326320128
         },
         {
           "version": "37.5.0",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn1.realmzer.xyz/Tiktok_AC_37_5_0.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
           "size": 326307840
         },
         {
           "version": "37.4.0",
           "date" : "2024-11-24",
-          "downloadURL": "https://cdn1.realmzer.xyz/Tik_Tok_AC_37_4_0_Moe.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_AC_37_4_0_Moe-OR.ipa",
           "size": 316399616
         }
       ]
@@ -1233,20 +1239,20 @@
       "category": "social",
       "version": "360.1.0",
       "date": "2024-12-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/Instagram_v360_1_0_Regramb15_eth_Sign.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram_v360_1_0_Regramb15_eth_Sign-ei.ipa",
       "size": 200000000,
       "title": "Instagram Regram",
       "versions": [
         {
           "version": "360.1.0",
           "date": "2024-12-12",
-          "downloadURL": "https://cdn1.realmzer.xyz/Instagram_v360_1_0_Regramb15_eth_Sign.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram_v360_1_0_Regramb15_eth_Sign-ei.ipa",
           "size": 200000000
         },
         {
           "version": "356.0.0",
           "date": "2024-11-23",
-          "downloadURL": "https://cdn1.realmzer.xyz/com_burbn_instagram_356_0_0_regram_1_0_b15_sl.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_burbn_instagram_356_0_0_regram_1_0_b15_sl-i9.ipa",
           "size": 193929216
         }
       ]
@@ -1264,7 +1270,7 @@
       "category": "entertainment",
       "version": "7.29.1",
       "versionDate": "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/YT_Music_Ultimate_7_29_1.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_v7_26_1-Uc.ipa",
       "size": 82607573,
       "title": "YTMusicUltimate",
       "url": "https://github.com/dayanch96/YTMusicUltimate",
@@ -1273,7 +1279,7 @@
           "version": "7.26.1",
           "date": "2024-11-27",
           "localizedDescription": "*Move to light version of mobile-ffmpeg\n*Move downloading to native download button (#296)\n*Fix workflow issues (#301)",
-          "downloadURL": "https://cdn1.realmzer.xyz/YT_Music_Ultimate_v7_26_1.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_v7_26_1-Uc.ipa",
           "size": 82607573
         }
       ]
@@ -1291,7 +1297,7 @@
       "category": "entertainment",
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/youtubelite_19_47_7.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//youtubelite_19_47_7-Ox.ipa",
       "size": 98000000,
       "title": "YTLitePlus",
       "url": "https://github.com/YTLitePlus/YTLitePlus",
@@ -1300,14 +1306,14 @@
           "version": "19.47.7",
           "date" : "2024-11-30",
           "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
-          "downloadURL": "https://cdn1.realmzer.xyz/youtubelite_19_47_7.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//youtubelite_19_47_7-Ox.ipa",
           "size": 114438144
         },
         {
           "version": "19.42.1",
           "date" : "2024-10-26",
           "localizedDescription": "YouTube with the YouTubeLitePlus Tweak\nStatus: ❔",
-          "downloadURL": "https://cdn1.realmzer.xyz/YT_Lite_Plus_19_42_1_5_0_2.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Lite_Plus_19_42_1_5_0_2-7D.ipa",
           "size": 114438144
         }
       ]
@@ -1325,7 +1331,7 @@
       "category": "entertainment",
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/You_Tube_19_47_7.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//You_Tube_19_47_7-Ri.ipa",
       "size": 115900000,
       "title": "YouTubePlus",
       "url": "https://github.com/dayanch96/YTLite"
@@ -1343,7 +1349,7 @@
       "category": "entertainment",
       "version": "19.47.7",
       "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/youtube_enhanced_19_47_7.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//youtube_enhanced_19_47_7-6f.ipa",
       "size": 117000000,
       "title": "uYouEnhanced",
       "url": "https://github.com/arichornlover/uYouEnhanced",
@@ -1351,7 +1357,7 @@
         {
           "version": "19.21.2-3.0.4",
           "date" : "2024-11-19",
-          "downloadURL": "https://cdn1.realmzer.xyz/u_You_Enhanced_19_46_3_3_0_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//youtube_enhanced_19_47_7-6f.ipa",
           "size": 123060224
         }
       ]
@@ -1369,7 +1375,7 @@
       "category": "utilities",
       "version" : "6.9.4",
       "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/com_parksman_Log_Ride_6_9_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_parksman_Log_Ride_6_9_4-Aw.ipa",
       "size": 24649728,
       "title": "LogRide",
       "url": "https://logrideapp.com/",
@@ -1377,7 +1383,7 @@
         {
           "version" : "6.9.4",
           "date" : "2024-11-04",
-          "downloadURL": "https://cdn1.realmzer.xyz/com_parksman_Log_Ride_6_9_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_parksman_Log_Ride_6_9_4-Aw.ipa",
           "size": 24649728
         }
       ]
@@ -1395,14 +1401,14 @@
       "category": "utilities",
       "version": "1.27.0",
       "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Egernv1_27_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Egernv1_27_0-WD.ipa",
       "size": 18321408,
       "title": "Egern",
       "versions" : [
         {
           "version": "1.27.0",
           "date" : "2024-12-06",
-          "downloadURL": "https://cdn1.realmzer.xyz/Egernv1_27_0.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Egernv1_27_0-WD.ipa",
           "size": 18321408
         }
       ]
@@ -1420,14 +1426,14 @@
       "category": "utilities",
       "version": "6.1",
       "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/com_crossforward_pedometer_6_1_eeveedecrypter.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
       "size": 18321408,
       "title": "Pedometer++",
       "versions" : [
         {
           "version": "6.1",
           "date" : "2024-12-06",
-          "downloadURL": "https://cdn1.realmzer.xyz/com_crossforward_pedometer_6_1_eeveedecrypter.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
           "size": 18321408
         }
       ]
@@ -1445,7 +1451,7 @@
       "category": "games",
       "version": "1.6",
       "versionDate" : "2024-11-19",
-      "downloadURL": "https://cdn1.realmzer.xyz/delta.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//delta-gM.ipa",
       "size": 84283392,
       "title": "Delta",
       "url": "https://github.com/rileytestut/Delta",
@@ -1453,7 +1459,7 @@
         {
           "version": "1.6",
           "date" : "2024-11-19",
-          "downloadURL": "https://cdn1.realmzer.xyz/delta.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//delta-gM.ipa",
           "size": 84283392
         }
       ]
@@ -1471,7 +1477,7 @@
       "category": "games",
       "version": "2.2.0",
       "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn1.realmzer.xyz/Provenance.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Provenance-E3.ipa",
       "size": 33980416,
       "title": "Provenance",
       "url": "https://github.com/Provenance-Emu/Provenance/",
@@ -1479,7 +1485,7 @@
         {
           "version": "2.2.0",
           "date" : "2024-11-28",
-          "downloadURL": "https://cdn1.realmzer.xyz/Provenance.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Provenance-E3.ipa",
           "size": 33980416
         }
       ]
@@ -1497,14 +1503,14 @@
       "category": "games",
       "version": "1.17.4",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/PPSSPP_v1_17_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//PPSSPP_v1_17_4-O6.ipa",
       "size": 11534336,
       "title": "PPSSPP",
       "versions" : [
         {
           "version": "1.17.4",
           "date" : "2024-09-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/PPSSPP_v1_17_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//PPSSPP_v1_17_4-O6.ipa",
           "size": 11534336
         }
       ]
@@ -1547,7 +1553,7 @@
       "category": "games",
       "version": "2.4.0",
       "versionDate": "2024-10-31",
-      "downloadURL": "https://cdn1.realmzer.xyz/Flycast_2_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Flycast_2_4-ZY.ipa",
       "size": 7885887,
       "title": "FlyCast",
       "url": "https://github.com/flyinghead/flycast",
@@ -1555,7 +1561,7 @@
         {
           "version": "2.4.0",
           "date" : "2024-10-31",
-          "downloadURL": "https://cdn1.realmzer.xyz/Flycast_2_4.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Flycast_2_4-ZY.ipa",
           "size": 7885887
         }
       ]
@@ -1574,14 +1580,14 @@
       "version": "4.0.0b7",
       "size": 14470348,
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/dolphin_Non_Jailbroken.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//dolphin_Non_Jailbroken-r5.ipa",
       "title": "DolphiniOS JIT",
       "url": "https://dolphinios.oatmealdome.me/",
       "versions" : [
         {
           "version": "4.0.0b7",
           "date" : "2024-10-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/dolphin_Non_Jailbroken.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//dolphin_Non_Jailbroken-r5.ipa",
           "size": 14470348
         }
       ]
@@ -1600,14 +1606,14 @@
       "version": "3.2.1",
       "size": 16043212,
       "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Dolphini_OS_No_JIT.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dolphini_OS_No_JIT-ry.ipa",
       "title": "DolphiniOS Non-JIT",
       "url": "https://dolphinios.oatmealdome.me/",
       "versions" : [
         {
           "version": "3.2.1",
           "date" : "2024-10-25",
-          "downloadURL": "https://cdn1.realmzer.xyz/Dolphini_OS_No_JIT.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dolphini_OS_No_JIT-ry.ipa",
           "size": 16043212
         }
       ]
@@ -1625,20 +1631,20 @@
       "category": "games",
       "version": "2.7.1",
       "date" : "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz/Pomelo_1.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Pomelo_1-O0.ipa",
       "size": 28938240,
       "title": "Pomelo",
       "versions" : [
         {
           "version": "2.7.1",
           "date" : "2024-12-04",
-          "downloadURL": "https://cdn1.realmzer.xyz/Pomelo_1.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Pomelo_1-O0.ipa",
           "size": 28938240
         },
         {
           "version": "2.6",
           "date" : "2024-11-23",
-          "downloadURL": "https://cdn1.realmzer.xyz/Pomelo.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Pomelo-1A.ipa",
           "size": 28909568
         }
       ]
@@ -1675,7 +1681,7 @@
       "size": 70279168,
       "version": "1.0.0",
       "versionDate": "2024-11-19",
-      "downloadURL": "https://cdn1.realmzer.xyz/DELTARUNE.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//DELTARUNE-r3.ipa",
       "title": "Deltarune Chapter 2",
       "url": "https://deltarune.com" 
     },
@@ -1693,7 +1699,7 @@
       "size": 140505088,
       "version": "1.2",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/UNDERTALE.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//UNDERTALE-qT.ipa",
       "title": "Undertale",
       "url": "https://undertale.com" 
     },
@@ -1711,7 +1717,7 @@
       "size": 247910400,
       "version": "1.2",
       "versionDate": "2024-10-14",
-      "downloadURL": "https://cdn1.realmzer.xyz/undertale_yellow_port_1_2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//undertale_yellow_port_1_2-nG.ipa",
       "title": "Undertale Yellow",
       "url": "https://gamejolt.com/games/UndertaleYellow/136925" 
     },
@@ -1729,7 +1735,7 @@
       "size": 256716800,
       "version": "1.6.1",
       "versionDate": "2024-10-14",
-      "downloadURL": "https://cdn1.realmzer.xyz/Undertale_Red_Yellow.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Undertale_Red_Yellow-tG.ipa",
       "title": "Undertale Red & Yellow",
       "url": "https://gamejolt.com/games/undertale-red-yellow/877387" 
     },
@@ -1747,7 +1753,7 @@
       "size": 223920128,
       "version": "5.0.0",
       "versionDate": "2024-10-14",
-      "downloadURL": "https://cdn1.realmzer.xyz/Undertale_BNP.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Undertale_BNP-Ka.ipa",
       "title": "Undertale Bits & Pieces",
       "url": "https://gamejolt.com/games/UndertaleBnP/574044" 
     },
@@ -1765,7 +1771,7 @@
       "size": 2805760,
       "version": "RSDK5",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/Sonic_Mania.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Sonic_Mania-1B.ipa",
       "title": "Sonic Mania",
       "url": "https://sonicthehedgehog.com/sonic-mania-plus/" 
     },   
@@ -1783,14 +1789,14 @@
       "version": "2.2.4",
       "size": 151322254,
       "versionDate": "2024-10-27",
-      "downloadURL": "https://cdn1.realmzer.xyz/srr224.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//srr224-Te.ipa",
       "title": "Sonic Runners Revival",
       "url": "https://sonicrunners.com/",
       "versions" : [
         {
           "version": "2.2.4",
           "date" : "2024-10-31",
-          "downloadURL": "https://cdn1.realmzer.xyz/srr224.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//srr224-Te.ipa",
           "size": 151322254
         }
       ]
@@ -1808,7 +1814,7 @@
       "category": "games",
       "version": "1.0",
       "versionDate": "2024-10-26",
-      "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine_v1_0.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
       "size": 328896512,
       "title": "Friday Night Funkin: Psych Engine 1.0",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
@@ -1816,25 +1822,25 @@
         {
           "version": "1.0",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine_v1_0.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
           "size": 328896512
         },
         {
           "version": "1.0-Pre",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine_v1_0pre.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0pre-zO.ipa",
           "size": 327700480
         },
         {
           "version": "0.7.3",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine073.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine073-6E.ipa",
           "size": 182427648
         },
         {
           "version": "0.6.3",
           "date": "2024-10-26",
-          "downloadURL": "https://cdn1.realmzer.xyz/Psych_Engine063.ipa",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine063-wd.ipa",
           "size": 219418624
         }
       ]
@@ -1853,7 +1859,7 @@
       "size": 100229120,
       "version": "2.0.0",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://cdn1.realmzer.xyz/fnaf_world_mobile2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//fnaf_world_mobile2-CS.ipa",
       "title": "FNAF World",
       "url": "https://https://gamejolt.com/games/fnaf-world/124921" 
     },
@@ -1870,7 +1876,7 @@
       "category": "games",
       "version": "2.0.3",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_v_2_0_3.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_v_2_0_3-To.ipa",
       "size": 108331008,
       "title": "Five Nights at Freddy's",
       "url": "https://scottgames.com/"
@@ -1888,7 +1894,7 @@
       "category": "games",
       "version": "2.0.4",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_2_v_2_0_4.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_2_v_2_0_4-qF.ipa",
       "size": 116584448,
       "title": "Five Nights at Freddy's 2",
       "url": "https://scottgames.com/"
@@ -1906,7 +1912,7 @@
       "category": "games",
       "version": "2.0.2",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_3_v2_0_2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_3_v2_0_2-jE.ipa",
       "size": 65323008,
       "title": "Five Nights at Freddy's 3",
       "url": "https://scottgames.com/"
@@ -1924,7 +1930,7 @@
       "category": "games",
       "version": "2.0.2",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_4_v2_0_2.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_4_v2_0_2-6x.ipa",
       "size": 65323008,
       "title": "Five Nights at Freddy's 4",
       "url": "https://scottgames.com/"
@@ -1942,7 +1948,7 @@
       "category": "games",
       "version": "2.0.3",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_SL_v2_0_3.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_SL_v2_0_3-ox.ipa",
       "size": 289501184,
       "title": "Five Nights at Freddy's: Sister Location",
       "url": "https://scottgames.com/"
@@ -1960,7 +1966,7 @@
       "category": "games",
       "version": "1.0.5",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Ultimate_Custom_Night_v1_0_52.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Ultimate_Custom_Night_v1_0_52-9J.ipa",
       "size": 208191488,
       "title": "Ultimate Custom Night",
       "url": "https://scottgames.com/"
@@ -1978,7 +1984,7 @@
       "category": "games",
       "version": "1.0.2",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/FNAF_6_Pizzeria_simulator.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//FNAF_6_Pizzeria_simulator-Oh.ipa",
       "size": 163811328,
       "title": "Five Nights at Freddy's: Pizzeria Simulator",
       "url": "https://www.scottgames.com/"
@@ -1996,7 +2002,7 @@
       "category": "games",
       "version": "1.1.3",
       "versionDate" : "2024-11-06",
-      "downloadURL": "https://cdn1.realmzer.xyz/Five_Nights_at_Freddys_HW_v1_1_3.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_HW_v1_1_3-I2.ipa",
       "size": 591884288,
       "title": "Five Nights at Freddy's: HW",
       "url": "https://www.steelwoolstudios.com/"
@@ -2014,7 +2020,7 @@
     "category": "games",
     "version" : "1.0",
     "versionDate" : "2024-10-29",
-    "downloadURL": "https://cdn1.realmzer.xyz/celestenocontroller_IPA_Edit.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//celestenocontroller_IPA_Edit-fF.ipa",
     "size": 883720192,
     "title": "Celeste No Virtual Controller",
     "url": "https://github.com/RoootTheFox/celeste-ios",
@@ -2022,7 +2028,7 @@
       {
         "version" : "1.0",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn1.realmzer.xyz/celestenocontroller_IPA_Edit.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//celestenocontroller_IPA_Edit-fF.ipa",
         "size": 883720192
       }
     ]
@@ -2040,7 +2046,7 @@
     "category": "games",
     "version" : "1.0",
     "versionDate" : "2024-10-29",
-    "downloadURL": "https://cdn1.realmzer.xyz/Celeste_VC.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Celeste_VC-dK.ipa",
     "size": 883716096,
     "title": "Celeste + Virtual Controller",
     "url": "https://github.com/RoootTheFox/celeste-ios",
@@ -2048,7 +2054,7 @@
       {
         "version" : "1.0",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn1.realmzer.xyz/Celeste_VC.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Celeste_VC-dK.ipa",
         "size": 883716096
       }
     ]
@@ -2066,7 +2072,7 @@
     "category": "games",
     "version" : "1.0",
     "versionDate" : "2024-11-29",
-    "downloadURL": "https://cdn1.realmzer.xyz/Celeste_full_screen.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Celeste_full_screen-NW.ipa",
     "size": 885006336,
     "title": "Celeste + Virtual Controller (FullScreen)",
     "url": "https://github.com/RoootTheFox/celeste-ios",
@@ -2074,7 +2080,7 @@
       {
         "version" : "1.0",
         "date" : "2024-11-29",
-        "downloadURL": "https://cdn1.realmzer.xyz/Celeste_full_screen.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Celeste_full_screen-NW.ipa",
         "size": 885006336
       }
     ]
@@ -2092,14 +2098,14 @@
     "category": "games",
     "version": "2.3.9",
     "versionDate" : "2024-11-19",
-    "downloadURL": "https://cdn1.realmzer.xyz/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-qw.ipa",
     "size": 66232320,
     "title": "Bad Piggies (Hack)",
     "versions" : [
       {
         "version": "2.3.9",
         "date" : "2024-11-19",
-        "downloadURL": "https://cdn1.realmzer.xyz/Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-qw.ipa",
         "size": 66232320
       }
     ]
@@ -2117,7 +2123,7 @@
     "category": "games",
     "version" : "0.4.1-patch-1",
     "versionDate" : "2024-10-29",
-    "downloadURL": "https://cdn1.realmzer.xyz/Funkin_0_4_1_patch1.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Funkin_0_4_1_patch1-8D.ipa",
     "size": 507664411,
     "title": "Friday Night Funkin'",
     "url": "https://github.com/FunkinDroidTeam/Funkin",
@@ -2125,7 +2131,7 @@
       {
         "version" : "v0.4.1-patch-1",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn1.realmzer.xyz/Funkin_0_4_1_patch1.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Funkin_0_4_1_patch1-8D.ipa",
         "size": 507664411
       }
     ]
@@ -2157,13 +2163,13 @@
       {
         "version" : "2024.1115.3",
         "date" : "2024-11-16",
-        "downloadURL": "https://cdn1.realmzer.xyz/osu2024_1115_3.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu2024_1115_3-4L.ipa",
         "size": 195981312
       }, 
       {
         "version" : "2024.1009.1",
         "date" : "2024-10-29",
-        "downloadURL": "https://cdn1.realmzer.xyz/osu_i_OS_2024_1009_1.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_2024_1009_1-M4.ipa",
         "size": 196280320
       }
     ]
@@ -2181,14 +2187,14 @@
     "category": "games",
     "version": "1.2",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn1.realmzer.xyz/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-kW.ipa",
     "size": 123207680,
     "title": "Charlie the Steak",
     "versions" : [
       {
       "version": "1.2",
       "date" : "2024-11-17",
-      "downloadURL": "https://cdn1.realmzer.xyz/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-kW.ipa",
       "size": 123207680
       }
     ]
@@ -2206,14 +2212,14 @@
     "category": "utilities",
     "version": "4",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn1.realmzer.xyz/Cash_App_V3_esign.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
     "size": 16207872,
     "title": "Cash App (FAKE)",
     "versions" : [
       {
       "version": "4",
       "date" : "2024-11-17",
-      "downloadURL": "https://cdn1.realmzer.xyz/Cash_App_V3_esign.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
       "size": 16207872
       }
     ]
@@ -2231,14 +2237,14 @@
     "category": "utilities",
     "version": "8.2.0",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn1.realmzer.xyz/com_iaftt_flightplusfree_8_2_0_eeveedecrypter.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//com_iaftt_flightplusfree_8_2_0_eeveedecrypter-6D.ipa",
     "size": 153665536,
     "title": "Flight Tracker +",
     "versions" : [
       {
         "version": "8.2.0",
         "date" : "2024-11-17",
-        "downloadURL": "https://cdn1.realmzer.xyz/com_iaftt_flightplusfree_8_2_0_eeveedecrypter.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//com_iaftt_flightplusfree_8_2_0_eeveedecrypter-6D.ipa",
         "size": 153665536
       }
     ]
@@ -2256,14 +2262,14 @@
     "category": "utilities",
     "version": "4.0.9",
     "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn1.realmzer.xyz/Procreate_Pocket.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Procreate_Pocket-KL.ipa",
     "size": 301252608,
     "title": "Procreate Pocket",
     "versions" : [
       {
         "version": "4.0.9",
         "date" : "2024-11-17",
-        "downloadURL": "https://cdn1.realmzer.xyz/Procreate_Pocket.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Procreate_Pocket-KL.ipa",
         "size": 301252608
       }
     ]
@@ -2281,7 +2287,7 @@
     "category": "games",
     "version": "0.0.6",
     "versionDate" : "2024-11-24",
-    "downloadURL": "https://cdn1.realmzer.xyz/flero_v0_0_6.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//flero_v0_0_6-nr.ipa",
     "size": 158756864,
     "title": "Flero",
     "url": "https://flero.pages.dev/",
@@ -2289,7 +2295,7 @@
       {
         "version": "0.0.6",
         "date" : "2024-11-24",
-        "downloadURL": "https://cdn1.realmzer.xyz/flero_v0_0_6.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//flero_v0_0_6-nr.ipa",
         "size": 158756864
       }
     ]
@@ -2307,14 +2313,14 @@
     "category": "photo-video",
     "version": "26.3.11",
     "versionDate" : "2024-11-24",
-    "downloadURL": "https://cdn1.realmzer.xyz/Picsart26_3_1_Pro_Moe.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_3_1_Pro_Moe-XF.ipa",
     "size": 103763968,
     "title": "Picsart iProMoe",
     "versions" : [
       {
         "version": "26.3.1",
         "date" : "2024-11-24",
-        "downloadURL": "https://cdn1.realmzer.xyz/Picsart26_3_1_Pro_Moe.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_3_1_Pro_Moe-XF.ipa",
         "size": 103763968
       }
     ]
@@ -2332,14 +2338,14 @@
     "category": "utilities",
     "version": "4.0.0",
     "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz/None_v4_0_blatant.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
     "size": 54976512,
     "title": "Widgy Widgets",
     "versions" : [
       {
         "version": "4.0.0",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz/None_v4_0_blatant.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
         "size": 54976512
       }
     ]
@@ -2357,14 +2363,14 @@
     "category": "utilities",
     "version": "1.7.2",
     "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz/Transparent_Icons_1_7_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
     "size": 6778880,
     "title": "Transparent Icons",
     "versions" : [
       {
         "version": "1.7.2",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz/Transparent_Icons_1_7_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
         "size": 6778880
       }
     ]
@@ -2382,7 +2388,7 @@
     "category": "utilities",
     "version": "2.0.14-1",
     "versionDate": "2024-11-29",
-    "downloadURL": "https://cdn1.realmzer.xyz/i_Torrent_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//i_Torrent_2-St.ipa",
     "size": 7028736,
     "title": "iTorrent",
     "url": "https://github.com/XITRIX/iTorrent",
@@ -2390,13 +2396,13 @@
       {
         "version": "2.0.14-1",
         "date" : "2024-11-29",
-        "downloadURL": "https://cdn1.realmzer.xyz/i_Torrent_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_Torrent_2-St.ipa",
         "size": 7028736
       },
       {
         "version": "2.0.13-2",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz/i_Torrent2013_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_Torrent2013_2-y4.ipa",
         "size": 7028736
       }
     ]
@@ -2414,7 +2420,7 @@
     "category": "utilities",
     "version": "8b6e503",
     "versionDate" : "2024-11-16",
-    "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer8b6e503.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer8b6e503-Ph.ipa",
     "size": 921600,
     "title": "LiveContainer",
     "url": "https://github.com/khanhduytran0/LiveContainer",
@@ -2422,13 +2428,13 @@
       {
         "version": "8b6e503",
         "date" : "2024-11-16",
-        "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer8b6e503.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer8b6e503-Ph.ipa",
         "size": 921600
       },
       {
       "version": "2.1.2",
       "date" : "2024-10-30",
-      "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer_2_1_2 .ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_2_1_2-D4.ipa",
       "size": 194586
       }
     ]
@@ -2446,7 +2452,7 @@
     "category": "utilities",
     "version": "8b6e503",
     "versionDate" : "2024-11-16",
-    "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer8b6e503.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer8b6e503-Ph.ipa",
     "size": 921600,
     "title": "LiveContainer Commit 8b6e503",
     "url": "https://github.com/khanhduytran0/LiveContainer"
@@ -2464,7 +2470,7 @@
     "category": "utilities",
     "version": "2.1.2",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn1.realmzer.xyz/com_kdt_livecontainer_2_1_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_2_1_2-D4.ipa",
     "size": 194586,
     "title": "LiveContainer v2.1.2",
     "url": "https://github.com/khanhduytran0/LiveContainer"
@@ -2482,7 +2488,7 @@
     "category": "utilities",
     "version": "10.3.2",
     "versionDate" : "2024-12-06",
-    "downloadURL": "https://cdn1.realmzer.xyz/Cowabunga.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Cowabunga-Du.ipa",
     "size": 16289792,
     "title": "Cowabunga",
     "url": "https://github.com/leminlimez/Cowabunga",
@@ -2490,7 +2496,7 @@
       {
         "version": "10.3.2",
         "date" : "2024-12-06",
-        "downloadURL": "https://cdn1.realmzer.xyz/Cowabunga.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Cowabunga-Du.ipa",
         "size": 16289792
       }
     ]
@@ -2509,7 +2515,7 @@
     "category": "social",
     "version": "32.2.0-2.3",
     "versionDate" : "2024-11-23",
-    "downloadURL": "https://cdn1.realmzer.xyz/Tik_Tok_v32_2_0_BH_v2_3.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
     "size": 226500608,
     "title": "TikTok BH++",
     "url": "https://github.com/raulsaeed/TikTokPlusPlus",
@@ -2517,7 +2523,7 @@
       {
         "version": "32.2.0-2.3",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz/Tik_Tok_v32_2_0_BH_v2_3.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
         "size": 226500608
       }
     ]
@@ -2535,7 +2541,7 @@
     "category": "social",
     "version": "4.3",
     "versionDate": "2024-09-19",
-    "downloadURL": "https://cdn1.realmzer.xyz/BH_Twitter_sideloaded.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
     "size": 195238232,
     "title": "BH X",
     "url": "https://github.com/BandarHL/BHTwitter",
@@ -2543,7 +2549,7 @@
       {
         "version": "4.3",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz/BH_Twitter_sideloaded.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
         "size": 195238232
       }
     ]
@@ -2581,45 +2587,45 @@
       {
         "version": "33.00.1",
         "date" : "2024-12-04",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_33_00_1.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_00_1-yn.ipa",
         "size": 205209600
       },
       {
         "version": "33.00",
         "date" : "2024-12-02",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_33_00_1.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_00_1-VV.ipa",
         "size": 217632768
       },
       {
         "version": "32.11",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_11.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_32_11-FS.ipa",
         "size": 252301312
       },
       {
         "version": "32.10.1",
         "date" : "2024-11-13",
         "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_10_1.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_32_10_1-XL.ipa",
         "size": 252227584
       },
       {
         "version": "32.00.2",
         "date" : "2024-11-06",
         "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_00_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_32_00_2-45.ipa",
         "size": 251150336
       },
       {
         "version": "31.41",
         "date" : "2024-11-01",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_31_41.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_31_41-yQ.ipa",
         "size": 266780672
       },
       {
         "version": "32.00",
         "date" : "2024-11-04",
-        "downloadURL": "https://cdn1.realmzer.xyz/Fortnite_32_00.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_32_00-5p.ipa",
         "size": 251158528
       }
     ]
@@ -2637,14 +2643,14 @@
     "category": "games",
     "version": "3.3.2",
     "versionDate" : "2024-11-06",
-    "downloadURL": "https://cdn1.realmzer.xyz/Dead_Cells_plus_v3_3_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Dead_Cells_plus_v3_3_2-IO.ipa",
     "size": 1369145344,
     "title": "Dead Cells+",
     "versions" : [
       {
         "version": "3.3.2",
         "date" : "2024-11-06",
-        "downloadURL": "https://cdn1.realmzer.xyz/Dead_Cells_plus_v3_3_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Dead_Cells_plus_v3_3_2-IO.ipa",
         "size": 1369145344
       }
     ]
@@ -2662,14 +2668,14 @@
     "category": "games",
     "version": "2.2.2",
     "versionDate" : "2024-11-30",
-    "downloadURL": "https://cdn1.realmzer.xyz/comz2fixfortheloveofgod.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//comz2fixfortheloveofgod-hc.ipa",
     "size": 136024064,
     "title": "Call of Mini Zombies 2",
     "versions" : [
       {
         "version": "2.2.2",
         "date" : "2024-11-30",
-        "downloadURL": "https://cdn1.realmzer.xyz/comz2fixfortheloveofgod.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//comz2fixfortheloveofgod-hc.ipa",
         "size": 136024064
       }
     ]
@@ -2687,7 +2693,7 @@
     "category": "games",
     "version": "1.0.0",
     "versionDate" : "2024-11-03",
-    "downloadURL": "https://cdn1.realmzer.xyz/Mega_Games.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Mega_Games-Y4.ipa",
     "size": 35600000,
     "title": "MegaGames",
     "url": "https://github.com/TechGuy541/MegaGames",
@@ -2695,7 +2701,7 @@
       {
         "version": "1.0.0",
         "date" : "2024-11-03",
-        "downloadURL": "https://cdn1.realmzer.xyz/Mega_Games.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Mega_Games-Y4.ipa",
         "size": 35600000
       }
     ]
@@ -2713,7 +2719,7 @@
     "category": "games",
     "version": "2.2.06",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn1.realmzer.xyz/Geometry_2_206.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Geometry_2_206-eE.ipa",
     "size": 152252416,
     "title": "Geometry Dash",
     "url": "https://www.robtopgames.com/",
@@ -2721,7 +2727,7 @@
       {
         "version": "2.2.06",
         "date" : "2024-10-30",
-        "downloadURL": "https://cdn1.realmzer.xyz/Geometry_2_206.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Geometry_2_206-eE.ipa",
         "size": 152252416
       }
     ]
@@ -2739,7 +2745,7 @@
     "category": "games",
     "version": "2.2.06",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://cdn1.realmzer.xyz/Geometry_2_206.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Geometry_2_206-eE.ipa",
     "size": 152252416,
     "title": "Geometry Dash v2.2.06",
     "url": "https://www.robtopgames.com/"
@@ -2757,7 +2763,7 @@
     "category": "games",
     "version": "6.6.1",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Icreate_Pro_6_6_1_Crack-Ag.ipa",
     "size": 155152384,
     "title": "iCreatePro",
     "url": "https://icreate.pro/",
@@ -2765,7 +2771,7 @@
       {
         "version": "6.6.1",
         "date" : "2024-10-30",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Icreate_Pro_6_6_1_Crack-Ag.ipa",
         "size": 155152384
       }
     ]
@@ -2783,7 +2789,7 @@
     "category": "games",
     "version": "6.6.1",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/Icreate.Pro-6.6.1-Crack.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Icreate_Pro_6_6_1_Crack-Ag.ipa",
     "size": 155152384,
     "title": "iCreatePro v6.6.1",
     "url": "https://icreate.pro/"
@@ -2876,7 +2882,7 @@
     "category": "social",
     "version": "2.2.6-12-6-2024",
     "date" : "2024-12-06",
-    "downloadURL": "https://cdn1.realmzer.xyz/Enmity_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
     "size": 102019072,
     "title": "Enmity",
     "url": "https://enmity.unbound.rip/",
@@ -2884,19 +2890,19 @@
       {
         "version": "2.2.6-12-6-2024",
         "date" : "2024-12-06",
-        "downloadURL": "https://cdn1.realmzer.xyz/Enmity_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
         "size": 102019072
       },
       {
         "version": "2.2.6-c91537b",
         "date" : "2024-11-13",
-        "downloadURL": "https://cdn1.realmzer.xyz/Enmity_c91537b.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Enmity_c91537b-Hl.ipa",
         "size": 101167104
       },
       {
         "version": "2.2.6",
         "date" : "2024-11-05",
-        "downloadURL": "https://cdn1.realmzer.xyz/Enmity_1.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Enmity_1-US.ipa",
         "size": 103809024
       }
     ]
@@ -2914,7 +2920,7 @@
     "category": "social",
     "version": "250.0",
     "date" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz/Revenge.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
     "size": 101220352,
     "title": "Revenge",
     "url": "https://github.com/revenge-mod/",
@@ -2922,7 +2928,7 @@
       {
         "version": "250.0",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz/Revenge.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
         "size": 101220352
       }
     ]
@@ -2940,14 +2946,14 @@
     "category": "social",
     "version": "224.0",
     "versionDate": "2024-04-10",
-    "downloadURL": "https://cdn1.realmzer.xyz/Bunny_IPA_Edit.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Bunny_IPA_Edit-lc.ipa",
     "size": 96468992,
     "title": "Bunny Discord",
     "versions" : [
       {
         "version": "224.0",
         "date" : "2024-04-10",
-        "downloadURL": "https://cdn1.realmzer.xyz/Bunny_IPA_Edit.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Bunny_IPA_Edit-lc.ipa",
         "size": 96468992
       }
     ]
@@ -3004,7 +3010,7 @@
       {
         "version": "1.15.11_1.1.7b",
         "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz/Apollo_1_15_11_improvedcustomapi_1_1_7b.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Apollo_1_15_11_improvedcustomapi_1_1_7b-5T.ipa",
         "size": 108105728
       }
     ]
@@ -3155,7 +3161,7 @@
     "size": 195238232,
     "tintColor": "bf9946",
     "category": "games", 
-    "downloadURL": "https://cdn1.realmzer.xyz/net_kdt_pojavlauncher_2_2_ios.ipa", 
+    "downloadURL": "https://cdn1.realmzer.xyz//net_kdt_pojavlauncher_2_2_ios-26.ipa", 
     "developerName": "Stossy11", 
     "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
     "iconURL": "https://cdn1.realmzer.xyz//logo_2-4d.png" 
@@ -3364,14 +3370,14 @@
     "category": "utilities",
     "version": "2.1",
     "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz/Climax.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Climax-Sy.ipa",
     "size": 962560,
     "title": "Climax",
     "versions" : [
       {
         "version": "2.1",
         "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz/Climax.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Climax-Sy.ipa",
         "size": 962560
       }
     ]
@@ -3389,14 +3395,14 @@
     "category": "entertainment",
     "version": "2.0.1",
     "versionDate" : "2024-12-2",
-    "downloadURL": "https://cdn1.realmzer.xyz/Hot_Tub_2_0_1_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Hot_Tub_2_0_1_2-BC.ipa",
     "size": 19610000,
     "title": "Hot Tub",
     "versions" : [
       {
         "version": "2.0.1",
         "date" : "2024-12-2",
-        "downloadURL": "https://cdn1.realmzer.xyz/Hot_Tub_2_0_1_2.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Hot_Tub_2_0_1_2-BC.ipa",
         "size": 19610000
       }
     ]
@@ -3415,13 +3421,13 @@
     "version": "15.11.2",
     "size": 18477056,
     "versionDate": "2024-10-25",
-    "downloadURL": "https://cdn1.realmzer.xyz/Black_Hole_v1_15_11_ios.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Black_Hole_v1_15_11_ios-FF.ipa",
     "title": "Blackhole",
     "versions" : [
       {
         "version": "15.11.2",
         "date" : "2024-10-25",
-        "downloadURL": "https://cdn1.realmzer.xyz/Black_Hole_v1_15_11_ios.ipa",
+        "downloadURL": "https://cdn1.realmzer.xyz//Black_Hole_v1_15_11_ios-FF.ipa",
         "size": 18477056
       }
     ]
@@ -3436,7 +3442,7 @@
     "version": "1.4.3",
     "tintColor": "ff1200",
     "size": 636863119,
-    "downloadURL": "https://cdn1.realmzer.xyz/Infinity_Blade_I_Community_Patch_v2_0.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_I_Community_Patch_v2_0-mu.ipa",
     "localizedDescription": "Infinity Blade is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   },
@@ -3450,7 +3456,7 @@
     "version": "1.3.5",
     "size": 1103584296,
     "tintColor": "ff1200",
-    "downloadURL": "https://cdn1.realmzer.xyz/Infinity_Blade_II_Community_Patch_v2_0.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_II_Community_Patch_v2_0-ii.ipa",
     "localizedDescription": "Infinity Blade II is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   },
@@ -3464,7 +3470,7 @@
     "version": "1.4.4",
     "tintColor": "ff1200",
     "size": 1884353986,
-    "downloadURL": "https://cdn1.realmzer.xyz/Infinity_Blade_III_Community_Patch_v2_2.ipa",
+    "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_III_Community_Patch_v2_2-gS.ipa",
     "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
   }
