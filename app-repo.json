@@ -1185,42 +1185,48 @@
     },
     {
       "beta": false,
-      "name" : "TikTokAC",
+      "name": "TikTokAC",
       "bundleIdentifier": "com.zhiliaoapp.musically1",
-      "developerName" : "ByteDance & moeotf",
+      "developerName": "ByteDance & moeotf",
       "subtitle": "TikTokAC - Stable TikTok Tweak",
       "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
       "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "37.6.0",
-      "versionDate" : "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
-      "size": 311889920,
+      "version": "37.7.0",
+      "versionDate": "2024-12-13",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_7_0_Moe_patched-LA.ipa",
+      "size": 315000000,
       "title": "TikTokAC",
-      "versions" : [
+      "versions": [
+        {
+          "version": "37.7.0",
+          "date": "2024-12-13",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_7_0_Moe_patched-LA.ipa",
+          "size": 315000000
+        },
         {
           "version": "37.6.0",
-          "date" : "2024-12-04",
+          "date": "2024-12-04",
           "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
           "size": 311889920
         },
         {
           "version": "37.5.0-Patched",
-          "date" : "2024-11-30",
+          "date": "2024-11-30",
           "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
           "size": 326320128
         },
         {
           "version": "37.5.0",
-          "date" : "2024-11-29",
+          "date": "2024-11-29",
           "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
           "size": 326307840
         },
         {
           "version": "37.4.0",
-          "date" : "2024-11-24",
+          "date": "2024-11-24",
           "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_AC_37_4_0_Moe-OR.ipa",
           "size": 316399616
         }
