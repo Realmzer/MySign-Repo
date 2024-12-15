@@ -1082,7 +1082,221 @@
         }
       ]
     },
-   {
+    {
+      "beta": false,
+      "name": "Duolingo Cracked",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Duolingo",
+      "subtitle": "Duolingo with Max unlocked!",
+      "description": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Duolingo_Max_7_37_1-1W.png",
+      "tintColor": "FFC300",
+      "category": "education",
+      "version": "7.37.1",
+      "versionDate": "2024-09-13",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+      "size": 111149056,
+      "title": "Duolingo Cracked",
+      "versions" : [
+        {
+          "version": "7.37.1",
+          "date": "2024-09-13",
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+          "size": 111149056
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Picsart++",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "Picsart Inc.",
+      "subtitle": "Picsart with premium features unlocked!",
+      "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+      "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+      "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
+      "tintColor": "4e89d9",
+      "category": "photo-video",
+      "version": "25.5.1",
+      "versionDate": "2024-09-21",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
+      "size": 103809024,
+      "title": "Picsart++",
+      "versions" : [
+        {
+          "version": "25.5.1",
+          "date" : "2024-09-21",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
+          "size": 103809024
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity Development Team",
+      "subtitle": "Enmity - A tweak for Discord allowing plugins",
+      "description": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//enmity-2C.png",
+      "tintColor": "433dac",
+      "category": "social",
+      "version": "2.2.6-12-6-2024",
+      "date" : "2024-12-06",
+      "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
+      "size": 102019072,
+      "title": "Enmity",
+      "url": "https://enmity.unbound.rip/",
+      "versions" : [
+        {
+          "version": "2.2.6-12-6-2024",
+          "date" : "2024-12-06",
+          "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
+          "size": 102019072
+        },
+        {
+          "version": "2.2.6-c91537b",
+          "date" : "2024-11-13",
+          "downloadURL": "https://cdn1.realmzer.xyz//Enmity_c91537b-Hl.ipa",
+          "size": 101167104
+        },
+        {
+          "version": "2.2.6",
+          "date" : "2024-11-05",
+          "downloadURL": "https://cdn1.realmzer.xyz//Enmity_1-US.ipa",
+          "size": 103809024
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Revenge",
+      "bundleIdentifier": "com.hammerandchisel.discord1",
+      "developerName": "Palm",
+      "subtitle": "Homicidal Discord Client?",
+      "description": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+      "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_5351-BY.png",
+      "tintColor": "48488b",
+      "category": "social",
+      "version": "250.0",
+      "date" : "2024-11-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
+      "size": 101220352,
+      "title": "Revenge",
+      "url": "https://github.com/revenge-mod/",
+      "versions" : [
+        {
+          "version": "250.0",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
+          "size": 101220352
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Bunny Discord",
+      "bundleIdentifier": "com.hammerandchisel.bunny",
+      "developerName": "Bunny Development Team",
+      "subtitle": "The best discord Client, unfortuantely discontinued.",
+      "description": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
+      "tintColor": "5662f6",
+      "category": "social",
+      "version": "224.0",
+      "versionDate": "2024-04-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_IPA_Edit-lc.ipa",
+      "size": 96468992,
+      "title": "Bunny Discord",
+      "versions" : [
+        {
+          "version": "224.0",
+          "date" : "2024-04-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_IPA_Edit-lc.ipa",
+          "size": 96468992
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "StossyCord",
+      "bundleIdentifier": "com.stossy11.Stossycord",
+      "developerName": "Stossy11",
+      "subtitle": "Another cool Discord Client!",
+      "description": "Another cool Discord client!\n\nStatus: ✅",
+      "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//Stossycord-LD.png",
+      "tintColor": "88c800",
+      "category": "social",
+      "version": "224.0",
+      "versionDate": "2024-09-26",
+      "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+      "size": 96468992,
+      "title": "StossyCord",
+      "versions" : [
+        {
+          "version": "224.0",
+          "date" : "2024-09-26",
+          "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+          "size": 96468992
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Carrot++",
+      "bundleIdentifier": "com.grailr.CARROTweather",
+      "developerName": "Brian Muller",
+      "subtitle": "A cool weather app, premium unlocked!",
+      "description": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Carrot_Premium_6_1-Dt.png",
+      "tintColor": "5b09a8",
+      "category": "social",
+      "version": "6.1",
+      "versionDate": "2024-09-16",
+      "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
+      "size": 104857600,
+      "title": "Carrot++",
+      "versions" : [
+        {
+          "version": "6.1",
+          "date" : "2024-09-26",
+          "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
+          "size": 104857600
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PhotoMath++",
+      "bundleIdentifier": ".com.microblink.PhotoMath",
+      "developerName": "Gogle",
+      "subtitle": "PhotoMath with Plus features unlocked!",
+      "description": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Photo_Math_Plus_8_35_0-jD.png",
+      "tintColor": "be0b34",
+      "category": "utilities",
+      "version": "8.35.0",
+      "versionDate": "2024-09-26",
+      "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
+      "size": 14680064,
+      "title": "PhotoMath++",
+      "versions" : [
+        {
+          "version": "8.35.0",
+          "date" : "2024-09-26",
+          "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
+          "size": 14680064
+        }
+      ]
+    },
+    {
       "beta": false,
       "name": "CapCut++",
       "bundleIdentifier": "com.lemon.Ivoverseas",
@@ -2924,220 +3138,6 @@
     "size": 155152384,
     "title": "iCreatePro v6.6.1",
     "url": "https://icreate.pro/"
-  },
-  {
-    "beta": false,
-    "name": "Duolingo Cracked",
-    "bundleIdentifier": "com.duolingo.DuolingoMobile",
-    "developerName": "Duolingo",
-    "subtitle": "Duolingo with Max unlocked!",
-    "description": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//Duolingo_Max_7_37_1-1W.png",
-    "tintColor": "FFC300",
-    "category": "education",
-    "version": "7.37.1",
-    "versionDate": "2024-09-13",
-    "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
-    "size": 111149056,
-    "title": "Duolingo Cracked",
-    "versions" : [
-      {
-        "version": "7.37.1",
-        "date": "2024-09-13",
-        "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
-        "size": 111149056
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "Picsart++",
-    "bundleIdentifier": "com.picsart.studio",
-    "developerName": "Picsart Inc.",
-    "subtitle": "Picsart with premium features unlocked!",
-    "description": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
-    "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
-    "tintColor": "4e89d9",
-    "category": "photo-video",
-    "version": "25.5.1",
-    "versionDate": "2024-09-21",
-    "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
-    "size": 103809024,
-    "title": "Picsart++",
-    "versions" : [
-      {
-        "version": "25.5.1",
-        "date" : "2024-09-21",
-        "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
-        "size": 103809024
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Enmity",
-    "bundleIdentifier": "com.hammerandchisel.discord",
-    "developerName": "Emnity Development Team",
-    "subtitle": "Enmity - A tweak for Discord allowing plugins",
-    "description": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//enmity-2C.png",
-    "tintColor": "433dac",
-    "category": "social",
-    "version": "2.2.6-12-6-2024",
-    "date" : "2024-12-06",
-    "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
-    "size": 102019072,
-    "title": "Enmity",
-    "url": "https://enmity.unbound.rip/",
-    "versions" : [
-      {
-        "version": "2.2.6-12-6-2024",
-        "date" : "2024-12-06",
-        "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
-        "size": 102019072
-      },
-      {
-        "version": "2.2.6-c91537b",
-        "date" : "2024-11-13",
-        "downloadURL": "https://cdn1.realmzer.xyz//Enmity_c91537b-Hl.ipa",
-        "size": 101167104
-      },
-      {
-        "version": "2.2.6",
-        "date" : "2024-11-05",
-        "downloadURL": "https://cdn1.realmzer.xyz//Enmity_1-US.ipa",
-        "size": 103809024
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Revenge",
-    "bundleIdentifier": "com.hammerandchisel.discord1",
-    "developerName": "Palm",
-    "subtitle": "Homicidal Discord Client?",
-    "description": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
-    "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//IMG_5351-BY.png",
-    "tintColor": "48488b",
-    "category": "social",
-    "version": "250.0",
-    "date" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
-    "size": 101220352,
-    "title": "Revenge",
-    "url": "https://github.com/revenge-mod/",
-    "versions" : [
-      {
-        "version": "250.0",
-        "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
-        "size": 101220352
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "Bunny Discord",
-    "bundleIdentifier": "com.hammerandchisel.bunny",
-    "developerName": "Bunny Development Team",
-    "subtitle": "The best discord Client, unfortuantely discontinued.",
-    "description": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
-    "tintColor": "5662f6",
-    "category": "social",
-    "version": "224.0",
-    "versionDate": "2024-04-10",
-    "downloadURL": "https://cdn1.realmzer.xyz//Bunny_IPA_Edit-lc.ipa",
-    "size": 96468992,
-    "title": "Bunny Discord",
-    "versions" : [
-      {
-        "version": "224.0",
-        "date" : "2024-04-10",
-        "downloadURL": "https://cdn1.realmzer.xyz//Bunny_IPA_Edit-lc.ipa",
-        "size": 96468992
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "StossyCord",
-    "bundleIdentifier": "com.stossy11.Stossycord",
-    "developerName": "Stossy11",
-    "subtitle": "Another cool Discord Client!",
-    "description": "Another cool Discord client!\n\nStatus: ✅",
-    "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
-    "iconURL": "https://cdn1.realmzer.xyz//Stossycord-LD.png",
-    "tintColor": "88c800",
-    "category": "social",
-    "version": "224.0",
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
-    "size": 96468992,
-    "title": "StossyCord",
-    "versions" : [
-      {
-        "version": "224.0",
-        "date" : "2024-09-26",
-        "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
-        "size": 96468992
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "Carrot++",
-    "bundleIdentifier": "com.grailr.CARROTweather",
-    "developerName": "Brian Muller",
-    "subtitle": "A cool weather app, premium unlocked!",
-    "description": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//Carrot_Premium_6_1-Dt.png",
-    "tintColor": "5b09a8",
-    "category": "social",
-    "version": "6.1",
-    "versionDate": "2024-09-16",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
-    "size": 104857600,
-    "title": "Carrot++",
-    "versions" : [
-      {
-        "version": "6.1",
-        "date" : "2024-09-26",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
-        "size": 104857600
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "PhotoMath++",
-    "bundleIdentifier": ".com.microblink.PhotoMath",
-    "developerName": "Gogle",
-    "subtitle": "PhotoMath with Plus features unlocked!",
-    "description": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//Photo_Math_Plus_8_35_0-jD.png",
-    "tintColor": "be0b34",
-    "category": "utilities",
-    "version": "8.35.0",
-    "versionDate": "2024-09-26",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
-    "size": 14680064,
-    "title": "PhotoMath++",
-    "versions" : [
-      {
-        "version": "8.35.0",
-        "date" : "2024-09-26",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
-        "size": 14680064
-      }
-    ]
   },
   {
     "beta": false,
