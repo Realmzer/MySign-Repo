@@ -472,6 +472,31 @@
       ]
     },
     {
+      "beta": false,
+      "name": "Streamer", 
+      "bundleIdentifier": "com.streamer.ios", 
+      "subtitle": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS",
+      "developerName": "StreamerApp", 
+      "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
+      "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
+      "iconURL": "https://cdn1.realmzer.xyz//streamerios-wP.png",
+      "tintColor": "8b3f22",
+      "category": "entertainment",
+      "version": "1.2.41",
+      "size": 34734080,
+      "versionDate": "2024-12-09",
+      "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
+      "title": "Streamer",
+      "versions" : [
+        {
+          "version": "1.2.41",
+          "date" : "2024-12-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
+          "size": 34734080
+        }
+      ]
+    },   
+    {
       "beta": true,
       "name" : "Minipaper",
       "bundleIdentifier": "design.jli.minipaper",
@@ -1057,6 +1082,31 @@
         }
       ]
     },
+   {
+      "beta": false,
+      "name": "CapCut++",
+      "bundleIdentifier": "com.lemon.Ivoverseas",
+      "developerName": "ByteDance",
+      "subtitle": "CapCut with MOST premium features unlocked!",
+      "description": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
+      "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
+      "iconURL": "https://cdn1.realmzer.xyz//Cap_Cut_12_0_Cracked-1u.png",
+      "tintColor": "000000",
+      "category": "photo-video",
+      "version": "12.0",
+      "versionDate": "2024-09-21",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+      "size": 136314880,
+      "title": "CapCut++",
+      "versions" : [
+        {
+         "version": "12.0",
+          "date" : "2024-09-21",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+          "size": 136314880
+        }
+      ]
+    },
     {
       "beta": false,
       "name" : "Swiftgram",
@@ -1180,6 +1230,63 @@
           "localizedDescription": "- Updated Twitch (https://apps.apple.com/us/app/twitch-live-streaming/id460177396) to 22.3.3 (today's update no ads)\n- Video game streaming\n- adfree \n-Injected AdBlock by level3tjg\n-injected with keychain and sideload fix and the bundle file that was missing\n-injected open in safari extension\n-injected pluginwidgetsfix\n-now I'm not seeing any ads \nBy @wlxxd & @SultanModsIPAs",
           "downloadURL": "https://cdn1.realmzer.xyz//Twitchadfree22_3_3_Fixedbundle_patched_nofix-0q.ipa",
           "size": 104194048
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Reddit RedditFilter", 
+      "bundleIdentifier": "com.reddit.Reddit", 
+      "developerName": "Reddit Development Team", 
+      "subtitle": "Reddit with RedditFilter!",
+      "description": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
+      "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥",  
+      "iconURL": "https://cdn1.realmzer.xyz//unnamed_7-5Z.png",
+      "tintColor": "ff4500",
+      "category": "social",
+      "version": "1.1.6",
+      "versionDate": "2024-09-26",
+      "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
+      "size": 195238232,
+      "title": "Reddit RedditFilter",
+      "versions" : [
+        {
+          "version": "1.1.6",
+          "date" : "2024-09-26",
+          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
+          "size": 195238232
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Apollo for Reddit",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "subtitle": "An alternative Reddit Client!",
+      "description": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//apollo-FI.png",
+      "tintColor": "329dfd",
+      "category": "social",
+      "version": "1.15.11_1.1.8",
+      "date" : "2024-12-08",       
+      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",    
+      "size": 108105728,
+      "title": "Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/",
+      "versions" : [
+        {
+          "version": "1.15.11_1.1.8",
+          "date" : "2024-12-08",
+          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",
+          "size": 108105728
+        },
+        {
+          "version": "1.15.11_1.1.7b",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Apollo_1_15_11_improvedcustomapi_1_1_7b-5T.ipa", 
+          "size": 108105728
         }
       ]
     },
@@ -2870,31 +2977,6 @@
   },
   {
     "beta": false,
-    "name": "CapCut++",
-    "bundleIdentifier": "com.lemon.Ivoverseas",
-    "developerName": "ByteDance",
-    "subtitle": "CapCut with MOST premium features unlocked!",
-    "description": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
-    "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
-    "iconURL": "https://cdn1.realmzer.xyz//Cap_Cut_12_0_Cracked-1u.png",
-    "tintColor": "000000",
-    "category": "photo-video",
-    "version": "12.0",
-    "versionDate": "2024-09-21",
-    "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
-    "size": 136314880,
-    "title": "CapCut++",
-    "versions" : [
-      {
-        "version": "12.0",
-        "date" : "2024-09-21",
-        "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
-        "size": 136314880
-      }
-    ]
-  },
-  {
-    "beta": false,
     "name" : "Enmity",
     "bundleIdentifier": "com.hammerandchisel.discord",
     "developerName": "Emnity Development Team",
@@ -3004,63 +3086,6 @@
         "date" : "2024-09-26",
         "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
         "size": 96468992
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Apollo for Reddit",
-    "bundleIdentifier": "com.christianselig.Apollo",
-    "developerName": "Christian Selig",
-    "subtitle": "An alternative Reddit Client!",
-    "description": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//apollo-FI.png",
-    "tintColor": "329dfd",
-    "category": "social",
-    "version": "1.15.11_1.1.8",
-    "date" : "2024-12-08",       
-    "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",    
-    "size": 108105728,
-    "title": "Apollo for Reddit",
-    "url": "https://github.com/Balackburn/Apollo/",
-    "versions" : [
-      {
-        "version": "1.15.11_1.1.8",
-        "date" : "2024-12-08",
-        "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",
-        "size": 108105728
-      },
-      {
-        "version": "1.15.11_1.1.7b",
-        "date" : "2024-11-23",
-        "downloadURL": "https://cdn1.realmzer.xyz//Apollo_1_15_11_improvedcustomapi_1_1_7b-5T.ipa",
-        "size": 108105728
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name": "Reddit RedditFilter", 
-    "bundleIdentifier": "com.reddit.Reddit", 
-    "developerName": "Reddit Development Team", 
-    "subtitle": "Reddit with RedditFilter!",
-    "description": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
-    "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
-    "iconURL": "https://cdn1.realmzer.xyz//unnamed_7-5Z.png",
-    "tintColor": "ff4500",
-    "category": "social",
-    "version": "1.1.6",
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
-    "size": 195238232,
-    "title": "Reddit RedditFilter",
-    "versions" : [
-      {
-        "version": "1.1.6",
-        "date" : "2024-09-26",
-        "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
-        "size": 195238232
       }
     ]
   },
@@ -3228,33 +3253,8 @@
         "size": 195238232
       }
     ]
-  },    
+  },     
   {
-    "beta": false,
-    "name": "Streamer", 
-    "bundleIdentifier": "com.streamer.ios", 
-    "subtitle": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS",
-    "developerName": "StreamerApp", 
-    "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-    "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-    "iconURL": "https://cdn1.realmzer.xyz//streamerios-wP.png",
-    "tintColor": "8b3f22",
-    "category": "entertainment",
-    "version": "1.2.41",
-    "size": 34734080,
-    "versionDate": "2024-12-09",
-    "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
-    "title": "Streamer",
-    "versions" : [
-      {
-        "version": "1.2.41",
-        "date" : "2024-12-09",
-        "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
-        "size": 34734080
-      }
-    ]
-  },    
-   {
     "beta": false,
     "name": "AI Chat Smith++",
     "bundleIdentifier": "co.vulcanlabs.moodtracker",
