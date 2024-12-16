@@ -3227,18 +3227,29 @@
     ]
   },
   {
-    "name": "PojavLauncher", 
-    "bundleIdentifier": "net.kdt.pojavlauncher", 
-    "subtitle": "Minecraft Java Edition on iOS!",
-    "versionDate": "2024-09-26",
-    "version": "2.2 DeepSlate",
-    "size": 195238232,
+    "beta": false,
+    "name": "PojavLauncher",
+    "bundleIdentifier": "net.kdt.pojavlauncher",
+    "developerName": "Stossy11",
+    "subtitle": "Minecraft Java Edition on iOS by Stossy11!",
+    "description": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅",
+    "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅",
+    "iconURL": "https://cdn1.realmzer.xyz//logo_2-4d.png",
     "tintColor": "bf9946",
-    "category": "games", 
-    "downloadURL": "https://cdn1.realmzer.xyz//net_kdt_pojavlauncher_2_2_ios-26.ipa", 
-    "developerName": "Stossy11", 
-    "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
-    "iconURL": "https://cdn1.realmzer.xyz//logo_2-4d.png" 
+    "category": "games",
+    "version": "2.2 Deepslate",
+    "versionDate": "2024-12-15",
+    "downloadURL": "https://cdn1.realmzer.xyz//net_kdt_pojavlauncher_3_0_ios_2-63.ipa",
+    "size": 151900000,
+    "title": "PojavLauncher",
+    "versions" : [
+      {
+        "version": "2.2 Deepslate",
+        "date" : "2024-12-15",
+        "downloadURL": "https://cdn1.realmzer.xyz//net_kdt_pojavlauncher_3_0_ios_2-63.ipa",
+        "size": 151900000
+      }
+    ]
   },
   {
     "name": "Flappy Bird",
