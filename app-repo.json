@@ -8,7 +8,7 @@
   "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
   "tintColor": "4d9fb3",
   "featuredApps": [
-    "com.box.hd.flix.drama.hub",
+    "dummyapp",
     "com.google.ios.youtubeliteplus",
     "com.google.ios.youtubeenhanced",
     "com.spotify.client",
@@ -3533,6 +3533,24 @@
     "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_III_Community_Patch_v2_2-gS.ipa",
     "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
     "versionDate": "2024-10-26"
+  },
+  {
+    "beta": true,
+    "name" : "MySign IPA repo",
+    "bundleIdentifier": "dummyapp",
+    "developerName" : "MySign",
+    "subtitle": "MySign IPA repo",
+    "description": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBox",
+    "localizedDescription": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBo",
+    "iconURL": "https://cdn1.realmzer.xyz//IMG_3830-PR.png",
+    "tintColor": "000000",
+    "category": "utilites",
+    "version": "1000",
+    "versionDate" : "2024-12-15",
+    "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
+    "size": 1000,
+    "title": "MySign IPA repo",
+    "url": "https://discord.gg/hUK5m9MGFc",
   }
   ],
   "news": [
