@@ -2788,13 +2788,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//livecontainer-XV.png",
     "tintColor": "0784fc",
     "category": "utilities",
-    "version": "8b6e503",
-    "versionDate" : "2024-11-16",
-    "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer8b6e503-Ph.ipa",
-    "size": 921600,
+    "version": "3.1.0",
+    "versionDate" : "2024-12-16",
+    "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
+    "size": 2899968,
     "title": "LiveContainer",
     "url": "https://github.com/khanhduytran0/LiveContainer",
     "versions" : [
+      {
+        "version": "3.1.0",
+        "date" : "2024-12-16",
+        "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
+        "size": 2899968
+      },
       {
         "version": "8b6e503",
         "date" : "2024-11-16",
