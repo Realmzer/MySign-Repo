@@ -3212,16 +3212,16 @@
     "iconURL": "https://cdn1.realmzer.xyz//Homepage_Gameplay_Trailer_MC_OV_logo_300x300-aR.png",
     "tintColor": "86d562",
     "category": "games",
-    "version": "1.21.22",
-    "versionDate": "2024-09-26",
-    "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
+    "version": "1.21.51",
+    "versionDate": "2024-12-15",
+    "downloadURL": "https://cdn1.realmzer.xyz//Minecraft_1_21_51-DY.ipa",
     "size": 96468992,
     "title": "Minecraft",
     "versions" : [
       {
-        "version": "1.21.22",
-        "date" : "2024-09-26",
-        "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
+        "version": "1.21.51",
+        "date" : "2024-12-15",
+        "downloadURL": "https://cdn1.realmzer.xyz//Minecraft_1_21_51-DY.ipa",
         "size": 96468992
       }
     ]
