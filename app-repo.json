@@ -1084,7 +1084,7 @@
     },
     {
       "beta": false,
-      "name": "Duolingo Cracked",
+      "name": "Duolingo+",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "Duolingo with Max unlocked!",
@@ -1093,17 +1093,17 @@
       "iconURL": "https://cdn1.realmzer.xyz//Duolingo_Max_7_37_1-1W.png",
       "tintColor": "FFC300",
       "category": "education",
-      "version": "7.37.1",
-      "versionDate": "2024-09-13",
-      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
-      "size": 111149056,
-      "title": "Duolingo Cracked",
+      "version": "7.52.2",
+      "versionDate": "2024-12-15",
+      "downloadURL": "https://cdn1.realmzer.xyz//Duolingo_7_52_2_1734310132-sP.ipa",
+      "size": 132200000,
+      "title": "Duolingo",
       "versions" : [
         {
-          "version": "7.37.1",
-          "date": "2024-09-13",
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
-          "size": 111149056
+          "version": "7.52.2",
+          "date": "2024-12-15",
+          "downloadURL": "https://cdn1.realmzer.xyz//Duolingo_7_52_2_1734310132-sP.ipa",
+          "size": 132200000
         }
       ]
     },
