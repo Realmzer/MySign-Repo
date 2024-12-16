@@ -2618,6 +2618,31 @@
         "size": 301252608
       }
     ]
+  },    
+  {
+    "beta": false,
+    "name" : "Procreate iPad",
+    "bundleIdentifier": "au.com.savageinteractive.procreate",
+    "developerName" : "Savage Interactive Pty Ltd",
+    "subtitle": "Sketch and Paint on your tablet",
+    "description": "Important: This IPA is only meant for iPads, dont use on your iPhone!\nProcreate with free premium, from us!\nStatus: 🔥✅",
+    "localizedDescription": "Important: This IPA is only meant for iPads, dont use on your iPhone!\nProcreate with free premium, from us!\nStatus: 🔥✅",
+    "iconURL": "https://cdn1.realmzer.xyz//IMG_4129-j4.png",
+    "tintColor": "ff6ada",
+    "category": "other",
+    "version": "5.3.14",
+    "versionDate" : "2024-12-15",
+    "downloadURL": "https://cdn1.realmzer.xyz//Procreate_5_3_14-Vv.ipa",
+    "size": 301252608,
+    "title": "Procreate",
+    "versions" : [
+      {
+        "version": "5.3.14",
+        "date" : "2024-12-15",
+        "downloadURL": "https://cdn1.realmzer.xyz//Procreate_Pocket-KL.ipa",
+        "size": 301252608
+      }
+    ]
   },
   {
     "beta": false,
