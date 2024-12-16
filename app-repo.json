@@ -3536,9 +3536,9 @@
   },
   {
     "beta": true,
-    "name" : "Welcome to our IPA repo!",
+    "name" : "Welcome to MySign!",
     "bundleIdentifier": "dummyapp",
-    "developerName" : "Please msg us on discord\nif a IPA needs to be updated!",
+    "developerName" : "Let us know if a IPA needs to be updated!",
     "subtitle": "MySign IPA repo",
     "description": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBox",
     "localizedDescription": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBox",
@@ -3549,7 +3549,7 @@
     "versionDate" : "2024-12-15",
     "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
     "size": 1000,
-    "title": "Welcome to our IPA repo!",
+    "title": "Welcome to MySign!",
     "url": "https://discord.gg/hUK5m9MGFc",
   }
   ],
