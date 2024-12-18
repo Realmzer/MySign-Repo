@@ -3031,13 +3031,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.10.1",
-    "versionDate" : "2024-12-12",
-    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v33.10.1/Fortnite-33.10.1.ipa",
-    "size": 227774464,
+    "version": "33.11",
+    "versionDate" : "2024-12-18",
+    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_11-zd.ipa",
+    "size": 227979264,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.11",
+        "date" : "2024-12-18",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_11-zd.ipa",
+        "size": 227979264
+      },
       {
         "version": "33.10.1",
         "date" : "2024-12-12",
