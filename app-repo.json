@@ -1804,6 +1804,32 @@
     },
     {
       "beta": true,
+      "name": "Dazz",
+      "bundleIdentifier": "dazz.camera.vintagecamera",
+      "developerName": "Daz",
+      "subtitle": "Capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions    
+      "description": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2.5k+ lessons for all instruments and levels./nStatus: ✅",
+      "localizedDescription": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2.5k+ lessons for all instruments and levels./nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4142-DW.jpeg",
+      "tintColor": "000000",
+      "category": "other",
+      "version": "2.9.1",
+      "versionDate" : "2024-12-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dazz_v2_9_1_App_Testers_iap-Nc.ipa",
+      "size": 91520000,
+      "title": "Dazz",
+      "url": "https://dazz.ltd",
+      "versions" : [
+        {
+          "version": "2.9.1",
+          "date" : "2024-12-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dazz_v2_9_1_App_Testers_iap-Nc.ipa",
+          "size": 91520000
+        }
+      ]
+    },
+    {
+      "beta": true,
       "name" : "Tabs & Chords",
       "bundleIdentifier": "com.ultimateguitar.tabs100",
       "developerName": "Ultimate Guitar",
