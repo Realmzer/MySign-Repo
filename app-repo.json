@@ -2854,12 +2854,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "26.5.3",
-    "versionDate" : "2024-12-18",
-    "downloadURL": "https://cdn1.realmzer.xyz//Pics_Art26_5_3_Pro_Moe-Zh.ipa",
-    "size": 101548032,
+    "version": "26.5.5",
+    "versionDate" : "2024-12-19",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_5_5_Pro_Moe-g4.ipa",
+    "size": 104210432,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "26.5.5",
+        "date" : "2024-12-19",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_5_5_Pro_Moe-g4.ipa",
+        "size": 104210432
+      },
       {
         "version": "26.5.3",
         "date" : "2024-12-18",
