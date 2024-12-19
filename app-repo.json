@@ -1803,58 +1803,6 @@
       ]
     },
     {
-      "beta": true,
-      "name": "Dazz",
-      "bundleIdentifier": "dazz.camera.vintagecamera",
-      "developerName": "Daz",
-      "subtitle": "Capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions",
-      "description": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2.5k+ lessons for all instruments and levels./nStatus: ✅",
-      "localizedDescription": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2.5k+ lessons for all instruments and levels./nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_4142-DW.jpeg",
-      "tintColor": "000000",
-      "category": "other",
-      "version": "2.9.1",
-      "versionDate" : "2024-12-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Dazz_v2_9_1_App_Testers_iap-Nc.ipa",
-      "size": 91520000,
-      "title": "Dazz",
-      "url": "https://dazz.ltd",
-      "versions" : [
-        {
-          "version": "2.9.1",
-          "date" : "2024-12-18",
-          "downloadURL": "https://cdn1.realmzer.xyz//Dazz_v2_9_1_App_Testers_iap-Nc.ipa",
-          "size": 91520000
-        }
-      ]
-    },
-    {
-      "beta": true,
-      "name" : "Tabs & Chords",
-      "bundleIdentifier": "com.ultimateguitar.tabs100",
-      "developerName": "Ultimate Guitar",
-      "subtitle": "Access a catalogue of guitar, bass & ukulele chords, tabs, and lyrics.",
-      "description": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2,500+ lessons for all instruments and levels. Play 29K+ songs anytime./nStatus: ✅",
-      "localizedDescription": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2,500+ lessons for all instruments and levels. Play 29K+ songs anytime.\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_4139-4o.jpeg",
-      "tintColor": "FFD707",
-      "category": "other",
-      "version": "7.1.14",
-      "versionDate" : "2024-12-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tabs_Chords_v7_1_14_App_Testers_iap-kx.ipa",
-      "size": 99900000,
-      "title": "Tabs & Chords",
-      "url": "https://www.ultimate-guitar.com",
-      "versions" : [
-        {
-          "version": "7.1.14",
-          "date" : "2024-12-18",
-          "downloadURL": "https://cdn1.realmzer.xyz//Tabs_Chords_v7_1_14_App_Testers_iap-kx.ipa",
-          "size": 99900000
-        }
-      ]
-    },
-    {
       "beta": false,
       "name" : "Moblo",
       "bundleIdentifier": "fr.moblo",
