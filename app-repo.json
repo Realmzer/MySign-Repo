@@ -2607,13 +2607,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version" : "2024.1208.0",
-    "versionDate" : "2024-12-08",
-    "downloadURL": "https://cdn1.realmzer.xyz/uploads/osu.iOS2024.1208.0.ipa",
+    "version" : "2024.1219.2",
+    "versionDate" : "2024-12-19",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-HU.ipa",
     "size": 192061747,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions" : [
+      {
+        "version" : "2024.1219.2",
+        "date" : "2024-12-19",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-HU.ipa",
+        "size": 192061747
+      }, 
       {
         "version" : "2024.1208.0",
         "date" : "2024-12-08",
