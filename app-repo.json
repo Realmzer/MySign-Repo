@@ -1486,7 +1486,7 @@
     },
     {
       "beta": false,
-      "name" : "Apollo for Reddit",
+      "name" : "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "An alternative Reddit Client!",
@@ -1495,13 +1495,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//apollo-FI.png",
       "tintColor": "329dfd",
       "category": "social",
-      "version": "1.15.11_1.1.8",
-      "date" : "2024-12-08",       
-      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_1.1.8/Apollo-1.15.11_improvedcustomapi-1.1.8.ipa",    
-      "size": 108105728,
-      "title": "Apollo for Reddit",
+      "version": "1.15.11_1.2.1",
+      "date" : "2024-12-20",       
+      "downloadURL": "https://cdn1.realmzer.xyz//com_christianselig_Apollo_1_15_11_78653_patched_nofix-Eb.ipa",    
+      "size": 108564480,
+      "title": "Apollo",
       "url": "https://github.com/Balackburn/Apollo/",
       "versions" : [
+        {
+          "version": "1.15.11_1.2.1",
+          "date" : "2024-12-20",
+          "localizedDescription": "Apollo Custom API 1.2.1\nFrom: @SultanModsIPAs",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_christianselig_Apollo_1_15_11_78653_patched_nofix-Eb.ipa",
+          "size": 108564480
+        },
         {
           "version": "1.15.11_1.1.8",
           "date" : "2024-12-08",
