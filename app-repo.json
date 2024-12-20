@@ -1138,8 +1138,8 @@
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Emnity Development Team",
       "subtitle": "Enmity - A tweak for Discord allowing plugins",
-      "description": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
-      "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
+      "description": "A tweak for Discord allowing plugins. Inferior to Bunny. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
       "iconURL": "https://cdn1.realmzer.xyz//enmity-2C.png",
       "tintColor": "433dac",
       "category": "social",
@@ -1207,12 +1207,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "258.0",
-      "versionDate": "2024-12-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny-S5.ipa",
-      "size": 93896704,
+      "version": "260.0_69233",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_260_69233-0M.ipa",
+      "size": 88530944,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "260.0_69233",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_260_69233-0M.ipa",
+          "size": 88530944
+        },
         {
           "version": "258.0",
           "date" : "2024-12-18",
