@@ -802,7 +802,7 @@
       "bundleIdentifier": "com.realmzer.cahighfps",
       "subtitle": "Make CoreAnimation apps use the highest available FPS.",
       "description": "Unlocks some apps FPS\nStatus: ✅✨",
-      "localizedDescription": "Unlocks some apps FP\nStatus: ✅✨",
+      "localizedDescription": "Unlocks some apps FPS\nStatus: ✅✨",
       "developerName": "PoomSmart",
       "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
       "tintColor": "690ff5",
@@ -813,6 +813,24 @@
       "downloadURL": "https://cdn1.realmzer.xyz/com_ps_cahighfps_1_3_1_iphoneos_arm64-9E.deb",
       "title": "CA-High-FPS",
       "url": "https://www.ios-repo-updates.com/repository/poomsmart/" 
+    },
+    {
+      "beta": false,
+      "name": "JailedSpeedAds",
+      "bundleIdentifier": "com.34306.adspeed",
+      "subtitle": "Accelerate the playback of ads",
+      "description": "A tweak that makes the playback of Ads way faster essentially making it an adblocker.\nStatus: ✅✨",
+      "localizedDescription": "A tweak that makes the playback of Ads way faster essentially making it an adblocker.\nStatus: ✅✨",
+      "developerName": "Huy Nguyen",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "690ff5",
+      "category": "dylib",
+      "size": 8192,
+      "version": "2.0",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_34306_adspeed_2_0_iphoneos_arm64-qf.deb",
+      "title": "JailedSpeedAds",
+      "url": "https://onejailbreak.com/blog/jailedspeedads/" 
     },
     {
       "beta": false,
