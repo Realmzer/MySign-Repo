@@ -850,6 +850,23 @@
     },
     {
       "beta": false,
+      "name": "Autoclicker",
+      "bundleIdentifier": "com.realmzer.autoclicker",
+      "subtitle": "An tweak that adds an autoclicker",
+      "description": "This tweak adds an autoclicker to injected apps.\nStatus: ✅✨",
+      "localizedDescription": "This tweak adds an autoclicker to injected apps.\nStatus: ✅✨",
+      "developerName": "Unknown",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "31d2f7",
+      "category": "dylib",
+      "size": 991232,
+      "version": "1.0.0",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Autoclicker-9o.dylib",
+      "title": "Autoclicker"
+    },
+    {
+      "beta": false,
       "name": "Julioverne Adblock",
       "bundleIdentifier": "com.realmzer.julioadblock",
       "subtitle": "Add adblock to apps.",
