@@ -2550,6 +2550,56 @@
     },
     {
       "beta": false,
+      "name" : "Mugunghwa",
+      "bundleIdentifier": "me.soongyu.mugunghwautil",
+      "developerName" : "s8ngyu",
+      "subtitle": "First-ever system-wide icon theming tool without the need of jailbreak for iOS",
+      "description": "First-ever system-wide icon theming tool without the need of jailbreak for iOS and watchOS(partly). Requires sandbox escape.\nStatus: ✅🔵",
+      "localizedDescription": "First-ever system-wide icon theming tool without the need of jailbreak for iOS and watchOS(partly). Requires sandbox escape.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//rsz_512_512-76.png",
+      "tintColor": "df60a9",
+      "category": "utilities",
+      "version": "3.0.2",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Mugunghwa-8t.ipa",
+      "size": 3891200,
+      "title": "Mugunghwa",
+      "versions": [
+        {
+          "version": "3.0.2",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Mugunghwa-8t.ipa",
+          "size": 3891200
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Jaility",
+      "bundleIdentifier": "org.haxi0.Jaility",
+      "developerName" : "haxi0",
+      "subtitle": "Simple iOS supercharger to be used with TrollStore.",
+      "description": "Simple iOS supercharger to be used with TrollStore. Can be used to disable locking after respring, supervise your Device in one click.\nStatus: ✅🔵",
+      "localizedDescription": "Simple iOS supercharger to be used with TrollStore. Can be used to disable locking after respring, supervise your Device in one click.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_60_3x_1-HM.png",
+      "tintColor": "1ba2f7",
+      "category": "utilities",
+      "version": "3.1.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Jaility_3_1_1-fG.ipa",
+      "size": 110592,
+      "title": "Jaility",
+      "versions": [
+        {
+          "version": "3.1.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Jaility_3_1_1-fG.ipa",
+          "size": 110592
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
