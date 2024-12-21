@@ -2600,6 +2600,81 @@
     },
     {
       "beta": false,
+      "name" : "Appabetical",
+      "bundleIdentifier": "com.avangelista.Appabetical",
+      "developerName" : "Avangelista",
+      "subtitle": "Sort your apps A-Z or by color on iOS 14.0 - 16.1.2",
+      "description": "A utility thats able to sort your apps. iOS 14.0 - 16.1.2\nStatus: ✅",
+      "localizedDescription": "A utility thats able to sort your apps. iOS 14.0 - 16.1.2\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//Artboard_1-G9.png",
+      "tintColor": "8c54e7",
+      "category": "utilities",
+      "version": "1.1.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Appabetical-js.ipa",
+      "size": 733184,
+      "title": "Appabetical",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Appabetical-js.ipa",
+          "size": 733184
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "SecondHand",
+      "bundleIdentifier": "com.leemin.SecondHand",
+      "developerName" : "leminlimez",
+      "subtitle": "Add seconds to status bar clock on TrollStore devices",
+      "description": "A TrollStore app that allows you to add more to your clock on the status bar.\nStatus: ✅🔵",
+      "localizedDescription": "A TrollStore app that allows you to add more to your clock on the status bar.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Second_Hand_3-xM.png",
+      "tintColor": "e5ab1e",
+      "category": "utilities",
+      "version": "1.3",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Second_Hand-mm.tipa",
+      "size": 2789376,
+      "title": "SecondHands",
+      "versions": [
+        {
+          "version": "1.3",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Second_Hand-mm.tipa",
+          "size": 2789376
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Lock Master",
+      "bundleIdentifier": "com.leemin.lockmaster",
+      "developerName" : "leminlimez",
+      "subtitle": "Custom iOS Lock Animations",
+      "description": "Customize the iOS Locking Experience!\nNote: This will NOT work on semi-jailbreaks such as Seratonin.\nIt needs the backboardd to be resigned.\nSupports iOS 14.0+ iPads are currently not supported, sorry for the inconvenience.\nStatus: ✅",
+      "localizedDescription": "Customize the iOS Locking Experience!\nNote: This will NOT work on semi-jailbreaks such as Seratonin.\nIt needs the backboardd to be resigned.\nSupports iOS 14.0+ iPads are currently not supported, sorry for the inconvenience.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_3x-ty.png",
+      "tintColor": "f9f920",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_leemin_lockmaster_1_2_0_iphoneos_arm64-ac.deb",
+      "size": 90112,
+      "title": "Lock Master",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_leemin_lockmaster_1_2_0_iphoneos_arm64-ac.deb",
+          "size": 90112
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
