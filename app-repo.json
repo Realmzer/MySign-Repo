@@ -672,6 +672,32 @@
     },
     {
       "beta": false,
+      "name": "Circlefy",
+      "bundleIdentifier": "com.Benjamin-HornbeckmCirclefy",
+      "developerName": "Benjamin",
+      "subtitle": "Circlefy - modify .ipa files to have transparent backgrounds",
+      "description": "Circlefy is compatible with iOS 17 & 18, arm64e+.\nApplications modified by Circlefy will not work when installed with TrollStore.",
+      "localizedDescription": "Circlefy is compatible with iOS 17 & 18, arm64e+.\nApplications modified by Circlefy will not work when installed with TrollStore.",
+      "iconURL": "https://cdn1.realmzer.xyz//noicon-IH.png",
+      "tintColor": "4692D1",
+      "category": "utilites",
+      "version": "1.0",
+      "versionDate": "2024-11-20",
+      "downloadURL": "https://github.com/AppInstalleriOSGH/Circlefy/raw/refs/heads/main/Circlefy.ipa",
+      "size": 158890,
+      "title": "Circlefy",
+      "url": "https://github.com/AppInstalleriOSGH/Circlefy",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-11-20",
+          "downloadURL": "https://github.com/AppInstalleriOSGH/Circlefy/raw/refs/heads/main/Circlefy.ipa",
+          "size": 158890
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Azula",
       "bundleIdentifier": "Lilliana.AzulaApp",
       "subtitle": "Injecting dylibs into IPA.",
