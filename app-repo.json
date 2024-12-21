@@ -1973,6 +1973,102 @@
     },
     {
       "beta": false,
+      "name" : "AirTroller",
+      "bundleIdentifier": "net.sourceloc.AirTroller",
+      "developerName" : "Matthew Anisovich/sourcelocation",
+      "subtitle": "AirDrop spammer / flooder to troll friends",
+      "description": "AirDrop spammer / flooder to troll friends\nStatus: ✅🔵",
+      "localizedDescription": "AirDrop spammer / flooder to troll friends\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Artboard-0m.png",
+      "tintColor": "76e46c",
+      "version": "1.1.1",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Air_Troller_1_1_1-GR.tipa",
+      "size": 786432,
+      "title": "AirTroller",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Air_Troller_1_1_1-GR.tipa",
+          "size": 786432
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollTools",
+      "bundleIdentifier": "net.sourceloc.TrollTools",
+      "developerName" : "Matthew Anisovich/sourcelocation",
+      "subtitle": "Revolutionizing iOS 15 customization",
+      "description": "TrollStore iOS 15 customization tool\nStatus: ✅🔵",
+      "localizedDescription": "TrollStore iOS 15 customization tool\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Troll_Utils-kl.png",
+      "tintColor": "01bdfe",
+      "version": "3.0",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Tools-ZN.ipa",
+      "size": 4374528,
+      "title": "TrollTools",
+      "versions": [
+        {
+          "version": "3.0",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Tools-ZN.ipa",
+          "size": 4374528
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.DebToIPA",
+      "developerName" : "Matthew Anisovich/sourcelocation",
+      "subtitle": "Convert .deb apps to .ipa files, on iOS, locally",
+      "description": "A tool that converts .deb apps to .ipa packages making them easier to install.\nStatus: ✅🔵",
+      "localizedDescription": "A tool that converts .deb apps to .ipa packages making them easier to install.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_2-1s.png",
+      "tintColor": "00a7fe",
+      "version": "1.1.1",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Deb_To_IPA_1_1_1-eS.ipa",
+      "size": 1241088,
+      "title": "DebToIPA",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Deb_To_IPA_1_1_1-eS.ipa",
+          "size": 1241088
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollApps",
+      "bundleIdentifier": "org.resonance.store",
+      "developerName" : "Resonance Team",
+      "subtitle": "App Store alternative for TrollStore",
+      "description": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//trollapps1024-OB.png",
+      "tintColor": "bc81f2",
+      "version": "2.3",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//org_resonance_store_2_3_082724-J6.ipa",
+      "size": 5550080,
+      "title": "TrollApps",
+      "versions": [
+        {
+          "version": "2.3",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//org_resonance_store_2_3_082724-J6.ipa",
+          "size": 5550080
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
