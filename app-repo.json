@@ -2361,6 +2361,30 @@
     },
     {
       "beta": false,
+      "name" : "Nice Battery",
+      "bundleIdentifier": "com.niceios.Battery.Battery",
+      "developerName" : "niceios",
+      "subtitle": "Shows system statistcs",
+      "description": "Support display battery details, real-time network speed, real-time memory usage, real-time CPU frequency, device running time, etc.\nStatus: ✅🔵",
+      "localizedDescription": "Support display battery details, real-time network speed, real-time memory usage, real-time CPU frequency, device running time, etc.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Nice_Battery_IPA_APP_300x300_1-oj.png",
+      "tintColor": "72d085",
+      "version": "1.0",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Nice_Battery-Fn.ipa",
+      "size": 385024,
+      "title": "Nice Battery",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Nice_Battery-Fn.ipa",
+          "size": 385024
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
