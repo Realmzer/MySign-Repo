@@ -2069,6 +2069,54 @@
     },
     {
       "beta": false,
+      "name" : "AppsManager",
+      "bundleIdentifier": "com.tigisoftware.ADManager",
+      "developerName" : "Tigi Software",
+      "subtitle": "Apps Manager on iPhone 6+",
+      "description": "Apps Manager, flexible way to manage your application’s data\nStatus: ✅",
+      "localizedDescription": "Apps Manager, flexible way to manage your application’s data\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0062-zh.png",
+      "tintColor": "0949d4",
+      "version": "1.8.1",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Apps_Manager_1_8_1-B3.ipa",
+      "size": 2035712,
+      "title": "AppsManager",
+      "versions": [
+        {
+          "version": "1.8.1",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Apps_Manager_1_8_1-B3.ipa",
+          "size": 2035712
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AppStore++",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "developerName" : "CokePokes",
+      "subtitle": "Allows you to downgrade installed apps.",
+      "description": "AppStore++ tweak for TrollStore\nAllows you to downgrade installed apps.\nStatus: ✅🔵",
+      "localizedDescription": "AppStore++ tweak for TrollStore\nAllows you to downgrade installed apps.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0063-J2.png",
+      "tintColor": "084ce1",
+      "version": "1.0.3",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//App_Store_Troll_Store_v1_0_3_2-Fr.ipa",
+      "size": 17592320,
+      "title": "AppStore++",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//App_Store_Troll_Store_v1_0_3_2-Fr.ipa",
+          "size": 17592320
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
