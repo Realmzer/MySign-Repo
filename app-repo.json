@@ -2525,6 +2525,31 @@
     },
     {
       "beta": false,
+      "name" : "TipsGetTrolled",
+      "bundleIdentifier": "com.haxi0.TipsGotTrolled",
+      "developerName" : "c22dev",
+      "subtitle": "A standalone app to install TrollStore on MDC devices",
+      "description": "Well,well,well... iOS 15.4 (to 15.7.1) -> 16.1.2. Not higher. 16.2 and more go take a look at kfd (kfd support will be added later)\nThe app installs TrollStore (2) on your device.\nThis uses MacDirtyCow (our beloved), also known as CVE-2022-46689. This vulnerability is also used by Cowabunga and Misaka. The app replaces your Tips.app with TrollStore Persistance Helper.\nStatus: ✅🔵",
+      "localizedDescription": "Well,well,well... iOS 15.4 (to 15.7.1) -> 16.1.2. Not higher. 16.2 and more go take a look at kfd (kfd support will be added later)\nThe app installs TrollStore (2) on your device.\nThis uses MacDirtyCow (our beloved), also known as CVE-2022-46689. This vulnerability is also used by Cowabunga and Misaka. The app replaces your Tips.app with TrollStore Persistance Helper.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_5-af.png",
+      "tintColor": "04a9fe",
+      "category": "utilities",
+      "version": "1.2.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tips_Got_Trolled-fe.ipa",
+      "size": 843776,
+      "title": "TipsGetTrolled",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tips_Got_Trolled-fe.ipa",
+          "size": 843776
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
@@ -3527,6 +3552,31 @@
         "date" : "2024-12-21",
         "downloadURL": "https://cdn1.realmzer.xyz//Troll_Lock_1_1-tW.ipa",
         "size": 999424
+      }
+    ]
+  },
+  {
+    "beta": true,
+    "name" : "Red Dot",
+    "bundleIdentifier": "me.soongyu.reddot",
+    "developerName" : "s8ngyu",
+    "subtitle": "Change the notification dot color",
+    "description": "This app allows you to change the notification dot color.\nStatus: ✅",
+    "localizedDescription": "This app allows you to change the notification dot color.\nStatus: ✅",
+    "iconURL": "https://cdn1.realmzer.xyz//imgonline_com_ua_resize_0z0l5nkge_Dp_R_Mkf-vn.png",
+    "tintColor": "ff362c",
+    "category": "other",
+    "version": "0.1",
+    "versionDate" : "2024-12-21",
+    "downloadURL": "https://cdn1.realmzer.xyz//reddot_0_1-q3.ipa",
+    "size": 671744,
+    "title": "Red Dot",
+    "versions": [
+      {
+        "version": "0.1",
+        "date" : "2024-12-21",
+        "downloadURL": "https://cdn1.realmzer.xyz//reddot_0_1-q3.ipa",
+        "size": 671744
       }
     ]
   },
