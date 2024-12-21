@@ -2385,6 +2385,30 @@
     },
     {
       "beta": false,
+      "name" : "Serotonin",
+      "bundleIdentifier": "pisshill.usprebooter",
+      "developerName" : "SerotoninApp",
+      "subtitle": "iOS/iPadOS 16.0 - 16.6.1 Semi-Jailbreak",
+      "description": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅",
+      "localizedDescription": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//serotonin-VS.png",
+      "tintColor": "000000",
+      "version": "1.2.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Serotonin-1e.tipa",
+      "size": 14987264,
+      "title": "Serotonin",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Serotonin-1e.tipa",
+          "size": 14987264
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
