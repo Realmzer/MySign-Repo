@@ -2289,6 +2289,30 @@
     },
     {
       "beta": false,
+      "name" : "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "developerName" : "leminlimez",
+      "subtitle": "Status Bar Widgets for TrollStore iPhones on iOS 14+",
+      "description": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.\nMore widgets to come in future updates!\nNote: on iOS 16+, you must enable developer mode for this to work properly.\nStatus: ✅🔵",
+      "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.\nMore widgets to come in future updates!\nNote: on iOS 16+, you must enable developer mode for this to work properly.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_3-hx.png",
+      "tintColor": "d0201b",
+      "version": "3.2.5",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Helium-1P.tipa",
+      "size": 4169728,
+      "title": "Helium",
+      "versions": [
+        {
+          "version": "3.2.5",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Helium-1P.tipa",
+          "size": 4169728
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
