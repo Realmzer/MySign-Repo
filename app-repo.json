@@ -749,16 +749,15 @@
       "subtitle": "Easily make it so your sideloading it undetectable.",
       "description": "Blocks some apps sideloading protections.\nStatus: ✅✨",
       "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
-      "developerName": "Realmzer",
+      "developerName": "Unknown",
       "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
       "tintColor": "31d2f7",
       "category": "dylib",
       "size": 204800,
       "version": "1.0.0",
       "versionDate": "2024-10-18",
-      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/Sideloadbypass1.dylib",
-      "title": "Sideload Bypass (2)",
-      "url": "https://github.com/Realmzer/Realmzer.github.io" 
+      "downloadURL": "https://cdn1.realmzer.xyz//Sideloadbypass1-aX.dylib",
+      "title": "Sideload Bypass (2)"
     },
     {
       "beta": false,
@@ -767,16 +766,15 @@
       "subtitle": "Easily make it so your sideloading it undetectable.",
       "description": "Blocks some apps sideloading protections.\nStatus: ✅✨",
       "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
-      "developerName": "Realmzer",
+      "developerName": "Unknown",
       "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
       "tintColor": "31d2f7",
       "category": "dylib",
       "size": 86016,
       "version": "1.0.0",
       "versionDate": "2024-10-18",
-      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/Sideloadbypass2.dylib",
-      "title": "Sideload Bypass (2)",
-      "url": "https://github.com/Realmzer/Realmzer.github.io" 
+      "downloadURL": "https://cdn1.realmzer.xyz//Sideloadbypass2-lR.dylib",
+      "title": "Sideload Bypass (2)"
     },
     {
       "beta": false,
@@ -846,9 +844,9 @@
       "size": 8331776,
       "version": "1.0.0",
       "versionDate": "2024-10-18",
-      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/SatellaJailed.dylib",
+      "downloadURL": "https://cdn1.realmzer.xyz//Satella_Jailed-MO.dylib",
       "title": "SatellaJailed",
-      "url": "https://github.com/Realmzer/Realmzer.github.io" 
+      "url": "https://github.com/Paisseon/SatellaJailed" 
     },
     {
       "beta": false,
@@ -864,9 +862,26 @@
       "size": 12288,
       "version": "0.2-beta-1",
       "versionDate": "2024-10-18",
-      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/com.julioverne.adblock_0.2.beta1_iphoneos-arm.deb",
-      "title": "Adblock",
-      "url": "https://github.com/Realmzer/Realmzer.github.io" 
+      "downloadURL": "https://cdn1.realmzer.xyz//com_julioverne_adblock_0_2_beta1_iphoneos_arm-A0.deb",
+      "title": "Adblock"
+    },
+    {
+      "beta": false,
+      "name": "SponsorBlock YT Music",
+      "bundleIdentifier": "com.realmzer.julioadblock",
+      "subtitle": "SponsorBlock for YouTube Music - Skip non-music segments",
+      "description": "Skip non-music segments\nStatus: ✅✨",
+      "localizedDescription": "Skip non-music segments\nStatus: ✅✨",
+      "developerName": "dayanch96",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "31d2f7",
+      "category": "dylib",
+      "size": 40960,
+      "version": "0.1",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_dvntm_ytmsponsorblock_0_0_1_iphoneos_arm-gQ.deb",
+      "title": "SponsorBlock YT Music",
+      "url": "https://github.com/dayanch96/SponsorBlock-YouTubeMusic" 
     },
     {
       "beta": false,
@@ -2155,7 +2170,7 @@
       "size": 70279168,
       "version": "1.0.0",
       "versionDate": "2024-10-12",
-      "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/deltarune.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//deltarune_1-Se.ipa",
       "title": "Deltarune Chapter 1",
       "url": "https://deltarune.com" 
     },
