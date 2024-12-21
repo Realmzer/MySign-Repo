@@ -2313,6 +2313,30 @@
     },
     {
       "beta": false,
+      "name" : "Geranium",
+      "bundleIdentifier": "live.cclerc.geranium",
+      "developerName" : "c22dev",
+      "subtitle": "LocSim, Daemon Manager, Cleaner and Superviser for TrollStore",
+      "description": "LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore\nStatus: ✅🔵",
+      "localizedDescription": "LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//geranium-eQ.png",
+      "tintColor": "fb242d",
+      "version": "1.1.3",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Geranium-Ta.tipa",
+      "size": 6103040,
+      "title": "Geranium",
+      "versions": [
+        {
+          "version": "1.1.3",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Geranium-Ta.tipa",
+          "size": 6103040
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
