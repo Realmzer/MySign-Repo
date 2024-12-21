@@ -2337,6 +2337,30 @@
     },
     {
       "beta": false,
+      "name" : "TrollSpeed",
+      "bundleIdentifier": "ch.xxtou.hudapp",
+      "developerName" : "Lessica",
+      "subtitle": "Shows upload & download speed below the status bar.",
+      "description": "Shows upload & download speed below the status bar.\nTested and expected to work on all iOS versions supported by opa334’s TrollStore.\nStatus: ❌🔵",
+      "localizedDescription": "Shows upload & download speed below the status bar.\nTested and expected to work on all iOS versions supported by opa334’s TrollStore.\nStatus: ❌🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_4-RY.png",
+      "tintColor": "17f2ba",
+      "version": "1.12.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Speed_App_Intents16_1_12_1-58.tipa",
+      "size": 454656,
+      "title": "TrollSpeed",
+      "versions": [
+        {
+          "version": "1.12.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Speed_App_Intents16_1_12_1-58.tipa",
+          "size": 454656
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
