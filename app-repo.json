@@ -868,7 +868,7 @@
     {
       "beta": false,
       "name": "SponsorBlock YT Music",
-      "bundleIdentifier": "com.realmzer.julioadblock",
+      "bundleIdentifier": "com.dvntm.ytmsponsorblock",
       "subtitle": "SponsorBlock for YouTube Music - Skip non-music segments",
       "description": "Skip non-music segments\nStatus: ✅✨",
       "localizedDescription": "Skip non-music segments\nStatus: ✅✨",
