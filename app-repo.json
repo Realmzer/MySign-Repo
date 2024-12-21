@@ -139,8 +139,8 @@
       "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "developerName" : "alfiecg24",
       "subtitle": "TrollInstallerX - Permasigner installer (no app limit, no dns, no 7 day refresh)",
-      "description": "TrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
-      "localizedDescription": "TrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
+      "description": "https://ios.cfw.guide/installing-trollstore\n\nTrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
+      "localizedDescription": "https://ios.cfw.guide/installing-trollstore/\n\nTrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
       "iconURL": "https://cdn1.realmzer.xyz//l_Qt6_Wq_H-q7.png",
       "tintColor": "377ee8",
       "category": "utilities",
@@ -261,8 +261,8 @@
       "bundleIdentifier": "org.coolstar.odyssey",
       "developerName" : "Odyssey Team",
       "subtitle": "Jailbreak for iOS 13.0 to iOS 13.7.",
-      "description": "Jailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
-      "localizedDescription": "Jailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
+      "description": "https://ios.cfw.guide/installing-odyssey/\n\nJailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-odyssey/\n\nJailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4248-N4.png",
       "tintColor": "f5896f",
       "category": "utilities",
@@ -279,8 +279,8 @@
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName" : "Pwn20wnd",
       "subtitle": "Jailbreak for iOS 11.0 to 14.8",
-      "description": "Jailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
-      "localizedDescription": "Jailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
+      "description": "https://ios.cfw.guide/installing-unc0ver/\n\nJailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-unc0ver/\n\nJailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//Icon_App_60x60_3x-Lv.png",
       "tintColor": "292929",
       "category": "utilities",
@@ -452,76 +452,7 @@
           "size": 15515648
         }
       ]
-    },
-    {
-      "beta": false,
-      "name": "HD Flix No Ads",
-      "bundleIdentifier": "com.box.hd.flix.drama.hub",
-      "subtitle": "HD Flix - Free Movies and TV Shows",
-      "description": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
-      "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
-      "developerName": "Hung Nguyen",
-      "iconURL": "https://cdn1.realmzer.xyz//hdflix-un.png",
-      "tintColor": "ea221f",
-      "category": "entertainment",
-      "size": 14737408,
-      "version": "4.0",
-      "versionDate": "2024-11-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//hdflixnoads4_0-mX.ipa",
-      "title": "HD Flix No Ads",
-      "url": "https://t.me/HD_Flix_Channel/" 
-    },
-    {
-      "beta": false,
-      "name" : "MovieBox Pro",
-      "bundleIdentifier": "com.xd.mbp31",
-      "developerName" : "MovieBoxPro",
-      "subtitle": "MovieBox Pro - Movie Streaming Platform",
-      "description": "MovieBox Pro is a free & paid movie streaming platform.\nFree: 360p content\nPaid: 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
-      "localizedDescription": "MovieBox Pro is a free & paid movie streaming platform.\nFree: 360p content\nPaid: 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
-      "iconURL": "https://cdn1.realmzer.xyz//movieboxpro-Uk.png",
-      "tintColor": "fcd940",
-      "category": "entertainment",
-      "version" : "14.1",
-      "versionDate" : "2024-12-13",
-      "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
-      "size": 48226304,
-      "title": "MovieBox Pro",
-      "url": "https://www.movieboxpro.app/",
-      "versions" : [
-        {
-          "version" : "14.1",
-          "date" : "2024-12-13",
-          "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
-          "size": 48226304
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name": "Streamer", 
-      "bundleIdentifier": "com.streamer.ios", 
-      "subtitle": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS",
-      "developerName": "StreamerApp", 
-      "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-      "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
-      "iconURL": "https://cdn1.realmzer.xyz//streamerios-wP.png",
-      "tintColor": "8b3f22",
-      "category": "entertainment",
-      "version": "1.2.41",
-      "size": 34734080,
-      "versionDate": "2024-12-09",
-      "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
-      "title": "Streamer",
-      "versions" : [
-        {
-          "version": "1.2.41",
-          "date" : "2024-12-09",
-          "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
-          "size": 34734080
-        }
-      ]
-    },   
+    }, 
     {
       "beta": true,
       "name" : "Minipaper",
@@ -1495,6 +1426,37 @@
     },
     {
       "beta": false,
+      "name": "Genie++",
+      "bundleIdentifier": "co.appnation.geniechat",
+      "subtitle": "Cracked Genie AI",
+      "developerName": "OpenAI",
+      "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
+      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
+      "iconURL": "https://cdn1.realmzer.xyz//Genie_Pro_7_1_2-Km.png",
+      "tintColor": "40e6b4",
+      "category": "utilities",
+      "version": "7.5.4",
+      "size": 57106432,
+      "versionDate": "2024-12-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Geniechat7_5_4moepro-ry.ipa",
+      "title": "Genie++",
+      "versions" : [
+        {
+          "version": "7.5.4",
+          "date" : "2024-12-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Geniechat7_5_4moepro-ry.ipa",
+          "size": 57106432
+        },
+        {
+          "version": "7.1.2",
+          "date" : "2024-10-05",
+          "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
+          "size": 59768832
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
       "developerName" : "Akentech Ltd",
@@ -1979,6 +1941,75 @@
         }
       ]
     },
+    {
+      "beta": false,
+      "name": "HD Flix No Ads",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "subtitle": "HD Flix - Free Movies and TV Shows",
+      "description": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
+      "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows & movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
+      "developerName": "Hung Nguyen",
+      "iconURL": "https://cdn1.realmzer.xyz//hdflix-un.png",
+      "tintColor": "ea221f",
+      "category": "entertainment",
+      "size": 14737408,
+      "version": "4.0",
+      "versionDate": "2024-11-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//hdflixnoads4_0-mX.ipa",
+      "title": "HD Flix No Ads",
+      "url": "https://t.me/HD_Flix_Channel/" 
+    },
+    {
+      "beta": false,
+      "name" : "MovieBox Pro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName" : "MovieBoxPro",
+      "subtitle": "MovieBox Pro - Movie Streaming Platform",
+      "description": "MovieBox Pro is a free & paid movie streaming platform.\nFree: 360p content\nPaid: 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
+      "localizedDescription": "MovieBox Pro is a free & paid movie streaming platform.\nFree: 360p content\nPaid: 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
+      "iconURL": "https://cdn1.realmzer.xyz//movieboxpro-Uk.png",
+      "tintColor": "fcd940",
+      "category": "entertainment",
+      "version" : "14.1",
+      "versionDate" : "2024-12-13",
+      "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
+      "size": 48226304,
+      "title": "MovieBox Pro",
+      "url": "https://www.movieboxpro.app/",
+      "versions" : [
+        {
+          "version" : "14.1",
+          "date" : "2024-12-13",
+          "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
+          "size": 48226304
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Streamer", 
+      "bundleIdentifier": "com.streamer.ios", 
+      "subtitle": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS",
+      "developerName": "StreamerApp", 
+      "description": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
+      "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅", 
+      "iconURL": "https://cdn1.realmzer.xyz//streamerios-wP.png",
+      "tintColor": "8b3f22",
+      "category": "entertainment",
+      "version": "1.2.41",
+      "size": 34734080,
+      "versionDate": "2024-12-09",
+      "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
+      "title": "Streamer",
+      "versions" : [
+        {
+          "version": "1.2.41",
+          "date" : "2024-12-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa", 
+          "size": 34734080
+        }
+      ]
+    },  
     {
       "beta": false,
       "name" : "LogRide",
@@ -4476,38 +4507,7 @@
         "size": 74448896
       }
     ]
-  },    
-  {
-    "beta": false,
-    "name": "Genie++",
-    "bundleIdentifier": "co.appnation.geniechat",
-    "subtitle": "Cracked Genie AI",
-    "developerName": "OpenAI",
-    "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
-    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
-    "iconURL": "https://cdn1.realmzer.xyz//Genie_Pro_7_1_2-Km.png",
-    "tintColor": "40e6b4",
-    "category": "utilities",
-    "version": "7.5.4",
-    "size": 57106432,
-    "versionDate": "2024-12-18",
-    "downloadURL": "https://cdn1.realmzer.xyz//Geniechat7_5_4moepro-ry.ipa",
-    "title": "Genie++",
-    "versions" : [
-      {
-        "version": "7.5.4",
-        "date" : "2024-12-18",
-        "downloadURL": "https://cdn1.realmzer.xyz//Geniechat7_5_4moepro-ry.ipa",
-        "size": 57106432
-      },
-      {
-        "version": "7.1.2",
-        "date" : "2024-10-05",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
-        "size": 59768832
-      }
-    ]
-  },    
+  },        
   {
     "beta": false,
     "name": "BSD Brawl Stars", 
