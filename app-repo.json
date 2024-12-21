@@ -2265,6 +2265,30 @@
     },
     {
       "beta": false,
+      "name" : "DynamicCowTS",
+      "bundleIdentifier": "com.matteozappia.DynamicCowTS",
+      "developerName" : "matteozappia",
+      "subtitle": "Enables Dynamic Island on Devices iOS 16.0 - iOS 17.0",
+      "description": "Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0 using TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0 using TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//dynamiccowicon-kg.png",
+      "tintColor": "d39d97",
+      "version": "2.0",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dynamic_Cow_TS-gI.tipa",
+      "size": 692224,
+      "title": "DynamicCowTS",
+      "versions": [
+        {
+          "version": "2.0",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dynamic_Cow_TS-gI.tipa",
+          "size": 692224
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
