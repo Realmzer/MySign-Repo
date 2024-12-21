@@ -1626,6 +1626,58 @@
     },
     {
       "beta": false,
+      "name": "TikTok BH++", 
+      "bundleIdentifier": "com.zhiliaoapp.musically", 
+      "developerName": "raulsaeed & ByteDance", 
+      "subtitle": "Updated BH++, working on new versions of TikTok",
+      "description": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
+      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
+      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
+      "tintColor": "fe2c55",
+      "category": "social",
+      "version": "32.2.0-2.3",
+      "versionDate" : "2024-11-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
+      "size": 226500608,
+      "title": "TikTok BH++",
+      "url": "https://github.com/raulsaeed/TikTokPlusPlus",
+      "versions" : [
+        {
+          "version": "32.2.0-2.3",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
+          "size": 226500608
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "BH X", 
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Elon Musk & BanderHL", 
+      "subtitle": "X with BHTwitter!",
+      "description": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_5319-ea.png",
+      "tintColor": "000000",
+      "category": "social",
+      "version": "4.3",
+      "versionDate": "2024-09-19",
+      "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
+      "size": 195238232,
+      "title": "BH X",
+      "url": "https://github.com/BandarHL/BHTwitter",
+      "versions" : [
+        {
+          "version": "4.3",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
+          "size": 195238232
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Instagram Regram", 
       "bundleIdentifier": "com.burbn.instagram", 
       "developerName": "Meta", 
@@ -1968,55 +2020,46 @@
     },
     {
       "beta": false,
-      "name": "TikTok BH++", 
-      "bundleIdentifier": "com.zhiliaoapp.musically", 
-      "developerName": "raulsaeed & ByteDance", 
-      "subtitle": "Updated BH++, working on new versions of TikTok",
-      "description": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
-      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
-      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
-      "tintColor": "fe2c55",
-      "category": "social",
-      "version": "32.2.0-2.3",
-      "versionDate" : "2024-11-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
-      "size": 226500608,
-      "title": "TikTok BH++",
-      "url": "https://github.com/raulsaeed/TikTokPlusPlus",
+      "name" : "Pedometer++",
+      "bundleIdentifier": "ccom.crossforward.pedometer",
+      "developerName" : "Cross Forward Consulting, LLC",
+      "subtitle": "Step Counter",
+      "description": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
+      "localizedDescription": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//pedometerplusplus-Sb.png",
+      "tintColor": "00e85e",
+      "category": "utilities",
+      "version": "6.1",
+      "versionDate" : "2024-12-06",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
+      "size": 18321408,
+      "title": "Pedometer++",
       "versions" : [
         {
-          "version": "32.2.0-2.3",
-          "date" : "2024-11-23",
-          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
-          "size": 226500608
+          "version": "6.1",
+          "date" : "2024-12-06",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
+          "size": 18321408
         }
       ]
     },
     {
       "beta": false,
-      "name": "BH X", 
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "Elon Musk & BanderHL", 
-      "subtitle": "X with BHTwitter!",
-      "description": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥",
-      "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_5319-ea.png",
-      "tintColor": "000000",
-      "category": "social",
-      "version": "4.3",
-      "versionDate": "2024-09-19",
-      "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
-      "size": 195238232,
-      "title": "BH X",
-      "url": "https://github.com/BandarHL/BHTwitter",
-      "versions" : [
-        {
-          "version": "4.3",
-          "date" : "2024-11-23",
-          "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
-          "size": 195238232
-        }
-      ]
+      "name" : "Moblo",
+      "bundleIdentifier": "fr.moblo",
+      "developerName" : "Moblo",
+      "subtitle": "Easy 3D modeling for furniture design",
+      "description": "Start designing your next DIY project in 3D with Moblo, the best app to bring your woodworking ideas to life with the help of augmented reality.",
+      "localizedDescription": "Start designing your next DIY project in 3D with Moblo, the best app to bring your woodworking ideas to life with the help of augmented reality.",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4128-dO.png",
+      "tintColor": "31A3FA",
+      "category": "24.04.1",
+      "version": "24.04.1",
+      "versionDate" : "2024-12-15",
+      "downloadURL": "https://cdn1.realmzer.xyz//Moblo_satella_injected-AD.ipa",
+      "size": 210900000,
+      "title": "Moblo",
+      "url": "https://apps.apple.com/us/app/moblo-3d-furniture-modeling/id1549380017"
     },
     {
       "beta": false,
@@ -2787,49 +2830,6 @@
           "size": 90112
         }
       ]
-    },
-    {
-      "beta": false,
-      "name" : "Pedometer++",
-      "bundleIdentifier": "ccom.crossforward.pedometer",
-      "developerName" : "Cross Forward Consulting, LLC",
-      "subtitle": "Step Counter",
-      "description": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
-      "localizedDescription": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//pedometerplusplus-Sb.png",
-      "tintColor": "00e85e",
-      "category": "utilities",
-      "version": "6.1",
-      "versionDate" : "2024-12-06",
-      "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
-      "size": 18321408,
-      "title": "Pedometer++",
-      "versions" : [
-        {
-          "version": "6.1",
-          "date" : "2024-12-06",
-          "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
-          "size": 18321408
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name" : "Moblo",
-      "bundleIdentifier": "fr.moblo",
-      "developerName" : "Moblo",
-      "subtitle": "Easy 3D modeling for furniture design",
-      "description": "Start designing your next DIY project in 3D with Moblo, the best app to bring your woodworking ideas to life with the help of augmented reality.",
-      "localizedDescription": "Start designing your next DIY project in 3D with Moblo, the best app to bring your woodworking ideas to life with the help of augmented reality.",
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_4128-dO.png",
-      "tintColor": "31A3FA",
-      "category": "24.04.1",
-      "version": "24.04.1",
-      "versionDate" : "2024-12-15",
-      "downloadURL": "https://cdn1.realmzer.xyz//Moblo_satella_injected-AD.ipa",
-      "size": 210900000,
-      "title": "Moblo",
-      "url": "https://apps.apple.com/us/app/moblo-3d-furniture-modeling/id1549380017"
     },
     {
       "beta": false,
