@@ -1391,6 +1391,30 @@
     },
     {
       "beta": false,
+      "name" : "Twitch No Ads",
+      "bundleIdentifier": "tv.twitch",
+      "developerName" : "moeotf & level3tjg",
+      "subtitle": "Twitch with no ads included",
+      "description": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
+      "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
+      "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
+      "tintColor": "9145fd",
+      "version": "22.5",
+      "versionDate" : "2024-12-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_5adfreemoefix-UM.ipa",
+      "size": 101629952,
+      "title": "Twitch No Ads",
+      "versions": [
+        {
+          "version": "22.5",
+          "date" : "2024-12-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_5adfreemoefix-UM.ipa",
+          "size": 101629952
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
@@ -1453,33 +1477,82 @@
     },
     {
       "beta": false,
-      "name" : "Twitch No Ads",
-      "bundleIdentifier": "tv.twitch",
-      "developerName" : "moeotf & level3tjg",
-      "subtitle": "Twitch with no ads included",
-      "description": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
-      "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
-      "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
-      "tintColor": "9145fd",
+      "name": "SpotC++",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "developerName": "SpotCompiled",
+      "subtitle": "Compilation of Multiple Spotify Tweaks",
+      "description": "Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.\nStatus: ✅🔥",
+      "localizedDescription": "Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Spot_C_App_Icon-vE.png",
+      "tintColor": "9c22f4",
       "category": "entertainment",
-      "version": "22.5",
-      "versionDate" : "2024-12-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_5adfreemoefix-UM.ipa",
-      "size": 101629952,
-      "title": "Twitch No Ads",
-      "versions" : [
+      "version": "2.3.8",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_8_v9_0_2-tW.ipa",
+      "size": 78995456,
+      "title": "SpotC++",
+      "url": "https://github.com/SpotCompiled/SpotC-Plus-Plus",
+      "versions": [
         {
-          "version": "22.5",
-          "date" : "2024-12-18",
-          "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_5adfreemoefix-UM.ipa",
-          "size": 101629952
-        },
+          "version": "2.3.8",
+          "date": "2024-12-20",
+          "localizedDescription": "*Updated EeveeSpotify to Swift 5.8.3\n* (EeveeSpotify) Updated Italian localization by @FeddyLix17\n* (EeveeSpotify) Updated Vietnamese localization by @Richard-NDC\n* Updated Spotify to version 9.0.2",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_8_v9_0_2-tW.ipa",
+          "size": 78995456
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "SpotilifeC",
+      "bundleIdentifier": "com.yodaluca23.SpotilifeC",
+      "developerName": "SpotCompiled",
+      "subtitle": "Compiled Spotilife IPA's.",
+      "description": "Compiled Spotilife IPA's.\nStatus: ❌",
+      "localizedDescription": "Compiled Spotilife IPA's.\nStatus: ❌",
+      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
+      "tintColor": "ff0000",
+      "category": "entertainment",
+      "version": "1.2.3",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spotilife_C_v1_2_3_v8_6_42-21.ipa",
+      "size": 49106944,
+      "title": "SpotilifeC",
+      "url": "https://github.com/SpotCompiled/SpotilifeC",
+      "versions": [
         {
-          "version": "22.3.3",
-          "date" : "2024-12-06",
-          "localizedDescription": "- Updated Twitch (https://apps.apple.com/us/app/twitch-live-streaming/id460177396) to 22.3.3 (today's update no ads)\n- Video game streaming\n- adfree \n-Injected AdBlock by level3tjg\n-injected with keychain and sideload fix and the bundle file that was missing\n-injected open in safari extension\n-injected pluginwidgetsfix\n-now I'm not seeing any ads \nBy @wlxxd & @SultanModsIPAs",
-          "downloadURL": "https://cdn1.realmzer.xyz//Twitchadfree22_3_3_Fixedbundle_patched_nofix-0q.ipa",
-          "size": 104194048
+          "version": "1.2.3",
+          "date": "2024-12-20",
+          "localizedDescription": "*Fixed Update loop when using SideStore or AltStore.",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spotilife_C_v1_2_3_v8_6_42-21.ipa",
+          "size": 49106944
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "SpotveeC",
+      "bundleIdentifier": "com.yodaluca23.SpotveeC",
+      "developerName": "SpotCompiled",
+      "subtitle": "Compiled EeveeSpotify IPA's.",
+      "description": "Compiled EeveeSpotify IPA's.\nStatus: ✅🔥",
+      "localizedDescription": "Compiled EeveeSpotify IPA's.\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
+      "tintColor": "ff0000",
+      "category": "entertainment",
+      "version": "3.2.8",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_2_8_v9_0_2-an.ipa",
+      "size": 78618624,
+      "title": "SpotveeC",
+      "url": "https://github.com/SpotCompiled/SpotveeC",
+      "versions": [
+        {
+          "version": "3.2.8",
+          "date": "2024-12-20",
+          "localizedDescription": "*Updated EeveeSpotify to Swift 5.8.3\n* (EeveeSpotify) Updated Italian localization by @FeddyLix17\n* (EeveeSpotify) Updated Vietnamese localization by @Richard-NDC\n* Updated Spotify to version 9.0.2",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_2_8_v9_0_2-an.ipa",
+          "size": 78618624
         }
       ]
     },
