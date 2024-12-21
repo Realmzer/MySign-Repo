@@ -2102,7 +2102,7 @@
       "description": "Apps Manager, flexible way to manage your application’s data\nStatus: ✅",
       "localizedDescription": "Apps Manager, flexible way to manage your application’s data\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_0062-zh.png",
-      "tintColor": "0949d4",
+      "tintColor": "ce480b",
       "version": "1.8.1",
       "versionDate" : "2024-12-20",
       "downloadURL": "https://cdn1.realmzer.xyz//Apps_Manager_1_8_1-B3.ipa",
@@ -2126,7 +2126,7 @@
       "description": "AppStore++ tweak for TrollStore\nAllows you to downgrade installed apps.\nStatus: ✅🔵",
       "localizedDescription": "AppStore++ tweak for TrollStore\nAllows you to downgrade installed apps.\nStatus: ✅🔵",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_0063-J2.png",
-      "tintColor": "084ce1",
+      "tintColor": "52aeef",
       "version": "1.0.3",
       "versionDate" : "2024-12-20",
       "downloadURL": "https://cdn1.realmzer.xyz//App_Store_Troll_Store_v1_0_3_2-Fr.ipa",
@@ -2138,6 +2138,78 @@
           "date" : "2024-12-20",
           "downloadURL": "https://cdn1.realmzer.xyz//App_Store_Troll_Store_v1_0_3_2-Fr.ipa",
           "size": 17592320
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Cardio",
+      "bundleIdentifier": "com.cisc0freak.cardio",
+      "developerName" : "cisc0disco",
+      "subtitle": "App for Changing Apple Pay Images",
+      "description": "App for changing Apple Pay images using CoreTrust bug that affects iOS 14.0 - 15.4.1 (15.5b4).\nStatus: ✅🔵",
+      "localizedDescription": "App for changing apple pay images using CoreTrust bug that affects iOS 14.0 - 15.4.1 (15.5b4).\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//cardio1024-cE.png",
+      "tintColor": "443796",
+      "version": "1.1",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cardio_1-t0.ipa",
+      "size": 122880,
+      "title": "Cardio",
+      "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Cardio_1-t0.ipa",
+          "size": 122880
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Jitterbug",
+      "bundleIdentifier": "com.osy86.Jitterbug",
+      "developerName" : "osy",
+      "subtitle": "Launch JIT enabled iOS app with a second iOS device",
+      "description": "This app uses libimobiledevice and WiFi pairing to use one iOS device to launch apps with the debugger on another iOS device.\nThis tethered launch allows JIT to work on the second iOS device.\nIt can also create a VPN tunnel to allow a device to debug itself.\nStatus: ✅",
+      "localizedDescription": "This app uses libimobiledevice and WiFi pairing to use one iOS device to launch apps with the debugger on another iOS device.\nThis tethered launch allows JIT to work on the second iOS device.\nIt can also create a VPN tunnel to allow a device to debug itself.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_128pt_2x-Z8.png",
+      "tintColor": "52b560",
+      "version": "1.3.1",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Jitterbug-LZ.ipa",
+      "size": 23015424,
+      "title": "Jitterbug",
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Jitterbug-LZ.ipa",
+          "size": 23015424
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollNonce",
+      "bundleIdentifier": "com.opa334.trollnonce",
+      "developerName" : "opa334",
+      "subtitle": "Boot nonce utility for TrollStore (15.0 - 15.5b4)",
+      "description": "Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when installed through TrollStore 1.0.9 or newer.\nStatus: ✅🔵",
+      "localizedDescription": "Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when installed through TrollStore 1.0.9 or newer.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon60x60_3x-7A.png",
+      "tintColor": "26d247",
+      "version": "1.1.2",
+      "versionDate" : "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Nonce-he.tipa",
+      "size": 253952,
+      "title": "TrollNonce",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date" : "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Nonce-he.tipa",
+          "size": 253952
         }
       ]
     },
