@@ -179,6 +179,32 @@
     },
     {
       "beta": false,
+      "name": "NathanLR",
+      "bundleIdentifier": "com.nathan.nathanlr",
+      "developerName": "Nathan",
+      "subtitle": "Semi Jailbreak for iOS 16.5.1 to iOS 16.6.1+",
+      "description": "Semi Jailbreak for iOS 16.5.1 to iOS 16.6.1\\nA12",
+      "localizedDescription": "Jailbreak for iOS 16.5.1 to iOS 16.6.1\\nA12",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4469-Th.jpeg",
+      "tintColor": "7EC865",
+      "category": "utilities",
+      "version": "1.1.4",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+      "size": 40330000,
+      "title": "NathanLR",
+      "url": "https://x.com/dedbeddedbed?lang=en",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "date": "2024-12-20",
+          "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+          "size": 40330000
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Dopamine",
       "bundleIdentifier": "com.opa334.Dopamine",
       "developerName" : "opa334",
