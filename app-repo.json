@@ -2241,30 +2241,6 @@
     },
     {
       "beta": false,
-      "name" : "TrollLEDS",
-      "bundleIdentifier": "com.ps.TrollLEDs",
-      "developerName" : "PoomSmart",
-      "subtitle": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
-      "description": "A TrollStore application to control individual flashlight LEDs for iOS devices.\nWhen used on a jailbroken device, remove Amber tweak because this app will simply be overridden by it.\nStatus: ✅🔵",
-      "localizedDescription": "A TrollStore application to control individual flashlight LEDs for iOS devices.\nWhen used on a jailbroken device, remove Amber tweak because this app will simply be overridden by it.\nStatus: ✅🔵",
-      "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_2x_ipad-3b.png",
-      "tintColor": "fc9944",
-      "version": "1.8.0",
-      "versionDate" : "2024-12-20",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-A6.tipa",
-      "size": 86016,
-      "title": "TrollLEDS",
-      "versions": [
-        {
-          "version": "1.8.0",
-          "date" : "2024-12-20",
-          "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-A6.tipa",
-          "size": 86016
-        }
-      ]
-    },
-    {
-      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
