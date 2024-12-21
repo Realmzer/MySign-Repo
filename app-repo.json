@@ -3560,7 +3560,7 @@
     "name" : "Red Dot",
     "bundleIdentifier": "me.soongyu.reddot",
     "developerName" : "s8ngyu",
-    "subtitle": "Change the notification dot color",
+    "subtitle": "Change the notification dot color (iOS 14-15)",
     "description": "This app allows you to change the notification dot color.\nStatus: ✅",
     "localizedDescription": "This app allows you to change the notification dot color.\nStatus: ✅",
     "iconURL": "https://cdn1.realmzer.xyz//imgonline_com_ua_resize_0z0l5nkge_Dp_R_Mkf-vn.png",
