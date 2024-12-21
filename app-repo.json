@@ -2404,8 +2404,8 @@
       "bundleIdentifier": "pisshill.usprebooter",
       "developerName" : "SerotoninApp",
       "subtitle": "iOS/iPadOS 16.0 - 16.6.1 Semi-Jailbreak",
-      "description": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅",
-      "localizedDescription": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅",
+      "description": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅🔵",
+      "localizedDescription": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅🔵",
       "iconURL": "https://cdn1.realmzer.xyz//serotonin-VS.png",
       "tintColor": "000000",
       "category": "utilities",
@@ -2420,6 +2420,31 @@
           "date" : "2024-12-21",
           "downloadURL": "https://cdn1.realmzer.xyz//Serotonin-1e.tipa",
           "size": 14987264
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollFools",
+      "bundleIdentifier": "wiki.qaq.TrollFools",
+      "developerName" : "Lessica",
+      "subtitle": "In-place tweak injection with insert_dylib and ChOma",
+      "description": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
+      "tintColor": "008afd",
+      "category": "utilities",
+      "version": "2.8-15",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_8_15-Cy.tipa",
+      "size": 3305472,
+      "title": "TrollFools",
+      "versions": [
+        {
+          "version": "2.8-15",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_8_15-Cy.tipa",
+          "size": 3305472
         }
       ]
     },
