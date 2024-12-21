@@ -2450,6 +2450,31 @@
     },
     {
       "beta": false,
+      "name" : "TrollCuts",
+      "bundleIdentifier": "com.udevs.TrollCuts",
+      "developerName" : "udevsharold",
+      "subtitle": "Arbitrary entitled extensions for Shortcuts",
+      "description": "Shortcuts extensions for iOS 16.0+.\nIt leverages the ability of TrollStore to obtain arbitrary entitlements for binary and thus doing stuffs that normally sandboxed apps unable to.\nStatus: ✅🔵",
+      "localizedDescription": "Shortcuts extensions for iOS 16.0+.\nIt leverages the ability of TrollStore to obtain arbitrary entitlements for binary and thus doing stuffs that normally sandboxed apps unable to.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_3-Ge.png",
+      "tintColor": "ebac6f",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Cuts_v1_1-Yq.tipa",
+      "size": 532480,
+      "title": "TrollCuts",
+      "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Cuts_v1_1-Yq.tipa",
+          "size": 532480
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
       "developerName" : "Cross Forward Consulting, LLC",
@@ -3427,6 +3452,31 @@
         "date" : "2024-12-15",
         "downloadURL": "https://cdn1.realmzer.xyz//Procreate_Pocket-KL.ipa",
         "size": 301252608
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "TrollLock Reborn",
+    "bundleIdentifier": "org.haxi0.TrollLock",
+    "developerName" : "haxi0",
+    "subtitle": "Change the faceID glyph into a TrollFace",
+    "description": "TrollLock tweak (https://github.com/verygenericname/TrollLock) port for iOS 15 and up to iOS 16.1.2. Yes, I said iOS 16! No checkm8, jailbreak or anything, just using the MacDirtyCow exploit. \nThis is kind of a POC tester, but an actual tweak to iOS that works.\nReboot your device to revert the changes.\nStatus: ✅",
+    "localizedDescription": "TrollLock tweak (https://github.com/verygenericname/TrollLock) port for iOS 15 and up to iOS 16.1.2. Yes, I said iOS 16! No checkm8, jailbreak or anything, just using the MacDirtyCow exploit. \nThis is kind of a POC tester, but an actual tweak to iOS that works.\nReboot your device to revert the changes.\nStatus: ✅",
+    "iconURL": "https://cdn1.realmzer.xyz//Icon_60_3x-nC.png",
+    "tintColor": "314e8c",
+    "category": "other",
+    "version": "1.1",
+    "versionDate" : "2024-12-21",
+    "downloadURL": "https://cdn1.realmzer.xyz//Troll_Lock_1_1-tW.ipa",
+    "size": 999424,
+    "title": "TrollLock Reborn",
+    "versions": [
+      {
+        "version": "1.1",
+        "date" : "2024-12-21",
+        "downloadURL": "https://cdn1.realmzer.xyz//Troll_Lock_1_1-tW.ipa",
+        "size": 999424
       }
     ]
   },
