@@ -203,14 +203,40 @@
         }
       ]
     },
+        {
+      "beta": false,
+      "name": "NathanLR",
+      "bundleIdentifier": "com.nathan.nathanlr",
+      "developerName": "Nathan",
+      "subtitle": "Semi Jailbreak for iOS 16.5.1 to iOS 16.6.1+",
+      "description": "https://ios.cfw.guide/installing-nathanlr/\n\nSemi Jailbreak for iOS 16.5.1 to iOS 16.6.1\\nA12",
+      "localizedDescription": "https://ios.cfw.guide/installing-nathanlr/\n\nJailbreak for iOS 16.5.1 to iOS 16.6.1\\nA12",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4469-Th.jpeg",
+      "tintColor": "7EC865",
+      "category": "utilities",
+      "version": "1.1.4",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+      "size": 40330000,
+      "title": "NathanLR",
+      "url": "https://ios.cfw.guide/installing-nathanlr/",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "date": "2024-12-20",
+          "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+          "size": 40330000
+        }
+      ]
+    },
     {
       "beta": false,
       "name" : "Dopamine",
       "bundleIdentifier": "com.opa334.Dopamine",
       "developerName" : "opa334",
       "subtitle": "Jailbreak for iOS 16.0 to iOS 16.5.1",
-      "description": "Jailbreak for iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
-      "localizedDescription": "iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
+      "description": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper\n\nJailbreak for iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper\n\niOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//67ffxs_D-po.png",
       "tintColor": "acccd2",
       "category": "utilities",
@@ -219,7 +245,7 @@
       "downloadURL": "https://cdn1.realmzer.xyz//Dopamine-ZL.ipa",
       "size": 49696768,
       "title": "Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
+      "url": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper",
       "versions" : [
         {
           "version": "2.2.2",
@@ -235,8 +261,8 @@
       "bundleIdentifier": "com.coolstar.taurine",
       "developerName" : "Odyssey Team",
       "subtitle": "Jailbreak for iOS 14.0 to iOS 14.8.1.",
-      "description": "Jailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
-      "localizedDescription": "Jailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
+      "description": "https://ios.cfw.guide/installing-taurine/\n\nJailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-taurine/\n\nJailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//images_5_1-Ig.png",
       "tintColor": "d25171",
       "category": "utilities",
@@ -245,7 +271,7 @@
       "downloadURL": "https://cdn1.realmzer.xyz//Taurine_1_1_7_3-jL.ipa",
       "size": 32247808,
       "title": "Taurine",
-      "url": "https://taurine.app/",
+      "url": "https://ios.cfw.guide/installing-taurine/",
       "versions" : [
         {
           "version": "1.1.70-3",
