@@ -2474,6 +2474,81 @@
       ]
     },
     {
+      "beta": true,
+      "name" : "TrollBox",
+      "bundleIdentifier": "live.cclerc.trollbox",
+      "developerName" : "c22dev",
+      "subtitle": "A TrollStore app that embed all TrollStore tools",
+      "description": "A TrollStore app that compiles all TrollStore tools into one app!\nStatus: ✅🔵",
+      "localizedDescription": "A TrollStore app that compiles all TrollStore tools into one app!\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Untitled-Lo.png",
+      "tintColor": "d2802e",
+      "category": "utilities",
+      "version": "0.2",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Box-Fa.tipa",
+      "size": 26636288,
+      "title": "TrollBox",
+      "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Box-Fa.tipa",
+          "size": 26636288
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollBoard Reborn",
+      "bundleIdentifier": "com.haxi0.TrollBoard-Reborn",
+      "developerName" : "haxi0",
+      "subtitle": "TrollBoard, Reborned. A WebClips icon pack manager",
+      "description": "TrollBoard, Reborned. A WebClips icon pack manager. This app works only with TrollStore, it does not support KFD or MDC.\nThis is a remastered version of https://github.com/haxi0/TrollBoard (or known as MooBoard) aimed for stability.\nStatus: ✅🔵",
+      "localizedDescription": "TrollBoard, Reborned. A WebClips icon pack manager. This app works only with TrollStore, it does not support KFD or MDC.\nThis is a remastered version of https://github.com/haxi0/TrollBoard (or known as MooBoard) aimed for stability.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Troll_Board-jf.png",
+      "tintColor": "44c1f7",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Board_Reborn-1Y.ipa",
+      "size": 544768,
+      "title": "TrollBoard Reborn",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Board_Reborn-1Y.ipa",
+          "size": 544768
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollCuts",
+      "bundleIdentifier": "com.udevs.TrollCuts",
+      "developerName" : "udevsharold",
+      "subtitle": "Arbitrary entitled extensions for Shortcuts",
+      "description": "Shortcuts extensions for iOS 16.0+.\nIt leverages the ability of TrollStore to obtain arbitrary entitlements for binary and thus doing stuffs that normally sandboxed apps unable to.\nStatus: ✅🔵",
+      "localizedDescription": "Shortcuts extensions for iOS 16.0+.\nIt leverages the ability of TrollStore to obtain arbitrary entitlements for binary and thus doing stuffs that normally sandboxed apps unable to.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_3-Ge.png",
+      "tintColor": "ebac6f",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2024-12-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Cuts_v1_1-Yq.tipa",
+      "size": 532480,
+      "title": "TrollCuts",
+      "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Cuts_v1_1-Yq.tipa",
+          "size": 532480
+        }
+      ]
+    },
+    {
       "beta": false,
       "name" : "Pedometer++",
       "bundleIdentifier": "ccom.crossforward.pedometer",
