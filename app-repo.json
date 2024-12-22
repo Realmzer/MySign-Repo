@@ -2732,6 +2732,31 @@
     },
     {
       "beta": false,
+      "name" : "TrollAppDuplicator",
+      "bundleIdentifier": "com.zznq.trollappduplicator",
+      "developerName" : "BreakOnCrash",
+      "subtitle": "iOS App duplicator for TrollStore.",
+      "description": "iOS App duplicator for TrollStore, which makes it easier to copy apps (with a different bundleID).\nStatus: ✅🔵",
+      "localizedDescription": "iOS App duplicator for TrollStore, which makes it easier to copy apps (with a different bundleID).\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//6699df82735b410ca5abcb5e-49.png",
+      "tintColor": "76e0d5",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_App_Duplicator-wR.tipa",
+      "size": 180224,
+      "title": "TrollAppDuplicator",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_App_Duplicator-wR.tipa",
+          "size": 180224
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "TrollCuts",
       "bundleIdentifier": "com.udevs.TrollCuts",
       "developerName" : "udevsharold",
