@@ -2707,6 +2707,31 @@
     },
     {
       "beta": false,
+      "name" : "TrollFools Huami",
+      "bundleIdentifier": "com.huami.TrollFools",
+      "developerName" : "huami1314",
+      "subtitle": "A fork of TrollFools with additional features.",
+      "description": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_1-2v.png",
+      "tintColor": "d1bacb",
+      "category": "utilities",
+      "version": "2.7-11",
+      "versionDate" : "2024-12-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_7_11_huami-mr.tipa",
+      "size": 5173248,
+      "title": "TrollFools Huami",
+      "versions": [
+        {
+          "version": "2.7-11",
+          "date" : "2024-12-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_7_11_huami-mr.tipa",
+          "size": 5173248
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "TrollCuts",
       "bundleIdentifier": "com.udevs.TrollCuts",
       "developerName" : "udevsharold",
