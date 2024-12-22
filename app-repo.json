@@ -1762,19 +1762,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
       "tintColor": "ff2120",
       "category": "entertainment",
-      "version": "7.29.1",
-      "versionDate": "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_v7_26_1-Uc.ipa",
-      "size": 82607573,
+      "version": "7.31.3",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_7_31_3-05.ipa",
+      "size": 7770000,
       "title": "YTMusicUltimate",
       "url": "https://github.com/dayanch96/YTMusicUltimate",
       "versions": [
         {
-          "version": "7.26.1",
-          "date": "2024-11-27",
-          "localizedDescription": "*Move to light version of mobile-ffmpeg\n*Move downloading to native download button (#296)\n*Fix workflow issues (#301)",
-          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_v7_26_1-Uc.ipa",
-          "size": 82607573
+          "version": "7.31.3",
+          "date": "2024-12-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_7_31_3-05.ipa",
+          "size": 7770000
         }
       ]
     },
