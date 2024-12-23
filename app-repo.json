@@ -3833,6 +3833,31 @@
     },
     {
       "beta": false,
+      "name" : "WDBFontOverwrite",
+      "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
+      "developerName" : "ginsudev",
+      "subtitle": "Overwrite Fonts on iOS using TrollStore",
+      "description": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.\nStatus: ✅🔵",
+      "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_3-Yw.png",
+      "tintColor": "dadada",
+      "category": "utilities",
+      "version": "1.10.8",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//WDB_Font_Overwrite-Zz.ipa",
+      "size": 53493765349376,
+      "title": "WDBFontOverwrite",
+      "versions": [
+        {
+          "version": "1.10.8",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//WDB_Font_Overwrite-Zz.ipa",
+          "size": 5349376
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
@@ -3857,6 +3882,33 @@
         }
       ]
     },
+    {
+      "beta": false,
+      "name" : "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "developerName" : "LitRitt",
+      "subtitle": "A multi-core emulator front-end for iOS devices",
+      "description": "Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack.\nStatus: ✅🔥",
+      "localizedDescription": "Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack.\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Orange-lw.png",
+      "tintColor": "ff8100",
+      "category": "games",
+      "version": "1.10",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Ignited-zh.ipa",
+      "size": 63430656,
+      "title": "Ignited",
+      "url": "https://github.com/LitRitt/Ignited",
+      "versions" : [
+        {
+          "version": "1.10",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Ignited-zh.ipa",
+          "size": 63430656
+        }
+      ]
+    },
+    
     {
       "beta": false,
       "name": "Provenance",
@@ -4964,6 +5016,56 @@
         "date" : "2024-11-23",
         "downloadURL": "https://cdn1.realmzer.xyz//i_Torrent2013_2-y4.ipa",
         "size": 7028736
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "XPatcher",
+    "bundleIdentifier": "com.wh0ba.xpatcher",
+    "developerName" : "Wh0ba",
+    "subtitle": "GUI front-end for flips and xdelta patching libraries",
+    "description": "GUI front-end for flips, libppf, xdelta, and libRUP patching libraries\nThis app allows you to apply patches to files on your iOS devices, mostly used to apply rom hacks to video game romsWith a simple to use interface to make it as user-friendly as possible\nStatus: ✅",
+    "localizedDescription": "GUI front-end for flips, libppf, xdelta, and libRUP patching libraries\nThis app allows you to apply patches to files on your iOS devices, mostly used to apply rom hacks to video game romsWith a simple to use interface to make it as user-friendly as possible\nStatus: ✅",
+    "iconURL": "https://cdn1.realmzer.xyz//App_Icon60x60_3x_2-4I.png",
+    "tintColor": "ff7c81",
+    "category": "utilities",
+    "version": "2.2",
+    "versionDate" : "2024-12-23",
+    "downloadURL": "https://cdn1.realmzer.xyz//X_Patcher_2_2-xf.ipa",
+    "size": 360448,
+    "title": "XPatcher",
+    "versions": [
+      {
+        "version": "2.2",
+        "date" : "2024-12-23",
+        "downloadURL": "https://cdn1.realmzer.xyz//X_Patcher_2_2-xf.ipa",
+        "size": 360448
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "iSH",
+    "bundleIdentifier": "app.ish.ISH",
+    "developerName" : "ish-app",
+    "subtitle": "Linux shell for iOS",
+    "description": "A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.\nStatus: ✅",
+    "localizedDescription": "A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.\nStatus: ✅",
+    "iconURL": "https://cdn1.realmzer.xyz//Icon60x60_3x-1u.png",
+    "tintColor": "000000",
+    "category": "utilities",
+    "version": "1.3.2",
+    "versionDate" : "2024-12-23",
+    "downloadURL": "https://cdn1.realmzer.xyz//i_SH-Nw.ipa",
+    "size": 4235264,
+    "title": "iSH",
+    "versions": [
+      {
+        "version": "1.3.2",
+        "date" : "2024-12-23",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_SH-Nw.ipa",
+        "size": 4235264
       }
     ]
   },
