@@ -135,6 +135,32 @@
     },
     {
       "beta": false,
+      "name" : "mikotoX",
+      "bundleIdentifier": "com.straight-tamago.mikotoX",
+      "developerName" : "straight-tamago & little_34306",
+      "subtitle": "The Ultimate Customization Tool (iOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3)",
+      "description": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!\niOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3\nStatus: ✅",
+      "localizedDescription": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!\niOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//369179724_fa574df5_3baf_40ee_904f_5086f3ad2e8e-8i.png",
+      "tintColor": "13101f",
+      "category": "utilities",
+      "version": "1.3",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_straight_tamago_mikoto_X_v1_3-dW.ipa",
+      "size": 7901184,
+      "title": "mikotoX",
+      "url": "https://github.com/straight-tamago/mikotoX",
+      "versions" : [
+        {
+          "version": "1.3",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_straight_tamago_mikoto_X_v1_3-dW.ipa",
+          "size": 7901184
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "TrollInstallerX",
       "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "developerName" : "alfiecg24",
@@ -3777,6 +3803,31 @@
           "date" : "2024-12-23",
           "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_Pro_2_4-nG.ipa",
           "size": 3117056
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "NoHomeBar",
+      "bundleIdentifier": "com.straight-tamago.NoHomeBar",
+      "developerName" : "straight-tamago",
+      "subtitle": "Removes the Home Bar \niOS 14 - 16.1.2",
+      "description": "This app removes the little Home Bar at the bottom of the screen using the TrollStore method\niOS 14 - 16.1.2\nStatus: ✅🔵",
+      "localizedDescription": "This app removes the little Home Bar at the bottom of the screen using the TrollStore method\niOS 14 - 16.1.2\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//210449762_7eb77312_4982_44f2_881f_ff3edb29e17c-hL.jpeg",
+      "tintColor": "e15b9c",
+      "category": "utilities",
+      "version": "0.5",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//No_Home_Bar_0_5-Du.ipa",
+      "size": 774144,
+      "title": "NoHomeBar",
+      "versions": [
+        {
+          "version": "0.5",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//No_Home_Bar_0_5-Du.ipa",
+          "size": 774144
         }
       ]
     },
