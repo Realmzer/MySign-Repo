@@ -3107,6 +3107,56 @@
     },
     {
       "beta": false,
+      "name" : "TrollDecrypt",
+      "bundleIdentifier": "com.fiore.trolldecrypt",
+      "developerName" : "donato-fiore",
+      "subtitle": "iOS IPA Decrypter for TrollStore",
+      "description": "An app decryptor for TrollStore supported devices.\nStatus: ✅🔵",
+      "localizedDescription": "An app decryptor for TrollStore supported devices.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_ipad-hl.png",
+      "tintColor": "68bbff",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Decrypt-9I.tipa",
+      "size": 692224,
+      "title": "TrollDecrypt",
+      "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Decrypt-9I.tipa",
+          "size": 692224
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AppDump2",
+      "bundleIdentifier": "cn.gblw.AppsDump",
+      "developerName" : "gblw",
+      "subtitle": "Another App Decryptor",
+      "description": "AppDump2 is a user-friendly application designed for iOS devices, enabling users to effortlessly decrypt applications and store them as IPA packages.\nStatus: ✅🔵",
+      "localizedDescription": "AppDump2 is a user-friendly application designed for iOS devices, enabling users to effortlessly decrypt applications and store them as IPA packages.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//appdump2-8t.png",
+      "tintColor": "75edc9",
+      "category": "utilities",
+      "version": "2.0.7-1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//App_Dump2_0_7_1-8f.tipa",
+      "size": 991232,
+      "title": "AppDump2",
+      "versions": [
+        {
+          "version": "2.0.7-1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//App_Dump2_0_7_1-8f.tipa",
+          "size": 991232
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
