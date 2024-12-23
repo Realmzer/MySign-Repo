@@ -1,7 +1,3 @@
-# MSG TO WSF
-
-- You cannot take a joke my man, reporting someone over stupid shit like this is actually crazy coming from the smartest person 😭
-
 # Tutorial
 
 - Copy this https://raw.githubusercontent.com/Realmzer/MySign-Repo/refs/heads/main/app-repo.json
