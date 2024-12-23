@@ -10,9 +10,9 @@
 
 Star our repo if you find it useful! (Thank you)
 
-If you would like to contribute to this repository, ask us in our [discord server](https://discord.gg/hUK5m9MGFc)
+If you would like to request a IPA, ask for one in our [discord server](https://discord.gg/hUK5m9MGFc)
 
-# Status Legend
+# Status Legend for IPAs
 ✅ = Working
 
 ❌ = Not Working or discontinued
@@ -25,11 +25,11 @@ If you would like to contribute to this repository, ask us in our [discord serve
 
 💸 = Paid, not Cracked
 
-🔥 = Recommended by Developer's
+🔥 = Recommended by MySign
 
 🌟= Premium features unlocked
 
-# Reposters
+# IPA Reposters
 
 | **Reposter** | **Source** |
 |:-------------|------------------------------|
