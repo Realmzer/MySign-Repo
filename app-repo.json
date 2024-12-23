@@ -3082,6 +3082,31 @@
     },
     {
       "beta": false,
+      "name" : "Resolution Setter",
+      "bundleIdentifier": "com.michael.resolutionsetter",
+      "developerName" : "Halo-Michael",
+      "subtitle": "A resolution setter that uses TrollStore",
+      "description": "This app is a resolution changer that uses the TrollStore exploit but may break PIP.\nStatus: ✅🔵",
+      "localizedDescription": "This app is a resolution changer that uses the TrollStore exploit but may break PIP.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//noicon-IH.png",
+      "tintColor": "dbdbdb",
+      "category": "utilities",
+      "version": "1.3.0",
+      "versionDate" : "2024-12-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//resolutionsetter_1_3_0_trollstore-RS.ipa",
+      "size": 32768,
+      "title": "Resolution Setter",
+      "versions": [
+        {
+          "version": "1.3.0",
+          "date" : "2024-12-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//resolutionsetter_1_3_0_trollstore-RS.ipa",
+          "size": 32768
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
