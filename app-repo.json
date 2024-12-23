@@ -1007,6 +1007,23 @@
     },
     {
       "beta": false,
+      "name": "TrollStoreJITEnabler",
+      "bundleIdentifier": "com.realmzer.tsjitenabler",
+      "subtitle": "Allow JIT on TrollStore Installed Apps",
+      "description": "Basic Tweak to allow JIT on TrollStore Installed Apps\nStatus: ✅✨🔵",
+      "localizedDescription": "Basic Tweak to allow JIT on TrollStore Installed Apps\nStatus: ✅✨🔵",
+      "developerName": "Rednick16",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "31d2f7",
+      "category": "dylib",
+      "size": 151552,
+      "version": "1.1.0",
+      "versionDate": "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Store_JIT_Enabler-oO.dylib",
+      "title": "TrollStoreJITEnabler"
+    },
+    {
+      "beta": false,
       "name" : "Frida Code Manager (Root-Hide)",
       "bundleIdentifier": "com.sparklechan.swiftyrh",
       "developerName": "fridakitten",
@@ -3233,6 +3250,31 @@
     },
     {
       "beta": false,
+      "name" : "TrollRecorder",
+      "bundleIdentifier": "wiki.qaq.trapp",
+      "developerName" : "Lessica",
+      "subtitle": "Phone Call Recorder using TrollStore",
+      "description": "(i18n/CLI) Not the first, but the best phone call recorder with TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "(i18n/CLI) Not the first, but the best phone call recorder with TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//6669b3b45e7d7e36f189dc6d-Zr.png",
+      "tintColor": "223155",
+      "category": "utilities",
+      "version": "2.12",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_12_521-BJ.tipa",
+      "size": 5537792,
+      "title": "TrollRecorder",
+      "versions": [
+        {
+          "version": "2.12",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_12_521-BJ.tipa",
+          "size": 5537792
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Evyrest",
       "bundleIdentifier": "net.sourceloc.evyrest",
       "developerName" : "sourcelocation",
@@ -3253,6 +3295,56 @@
           "date" : "2024-12-23",
           "downloadURL": "https://cdn1.realmzer.xyz//Evyrest_0_1-qG.tipa",
           "size": 10715136
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollStoreRemoteHelper",
+      "bundleIdentifier": "chaoge.TrollStoreRemoteHelper",
+      "developerName" : "lich4",
+      "subtitle": "Install IPA via WiFi for trollstore-app-developer",
+      "description": "This tool is used to install tipa easily, integrated with XCode script.\nAfter installing TrollStoreRemoteHelper.tipa(use airdrop or url way), you can even login into iDevice via ssh without jailbreak. \nSupport all environment with TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "This tool is used to install tipa easily, integrated with XCode script.\nAfter installing TrollStoreRemoteHelper.tipa(use airdrop or url way), you can even login into iDevice via ssh without jailbreak. \nSupport all environment with TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_1024-q7.png",
+      "tintColor": "feb702",
+      "category": "utilities",
+      "version": "1.4",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Store_Remote_Helper-NF.tipa",
+      "size": 14127104,
+      "title": "TrollStoreRemoteHelper",
+      "versions": [
+        {
+          "version": "1.4",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Store_Remote_Helper-NF.tipa",
+          "size": 14127104
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "SuperIcons",
+      "bundleIdentifier": "com.huami.SuperIcons",
+      "developerName" : "huami1314",
+      "subtitle": "Utilty for Replacing TrollStore's app icons",
+      "description": "This is a tool for replacing TrollStore's app icons\nStatus: ✅🔵",
+      "localizedDescription": "This is a tool for replacing TrollStore's app icons\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//appstore-iR.png",
+      "tintColor": "c3c8eb",
+      "category": "utilities",
+      "version": "2.1-4",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Super_Icons-xU.tipa",
+      "size": 2359296,
+      "title": "SuperIcons",
+      "versions": [
+        {
+          "version": "2.1-4",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Super_Icons-xU.tipa",
+          "size": 2359296
         }
       ]
     },
