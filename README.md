@@ -59,4 +59,4 @@ If you would like to request a IPA, ask for one in our [discord server](https://
 | [IAppsBestLibrary](https://t.me/IAppsBestLibrary) | [iOS Tutorials + App Cracks](https://t.me/iOS_Randy420) |
 | [iexmo](https://iexmo.com/ipastore/) **(CLONE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [ipalibrary.me](https://ipalibrary.me) |
 | [shuyuan](https://github.com/shidahuilang/shuyuan) **(CLONE)** | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) |
-| [ThuthuatJB](https://ipa.thuthuatjb.com/) | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IP
+| [ThuthuatJB](https://ipa.thuthuatjb.com/) | [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IP)
