@@ -3350,6 +3350,56 @@
     },
     {
       "beta": false,
+      "name" : "CarMovie",
+      "bundleIdentifier": "jp.dcsyhi.CarMovie",
+      "developerName" : "Dcsyhi1998",
+      "subtitle": "Play your favorite videos through CarPlay",
+      "description": "CarMovie TrollStore App🎉 Play your favorite videos through CarPlay.📹\nStatus: ✅🔵",
+      "localizedDescription": "CarMovie TrollStore App🎉 Play your favorite videos through CarPlay.📹\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0072-1Z.png",
+      "tintColor": "e48337",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Car_Movie-mV.tipa",
+      "size": 2236416,
+      "title": "CarMovie",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Car_Movie-mV.tipa",
+          "size": 2236416
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AirWall",
+      "bundleIdentifier": "jp.dcsyhi.airwall",
+      "developerName" : "Dcsyhi1998",
+      "subtitle": "Change your CarPlay wallpaper",
+      "description": "AirWall v1.0 TrollStore App🎉 Change your CarPlay wallpaper 😎\nStatus: ✅🔵",
+      "localizedDescription": "CAirWall v1.0 TrollStore App🎉 Change your CarPlay wallpaper 😎\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0073-Wx.png",
+      "tintColor": "d76f30",
+      "category": "utilities",
+      "version": "1.5",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Air_Wall_v1_5-dW.ipa",
+      "size": 393216,
+      "title": "AirWall",
+      "versions": [
+        {
+          "version": "1.5",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Air_Wall_v1_5-dW.ipa",
+          "size": 393216
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
