@@ -2982,6 +2982,31 @@
     },
     {
       "beta": false,
+      "name" : "ModMyIPA",
+      "bundleIdentifier": "com.powen.ModMyIPA",
+      "developerName" : "powenn",
+      "subtitle": "An app that modifies IPA files",
+      "description": "An app that modifies IPA files allows you to install the same app multiple times\nStatus: ✅🔵",
+      "localizedDescription": "An app that modifies IPA files allows you to install the same app multiple times\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_6-yM.png",
+      "tintColor": "fb5d6f",
+      "category": "utilities",
+      "version": "1.0.2",
+      "versionDate" : "2024-12-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Mod_My_IPA_1_0_2-0o.ipa",
+      "size": 2449408,
+      "title": "ModMyIPA",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date" : "2024-12-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Mod_My_IPA_1_0_2-0o.ipa",
+          "size": 2449408
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
