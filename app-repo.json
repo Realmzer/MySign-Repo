@@ -3400,6 +3400,81 @@
     },
     {
       "beta": false,
+      "name" : "ValidationRelay",
+      "bundleIdentifier": "dev.jjtech.experiments.ValidationRelay",
+      "developerName" : "JJTech0130",
+      "subtitle": "TrollStore app to relay Validation Data for OpenBubbles",
+      "description": "TrollStore app to relay Validation Data for OpenBubbles\nStatus: ✅🔵",
+      "localizedDescription": "TrollStore app to relay Validation Data for OpenBubbles\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//i_OS_App_icon_6-97.png",
+      "tintColor": "ffd5b4",
+      "category": "utilities",
+      "version": "1.8",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Validation_Relay-kr.tipa",
+      "size": 282624,
+      "title": "ValidationRelay",
+      "versions": [
+        {
+          "version": "1.8",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Validation_Relay-kr.tipa",
+          "size": 282624
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Blossom",
+      "bundleIdentifier": "com.inyourwalls.blossom",
+      "developerName" : "inyourwalls",
+      "subtitle": "Live wallpapers using TrollStore (iOS 17.0 Only)",
+      "description": "Live wallpapers [TrollStore, without jailbreak, iOS 17.0]\nStatus: ✅🔵",
+      "localizedDescription": "Live wallpapers [TrollStore, without jailbreak, iOS 17.0]\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//New_Project-F0.png",
+      "tintColor": "e970a8",
+      "category": "utilities",
+      "version": "1.0.4",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Blossom-Ma.tipa",
+      "size": 26091520,
+      "title": "Blossom",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Blossom-Ma.tipa",
+          "size": 26091520
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Batteried",
+      "bundleIdentifier": "com.34306.waifuts",
+      "developerName" : "34306",
+      "subtitle": "Put your GIF icon into your battery using TrollStore",
+      "description": "Put your GIF icon into your battery using TrollStore\nStatus: ✅🔵",
+      "localizedDescription": "Put your GIF icon into your battery using TrollStore\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0074-Gi.png",
+      "tintColor": "00dc50",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//batteried_1_0_1-ll.tipa",
+      "size": 1814528,
+      "title": "Batteried",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//batteried_1_0_1-ll.tipa",
+          "size": 1814528
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
