@@ -3918,13 +3918,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Orange-lw.png",
       "tintColor": "ff8100",
       "category": "games",
-      "version": "1.10",
+      "version": "1.11.1",
       "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Ignited-zh.ipa",
-      "size": 63430656,
+      "downloadURL": "https://cdn1.realmzer.xyz//Ignited_1_11_1_decrypted-cz.ipa",
+      "size": 102961152,
       "title": "Ignited",
       "url": "https://github.com/LitRitt/Ignited",
       "versions" : [
+        {
+          "version": "1.11.1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Ignited_1_11_1_decrypted-cz.ipa",
+          "size": 102961152
+        },
         {
           "version": "1.10",
           "date" : "2024-12-23",
