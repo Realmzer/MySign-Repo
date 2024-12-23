@@ -3434,12 +3434,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//New_Project-F0.png",
       "tintColor": "e970a8",
       "category": "utilities",
-      "version": "1.0.4",
+      "version": "1.1",
       "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Blossom-Ma.tipa",
-      "size": 26091520,
+      "downloadURL": "https://cdn1.realmzer.xyz//Blossom_1_1-Ba.tipa",
+      "size": 1175552,
       "title": "Blossom",
       "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Blossom_1_1-Ba.tipa",
+          "size": 1175552
+        },
         {
           "version": "1.0.4",
           "date" : "2024-12-23",
@@ -3470,6 +3476,56 @@
           "date" : "2024-12-23",
           "downloadURL": "https://cdn1.realmzer.xyz//batteried_1_0_1-ll.tipa",
           "size": 1814528
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollStoreHelperHelper",
+      "bundleIdentifier": "ca.bomberfish.TrollStoreHelperHelper",
+      "developerName" : "BomberFish",
+      "subtitle": "Install TrollStore with MacDirtyCow iOS 16.0-16.1.2.",
+      "description": "This is a install method for installing using MacDirtyCow exploit\niOS 16.0-16.1.2\nStatus: ✅🔵",
+      "localizedDescription": "This is a install method for installing using MacDirtyCow exploit\niOS 16.0-16.1.2\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_1024-q7.png",
+      "tintColor": "fabf09",
+      "category": "utilities",
+      "version": "1.0.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//TS_Helper_Helper-Hx.ipa",
+      "size": 446464,
+      "title": "TrolStoreHelperHelper",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//TS_Helper_Helper-Hx.ipa",
+          "size": 446464
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "RebootTools",
+      "bundleIdentifier": "com.developlab.RebootTools",
+      "developerName" : "DevelopCubeLab",
+      "subtitle": "iOS Utils TrollStore App reboot your device",
+      "description": "iOS Utils TrollStore App reboot your device\n⚠️Need install via TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "iOS Utils TrollStore App reboot your device\n⚠️Need install via TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon60x60_3x_1-1Y.png",
+      "tintColor": "32a5e7",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Reboot_Tools_1_2-ry.tipa",
+      "size": 135168,
+      "title": "RebootTools",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Reboot_Tools_1_2-ry.tipa",
+          "size": 135168
         }
       ]
     },
