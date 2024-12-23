@@ -3707,6 +3707,81 @@
     },
     {
       "beta": false,
+      "name" : "NoCameraSound",
+      "bundleIdentifier": "com.straight-tamago.NoCameraSound",
+      "developerName" : "straight-tamago",
+      "subtitle": "Disable the Camera Sound",
+      "description": "A utility to disable the camera shutter sound using TS & CVE-2022-46689\nStatus: ✅🔵",
+      "localizedDescription": "A utility to disable the camera shutter sound using TS & CVE-2022-46689\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_1-rA.png",
+      "tintColor": "a2daee",
+      "category": "utilities",
+      "version": "5.8",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//No_Camera_Sound_5_8-gg.ipa",
+      "size": 1744896,
+      "title": "NoCameraSound",
+      "versions": [
+        {
+          "version": "5.8",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//No_Camera_Sound_5_8-gg.ipa",
+          "size": 1744896
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "FileSwitcherX",
+      "bundleIdentifier": "com.straight-tamago.FileSwitcherX",
+      "developerName" : "straight-tamago",
+      "subtitle": "Tweak System Settings without Jailbreak using TrollStore",
+      "description": "This is a tool that allows you to tweak some system settings like system sounds using CVE-2022-46689 & TrollStore\nStatus: ✅🔵",
+      "localizedDescription": "This is a tool that allows you to tweak some system settings like system sounds using CVE-2022-46689 & TrollStore\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_2-KU.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1.7-final",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_X_1_7-oj.ipa",
+      "size": 2478080,
+      "title": "FileSwitcherX",
+      "versions": [
+        {
+          "version": "1.7-final",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_X_1_7-oj.ipa",
+          "size": 2478080
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "FileSwitcherPro",
+      "bundleIdentifier": "com.straight-tamago.FileSwitcherPro",
+      "developerName" : "straight-tamago",
+      "subtitle": "Tweak System Settings TrollStore (iOS 14.0-15.7.1 & 16.0-16.1.2)",
+      "description": "This is a better version of FileSwitcherX using TrollStore (iOS 14.0-15.7.1 & 16.0-16.1.2)\nStatus: ✅🔵",
+      "localizedDescription": "This is a better version of FileSwitcherX using TrollStore (iOS 14.0-15.7.1 & 16.0-16.1.2)\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Screenshot_2024_12_23_143317-kd.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "2.4",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_Pro_2_4-nG.ipa",
+      "size": 3117056,
+      "title": "FileSwitcherPro",
+      "versions": [
+        {
+          "version": "2.4",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_Pro_2_4-nG.ipa",
+          "size": 3117056
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
