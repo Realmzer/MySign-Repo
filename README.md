@@ -1,4 +1,12 @@
-# MySigns IPA Repository
+# Tutorial
+
+- Copy this https://raw.githubusercontent.com/Realmzer/MySign-Repo/refs/heads/main/app-repo.json
+- Open your IPA signer and head to where you would add a repostiory (repostiories are JSON files that contain info that your IPA signer reads and displays)
+- Click add repository (repositories are also called repos)
+- Paste in the repo url
+- Reopen your signer and you should see MySign in your repo list
+
+# MySign IPA Repository
 
 Star our repo if you find it useful! (Thank you)
 
