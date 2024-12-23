@@ -3208,6 +3208,56 @@
     },
     {
       "beta": false,
+      "name" : "OpenPicasso",
+      "bundleIdentifier": "net.sourceloc.Picasso",
+      "developerName" : "sourcelocation",
+      "subtitle": "Customization Toolbox for arm64e iOS 15.0-16.6b1",
+      "description": "Customization. Beyond.\nA Jailed toolbox application for ALL arm64e iPhones runnning iOS 15.0 - 15.7.1, 16.0 - 16.5, 16.6b1 using KFD exploit and TrollStore 2.\nStatus: ✅🔵",
+      "localizedDescription": "Customization. Beyond.\nA Jailed toolbox application for ALL arm64e iPhones runnning iOS 15.0 - 15.7.1, 16.0 - 16.5, 16.6b1 using KFD exploit and TrollStore 2.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Group_2-uR.png",
+      "tintColor": "4fffcb",
+      "category": "utilities",
+      "version": "3.1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Picasso_v3_1-Rb.ipa",
+      "size": 5160960,
+      "title": "OpenPicasso",
+      "versions": [
+        {
+          "version": "3.1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Picasso_v3_1-Rb.ipa",
+          "size": 5160960
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Evyrest",
+      "bundleIdentifier": "net.sourceloc.evyrest",
+      "developerName" : "sourcelocation",
+      "subtitle": "Automatic wallpaper changer",
+      "description": "An automatic wallpaper changer for TrollStore supported devices.\nStatus: ✅🔵",
+      "localizedDescription": "An automatic wallpaper changer for TrollStore supported devices.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Artboard_2-P8.png",
+      "tintColor": "8fc6d3",
+      "category": "utilities",
+      "version": "0.1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Evyrest_0_1-qG.tipa",
+      "size": 10715136,
+      "title": "Evyrest",
+      "versions": [
+        {
+          "version": "0.1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Evyrest_0_1-qG.tipa",
+          "size": 10715136
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
