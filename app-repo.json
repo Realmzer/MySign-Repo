@@ -3837,15 +3837,15 @@
       "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
       "developerName" : "ginsudev",
       "subtitle": "Overwrite Fonts on iOS using TrollStore",
-      "description": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.\nStatus: ✅🔵",
-      "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.\nStatus: ✅🔵",
+      "description": "Proof-of-concept app to overwrite fonts on iOS using TrollStore & CVE-2022-46689.\nStatus: ✅🔵",
+      "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using TrollStore & CVE-2022-46689.\nStatus: ✅🔵",
       "iconURL": "https://cdn1.realmzer.xyz//1024_3-Yw.png",
       "tintColor": "dadada",
       "category": "utilities",
       "version": "1.10.8",
       "versionDate" : "2024-12-23",
       "downloadURL": "https://cdn1.realmzer.xyz//WDB_Font_Overwrite-Zz.ipa",
-      "size": 53493765349376,
+      "size": 5349376,
       "title": "WDBFontOverwrite",
       "versions": [
         {
@@ -3853,6 +3853,31 @@
           "date" : "2024-12-23",
           "downloadURL": "https://cdn1.realmzer.xyz//WDB_Font_Overwrite-Zz.ipa",
           "size": 5349376
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "CAPerfHUDSwift",
+      "bundleIdentifier": "ca.bomberfish.CAPerfHudSwift",
+      "developerName" : "BomberFish",
+      "subtitle": "CAPerfHUD alternative written in Swift",
+      "description": "CAPerfHUD alternative written in Swift using the CVE-2022-46689 Exploit & TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "CAPerfHUD alternative written in Swift using the CVE-2022-46689 Exploit & TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Quartz_Debug_Icon_white-8L.png",
+      "tintColor": "95a8c4",
+      "category": "utilities",
+      "version": "1.0.2",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//CA_Perf_HUD_Swift-Ci.tipa",
+      "size": 1060864,
+      "title": "CAPerfHUDSwift",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//CA_Perf_HUD_Swift-Ci.tipa",
+          "size": 1060864
         }
       ]
     },
