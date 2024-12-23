@@ -1,0 +1,1896 @@
+{
+  "name": "MySign IPA Repository",
+  "identifier": "realmzer.ipa.source",
+  "apps": [
+    {
+      "name": "Postbox",
+      "bundleIdentifier": "",
+      "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place./nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//app_Icon_Site-KH.png",
+      "version": "8.1",
+      "versionDate": "",
+      "size": 8503296
+    },
+    {
+      "name": "Sparsebox",
+      "bundleIdentifier": "",
+      "localizedDescription": "Tutorial: bit.ly/sparsebox\n\nFeatures\nBypass SideStore/AltStore 3 app limit\nAction Button\nAlways on Display (18.0+)\nApple Intelligence\nCamera button (18.0rc+)\nCharge limit\nDynamic Island\nStage Manager\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1-7T.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//file-PW.png",
+      "version": "0.1-2940d11",
+      "versionDate": "",
+      "size": 7274496
+    },
+    {
+      "name": "PureKFD",
+      "bundleIdentifier": "",
+      "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 \u0026 6, a computer is needed for app setup\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Pure_KFD-ZN.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4462-bC.png",
+      "version": "6.0.2",
+      "versionDate": "",
+      "size": 11000000
+    },
+    {
+      "name": "Nugget",
+      "bundleIdentifier": "",
+      "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 \u0026 6, a computer is needed for app setup\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Nugget_4-Be.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//nugget-nD.png",
+      "version": "2.0.1",
+      "versionDate": "",
+      "size": 7680000
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "",
+      "localizedDescription": "https://ios.cfw.guide/installing-trollstore\n\nTrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Installer_X-Qn.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//l_Qt6_Wq_H-q7.png",
+      "version": "1.0.3",
+      "versionDate": "",
+      "size": 6889472
+    },
+    {
+      "name": "TrollTrollStore",
+      "bundleIdentifier": "",
+      "localizedDescription": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Troll_Store_My_Sign-Ra.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4095-FQ.jpeg",
+      "version": "2.1",
+      "versionDate": "",
+      "size": 3470000
+    },
+    {
+      "name": "NathanLR",
+      "bundleIdentifier": "",
+      "localizedDescription": "https://ios.cfw.guide/installing-nathanlr/\n\nSemi Jailbreak for iOS 16.5.1 to iOS 16.6.1, A12+",
+      "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4469-Th.jpeg",
+      "version": "1.1.4",
+      "versionDate": "",
+      "size": 40330000
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "",
+      "localizedDescription": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper\n\nJailbreak for iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dopamine-ZL.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//67ffxs_D-po.png",
+      "version": "2.2.2",
+      "versionDate": "",
+      "size": 49696768
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "",
+      "localizedDescription": "https://ios.cfw.guide/installing-taurine/\n\nJailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Taurine_1_1_7_3-jL.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//images_5_1-Ig.png",
+      "version": "1.1.7-3",
+      "versionDate": "",
+      "size": 32247808
+    },
+    {
+      "name": "Odyssey",
+      "bundleIdentifier": "",
+      "localizedDescription": "https://ios.cfw.guide/installing-odyssey/\n\nJailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Odyssey_1_4_3-HY.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4248-N4.png",
+      "version": "1.4.3",
+      "versionDate": "",
+      "size": 25940000
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "",
+      "localizedDescription": "https://ios.cfw.guide/installing-unc0ver/\n\nJailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//unc0ver_Release_8_0_2-sI.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_App_60x60_3x-Lv.png",
+      "version": "8.0.2",
+      "versionDate": "",
+      "size": 54493184
+    },
+    {
+      "name": "Misaka",
+      "bundleIdentifier": "",
+      "localizedDescription": "Misaka lets you customise your phone without a jailbreak.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//misaka_v8_2_4-oy.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//3_Ce7_c0d_400x400-aQ.png",
+      "version": "8.2.4",
+      "versionDate": "",
+      "size": 30744576
+    },
+    {
+      "name": "Cowabunga",
+      "bundleIdentifier": "",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cowabunga-Du.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//215552092_9dc1e029_da35_43da_867f_17279e3dc180_4_O-yn.png",
+      "version": "10.3.2",
+      "versionDate": "",
+      "size": 16289792
+    },
+    {
+      "name": "LiveContainer 3.1.0",
+      "bundleIdentifier": "",
+      "localizedDescription": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//livecontainer-XV.png",
+      "version": "3.1.0",
+      "versionDate": "",
+      "size": 2899968
+    },
+    {
+      "name": "ESign No Logs",
+      "bundleIdentifier": "",
+      "localizedDescription": "The best no PC iOS sideloader\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//E_Sign_V5_0_2_No_Logs-SQ.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//esign-AO.png",
+      "version": "5.0.2",
+      "versionDate": "",
+      "size": 7245924
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_1_3-6B.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4464-W4.jpeg",
+      "version": "1.1.3",
+      "versionDate": "",
+      "size": 12496896
+    },
+    {
+      "name": "GBox",
+      "bundleIdentifier": "",
+      "localizedDescription": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nWARNING: This app probably tracks you, just use E-Sign.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_6_9-j6.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon256-9a.png",
+      "version": "5.6.9",
+      "versionDate": "",
+      "size": 6766592
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "",
+      "localizedDescription": "Scarlet is a iOS signer that doesn't need a pc and doesnt have a app limit\nWARNING: Easily gets revoked, just use E-Sign\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Scarlet_Alpha_1-v8.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//community_Icon_hp7dhjnmr58b1-OB.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 15515648
+    },
+    {
+      "name": "Minipaper",
+      "bundleIdentifier": "",
+      "localizedDescription": "A very good but simple wallpaper editor\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//design_jli_minipaper_2_5_3-WA.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4414-H3.png",
+      "version": "2.5.3",
+      "versionDate": "",
+      "size": 72820000
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM-zF.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//utm-el.png",
+      "version": "4.5.4",
+      "versionDate": "",
+      "size": 122064896
+    },
+    {
+      "name": "UTM SE",
+      "bundleIdentifier": "",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM_SE-sW.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//utm-el.png",
+      "version": "4.5.4",
+      "versionDate": "",
+      "size": 217464832
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "",
+      "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Old_OS-ia.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//D_Gy5_hww_400x400-uJ.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 88174592
+    },
+    {
+      "name": "LocalSend",
+      "bundleIdentifier": "",
+      "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_15_4-VP.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//localsend-q5.png",
+      "version": "1.15.4",
+      "versionDate": "",
+      "size": 16416768
+    },
+    {
+      "name": "Anonycord",
+      "bundleIdentifier": "",
+      "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Anonycord-3E.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//2024_08_07_04s_Kleki-Us.png",
+      "version": "1.2",
+      "versionDate": "",
+      "size": 1392905
+    },
+    {
+      "name": "iPlistGen",
+      "bundleIdentifier": "",
+      "localizedDescription": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//dev_casp_i_Plist_Gen_1_0-8T.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//images_3-0X.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 389728
+    },
+    {
+      "name": "Circlefy",
+      "bundleIdentifier": "",
+      "localizedDescription": "Circlefy is compatible with iOS 17 \u0026 18, arm64e+.\nApplications modified by Circlefy will not work when installed with TrollStore.\nStatus: ✅",
+      "downloadURL": "https://github.com/AppInstalleriOSGH/Circlefy/raw/refs/heads/main/Circlefy.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//noicon-IH.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 158890
+    },
+    {
+      "name": "Azula",
+      "bundleIdentifier": "",
+      "localizedDescription": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
+      "downloadURL": "https://cdn1.realmzer.xyz//Azula-ud.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Azula-Hu.png",
+      "version": "1.0.1",
+      "versionDate": "",
+      "size": 1536000
+    },
+    {
+      "name": "WDB-Remove-Three-App-Limit",
+      "bundleIdentifier": "",
+      "localizedDescription": "Removes three app limit. (iOS 16.1.2 \u0026 lower)\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//WDB_Remove_Three_App_Limit_v1_0-IG.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//noicon-IH.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 32768
+    },
+    {
+      "name": "Feedback Assistant",
+      "bundleIdentifier": "",
+      "localizedDescription": "App for sending feedback to Apple.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Feedback_Assistant_i_OS-eG.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4463-A4.jpeg",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 1544192
+    },
+    {
+      "name": "Barcode Scanner",
+      "bundleIdentifier": "",
+      "localizedDescription": "A barcode scanner official from Apple\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Barcode_Scanner-tz.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//barcodescanner-Oi.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 184903
+    },
+    {
+      "name": "Sideload Bypass (1)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Sideloadbypass1-aX.dylib",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 204800
+    },
+    {
+      "name": "Sideload Bypass (2)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Sideloadbypass2-lR.dylib",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 86016
+    },
+    {
+      "name": "iOS Gods iAP Cracker",
+      "bundleIdentifier": "",
+      "localizedDescription": "Although this is a nice tweak, LocaliApStore does not work for some games such as Borderlands \u0026 the new Batman game but this tweak does!\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz/i_OS_Gods_com_i_AP_Cracker_0_0_1_1_debug_iphoneos_arm-Cg.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//iitsk_FB-nl.png",
+      "version": "0.0.1",
+      "versionDate": "",
+      "size": 4096
+    },
+    {
+      "name": "CA-High-FPS",
+      "bundleIdentifier": "",
+      "localizedDescription": "Unlocks some apps FPS\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz/com_ps_cahighfps_1_3_1_iphoneos_arm64-9E.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.3.1",
+      "versionDate": "",
+      "size": 8192
+    },
+    {
+      "name": "JailedSpeedAds",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tweak that makes the playback of Ads way faster essentially making it an adblocker.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_34306_adspeed_2_0_iphoneos_arm64-qf.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "2.0",
+      "versionDate": "",
+      "size": 8192
+    },
+    {
+      "name": "SatellaJailed",
+      "bundleIdentifier": "",
+      "localizedDescription": "Allows you to get free IAP in some apps while sideloading.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Satella_Jailed-MO.dylib",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 8331776
+    },
+    {
+      "name": "Autoclicker",
+      "bundleIdentifier": "",
+      "localizedDescription": "This tweak adds an autoclicker to injected apps.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Autoclicker-9o.dylib",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 991232
+    },
+    {
+      "name": "Julioverne Adblock",
+      "bundleIdentifier": "",
+      "localizedDescription": "Adds an adblock to applications of your choice.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_julioverne_adblock_0_2_beta1_iphoneos_arm-A0.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "0.2-beta-1",
+      "versionDate": "",
+      "size": 12288
+    },
+    {
+      "name": "Sideload Keychain Fix",
+      "bundleIdentifier": "",
+      "localizedDescription": "Blocks some apps sideloading protections and adds a keychain fix.\nStatus: ❔✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Sideload_Keychain_Fix-Xh.dylib",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 73728
+    },
+    {
+      "name": "autoRevenueCat",
+      "bundleIdentifier": "",
+      "localizedDescription": "Automatically unlock most revenuecat-based apps!\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Revenue_Cat-NY.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "2.4.1",
+      "versionDate": "",
+      "size": 12288
+    },
+    {
+      "name": "AllFLEXing",
+      "bundleIdentifier": "",
+      "localizedDescription": "Open FLEX anywhere! Long press status bar or 3-finger long press anywhere on screen to activate.\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//All_FLE_Xing-LK.dylib",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 3481600
+    },
+    {
+      "name": "SponsorBlock YT Music",
+      "bundleIdentifier": "",
+      "localizedDescription": "Skip non-music segments\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_dvntm_ytmsponsorblock_0_0_1_iphoneos_arm-gQ.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "version": "0.1",
+      "versionDate": "",
+      "size": 40960
+    },
+    {
+      "name": "Frida Code Manager (Root-Hide)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_roothide1_6.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 3166208
+    },
+    {
+      "name": "Frida Code Manager (Root-Hide) v1.6",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_roothide1_6.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 70615040
+    },
+    {
+      "name": "Frida Code Manager (Root-Less)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_rootless1_6.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 3166104
+    },
+    {
+      "name": "Frida Code Manager (Root-Less) v1.6",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_rootless1_6.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 70615040
+    },
+    {
+      "name": "Frida Code Manager (Stock Alpha)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_stock_alpha1_6-ud.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 66809856
+    },
+    {
+      "name": "Frida Code Manager (Stock Alpha) v1.6",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_stock_alpha1_6-ud.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 70615040
+    },
+    {
+      "name": "Frida Code Manager (TrollStore)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_trollstore1_6-Fr.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 70615040
+    },
+    {
+      "name": "Frida Code Manager (TrollStore) v1.6",
+      "bundleIdentifier": "",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_trollstore1_6-Fr.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 70615040
+    },
+    {
+      "name": "Filza TrollStore",
+      "bundleIdentifier": "",
+      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Filza_No_URL_Scheme_4_0_2-Dz.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//cydia_1900000088_icon-Wa.png",
+      "version": "4.0.2",
+      "versionDate": "",
+      "size": 13893632
+    },
+    {
+      "name": "Filza Escaped 16",
+      "bundleIdentifier": "",
+      "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor,\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Filza_Escaped16-Dh.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//cydia_1900000088_icon-Wa.png",
+      "version": "16",
+      "versionDate": "",
+      "size": 14651392
+    },
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Enmity_2-0k.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//enmity-2C.png",
+      "version": "2.2.6-12-6-2024",
+      "versionDate": "2024-12-06",
+      "size": 102019072
+    },
+    {
+      "name": "Revenge",
+      "bundleIdentifier": "",
+      "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Revenge-OW.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_5351-BY.png",
+      "version": "250.0",
+      "versionDate": "2024-11-21",
+      "size": 101220352
+    },
+    {
+      "name": "Bunny Discord",
+      "bundleIdentifier": "",
+      "localizedDescription": "This is one of the best Discord modifications with support for most plugins.\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-jA.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
+      "version": "259.0",
+      "versionDate": "",
+      "size": 93876224
+    },
+    {
+      "name": "StossyCord",
+      "bundleIdentifier": "",
+      "localizedDescription": "A Swift based discord client by Stossy11\nStatus: ✅",
+      "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Stossycord-LD.png",
+      "version": "224.0",
+      "versionDate": "",
+      "size": 96468992
+    },
+    {
+      "name": "Swiftgram",
+      "bundleIdentifier": "",
+      "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_5_1_eeveedecrypter-vO.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//swiftgram-lS.png",
+      "version": "11.5.1",
+      "versionDate": "",
+      "size": 77078528
+    },
+    {
+      "name": "Twitch No Ads",
+      "bundleIdentifier": "",
+      "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_5adfreemoefix-UM.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
+      "version": "22.5",
+      "versionDate": "",
+      "size": 101629952
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "",
+      "localizedDescription": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_0-Gk.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
+      "version": "9.0.0",
+      "versionDate": "",
+      "size": 85000000
+    },
+    {
+      "name": "SpotC++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_8_v9_0_2-tW.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Spot_C_App_Icon-vE.png",
+      "version": "2.3.8",
+      "versionDate": "",
+      "size": 78995456
+    },
+    {
+      "name": "SpotilifeC",
+      "bundleIdentifier": "",
+      "localizedDescription": "Compiled Spotilife IPA's.\nStatus: ❌",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spotilife_C_v1_2_3_v8_6_42-21.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
+      "version": "1.2.3",
+      "versionDate": "",
+      "size": 49106944
+    },
+    {
+      "name": "SpotveeC",
+      "bundleIdentifier": "",
+      "localizedDescription": "Compiled EeveeSpotify IPA's.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_2_8_v9_0_2-an.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
+      "version": "3.2.8",
+      "versionDate": "",
+      "size": 78618624
+    },
+    {
+      "name": "Reddit RedditFilter",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥",
+      "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//unnamed_7-5Z.png",
+      "version": "1.1.6",
+      "versionDate": "",
+      "size": 195238232
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "",
+      "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_christianselig_Apollo_1_15_11_78653_patched_nofix-Eb.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//apollo-FI.png",
+      "version": "1.15.11_1.2.1",
+      "versionDate": "2024-12-20",
+      "size": 108564480
+    },
+    {
+      "name": "TikTokAC",
+      "bundleIdentifier": "",
+      "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: @SultanModsIPAs",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tokv37_8_0_AC_2_0moefixed-WI.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
+      "version": "37.8.0",
+      "versionDate": "",
+      "size": 354717696
+    },
+    {
+      "name": "TikTok BH++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
+      "version": "32.2.0-2.3",
+      "versionDate": "",
+      "size": 226500608
+    },
+    {
+      "name": "BH X",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//BH_Twitter_sideloaded-pu.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_5319-ea.png",
+      "version": "4.3",
+      "versionDate": "",
+      "size": 195238232
+    },
+    {
+      "name": "Instagram Regram",
+      "bundleIdentifier": "",
+      "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram_v360_1_0_Regramb15_eth_Sign-ei.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "version": "360.1.0",
+      "versionDate": "2024-12-12",
+      "size": 200000000
+    },
+    {
+      "name": "YTMusicUltimate",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tweaked version of YouTube Music\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_7_31_3-05.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
+      "version": "7.31.3",
+      "versionDate": "",
+      "size": 7770000
+    },
+    {
+      "name": "YTMusicUltimate+",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tweaked version of YouTube Music Ultimate\nStatus: ✅🔥\nFrom: @SultanModsIPAs",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_7_31_3_Jacks_Apps-7b.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
+      "version": "7.31.1",
+      "versionDate": "",
+      "size": 81477632
+    },
+    {
+      "name": "YouTubeLitePlus",
+      "bundleIdentifier": "",
+      "localizedDescription": "Important: not working on SideStore/AltStore\nYouTube with the YouTubeLitePlus Tweak\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//youtubelite_19_47_7-Ox.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//ytliteplus-TR.png",
+      "version": "19.47.7",
+      "versionDate": "",
+      "size": 98000000
+    },
+    {
+      "name": "YouTubePlus",
+      "bundleIdentifier": "",
+      "localizedDescription": "Important: not working on SideStore/AltStore\nYouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//You_Tube_19_47_7-Ri.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//You_Tube_i_OS_2019_1-8b.png",
+      "version": "19.47.7",
+      "versionDate": "",
+      "size": 115900000
+    },
+    {
+      "name": "uYouEnhanced",
+      "bundleIdentifier": "",
+      "localizedDescription": "Important: not working on SideStore/AltStore\nYouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//youtube_enhanced_19_47_7-6f.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//u_You_Enhanced-gR.png",
+      "version": "19.47.7",
+      "versionDate": "",
+      "size": 117000000
+    },
+    {
+      "name": "Duolingo+",
+      "bundleIdentifier": "",
+      "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Duolingo_7_52_2_1734310132-sP.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Duolingo_Max_7_37_1-1W.png",
+      "version": "7.52.2",
+      "versionDate": "",
+      "size": 132200000
+    },
+    {
+      "name": "Picsart++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
+      "version": "25.5.1",
+      "versionDate": "",
+      "size": 103809024
+    },
+    {
+      "name": "Carrot++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CarrotPremium_6.1.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Carrot_Premium_6_1-Dt.png",
+      "version": "6.1",
+      "versionDate": "",
+      "size": 104857600
+    },
+    {
+      "name": "PhotoMath++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/PhotoMathPlus_8.35.0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Photo_Math_Plus_8_35_0-jD.png",
+      "version": "8.35.0",
+      "versionDate": "",
+      "size": 14680064
+    },
+    {
+      "name": "CapCut++",
+      "bundleIdentifier": "",
+      "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Cap_Cut_12_0_Cracked-1u.png",
+      "version": "12.0",
+      "versionDate": "",
+      "size": 136314880
+    },
+    {
+      "name": "Genie++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
+      "downloadURL": "https://cdn1.realmzer.xyz//Geniechat7_5_4moepro-ry.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Genie_Pro_7_1_2-Km.png",
+      "version": "7.5.4",
+      "versionDate": "",
+      "size": 57106432
+    },
+    {
+      "name": "AI Chat Smith++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AIChatSmithPremium-7.0.0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//AI_Chat_Smith_Premium_7_0_0-pD.png",
+      "version": "7.0.0",
+      "versionDate": "",
+      "size": 74448896
+    },
+    {
+      "name": "Pedometer++",
+      "bundleIdentifier": "",
+      "localizedDescription": "Available on the iPhone and Apple Watch, Pedometer++ is the best way to review your step count, walking distance, active calories and heart rate data.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_crossforward_pedometer_6_1_eeveedecrypter-SN.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//pedometerplusplus-Sb.png",
+      "version": "6.1",
+      "versionDate": "",
+      "size": 18321408
+    },
+    {
+      "name": "Moblo",
+      "bundleIdentifier": "",
+      "localizedDescription": "Start designing your next DIY project in 3D with Moblo, the best app to bring your woodworking ideas to life with the help of augmented reality.",
+      "downloadURL": "https://cdn1.realmzer.xyz//Moblo_satella_injected-AD.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4128-dO.png",
+      "version": "24.04.1",
+      "versionDate": "",
+      "size": 210900000
+    },
+    {
+      "name": "Procreate Pocket",
+      "bundleIdentifier": "",
+      "localizedDescription": "Procreate Pocket has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Procreate_Pocket-KL.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//procreate_pocket_icon_white-0x.png",
+      "version": "4.0.9",
+      "versionDate": "",
+      "size": 301252608
+    },
+    {
+      "name": "Procreate iPad",
+      "bundleIdentifier": "",
+      "localizedDescription": "Important: This IPA is only meant for iPads, dont use on your iPhone!\nProcreate with free premium, from us!\nStatus: 🔥✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Procreate_5_3_14-Vv.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4129-j4.png",
+      "version": "5.3.14",
+      "versionDate": "",
+      "size": 301252608
+    },
+    {
+      "name": "HD Flix No Ads",
+      "bundleIdentifier": "",
+      "localizedDescription": "Warning: First open an app will open but then the actual HD Flix will just wait a few seconds.\nHD Flix is the best way to manage your TV shows \u0026 movies on iPhone or iPad - seasons, details, casts and much more\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//hdflixnoads4_0-mX.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//hdflix-un.png",
+      "version": "4.0",
+      "versionDate": "",
+      "size": 14737408
+    },
+    {
+      "name": "MovieBox Pro",
+      "bundleIdentifier": "",
+      "localizedDescription": "MovieBox Pro is a free \u0026 paid movie streaming platform.\nFree: 360p content\nPaid: 720p, 1080p. 1440p and 4k\nStatus: ✅💸",
+      "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_1-MC.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//movieboxpro-Uk.png",
+      "version": "14.1",
+      "versionDate": "",
+      "size": 48226304
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "",
+      "localizedDescription": "Streamer is an app similar to Kodi that lets you stream from sources\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Streamer_i_OS_1_2_41-Je.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//streamerios-wP.png",
+      "version": "1.2.41",
+      "versionDate": "",
+      "size": 34734080
+    },
+    {
+      "name": "LogRide",
+      "bundleIdentifier": "",
+      "localizedDescription": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_parksman_Log_Ride_6_9_4-Aw.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//logride-Mo.png",
+      "version": "6.9.4",
+      "versionDate": "",
+      "size": 24649728
+    },
+    {
+      "name": "Egern",
+      "bundleIdentifier": "",
+      "localizedDescription": "Egern is a feature-rich and powerful networking tool, specifically designed for proxying, intercepting, and modifying network traffic.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Egernv1_27_0-WD.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//egern-iH.png",
+      "version": "1.27.0",
+      "versionDate": "",
+      "size": 18321408
+    },
+    {
+      "name": "AirTroller",
+      "bundleIdentifier": "",
+      "localizedDescription": "AirDrop spammer / flooder to troll friends\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Air_Troller_1_1_1-GR.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Artboard-0m.png",
+      "version": "1.1.1",
+      "versionDate": "",
+      "size": 786432
+    },
+    {
+      "name": "TrollTools",
+      "bundleIdentifier": "",
+      "localizedDescription": "TrollStore iOS 15 customization tool\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Tools-ZN.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Troll_Utils-kl.png",
+      "version": "3.0",
+      "versionDate": "",
+      "size": 4374528
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "",
+      "localizedDescription": "A tool that converts .deb apps to .ipa packages making them easier to install.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Deb_To_IPA_1_1_1-eS.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_2-1s.png",
+      "version": "1.1.1",
+      "versionDate": "",
+      "size": 1241088
+    },
+    {
+      "name": "TrollApps",
+      "bundleIdentifier": "",
+      "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//org_resonance_store_2_3_082724-J6.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//trollapps1024-OB.png",
+      "version": "2.3",
+      "versionDate": "",
+      "size": 5550080
+    },
+    {
+      "name": "AppsManager",
+      "bundleIdentifier": "",
+      "localizedDescription": "Apps Manager, flexible way to manage your application’s data\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Apps_Manager_1_8_1-B3.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0062-zh.png",
+      "version": "1.8.1",
+      "versionDate": "",
+      "size": 2035712
+    },
+    {
+      "name": "AppStore++",
+      "bundleIdentifier": "",
+      "localizedDescription": "AppStore++ tweak for TrollStore\nAllows you to downgrade installed apps.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//App_Store_Troll_Store_v1_0_3_2-Fr.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0063-J2.png",
+      "version": "1.0.3",
+      "versionDate": "",
+      "size": 17592320
+    },
+    {
+      "name": "Cardio",
+      "bundleIdentifier": "",
+      "localizedDescription": "App for changing Apple Pay images using CoreTrust bug that affects iOS 14.0 - 15.4.1 (15.5b4).\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cardio_1-t0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//cardio1024-cE.png",
+      "version": "1.1",
+      "versionDate": "",
+      "size": 122880
+    },
+    {
+      "name": "Jitterbug",
+      "bundleIdentifier": "",
+      "localizedDescription": "This app uses libimobiledevice and WiFi pairing to use one iOS device to launch apps with the debugger on another iOS device.\nThis tethered launch allows JIT to work on the second iOS device.\nIt can also create a VPN tunnel to allow a device to debug itself.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Jitterbug-LZ.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_128pt_2x-Z8.png",
+      "version": "1.3.1",
+      "versionDate": "",
+      "size": 23015424
+    },
+    {
+      "name": "TrollNonce",
+      "bundleIdentifier": "",
+      "localizedDescription": "Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when installed through TrollStore 1.0.9 or newer.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Nonce-he.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon60x60_3x-7A.png",
+      "version": "1.1.2",
+      "versionDate": "",
+      "size": 253952
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "",
+      "localizedDescription": "A TrollStore application to control individual flashlight LEDs for iOS devices.\nWhen used on a jailbroken device, remove Amber tweak because this app will simply be overridden by it.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-A6.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_2x_ipad-3b.png",
+      "version": "1.8.0",
+      "versionDate": "",
+      "size": 86016
+    },
+    {
+      "name": "DynamicCowTS",
+      "bundleIdentifier": "",
+      "localizedDescription": "Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0 using TrollStore.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dynamic_Cow_TS-gI.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//dynamiccowicon-kg.png",
+      "version": "2.0",
+      "versionDate": "",
+      "size": 692224
+    },
+    {
+      "name": "Helium",
+      "bundleIdentifier": "",
+      "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 14+. Works on Jailbroken devices as well.\nMore widgets to come in future updates!\nNote: on iOS 16+, you must enable developer mode for this to work properly.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Helium-1P.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_3-hx.png",
+      "version": "3.2.5",
+      "versionDate": "",
+      "size": 4169728
+    },
+    {
+      "name": "Geranium",
+      "bundleIdentifier": "",
+      "localizedDescription": "LocSim, Daemon Manager, Cleaner, ScreenTime Remover and Superviser for TrollStore\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Geranium-Ta.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//geranium-eQ.png",
+      "version": "1.1.3",
+      "versionDate": "",
+      "size": 6103040
+    },
+    {
+      "name": "TrollSpeed",
+      "bundleIdentifier": "",
+      "localizedDescription": "Shows upload \u0026 download speed below the status bar.\nTested and expected to work on all iOS versions supported by opa334’s TrollStore.\nStatus: ❌🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Speed_App_Intents16_1_12_1-58.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_4-RY.png",
+      "version": "1.12.1",
+      "versionDate": "",
+      "size": 454656
+    },
+    {
+      "name": "Nice Battery",
+      "bundleIdentifier": "",
+      "localizedDescription": "Support display battery details, real-time network speed, real-time memory usage, real-time CPU frequency, device running time, etc.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Nice_Battery-Fn.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Nice_Battery_IPA_APP_300x300_1-oj.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 385024
+    },
+    {
+      "name": "Serotonin",
+      "bundleIdentifier": "",
+      "localizedDescription": "\n(Requires Roothide Bootstrap)\nAn iOS 16.0-16.61 semi jailbreak.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Serotonin-1e.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//serotonin-VS.png",
+      "version": "1.2.1",
+      "versionDate": "",
+      "size": 14987264
+    },
+    {
+      "name": "TrollFools",
+      "bundleIdentifier": "",
+      "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_8_15-Cy.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
+      "version": "2.8-15",
+      "versionDate": "",
+      "size": 3305472
+    },
+    {
+      "name": "TrollFools Huami",
+      "bundleIdentifier": "",
+      "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_7_11_huami-mr.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_1-2v.png",
+      "version": "2.7-11",
+      "versionDate": "",
+      "size": 5173248
+    },
+    {
+      "name": "TrollAppDuplicator",
+      "bundleIdentifier": "",
+      "localizedDescription": "iOS App duplicator for TrollStore, which makes it easier to copy apps (with a different bundleID).\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_App_Duplicator-wR.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//6699df82735b410ca5abcb5e-49.png",
+      "version": "1.2",
+      "versionDate": "",
+      "size": 180224
+    },
+    {
+      "name": "TrollCuts",
+      "bundleIdentifier": "",
+      "localizedDescription": "Shortcuts extensions for iOS 16.0+.\nIt leverages the ability of TrollStore to obtain arbitrary entitlements for binary and thus doing stuffs that normally sandboxed apps unable to.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Cuts_v1_1-Yq.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_3-Ge.png",
+      "version": "1.1",
+      "versionDate": "",
+      "size": 532480
+    },
+    {
+      "name": "TrollBox",
+      "bundleIdentifier": "",
+      "localizedDescription": "A TrollStore app that compiles all TrollStore tools into one app!\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Box-Fa.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Untitled-Lo.png",
+      "version": "0.2",
+      "versionDate": "",
+      "size": 26636288
+    },
+    {
+      "name": "TrollBoard Reborn",
+      "bundleIdentifier": "",
+      "localizedDescription": "TrollBoard, Reborned. A WebClips icon pack manager. This app works only with TrollStore, it does not support KFD or MDC.\nThis is a remastered version of https://github.com/haxi0/TrollBoard (or known as MooBoard) aimed for stability.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Board_Reborn-1Y.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Troll_Board-jf.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 544768
+    },
+    {
+      "name": "TipsGetTrolled",
+      "bundleIdentifier": "",
+      "localizedDescription": "Well,well,well... iOS 15.4 (to 15.7.1) -\u003e 16.1.2. Not higher. 16.2 and more go take a look at kfd (kfd support will be added later)\nThe app installs TrollStore (2) on your device.\nThis uses MacDirtyCow (our beloved), also known as CVE-2022-46689. This vulnerability is also used by Cowabunga and Misaka. The app replaces your Tips.app with TrollStore Persistance Helper.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tips_Got_Trolled-fe.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_5-af.png",
+      "version": "1.2.1",
+      "versionDate": "",
+      "size": 843776
+    },
+    {
+      "name": "Mugunghwa",
+      "bundleIdentifier": "",
+      "localizedDescription": "First-ever system-wide icon theming tool without the need of jailbreak for iOS and watchOS(partly). Requires sandbox escape.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Mugunghwa-8t.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//rsz_512_512-76.png",
+      "version": "3.0.2",
+      "versionDate": "",
+      "size": 3891200
+    },
+    {
+      "name": "Jaility",
+      "bundleIdentifier": "",
+      "localizedDescription": "Simple iOS supercharger to be used with TrollStore. Can be used to disable locking after respring, supervise your Device in one click.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Jaility_3_1_1-fG.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_60_3x_1-HM.png",
+      "version": "3.1.1",
+      "versionDate": "",
+      "size": 110592
+    },
+    {
+      "name": "Appabetical",
+      "bundleIdentifier": "",
+      "localizedDescription": "A utility thats able to sort your apps. iOS 14.0 - 16.1.2\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Appabetical-js.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Artboard_1-G9.png",
+      "version": "1.1.1",
+      "versionDate": "",
+      "size": 733184
+    },
+    {
+      "name": "SecondHand",
+      "bundleIdentifier": "",
+      "localizedDescription": "A TrollStore app that allows you to add more to your clock on the status bar.\nStatus: ✅🔵",
+      "downloadURL": "https://cdn1.realmzer.xyz//Second_Hand-mm.tipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Second_Hand_3-xM.png",
+      "version": "1.3",
+      "versionDate": "",
+      "size": 2789376
+    },
+    {
+      "name": "Lock Master",
+      "bundleIdentifier": "",
+      "localizedDescription": "Customize the iOS Locking Experience!\nNote: This will NOT work on semi-jailbreaks such as Seratonin.\nIt needs the backboardd to be resigned.\nSupports iOS 14.0+ iPads are currently not supported, sorry for the inconvenience.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_leemin_lockmaster_1_2_0_iphoneos_arm64-ac.deb",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_3x-ty.png",
+      "version": "1.2",
+      "versionDate": "",
+      "size": 90112
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "",
+      "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//delta-gM.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Delta4-xx.png",
+      "version": "1.6",
+      "versionDate": "",
+      "size": 84283392
+    },
+    {
+      "name": "Provenance",
+      "bundleIdentifier": "",
+      "localizedDescription": "iOS \u0026 tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Provenance-E3.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Iv0_D_Ty_QA_400x400-De.png",
+      "version": "2.2.0",
+      "versionDate": "",
+      "size": 33980416
+    },
+    {
+      "name": "PPSSPP",
+      "bundleIdentifier": "",
+      "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//PPSSPP_v1_17_4-O6.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//ppsspp-FO.png",
+      "version": "1.17.4",
+      "versionDate": "",
+      "size": 11534336
+    },
+    {
+      "name": "PPSSPP++",
+      "bundleIdentifier": "",
+      "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟",
+      "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//x_Fmk_Q_Tz-5q.png",
+      "version": "1.15.3",
+      "versionDate": "",
+      "size": 195238232
+    },
+    {
+      "name": "FlyCast",
+      "bundleIdentifier": "",
+      "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Flycast_2_4-ZY.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//images_3-0X.png",
+      "version": "2.4.0",
+      "versionDate": "",
+      "size": 7885887
+    },
+    {
+      "name": "DolphiniOS JIT",
+      "bundleIdentifier": "",
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//dolphin_Non_Jailbroken-r5.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//community_Icon_jqq2ogu91q851-MS.png",
+      "version": "4.0.0b7",
+      "versionDate": "",
+      "size": 14470348
+    },
+    {
+      "name": "DolphiniOS Non-JIT",
+      "bundleIdentifier": "",
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dolphini_OS_No_JIT-ry.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//community_Icon_jqq2ogu91q851-MS.png",
+      "version": "3.2.1",
+      "versionDate": "",
+      "size": 16043212
+    },
+    {
+      "name": "Pomelo",
+      "bundleIdentifier": "",
+      "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Pomelo_1-O0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_5317-Se.png",
+      "version": "2.7.1",
+      "versionDate": "2024-12-04",
+      "size": 28938240
+    },
+    {
+      "name": "Deltarune Chapter 1",
+      "bundleIdentifier": "",
+      "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE\n Status: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//deltarune_1-Se.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//deltarune-II.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 70279168
+    },
+    {
+      "name": "Deltarune Chapter 2",
+      "bundleIdentifier": "",
+      "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE\n Status: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//DELTARUNE-r3.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//deltarune-II.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 70279168
+    },
+    {
+      "name": "Undertale",
+      "bundleIdentifier": "",
+      "localizedDescription": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//UNDERTALE-qT.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//undertale-lD.png",
+      "version": "1.2",
+      "versionDate": "",
+      "size": 140505088
+    },
+    {
+      "name": "Undertale Yellow",
+      "bundleIdentifier": "",
+      "localizedDescription": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//undertale_yellow_port_1_2-nG.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//3057aa0acb6d937295819f3d94f015e9-52.png",
+      "version": "1.2",
+      "versionDate": "",
+      "size": 247910400
+    },
+    {
+      "name": "Undertale Red \u0026 Yellow",
+      "bundleIdentifier": "",
+      "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red \u0026 Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\n Status: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Undertale_Red_Yellow-tG.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//4dccec4fe2a73522c08b24866a540fcf-41.png",
+      "version": "1.6.1",
+      "versionDate": "",
+      "size": 256716800
+    },
+    {
+      "name": "Undertale Bits \u0026 Pieces",
+      "bundleIdentifier": "",
+      "localizedDescription": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Undertale_BNP-Ka.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//undertalebnp-Z9.png",
+      "version": "5.0.0",
+      "versionDate": "",
+      "size": 223920128
+    },
+    {
+      "name": "Sonic Mania",
+      "bundleIdentifier": "",
+      "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//Sonic_Mania-1B.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//sonicmania-Q7.png",
+      "version": "RSDK5",
+      "versionDate": "",
+      "size": 2805760
+    },
+    {
+      "name": "Sonic Runners Revival",
+      "bundleIdentifier": "",
+      "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//srr224-Te.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Sonic_Runners_App_Icon_2_0-Gy.png",
+      "version": "2.2.4",
+      "versionDate": "",
+      "size": 151322254
+    },
+    {
+      "name": "Friday Night Funkin: Psych Engine",
+      "bundleIdentifier": "",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 328896512
+    },
+    {
+      "name": "Friday Night Funkin: Psych Engine 1.0",
+      "bundleIdentifier": "",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 328896512
+    },
+    {
+      "name": "Friday Night Funkin: Psych Engine 1.0-Pre",
+      "bundleIdentifier": "",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0pre-zO.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "version": "1.0-Pre",
+      "versionDate": "",
+      "size": 327700480
+    },
+    {
+      "name": "Friday Night Funkin: Psych Engine 0.7.3",
+      "bundleIdentifier": "",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine073-6E.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "version": "0.7.3",
+      "versionDate": "",
+      "size": 182427648
+    },
+    {
+      "name": "Friday Night Funkin: Psych Engine 0.6.3",
+      "bundleIdentifier": "",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine063-wd.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "version": "0.6.3",
+      "versionDate": "",
+      "size": 219418624
+    },
+    {
+      "name": "FNAF World",
+      "bundleIdentifier": "",
+      "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//fnaf_world_mobile2-CS.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fnafworldworks-CG.png",
+      "version": "2.0.0",
+      "versionDate": "",
+      "size": 100229120
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "bundleIdentifier": "",
+      "localizedDescription": "Five Nights at Freddy's (FNaF) is a 2014 point-and-click survival horror game developed and published by Scott Cawthon.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_v_2_0_3-To.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fivenights-RF.png",
+      "version": "2.0.3",
+      "versionDate": "",
+      "size": 108331008
+    },
+    {
+      "name": "Five Nights at Freddy's 2",
+      "bundleIdentifier": "",
+      "localizedDescription": "Five Nights at Freddy's 2 is a 2014 point-and-click survival horror game developed and published by Scott Cawthon. It is the second installment in the Five Nights at Freddy's series.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_2_v_2_0_4-qF.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fivenights2-dU.png",
+      "version": "2.0.4",
+      "versionDate": "",
+      "size": 116584448
+    },
+    {
+      "name": "Five Nights at Freddy's 3",
+      "bundleIdentifier": "",
+      "localizedDescription": "Five Nights at Freddy's 3 (FNaF 3) is a 2015 point-and-click survival horror video game developed and published by Scott Cawthon. It is the third installment in the Five Nights at Freddy's series, and takes place in a horror-themed attraction based on the restaurant chain featured in the first two games.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_3_v2_0_2-jE.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fivenights3-VR.png",
+      "version": "2.0.2",
+      "versionDate": "",
+      "size": 65323008
+    },
+    {
+      "name": "Five Nights at Freddy's 4",
+      "bundleIdentifier": "",
+      "localizedDescription": "Five Nights at Freddy's 4 (FNaF 4) is a 2015 point-and-click survival horror video game made and published by Scott Cawthon. It is the fourth installment of the Five Nights at Freddy's series.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_4_v2_0_2-6x.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fivenights4-XW.png",
+      "version": "2.0.2",
+      "versionDate": "",
+      "size": 65323008
+    },
+    {
+      "name": "Five Nights at Freddy's: Sister Location",
+      "bundleIdentifier": "",
+      "localizedDescription": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror video game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series and the sixth game overall.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_SL_v2_0_3-ox.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//sisterlocation-DW.png",
+      "version": "2.0.3",
+      "versionDate": "",
+      "size": 289501184
+    },
+    {
+      "name": "Ultimate Custom Night",
+      "bundleIdentifier": "",
+      "localizedDescription": "Ultimate Custom Night is a point-and-click survival horror video game created by Scott Cawthon. It is the second official spin-off of the Five Nights at Freddy's game series, the first one being FNaF World, and the eight game overall.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Ultimate_Custom_Night_v1_0_52-9J.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//ultimate_custom_night-18.png",
+      "version": "1.0.5",
+      "versionDate": "",
+      "size": 208191488
+    },
+    {
+      "name": "Freddy Fazbear's Pizzeria Simulator",
+      "bundleIdentifier": "",
+      "localizedDescription": "Freddy Fazbear's Pizzeria Simulator, commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an indie point-and-click survival horror video game developed and published by Scottgames and is the sixth installment of the Five Nights at Freddy's series.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//FNAF_6_Pizzeria_simulator-Oh.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fnafps-Uy.png",
+      "version": "1.0.2",
+      "versionDate": "",
+      "size": 163811328
+    },
+    {
+      "name": "Five Nights at Freddy's: HW",
+      "bundleIdentifier": "",
+      "localizedDescription": "Five Nights at Freddy's: Help Wanted is a 2019 virtual reality survival horror video game created by Steel Wool Studios and published by ScottGames. The game is the seventh main game in the Five Nights at Freddy's series and the ninth game overall, and presents itself as 'The Freddy Fazbear Virtual Experience'.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Five_Nights_at_Freddys_HW_v1_1_3-I2.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fnafhw_1-i6.png",
+      "version": "1.1.3",
+      "versionDate": "",
+      "size": 591884288
+    },
+    {
+      "name": "Celeste No Virtual Controller",
+      "bundleIdentifier": "",
+      "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//celestenocontroller_IPA_Edit-fF.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//celeste-xR.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 883720192
+    },
+    {
+      "name": "Celeste + Virtual Controller",
+      "bundleIdentifier": "",
+      "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Celeste_VC-dK.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//celeste-xR.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 883716096
+    },
+    {
+      "name": "Celeste + Virtual Controller (FullScreen)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nModified by: Kn0tzer\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Celeste_full_screen-NW.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//celeste-xR.png",
+      "version": "1.0",
+      "versionDate": "",
+      "size": 885006336
+    },
+    {
+      "name": "Bad Piggies (Hack)",
+      "bundleIdentifier": "",
+      "localizedDescription": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!\nStatus: ✅✨",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bad_Piggies_Hack_No_Jailbreak_Cheats_2_3_9_Hacked_IPA_by_i_OS_Gods_com-qw.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//100x100bb-lm.png",
+      "version": "2.3.9",
+      "versionDate": "",
+      "size": 66232320
+    },
+    {
+      "name": "Friday Night Funkin'",
+      "bundleIdentifier": "",
+      "localizedDescription": "A rhythm game made with HaxeFlixel\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Funkin_0_4_1_patch1-8D.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "version": "0.4.1-patch-1",
+      "versionDate": "",
+      "size": 507664411
+    },
+    {
+      "name": "Osu!lazer",
+      "bundleIdentifier": "",
+      "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-HU.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
+      "version": "2024.1219.2",
+      "versionDate": "",
+      "size": 192061747
+    },
+    {
+      "name": "Charlie the Steak",
+      "bundleIdentifier": "",
+      "localizedDescription": "Charlie The Steak is an ultimate stress-breaker. It is a scapegoat we have created just for you, so you don’t hurt yourself are someone else when you are angry. Don’t worry, he’s not a real person nor he is a living creature. He is a steak!\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-kW.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//download_1_1-8e.png",
+      "version": "1.2",
+      "versionDate": "",
+      "size": 123207680
+    },
+    {
+      "name": "Cash App (FAKE)",
+      "bundleIdentifier": "",
+      "localizedDescription": "Fake cash app prank\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Square_Cash_app_logopng-XG.png",
+      "version": "4",
+      "versionDate": "",
+      "size": 16207872
+    },
+    {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "",
+      "localizedDescription": "Ladies and gentlemen, this is The Flight Tracker speaking. \nWelcome aboard the World’s most accurate and reliable flight-tracking app. Trusted by 8M satisfied travelers.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_iaftt_flightplusfree_8_2_0_eeveedecrypter-6D.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//512x512bb_5-HC.png",
+      "version": "8.2.0",
+      "versionDate": "",
+      "size": 153665536
+    },
+    {
+      "name": "TrollLock Reborn",
+      "bundleIdentifier": "",
+      "localizedDescription": "TrollLock tweak (https://github.com/verygenericname/TrollLock) port for iOS 15 and up to iOS 16.1.2. Yes, I said iOS 16! No checkm8, jailbreak or anything, just using the MacDirtyCow exploit. \nThis is kind of a POC tester, but an actual tweak to iOS that works.\nReboot your device to revert the changes.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Lock_1_1-tW.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_60_3x-nC.png",
+      "version": "1.1",
+      "versionDate": "",
+      "size": 999424
+    },
+    {
+      "name": "Red Dot",
+      "bundleIdentifier": "",
+      "localizedDescription": "This app allows you to change the notification dot color.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//reddot_0_1-q3.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//imgonline_com_ua_resize_0z0l5nkge_Dp_R_Mkf-vn.png",
+      "version": "0.1",
+      "versionDate": "",
+      "size": 671744
+    },
+    {
+      "name": "Tabs \u0026 Chords",
+      "bundleIdentifier": "",
+      "localizedDescription": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2,500+ lessons for all instruments and levels. Play 29K+ songs anytime./nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tabs_Chords_v7_1_14_App_Testers_iap-kx.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4139-4o.jpeg",
+      "version": "7.1.14",
+      "versionDate": "",
+      "size": 99900000
+    },
+    {
+      "name": "Dazz",
+      "bundleIdentifier": "",
+      "localizedDescription": "Search songs by genre, skill, or theme. Explore collections, share performances, and access 2.5k+ lessons for all instruments and levels.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dazz_v2_9_1_App_Testers_iap-Nc.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4142-DW.jpeg",
+      "version": "2.9.1",
+      "versionDate": "",
+      "size": 91520000
+    },
+    {
+      "name": "Flero",
+      "bundleIdentifier": "",
+      "localizedDescription": "No JB No JIT iOS Mod Menu for Geometry Dash\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//flero_v0_0_6-nr.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//flero_C1k2_Qq_1-Ed.png",
+      "version": "0.0.6",
+      "versionDate": "",
+      "size": 158756864
+    },
+    {
+      "name": "Picsart iProMoe",
+      "bundleIdentifier": "",
+      "localizedDescription": "Picsart injected with GOLD pro\nStatus: ✅🌟\nFrom: @SultanModsIPAs",
+      "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_5_5_Pro_Moe-g4.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
+      "version": "26.5.5",
+      "versionDate": "",
+      "size": 104210432
+    },
+    {
+      "name": "Widgy Widgets",
+      "bundleIdentifier": "",
+      "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
+      "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//widgy_widgets_logo-6A.png",
+      "version": "4.0.0",
+      "versionDate": "",
+      "size": 54976512
+    },
+    {
+      "name": "Transparent Icons",
+      "bundleIdentifier": "",
+      "localizedDescription": "Transparent App Icons\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-uF.png",
+      "version": "1.7.2",
+      "versionDate": "",
+      "size": 6778880
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "",
+      "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//i_Torrent_2-St.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4981-2V.png",
+      "version": "2.0.14-1",
+      "versionDate": "",
+      "size": 7028736
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "",
+      "localizedDescription": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//livecontainer-XV.png",
+      "version": "3.1.0",
+      "versionDate": "",
+      "size": 2899968
+    },
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "",
+      "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing \u0026 Increased Memory Limit.\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_11-zd.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
+      "version": "33.11",
+      "versionDate": "",
+      "size": 227979264
+    },
+    {
+      "name": "Dead Cells+",
+      "bundleIdentifier": "",
+      "localizedDescription": "Dead Cells is a 2018 roguelike-Metroidvania game developed by Motion Twin and Evil Empire, and published by Motion Twin. The player takes the role of an amorphous creature called the Prisoner. As the Prisoner, the player must fight their way out of a diseased island in order to slay the island's King.\nStatus: ✅🌟",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dead_Cells_plus_v3_3_2-IO.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Dead_Cells_768x768-a3.png",
+      "version": "3.3.2",
+      "versionDate": "",
+      "size": 1369145344
+    },
+    {
+      "name": "Call of Mini Zombies 2",
+      "bundleIdentifier": "",
+      "localizedDescription": "Embark on a thrilling journey to save the world from the undead in Call of Mini Zombies 2, the action-packed sequel where you'll directly confront hordes of zombies. In this engaging experience, players are equipped with an arsenal of 10 lethal weapons to fend off the zombie outbreak and restore peace.\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//comz2fixfortheloveofgod-hc.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//19b1f5c56ecb9a5b0c96cd853049d28a8765665385607bed9b8d566abdaf7e2e_100-L7.png",
+      "version": "2.2.2",
+      "versionDate": "",
+      "size": 136024064
+    },
+    {
+      "name": "MegaGames",
+      "bundleIdentifier": "",
+      "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw \u0026 Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Mega_Games-Y4.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//logo_1-Wt.png",
+      "version": "1.0.0",
+      "versionDate": "",
+      "size": 35600000
+    },
+    {
+      "name": "Geometry Dash",
+      "bundleIdentifier": "",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Geometry_2_206-eE.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//geodash-cz.png",
+      "version": "2.2.06",
+      "versionDate": "",
+      "size": 152252416
+    },
+    {
+      "name": "Geometry Dash v2.2.06",
+      "bundleIdentifier": "",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Geometry_2_206-eE.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//geodash-cz.png",
+      "version": "2.2.06",
+      "versionDate": "",
+      "size": 152252416
+    },
+    {
+      "name": "iCreatePro",
+      "bundleIdentifier": "",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "downloadURL": "https://cdn1.realmzer.xyz//Icreate_Pro_6_6_1_Crack-Ag.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icreatepro-dD.png",
+      "version": "6.6.1",
+      "versionDate": "",
+      "size": 155152384
+    },
+    {
+      "name": "iCreatePro v6.6.1",
+      "bundleIdentifier": "",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "downloadURL": "https://cdn1.realmzer.xyz//Icreate_Pro_6_6_1_Crack-Ag.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icreatepro-dD.png",
+      "version": "6.6.1",
+      "versionDate": "",
+      "size": 155152384
+    },
+    {
+      "name": "Fall Guys",
+      "bundleIdentifier": "",
+      "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
+      "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//fall_guys_mobile_icon_v0_d3n68howgkhd1-XP.png",
+      "version": "11.5.0",
+      "versionDate": "",
+      "size": 1964947537
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "",
+      "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
+      "downloadURL": "https://cdn1.realmzer.xyz//Minecraft_1_21_51-DY.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Homepage_Gameplay_Trailer_MC_OV_logo_300x300-aR.png",
+      "version": "1.21.51",
+      "versionDate": "",
+      "size": 96468992
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "",
+      "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//net_kdt_pojavlauncher_3_0_ios_2-63.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//logo_2-4d.png",
+      "version": "2.2 Deepslate",
+      "versionDate": "",
+      "size": 151900000
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "",
+      "localizedDescription": "",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_rounded-ZW.png",
+      "version": "1.21.22",
+      "versionDate": "",
+      "size": 96468992
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "",
+      "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟",
+      "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_red-KO.png",
+      "version": "0.3.5",
+      "versionDate": "",
+      "size": 195238232
+    },
+    {
+      "name": "BSD Brawl Stars",
+      "bundleIdentifier": "",
+      "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥",
+      "downloadURL": "https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//512x512bb_1-1W.png",
+      "version": "58.279",
+      "versionDate": "",
+      "size": 998449152
+    },
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "",
+      "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥",
+      "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Nulls_Brawl-JR.png",
+      "version": "57.325",
+      "versionDate": "",
+      "size": 195238232
+    },
+    {
+      "name": "BitLife",
+      "bundleIdentifier": "",
+      "localizedDescription": "A very special life simulator\nStatus: ✅",
+      "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
+      "iconURL": "https://cdn1.realmzer.xyz//512x512bb_2-LO.png",
+      "version": "3.15.9",
+      "versionDate": "",
+      "size": 209020146
+    },
+    {
+      "name": "Climax",
+      "bundleIdentifier": "",
+      "localizedDescription": "The best fake robux balance for iOS\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Climax-Sy.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//Climax-h5.png",
+      "version": "2.1",
+      "versionDate": "",
+      "size": 962560
+    },
+    {
+      "name": "Hot Tub",
+      "bundleIdentifier": "",
+      "localizedDescription": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
+      "downloadURL": "https://cdn1.realmzer.xyz//Hot_Tub_2_0_1_2-BC.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4263-AB.png",
+      "version": "2.0.1",
+      "versionDate": "",
+      "size": 19610000
+    },
+    {
+      "name": "Blackhole",
+      "bundleIdentifier": "",
+      "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
+      "downloadURL": "https://cdn1.realmzer.xyz//Black_Hole_v1_15_11_ios-FF.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//black_hole_apk_icon-Tv.png",
+      "version": "15.11.2",
+      "versionDate": "",
+      "size": 18477056
+    },
+    {
+      "name": "Infinity Blade I",
+      "bundleIdentifier": "",
+      "localizedDescription": "",
+      "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_I_Community_Patch_v2_0-mu.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_2127-0K.png",
+      "version": "1.4.3",
+      "versionDate": "",
+      "size": 636863119
+    },
+    {
+      "name": "Infinity Blade II",
+      "bundleIdentifier": "",
+      "localizedDescription": "",
+      "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_II_Community_Patch_v2_0-ii.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_2128-AP.png",
+      "version": "1.3.5",
+      "versionDate": "",
+      "size": 1103584296
+    },
+    {
+      "name": "Infinity Blade III",
+      "bundleIdentifier": "",
+      "localizedDescription": "",
+      "downloadURL": "https://cdn1.realmzer.xyz//Infinity_Blade_III_Community_Patch_v2_2-gS.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_2129-uB.png",
+      "version": "1.4.4",
+      "versionDate": "",
+      "size": 1884353986
+    },
+    {
+      "name": "Welcome to MySign!",
+      "bundleIdentifier": "",
+      "localizedDescription": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBox",
+      "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4476-iD.png",
+      "version": "1000",
+      "versionDate": "",
+      "size": 1000
+    }
+  ]
+}
