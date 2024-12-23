@@ -3556,6 +3556,106 @@
     },
     {
       "beta": false,
+      "name" : "u0Launcher",
+      "bundleIdentifier": "com.opa334.u0launcher",
+      "developerName" : "opa334",
+      "subtitle": "Launches unc0ver for TrollStore",
+      "description": "Normally when you install unc0ver through TrollStore and try to jailbreak with it, it fails with a (Failed to disable codesigning) error because unc0ver expects amfid to be running in the background in order to patch it.\nHowever when unc0ver is installed through TrollStore, amfid doesn't get invoked in the unc0ver launch process because it launches through App Store fast path, which does not contact amfid for verification.\nu0Launcher is an App that first sends an empty XPC message to amfid to make it start up and then jumps to unc0ver. \nThis fixes the (Failed to disable codesigning) error when jailbreaking.\nStatus: ✅🔵",
+      "localizedDescription": "Normally when you install unc0ver through TrollStore and try to jailbreak with it, it fails with a (Failed to disable codesigning) error because unc0ver expects amfid to be running in the background in order to patch it.\nHowever when unc0ver is installed through TrollStore, amfid doesn't get invoked in the unc0ver launch process because it launches through App Store fast path, which does not contact amfid for verification.\nu0Launcher is an App that first sends an empty XPC message to amfid to make it start up and then jumps to unc0ver. \nThis fixes the (Failed to disable codesigning) error when jailbreaking.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon83_5x83_5_2x-c8.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1.0.1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//u0_Launcher-p2.ipa",
+      "size": 221184,
+      "title": "u0Launcher",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//u0_Launcher-p2.ipa",
+          "size": 221184
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "BlizzardBoard",
+      "bundleIdentifier": "com.AppInstalleriOS.BlizzardBoard",
+      "developerName" : "AI2Hub",
+      "subtitle": "A Theming App For TrollStore",
+      "description": "A Theming App For TrollStore\n⚠️COULD BOOTLOOP⚠️\nStatus: ✅🔵",
+      "localizedDescription": "A Theming App For TrollStore\n⚠️COULD BOOTLOOP⚠️\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//1024-Y3.png",
+      "tintColor": "35c1f1",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Blizzard_Board-Eu.ipa",
+      "size": 1933312,
+      "title": "BlizzardBoard",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Blizzard_Board-Eu.ipa",
+          "size": 1933312
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "BinarySigner iOS",
+      "bundleIdentifier": "com.retr0dev.binarysign",
+      "developerName" : "retr0devops",
+      "subtitle": "Sign any binary executable file.",
+      "description": "This is a tool, that helps you to sign any binary executable file. Only TrollStore supported.\nStatus: ✅🔵",
+      "localizedDescription": "This is a tool, that helps you to sign any binary executable file. Only TrollStore supported.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0076-H1.png",
+      "tintColor": "979797",
+      "category": "utilities",
+      "version": "1.0/70a70b9",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Binary_Signer-tF.ipa",
+      "size": 2052096,
+      "title": "BinarySigner iOS",
+      "versions": [
+        {
+          "version": "1.0/70a70b9",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Binary_Signer-tF.ipa",
+          "size": 2052096
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "iMemScanTS Localized",
+      "bundleIdentifier": "com.zSaaiq.iMemScan",
+      "developerName" : "zSaaiq",
+      "subtitle": "iMemScan for Trollstore Localized",
+      "description": "iMemScan for Trollstore Localized into English and German.\nStatus: ✅🔵",
+      "localizedDescription": "iMemScan for Trollstore Localized into English and German.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_i_Phone_60_3x-cn.png",
+      "tintColor": "50a0f2",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//i_Mem_Scan_TS-QU.tipa",
+      "size": 1900544,
+      "title": "iMemScanTS Localized",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//i_Mem_Scan_TS-QU.tipa",
+          "size": 1900544
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
