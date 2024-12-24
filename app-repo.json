@@ -1879,7 +1879,7 @@
     },
     {
       "beta": false,
-      "name": "YTMusicUltimate",
+      "name": "YTMusicUltimate (dayanch96)",
       "bundleIdentifier": "com.ginsu.ytmusicultimate",
       "developerName": "dvntms",
       "subtitle": "YTMusicUltimate - The best tweak for YouTube Music iOS",
@@ -1892,7 +1892,7 @@
       "versionDate": "2024-12-20",
       "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_7_31_3-05.ipa",
       "size": 7770000,
-      "title": "YTMusicUltimate",
+      "title": "YTMusicUltimate (dayanch96)",
       "url": "https://github.com/dayanch96/YTMusicUltimate",
       "versions": [
         {
@@ -1964,48 +1964,22 @@
     },
     {
       "beta": false,
-      "name" : "YouTubePlus",
-      "bundleIdentifier": "com.google.ios.youtubeplus",
+      "name" : "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName" : "dayanch96",
-      "subtitle": "YouTubePlus - Removes Ads and adds functionality",
-      "description": "Important: not working on SideStore/AltStore\nYouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
-      "localizedDescription": "Important: not working on SideStore/AltStore\nYouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "subtitle": "YouTube Plus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "nYouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
       "iconURL": "https://cdn1.realmzer.xyz//You_Tube_i_OS_2019_1-8b.png",
       "tintColor": "ff4154",
       "category": "entertainment",
-      "version": "19.47.7",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz//You_Tube_19_47_7-Ri.ipa",
+      "version": "19.49.7",
+      "versionDate" : "2024-12-23,
+      "downloadURL": "https://cdn1.realmzer.xyz//You_Tube_Plus_5_0_2-7d.ipa",
       "size": 115900000,
-      "title": "YouTubePlus",
+      "title": "YouTube Plus (dayanch96)",
       "url": "https://github.com/dayanch96/YTLite"
-    },
-    {
-      "beta": false,
-      "name" : "uYouEnhanced",
-      "bundleIdentifier": "com.google.ios.youtubeenhanced",
-      "developerName" : "arichornlover",
-      "subtitle": "uYouEnhanced - Removes Ads and adds functionality",
-      "description": "Important: not working on SideStore/AltStore\nYouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
-      "localizedDescription": "Important: not working on SideStore/AltStore\nYouTube with the uYouEnhanced Tweak\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//u_You_Enhanced-gR.png",
-      "tintColor": "ff4154",
-      "category": "entertainment",
-      "version": "19.47.7",
-      "versionDate" : "2024-11-30",
-      "downloadURL": "https://cdn1.realmzer.xyz//youtube_enhanced_19_47_7-6f.ipa",
-      "size": 117000000,
-      "title": "uYouEnhanced",
-      "url": "https://github.com/arichornlover/uYouEnhanced",
-      "versions" : [
-        {
-          "version": "19.21.2-3.0.4",
-          "date" : "2024-11-19",
-          "downloadURL": "https://cdn1.realmzer.xyz//youtube_enhanced_19_47_7-6f.ipa",
-          "size": 123060224
-        }
-      ]
-    },
+    }
     {
       "beta": false,
       "name": "Duolingo+",
