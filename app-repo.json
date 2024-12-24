@@ -1505,13 +1505,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//swiftgram-lS.png",
       "tintColor": "f56d3e",
       "category": "social",
-      "version": "11.5.1",
-      "versionDate" : "2024-12-22",
-      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_5_1_eeveedecrypter-vO.ipa",
+      "version": "11.5.2",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_5_2_eeveedecrypter-Mf.ipa",
       "size": 77078528,
       "title": "Swiftgram",
       "url": "https://swiftgram.app/",
       "versions" : [
+        {
+          "version": "11.5.2",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_5_2_eeveedecrypter-Mf.ipa",
+          "size": 77078528
+        },
         {
           "version": "11.5.1",
           "date" : "2024-12-22",
