@@ -3982,6 +3982,81 @@
       ]
     },
     {
+      "beta": true,
+      "name" : "SwiftTop",
+      "bundleIdentifier": "ca.bomberfish.SwiftTop",
+      "developerName" : "BomberFish",
+      "subtitle": "An elegant task manager written in SwiftUI",
+      "description": "A more modern task manager similiar to CocoaTop.\nStatus: ✅🔵",
+      "localizedDescription": "A more modern task manager similiar to CocoaTop.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_512x512_2x-Hp.png",
+      "tintColor": "57e903",
+      "category": "utilities",
+      "version": "0.3-p1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Swift_Top-mJ.tipa",
+      "size": 1347584,
+      "title": "SwiftTop",
+      "versions": [
+        {
+          "version": "0.3-p1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Swift_Top-mJ.tipa",
+          "size": 1347584
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Apple Terminal",
+      "bundleIdentifier": "com.apple.terminal",
+      "developerName" : "Apple",
+      "subtitle": "The official Apple Terminal but in iOS",
+      "description": "This is the official MacOS terminal ported to iOS.\nRequires TrollStore/CVE-2022-46689\nStatus: ✅🔵",
+      "localizedDescription": "This is the official MacOS terminal ported to iOS.\nRequires TrollStore/CVE-2022-46689\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//macosterminal-ZH.png",
+      "tintColor": "262626",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Terminal-0m.tipa",
+      "size": 19005440,
+      "title": "Apple Terminal",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Terminal-0m.tipa",
+          "size": 19005440
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Dock Transparent",
+      "bundleIdentifier": "com.straight-tamago.DockTransparent",
+      "developerName" : "straight-tamago",
+      "subtitle": "Make your Dock Transparent\niOS 14 - 16.1.2",
+      "description": "This TrollStore app makes your home screen dock transparent using TrollStore & CVE-2022-46689\nStatus: ✅🔵",
+      "localizedDescription": "This TrollStore app makes your home screen dock transparent using TrollStore & CVE-2022-46689\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_4-Vz.png",
+      "tintColor": "e963a5",
+      "category": "utilities",
+      "version": "0.2",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dock_Transparent_0_2-V2.ipa",
+      "size": 626688,
+      "title": "Dock Transparent",
+      "versions": [
+        {
+          "version": "0.2",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dock_Transparent_0_2-V2.ipa",
+          "size": 626688 
+        }
+      ]
+    },
+    {
       "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
