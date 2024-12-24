@@ -3958,7 +3958,7 @@
     },
     {
       "beta": true,
-      "name" : "AppComander",
+      "name" : "AppComamnder",
       "bundleIdentifier": "ca.bomberfish.AppCommander",
       "developerName" : "BomberFish",
       "subtitle": "A swiss army knife for your iPhone apps for iOS 15.0-17.0 using TrollStore.",
