@@ -1421,7 +1421,7 @@
       ]
     },
     {
-      "beta": false,
+      "beta": true,
       "name": "Bunny Discord",
       "bundleIdentifier": "com.hammerandchisel.discord2",
       "developerName": "Bunny Development Team",
