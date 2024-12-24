@@ -6019,16 +6019,6 @@
       "imageURL": "https://cdn1.realmzer.xyz//Discord_Symbol_1141822239-fz.png",
       "url": "https://discord.gg/hUK5m9MGFc",
       "notify": true
-    },
-    {
-      "title": "WSF is false reporting our github",
-      "identifier": "wsfcanttakeajpke",
-      "caption": "After making a joke about his sideloading guide stealing 5 billion crypto, he has made the decision to false report us. Click me to see the joke issue I made, please comment saying its just a joke chill so our IPA repo doesnt get deleted.",
-      "date": "2024-12-23",
-      "tintColor": "#FF0000",
-      "url": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/issues/20",
-      
-      "notify": true
     }
   ]
 }
