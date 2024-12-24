@@ -1974,12 +1974,12 @@
       "tintColor": "ff4154",
       "category": "entertainment",
       "version": "19.49.7",
-      "versionDate" : "2024-12-23,
+      "versionDate" : "2024-12-23",
       "downloadURL": "https://cdn1.realmzer.xyz//You_Tube_Plus_5_0_2-7d.ipa",
       "size": 115900000,
       "title": "YouTube Plus (dayanch96)",
       "url": "https://github.com/dayanch96/YTLite"
-    }
+    },
     {
       "beta": false,
       "name": "Duolingo+",
@@ -4027,6 +4027,81 @@
           "date" : "2024-12-23",
           "downloadURL": "https://cdn1.realmzer.xyz//Dock_Transparent_0_2-V2.ipa",
           "size": 626688 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "FileManager",
+      "bundleIdentifier": "com.mineek.files",
+      "developerName" : "mineek",
+      "subtitle": "File Manager for CVE-2022-46689",
+      "description": "This is a file manager for the TrollStore & CVE-2022-46689 exploits.\nStatus: ✅🔵",
+      "localizedDescription": "This is a file manager for the TrollStore & CVE-2022-46689 exploits.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0076-H1.png",
+      "tintColor": "9c9c9c",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//files-8X.ipa",
+      "size": 94208,
+      "title": "FileManager",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//files-8X.ipa",
+          "size": 94208 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Whitelist",
+      "bundleIdentifier": "ca.bomberfish.Whitelist",
+      "developerName" : "BomberFish",
+      "subtitle": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+      "description": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "localizedDescription": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//whitelist_icon-Zl.png",
+      "tintColor": "24ef00",
+      "category": "utilities",
+      "version": "1.1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Whitelist-Ki.ipa",
+      "size": 602112,
+      "title": "Whitelist",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Whitelist-Ki.ipa",
+          "size": 602112 
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "AppleGotTrolled",
+      "bundleIdentifier": "com.mudsplasher.AppleGotTrolled",
+      "developerName" : "MudSplasher",
+      "subtitle": "TrollStore Installation method for iOS 17.0",
+      "description": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "localizedDescription": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0076-H1.png",
+      "tintColor": "9c9c9c",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Apple_Got_Trolled-u3.ipa",
+      "size": 40960,
+      "title": "AppleGotTrolled",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Apple_Got_Trolled-u3.ipa",
+          "size": 40960 
         }
       ]
     },
