@@ -3981,31 +3981,6 @@
         }
       ]
     },
-        {
-      "beta": true,
-      "name" : "AppComander",
-      "bundleIdentifier": "ca.bomberfish.AppCommander",
-      "developerName" : "BomberFish",
-      "subtitle": "A swiss army knife for your iPhone apps for iOS 15.0-17.0 using TrollStore.",
-      "description": "A swiss army knife for your iPhone apps.\nSupported versions: 15.0-16.6.1, 17.0.0\nWARNING: THIS COULD BRICK YOUR DEVICE.\nStatus: ✅🔵\nNotes: What Works: Listing apps, Opening apps\nWhat's broken/missing: Backups (missing), Data management (missing), IPA Decryption (broken)/Export (missing).\nExtra notes: Dropped support for MDC-only devices. TrollStore is required to use AppCommander.",
-      "localizedDescription": "A swiss army knife for your iPhone apps.\nSupported versions: 15.0-16.6.1, 17.0.0\nWARNING: THIS COULD BRICK YOUR DEVICE.\nStatus: ✅🔵\nNotes: What Works: Listing apps, Opening apps\nWhat's broken/missing: Backups (missing), Data management (missing), IPA Decryption (broken)/Export (missing).\nExtra notes: Dropped support for MDC-only devices. TrollStore is required to use AppCommander.",
-      "iconURL": "https://cdn1.realmzer.xyz//appcommander_v3-Zn.png",
-      "tintColor": "6f00ef",
-      "category": "utilities",
-      "version": "2.0-preview1",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//App_Commander-PA.tipa",
-      "size": 2756608,
-      "title": "AppCommander",
-      "versions": [
-        {
-          "version": "2.0-preview1",
-          "date" : "2024-12-23",
-          "downloadURL": "https://cdn1.realmzer.xyz//App_Commander-PA.tipa",
-          "size": 2756608
-        }
-      ]
-    },
     {
       "beta": false,
       "name" : "Delta",
