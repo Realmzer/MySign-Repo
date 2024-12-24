@@ -1579,6 +1579,56 @@
       ]
     },
     {
+      "beta": true,
+      "name" : "WhatsApp Business TestFlight",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "WhatsApp LLC",
+      "subtitle": "Decrypted version of WhatsApp Business's TestFlight",
+      "description": "Everything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nStatus: ✅",
+      "localizedDescription": "Everything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//whatsappbusiness-nT.jpg",
+      "tintColor": "37df57",
+      "category": "social",
+      "version": "24.25.10",
+      "date" : "2024-11-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//WA_Business_v24_25_10_tg_glesign-gA.ipa",
+      "size": 93806592,
+      "title": "WhatsApp Business TestFlight",
+      "versions" : [
+        {
+          "version": "24.25.10",
+          "date" : "2024-11-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//WA_Business_v24_25_10_tg_glesign-gA.ipa",
+          "size": 93806592
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "WhatsApp TestFlight",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp LLC",
+      "subtitle": "Decrypted version of WhatsApp's TestFlight",
+      "description": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. \nIt’s simple, reliable, and private, so you can easily keep in touch with your friends and family. \nWhatsApp works across mobile and desktop even on slow connections, with no subscription fees*.\n\nStatus: ✅",
+      "localizedDescription": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. \nIt’s simple, reliable, and private, so you can easily keep in touch with your friends and family. \nWhatsApp works across mobile and desktop even on slow connections, with no subscription fees*.\n\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//unnamed_1-Zr.webp",
+      "tintColor": "37df57",
+      "category": "social",
+      "version": "24.25.10",
+      "date" : "2024-11-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Whats_App_v24_25_10_tg_glesign-Om.ipa",
+      "size": 88944640,
+      "title": "WhatsApp TestFlight",
+      "versions" : [
+        {
+          "version": "24.25.10",
+          "date" : "2024-11-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Whats_App_v24_25_10_tg_glesign-Om.ipa",
+          "size": 88944640
+        }
+      ]
+    },
+    {
       "beta": false,
       "name" : "Twitch No Ads",
       "bundleIdentifier": "tv.twitch",
