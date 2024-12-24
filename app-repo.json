@@ -187,6 +187,31 @@
     },
     {
       "beta": true,
+      "name" : "AppleGotTrolled",
+      "bundleIdentifier": "com.mudsplasher.AppleGotTrolled",
+      "developerName" : "MudSplasher",
+      "subtitle": "TrollStore Installation method for iOS 17.0",
+      "description": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "localizedDescription": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0076-H1.png",
+      "tintColor": "9c9c9c",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Apple_Got_Trolled-u3.ipa",
+      "size": 40960,
+      "title": "AppleGotTrolled",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Apple_Got_Trolled-u3.ipa",
+          "size": 40960 
+        }
+      ]
+    },
+    {
+      "beta": true,
       "name" : "TrollTrollStore",
       "bundleIdentifier": "com.opa334.Trollstore",
       "developerName" : "opa334",
@@ -4077,31 +4102,6 @@
           "date" : "2024-12-23",
           "downloadURL": "https://cdn1.realmzer.xyz//Whitelist-Ki.ipa",
           "size": 602112 
-        }
-      ]
-    },
-    {
-      "beta": true,
-      "name" : "AppleGotTrolled",
-      "bundleIdentifier": "com.mudsplasher.AppleGotTrolled",
-      "developerName" : "MudSplasher",
-      "subtitle": "TrollStore Installation method for iOS 17.0",
-      "description": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
-      "localizedDescription": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
-      "iconURL": "https://cdn1.realmzer.xyz//IMG_0076-H1.png",
-      "tintColor": "9c9c9c",
-      "category": "utilities",
-      "version": "1.0",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Apple_Got_Trolled-u3.ipa",
-      "size": 40960,
-      "title": "AppleGotTrolled",
-      "versions": [
-        {
-          "version": "1.0",
-          "date" : "2024-12-23",
-          "downloadURL": "https://cdn1.realmzer.xyz//Apple_Got_Trolled-u3.ipa",
-          "size": 40960 
         }
       ]
     },
