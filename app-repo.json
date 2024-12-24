@@ -1431,12 +1431,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "259.0",
-      "versionDate": "2024-12-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-jA.ipa",
-      "size": 93876224,
+      "version": "261.0_69313",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_2-yf.ipa",
+      "size": 88625152,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "261.0_69313",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_2-yf.ipa",
+          "size": 88625152
+        },
         {
           "version": "259.0",
           "date" : "2024-12-21",
@@ -3510,12 +3516,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//New_Project-F0.png",
       "tintColor": "e970a8",
       "category": "utilities",
-      "version": "1.1",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Blossom_1_1-Ba.tipa",
-      "size": 1175552,
+      "version": "1.1.1",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Blossom_1-Cx.tipa",
+      "size": 26181632,
       "title": "Blossom",
       "versions": [
+        {
+          "version": "1.1.1",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Blossom_1-Cx.tipa",
+          "size": 26181632
+        },
         {
           "version": "1.1",
           "date" : "2024-12-23",
