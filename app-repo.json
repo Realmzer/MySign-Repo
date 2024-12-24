@@ -3883,6 +3883,131 @@
     },
     {
       "beta": false,
+      "name" : "FileSwitcherDump",
+      "bundleIdentifier": "net.sourceloc.FileSwitcherDump",
+      "developerName" : "sourcelocation",
+      "subtitle": "Dump .fsp file contents on iOS",
+      "description": "This app dumps .fsp files and contents on iOS using the CVE-2022-46689 exploit.\nStatus: ✅🔵",
+      "localizedDescription": "This app dumps .fsp files and contents on iOS using the CVE-2022-46689 exploit.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//847_1-xk.jpg",
+      "tintColor": "73da71",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_Dump_1_0-co.ipa",
+      "size": 4427776,
+      "title": "FileSwitcherDump",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//File_Switcher_Dump_1_0-co.ipa",
+          "size": 4427776
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AirTroller12",
+      "bundleIdentifier": "net.sourceloc.AirTroller12",
+      "developerName" : "Matthew Anisovich/sourcelocation",
+      "subtitle": "AirDrop spammer / flooder to troll friends / AirTroller port for iOS 12",
+      "description": "AirDrop spammer / flooder to troll friends / AirTroller port for iOS 12\nStatus: ✅🔵",
+      "localizedDescription": "AirDrop spammer / flooder to troll friends / AirTroller port for iOS 12\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Artboard-0m.png",
+      "tintColor": "76e46c",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//org_haxi0_airtroller_1_2_iphoneos_arm-X3.deb",
+      "size": 688128,
+      "title": "AirTroller12",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//org_haxi0_airtroller_1_2_iphoneos_arm-X3.deb",
+          "size": 688128
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "TrollAppsTV",
+      "bundleIdentifier": "org.resonance.tvstore",
+      "developerName" : "TheResonanceTeam",
+      "subtitle": "An App Store alternative built for tvOS",
+      "description": "TrollAppsTV is an alternative to the tvOS App Store for TrollStore-tvOS users.\nTrollAppsTV allows users to download apps from repositories and install them directly in TrollStore.\nTrollApps works on all tvOS versions that TrollStore-tvOS works on, including tvOS 18 beta with palera1n; make sure to be on the latest version of TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "TrollAppsTV is an alternative to the tvOS App Store for TrollStore-tvOS users.\nTrollAppsTV allows users to download apps from repositories and install them directly in TrollStore.\nTrollApps works on all tvOS versions that TrollStore-tvOS works on, including tvOS 18 beta with palera1n; make sure to be on the latest version of TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Resonance_Store_TV_Icon-ZT.png",
+      "tintColor": "ae80e6",
+      "category": "utilities",
+      "version": "0.92-4-beta",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Apps_TV-ON.ipa",
+      "size": 11354112,
+      "title": "TrollAppsTV",
+      "versions": [
+        {
+          "version": "0.92-4-beta",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Apps_TV-ON.ipa",
+          "size": 11354112
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "AppComander",
+      "bundleIdentifier": "ca.bomberfish.AppCommander",
+      "developerName" : "BomberFish",
+      "subtitle": "A swiss army knife for your iPhone apps for iOS 15.0-17.0 using TrollStore.",
+      "description": "A swiss army knife for your iPhone apps.\nSupported versions: 15.0-16.6.1, 17.0.0\nWARNING: THIS COULD BRICK YOUR DEVICE.\nStatus: ✅🔵\nNotes: What Works: Listing apps, Opening apps\nWhat's broken/missing: Backups (missing), Data management (missing), IPA Decryption (broken)/Export (missing).\nExtra notes: Dropped support for MDC-only devices. TrollStore is required to use AppCommander.",
+      "localizedDescription": "A swiss army knife for your iPhone apps.\nSupported versions: 15.0-16.6.1, 17.0.0\nWARNING: THIS COULD BRICK YOUR DEVICE.\nStatus: ✅🔵\nNotes: What Works: Listing apps, Opening apps\nWhat's broken/missing: Backups (missing), Data management (missing), IPA Decryption (broken)/Export (missing).\nExtra notes: Dropped support for MDC-only devices. TrollStore is required to use AppCommander.",
+      "iconURL": "https://cdn1.realmzer.xyz//appcommander_v3-Zn.png",
+      "tintColor": "6f00ef",
+      "category": "utilities",
+      "version": "2.0-preview1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//App_Commander-PA.tipa",
+      "size": 2756608,
+      "title": "AppCommander",
+      "versions": [
+        {
+          "version": "2.0-preview1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//App_Commander-PA.tipa",
+          "size": 2756608
+        }
+      ]
+    },
+        {
+      "beta": true,
+      "name" : "AppComander",
+      "bundleIdentifier": "ca.bomberfish.AppCommander",
+      "developerName" : "BomberFish",
+      "subtitle": "A swiss army knife for your iPhone apps for iOS 15.0-17.0 using TrollStore.",
+      "description": "A swiss army knife for your iPhone apps.\nSupported versions: 15.0-16.6.1, 17.0.0\nWARNING: THIS COULD BRICK YOUR DEVICE.\nStatus: ✅🔵\nNotes: What Works: Listing apps, Opening apps\nWhat's broken/missing: Backups (missing), Data management (missing), IPA Decryption (broken)/Export (missing).\nExtra notes: Dropped support for MDC-only devices. TrollStore is required to use AppCommander.",
+      "localizedDescription": "A swiss army knife for your iPhone apps.\nSupported versions: 15.0-16.6.1, 17.0.0\nWARNING: THIS COULD BRICK YOUR DEVICE.\nStatus: ✅🔵\nNotes: What Works: Listing apps, Opening apps\nWhat's broken/missing: Backups (missing), Data management (missing), IPA Decryption (broken)/Export (missing).\nExtra notes: Dropped support for MDC-only devices. TrollStore is required to use AppCommander.",
+      "iconURL": "https://cdn1.realmzer.xyz//appcommander_v3-Zn.png",
+      "tintColor": "6f00ef",
+      "category": "utilities",
+      "version": "2.0-preview1",
+      "versionDate" : "2024-12-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//App_Commander-PA.tipa",
+      "size": 2756608,
+      "title": "AppCommander",
+      "versions": [
+        {
+          "version": "2.0-preview1",
+          "date" : "2024-12-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//App_Commander-PA.tipa",
+          "size": 2756608
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
