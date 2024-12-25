@@ -3032,12 +3032,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
       "tintColor": "008afd",
       "category": "utilities",
-      "version": "2.8-15",
-      "versionDate" : "2024-12-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_8_15-Cy.tipa",
-      "size": 3305472,
+      "version": "2.8-16",
+      "versionDate" : "2024-12-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_8_16-rd.tipa",
+      "size": 3309568,
       "title": "TrollFools",
       "versions": [
+        {
+          "version": "2.8-16",
+          "date" : "2024-12-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_8_16-rd.tipa",
+          "size": 3309568
+        },
         {
           "version": "2.8-15",
           "date" : "2024-12-21",
