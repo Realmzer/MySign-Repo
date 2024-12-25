@@ -377,6 +377,31 @@
       ]
     },
     {
+      "beta": true,
+      "name": "Fugu15",
+      "bundleIdentifier": "de.pinauten.Fugu15",
+      "developerName": "pinauten",
+      "subtitle": "Semi-untethered permasigned jailbreak for iOS 15",
+      "description": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
+      "localizedDescription": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_5-iA.png",
+      "tintColor": "141257",
+      "category": "utilities",
+      "version": "0.0.1",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Fugu15-gS.tipa",
+      "size": 34668544,
+      "title": "Fugu15",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Fugu15-gS.tipa",
+          "size": 34668544
+        }
+      ]
+    },
+    {
       "beta": false,
       "name" : "Misaka",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
@@ -4207,6 +4232,107 @@
         }
       ]
     },
+    {
+      "beta": false,
+      "name" : "DumpDecrypter",
+      "bundleIdentifier": "com.netskao.dumpdecrypter",
+      "developerName" : "Netskao",
+      "subtitle": "Decrypt apps with one tap using TrollStore",
+      "description": "If you want to decrypt iOS apps installed from the official App Store and you are not a geeky user that doesn't like to use console, DumpDecrypter can be the right tool for you. With this jailbreak tool, you can with one tap decrypt and generate an IPA of an app.\nStatus: ✅🔵",
+      "localizedDescription": "If you want to decrypt iOS apps installed from the official App Store and you are not a geeky user that doesn't like to use console, DumpDecrypter can be the right tool for you. With this jailbreak tool, you can with one tap decrypt and generate an IPA of an app.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Dump_Decrypter_1_4_8-ks.png",
+      "tintColor": "0067ff",
+      "category": "utilities",
+      "version": "1.4-9",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dump_Decrypter_1_4_9-2a.tipa",
+      "size": 483328,
+      "title": "DumpDecryptor",
+      "versions": [
+        {
+          "version": "1.4-9",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dump_Decrypter_1_4_9-2a.tipa",
+          "size": 483328 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "MuffinStore",
+      "bundleIdentifier": "dev.mineek.muffinstore",
+      "developerName" : "mineek",
+      "subtitle": "Experimental App Store app downgrader / installer with TrollStore.",
+      "description": "This is an app that allows you downgrade App Store apps using TrollStore\nStatus: ✅🔵",
+      "localizedDescription": "This is an app that allows you downgrade App Store apps using TrollStore\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Muffin_Store_1_1_2-ft.png",
+      "tintColor": "fe8bac",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Muffin_Store_v1_1-Mx.tipa",
+      "size": 32768,
+      "title": "MuffinStore",
+      "versions": [
+        {
+          "version": "1.1",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Muffin_Store_v1_1-Mx.tipa",
+          "size": 32768 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "ChargeLimiter",
+      "bundleIdentifier": "chaoge.ChargeLimiter",
+      "developerName" : "lich4",
+      "subtitle": "Charge limiter for iOS using TrollStore",
+      "description": "This limits the how much you can charge your phone using TrollStore\nStatus: ❌🔵 (Discontinued)",
+      "localizedDescription": "This limits the how much you can charge your phone using TrollStore\nStatus: ❌🔵 (Discontinued)",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_1024_1-0x.png",
+      "tintColor": "4aa94d",
+      "category": "utilities",
+      "version": "1.7",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Charge_Limiter_1_7-9I.tipa",
+      "size": 2494464,
+      "title": "ChargeLimiter",
+      "versions": [
+        {
+          "version": "1.7",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Charge_Limiter_1_7-9I.tipa",
+          "size": 2494464 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "IPSW",
+      "bundleIdentifier": "com.hyperixa.IPSW",
+      "developerName" : "hyperixa",
+      "subtitle": "Check Sign and Unsigned iOS Versions (May be Outdated)",
+      "description": "This is a utility that lets you check the current status of signed and unsigned iOS versions.\nStatus: ❌🔵 (Discontinued)",
+      "localizedDescription": "This is a utility that lets you check the current status of signed and unsigned iOS versions.\nStatus: ❌🔵 (Discontinued)",
+      "iconURL": "https://cdn1.realmzer.xyz//IPSW_TS-AU.png",
+      "tintColor": "f79232",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//IPSW_TS-k2.ipa",
+      "size": 5582848,
+      "title": "IPSW",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//IPSW_TS-k2.ipa",
+          "size": 5582848 
+        }
+      ]
+    },
+
     {
       "beta": false,
       "name" : "Delta",
