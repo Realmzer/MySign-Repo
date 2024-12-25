@@ -780,13 +780,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//utm-el.png",
       "tintColor": "1a3cc9",
       "category": "utilities",
-      "version" : "4.5.4",
-      "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn1.realmzer.xyz//UTM-zF.ipa",
-      "size": 122064896,
+      "version" : "4.6.4",
+      "versionDate" : "2024-12-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM-f7.ipa",
+      "size": 126287872,
       "title": "UTM",
       "url": "https://getutm.app/",
       "versions" : [
+        {
+          "version" : "4.6.4",
+          "date" : "2024-12-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//UTM-f7.ipa",
+          "size": 126287872
+        },
         {
           "version" : "4.5.4",
           "date" : "2024-11-04",
@@ -806,13 +812,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//utm-el.png",
       "tintColor": "1a3cc9",
       "category": "utilities",
-      "version" : "4.5.4",
-      "versionDate" : "2024-11-04",
-      "downloadURL": "https://cdn1.realmzer.xyz//UTM_SE-sW.ipa",
-      "size": 217464832,
+      "version" : "4.6.4",
+      "versionDate" : "2024-12-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM_SE-Uu.ipa",
+      "size": 216313856,
       "title": "UTM SE",
       "url": "https://getutm.app/",
       "versions" : [
+        {
+          "version" : "4.6.4",
+          "date" : "2024-12-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//UTM_SE-Uu.ipa",
+          "size": 216313856
+        },
         {
           "version" : "4.5.4",
           "date" : "2024-11-04",
