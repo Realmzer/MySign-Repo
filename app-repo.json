@@ -109,6 +109,31 @@
     },
     {
       "beta": false,
+      "name" : "SimpleKFD",
+      "bundleIdentifier": "com.lrdsnow.test",
+      "developerName" : "lrdsnow",
+      "subtitle": "KFD Tweaks for iOS 15.0-15.7.6 arm64e\n&\narm64 and iOS 16.0-16.5 & 16.6b1 arm64e",
+      "description": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅",
+      "localizedDescription": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_7-YD.png",
+      "tintColor": "6f00ba",
+      "category": "utilities",
+      "version": "1.5",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
+      "size": 2879488,
+      "title": "SimpleKFD",
+      "versions" : [
+        {
+          "version": "1.5",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
+          "size": 2879488
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Nugget",
       "bundleIdentifier": "com.leemin.nugget",
       "developerName" : "leminlimez",
