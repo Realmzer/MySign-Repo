@@ -3547,7 +3547,7 @@
       ]
     },
     {
-      "beta": false,
+      "beta": true,
       "name" : "TrollRecorder",
       "bundleIdentifier": "wiki.qaq.trapp",
       "developerName" : "Lessica",
@@ -3557,17 +3557,23 @@
       "iconURL": "https://cdn1.realmzer.xyz//6669b3b45e7d7e36f189dc6d-Zr.png",
       "tintColor": "223155",
       "category": "utilities",
-      "version": "2.12",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_12_521-BJ.tipa",
-      "size": 5537792,
+      "version": "2.14",
+      "versionDate" : "2024-12-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_14_542-oM.tipa",
+      "size": 5607424,
       "title": "TrollRecorder",
       "versions": [
         {
-          "version": "2.12",
-          "date" : "2024-12-23",
-          "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_12_521-BJ.tipa",
-          "size": 5537792
+          "version": "2.14",
+          "date" : "2024-12-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_14_542-oM.tipa",
+          "size": 5607424
+        },
+        {
+        "version": "2.12",
+        "date" : "2024-12-23",
+        "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_12_521-BJ.tipa",
+        "size": 5537792
         }
       ]
     },
