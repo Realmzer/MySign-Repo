@@ -4332,7 +4332,131 @@
         }
       ]
     },
-
+    {
+      "beta": false,
+      "name" : "Serial",
+      "bundleIdentifier": "dev.ayden.ios.serial",
+      "developerName" : "aydenp",
+      "subtitle": "A simple iOS app for looking up an Apple device's serial number",
+      "description": "This is an app for looking up an Apple device's serial number.\nStatus: ❌🔵 (Discontinued)",
+      "localizedDescription": "This is an app for looking up an Apple device's serial number.\nStatus: ❌🔵 (Discontinued)",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_6-9P.png",
+      "tintColor": "2e314a",
+      "category": "utilities",
+      "version": "1.0.3",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Sideload-fc.ipa",
+      "size": 66756608,
+      "title": "Serial",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Sideload-fc.ipa",
+          "size": 66756608 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AudioRecorderTS",
+      "bundleIdentifier": "net.limneos.AudioRecorder",
+      "developerName" : "Limneos",
+      "subtitle": "Record call audio using TrollStore",
+      "description": "This tool allows you to record audio from a call using TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "This tool allows you to record audio from a call using TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Audio_Recorder_TS-Lb.png",
+      "tintColor": "de1615",
+      "category": "utilities",
+      "version": "6.0.3",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Audio_Recorder_TS-Wd.tipa",
+      "size": 4628480,
+      "title": "AudioRecorderTS",
+      "versions": [
+        {
+          "version": "6.0.3",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Audio_Recorder_TS-Wd.tipa",
+          "size": 4628480 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AudioRecorderTS No Dropbox",
+      "bundleIdentifier": "net.limneos.AudioRecordernodb",
+      "developerName" : "Limneos",
+      "subtitle": "Record call audio using TrollStore without DropBox",
+      "description": "This tool allows you to record audio from a call using TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "This tool allows you to record audio from a call using TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Audio_Recorder_TS-Lb.png",
+      "tintColor": "de1615",
+      "category": "utilities",
+      "version": "6.0.3",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Audio_Recorder_TS_no_Dropbox-kY.tipa",
+      "size": 1290240,
+      "title": "AudioRecorderTS No DropBox",
+      "versions": [
+        {
+          "version": "6.0.3",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Audio_Recorder_TS_no_Dropbox-kY.tipa",
+          "size": 1290240 
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollSign",
+      "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
+      "developerName" : "BenjaminHornbeck6",
+      "subtitle": "Modify app entitlements using TrollStore",
+      "description": "Modify app entitlements before installing using the TrollStore exploit.\nStatus: ✅🔵",
+      "localizedDescription": "Modify app entitlements before installing using the TrollStore exploit.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Troll_Sign_TS-Qu.png",
+      "tintColor": "f2f4f3",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Sign_TS-Lh.ipa",
+      "size": 2486272,
+      "title": "TrollSign",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Sign_TS-Lh.ipa",
+          "size": 2486272  
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Dumpy2",
+      "bundleIdentifier": "xyz.cypwn.dumpy2",
+      "developerName" : "cypwn",
+      "subtitle": "Decrypt iOS apps using TrollStore",
+      "description": "IPA Dumper/Decrypter\nStatus: ✅🔵",
+      "localizedDescription": "IPA Dumper/Decrypter\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Dumpy2_2_0_7-gN.png",
+      "tintColor": "6c606f",
+      "category": "utilities",
+      "version": "2.0.7",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dumpy2_2_0_7-6p.ipa",
+      "size": 1560576,
+      "title": "Dumpy2",
+      "versions": [
+        {
+          "version": "2.0.7",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dumpy2_2_0_7-6p.ipa",
+          "size": 1560576  
+        }
+      ]
+    },
     {
       "beta": false,
       "name" : "Delta",
