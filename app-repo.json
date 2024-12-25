@@ -4459,6 +4459,31 @@
     },
     {
       "beta": false,
+      "name" : "Supervise",
+      "bundleIdentifier": "com.AppInstalleriOS.Supervise",
+      "developerName" : "cypwn",
+      "subtitle": "Supervise your device",
+      "description": "Enable supervision on your device using TrollStore.\nStatus: ✅🔵",
+      "localizedDescription": "Enable supervision on your device using TrollStore.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Supervise_TS-R6.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Supervise_TS-Yr.ipa",
+      "size": 299008,
+      "title": "Supervise",
+      "versions": [
+        {
+          "version": "1.0",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Supervise_TS-Yr.ipa",
+          "size": 299008  
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
