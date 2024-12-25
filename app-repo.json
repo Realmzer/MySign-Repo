@@ -186,6 +186,31 @@
       ]
     },
     {
+      "beta": false,
+      "name" : "TrollStar",
+      "bundleIdentifier": "com.34306.trollforce",
+      "developerName" : "Huy Nguyen",
+      "subtitle": "TrollStore installer for iOS 16.0 - iOS 16.6.1 on arm64e",
+      "description": "This is a TrollStore installer using the KFD & kfund exploit supporting iOS 16.0 - 16.6.1 on arm64e\nStatus: ✅",
+      "localizedDescription": "This is a TrollStore installer using the KFD & kfund exploit supporting iOS 16.0 - 16.6.1 on arm64e\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//anya-Cr.png",
+      "tintColor": "f1c9c2",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Star_1_2-Te.ipa",
+      "size": 1155072,
+      "title": "TrollStar",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Star_1_2-Te.ipa",
+          "size": 1155072  
+        }
+      ]
+    },
+    {
       "beta": true,
       "name" : "AppleGotTrolled",
       "bundleIdentifier": "com.mudsplasher.AppleGotTrolled",
@@ -377,6 +402,31 @@
       ]
     },
     {
+      "beta": false,
+      "name": "Def1nit3lyN0tAJa1lbr3akTool",
+      "bundleIdentifier": "com.xiao.Def1nit3lyN0tAJa1lbr3akTool",
+      "developerName": "KpwnZ",
+      "subtitle": "A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.6.1",
+      "description": "A jailbreak tool for iOS 16.0 to iOS 16.6.1. I built it just for fun.\nThis could not have been possible without kfd, kfund, Dopamine and the jailbreak community.\nStatus: ✅",
+      "localizedDescription":  "A jailbreak tool for iOS 16.0 to iOS 16.6.1. I built it just for fun.\nThis could not have been possible without kfd, kfund, Dopamine and the jailbreak community.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0076-H1.png",
+      "tintColor": "aeaeae",
+      "category": "utilities",
+      "version": "1.0.1",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Def1nit3ly_N0t_A_Ja1lbr3ak_Tool-lT.ipa",
+      "size": 67567616,
+      "title": "Def1nit3lyN0tAJa1lbr3akTool",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Def1nit3ly_N0t_A_Ja1lbr3ak_Tool-lT.ipa",
+          "size": 67567616
+        }
+      ]
+    },
+    {
       "beta": true,
       "name": "Fugu15",
       "bundleIdentifier": "de.pinauten.Fugu15",
@@ -433,8 +483,8 @@
       "bundleIdentifier": "com.leemin.Cowabunga",
       "developerName" : "leminlimez",
       "subtitle": "Jailed Toolbox for iOS 14-15.7.1",
-      "description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
-      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥",
+      "description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥 (Discontinued)",
+      "localizedDescription":  "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥 (Discontinued)",
       "iconURL": "https://cdn1.realmzer.xyz//215552092_9dc1e029_da35_43da_867f_17279e3dc180_4_O-yn.png",
       "tintColor": "0784fc",
       "category": "utilities",
@@ -450,6 +500,32 @@
           "date" : "2024-12-06",
           "downloadURL": "https://cdn1.realmzer.xyz//Cowabunga-Du.ipa",
           "size": 16289792
+        }
+      ]
+    }, 
+    {
+      "beta": false,
+      "name" : "Cluckabunga",
+      "bundleIdentifier": "com.leminlimez.Cluckabunga",
+      "developerName" : "leminlimez",
+      "subtitle": "KFD Customization Tool for iOS 16.0-16.6b1",
+      "description": "A customization tool using KFD.\nStatus: ❌🔥 (Discontinued)",
+      "localizedDescription": "A customization tool using KFD.\nStatus: ❌🔥 (Discontinued)",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_2137-2l.png",
+      "tintColor": "afb6c1",
+      "category": "utilities",
+      "version": "2.2.1",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cluckabunga_1-h5.ipa",
+      "size": 8359936,
+      "title": "Cluckabunga",
+      "url": "https://github.com/leminlimez/Cluckabunga",
+      "versions" : [
+        {
+          "version": "2.2.1",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Cluckabunga_1-h5.ipa",
+          "size": 8359936
         }
       ]
     },
@@ -4479,6 +4555,56 @@
           "date" : "2024-12-24",
           "downloadURL": "https://cdn1.realmzer.xyz//Supervise_TS-Yr.ipa",
           "size": 299008  
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TheosChecker",
+      "bundleIdentifier": "com.SamoXcZ.TheosChecker",
+      "developerName" : "SamoXcZ",
+      "subtitle": "Simple App to Check if Theos is installed or not iOS 15.0-17.0",
+      "description": "Simple utility app to check if Theos is installed or not. Only for Bootstrap Jailbreak\niOS 15.0-17.0\nStatus: ✅🔵",
+      "localizedDescription": "Simple utility app to check if Theos is installed or not. Only for Bootstrap Jailbreak\niOS 15.0-17.0\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//307553764_df235c5e_cab3_41f9_be65_430ef0efdafc-jf.jpeg",
+      "tintColor": "8908cc",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Theos_Checker_V1_2-19.ipa",
+      "size": 610304,
+      "title": "TheosChecker",
+      "versions": [
+        {
+          "version": "1.2",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Theos_Checker_V1_2-19.ipa",
+          "size": 610304  
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "StoreControl",
+      "bundleIdentifier": "com.swifticul.StoreControl",
+      "developerName" : "theoderoy",
+      "subtitle": "Restore functionality of screen savers to iOS home devices\n(iOS 14.0 to iOS 16.1.2)",
+      "description": "A customization app that allows to bring back the functionality of screen savers to iOS\nStatus: ❌🔵 (Discontinued)",
+      "localizedDescription": "A customization app that allows to bring back the functionality of screen savers to iOS\nStatus: ❌🔵 (Discontinued)",
+      "iconURL": "https://cdn1.realmzer.xyz//7_A84_BC_25_29_AB_4193_B648_AA_77_EEE_21_A5_C-tk.png",
+      "tintColor": "00391a",
+      "category": "utilities",
+      "version": "1.2.0",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Store_Control-ZJ.ipa",
+      "size": 472657920,
+      "title": "StoreControl",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Theos_Checker_V1_2-19.ipa",
+          "size": 472657920  
         }
       ]
     },
