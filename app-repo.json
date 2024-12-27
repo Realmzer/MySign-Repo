@@ -1,7 +1,7 @@
 {
   "name": "MySign IPA Repository",
   "identifier": "realmzer.ipa.source",
-  "iconURL": "https://cdn1.realmzer.xyz//IMG_4476-iD.png",
+  "iconURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
   "website": "https://discord.gg/hUK5m9MGFc",
   "patreonURL": "https://www.patreon.com/c/Realmzer",
   "subtitle": "The official MySign IPA Repository!",
@@ -17,6 +17,24 @@
   ],
   
   "apps": [
+    {
+      "beta": true,
+      "name" : "MySign",
+      "bundleIdentifier": "com.gliddd4.realmzer.mysign",
+      "developerName" : "Gliddd4 & Realmzer",
+      "subtitle": "First beta for MySign, IPA Sideloader",
+      "description": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\nhttps://discord.gg/hUK5m9MGFc\n🔥",
+      "localizedDescription": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\nhttps://discord.gg/hUK5m9MGFc\n🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
+      "tintColor": "326B8B",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//My_Sign",
+      "size": 2860000,
+      "title": "MySign",
+      "url": "https://discord.gg/hUK5m9MGFc",
+    },
     {
       "beta": true,
       "name" : "Postbox",
@@ -6544,7 +6562,7 @@
     "subtitle": "MySign IPA repo",
     "description": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBox",
     "localizedDescription": "This is a dummy app for SideStore so the MySign logo shows by our IPAs. The actual IPA for this is PostBox",
-    "iconURL": "https://cdn1.realmzer.xyz//IMG_4476-iD.png",
+    "iconURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
     "tintColor": "C4D2CB",
     "category": "utilites",
     "version": "1000",
