@@ -1316,6 +1316,23 @@
     },
     {
       "beta": false,
+      "name": "LightningTime",
+      "bundleIdentifier": "com.leemin.lightningprefs",
+      "subtitle": "Add lightning time to the lock screen\n(JB Tweak arm64)",
+      "description": "Add lightning time to the lock screen\nLightning time is the time shown in hexadecimal.\nStatus: ✅✨",
+      "localizedDescription": "Add lightning time to the lock screen\nLightning time is the time shown in hexadecimal.\nStatus: ✅✨",
+      "developerName": "leminlimez",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_3x_1-oZ.png",
+      "tintColor": "ded6c7",
+      "category": "dylib",
+      "size": 8192,
+      "version": "0.1.0",
+      "versionDate": "2024-12-27",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_leemin_lstimelightning16_0_3_iphoneos_arm64-55.deb",
+      "title": "LightningTime"
+    },
+    {
+      "beta": false,
       "name" : "Frida Code Manager (Root-Hide)",
       "bundleIdentifier": "com.sparklechan.swiftyrh",
       "developerName": "fridakitten",
