@@ -33,7 +33,7 @@
       "downloadURL": "https://cdn1.realmzer.xyz//My_Sign-5h.ipa",
       "size": 2860000,
       "title": "MySign",
-      "url": "https://discord.gg/hUK5m9MGFc",
+      "url": "https://discord.gg/hUK5m9MGFc"
     },
     {
       "beta": true,
@@ -5786,12 +5786,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "26.5.6",
-    "versionDate" : "2024-12-24",
-    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_5_6_Promoe-gQ.ipa",
+    "version": "26.5.7",
+    "versionDate" : "2024-12-27",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_5_7_Promoe-GQ.ipa",
     "size": 104210432,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "26.5.7",
+        "date" : "2024-12-27",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_5_7_Promoe-GQ.ipa",
+        "size": 104210432
+      },
       {
         "version": "26.5.6",
         "date" : "2024-12-24",
@@ -6117,6 +6123,31 @@
         "date" : "2024-11-30",
         "downloadURL": "https://cdn1.realmzer.xyz//comz2fixfortheloveofgod-hc.ipa",
         "size": 136024064
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name": "Call of Mini Dino Hunter",
+    "bundleIdentifier": "com.realmzer.comdinohunter",
+    "subtitle": "64bit port of COM Dino Hunter",
+    "developerName": "Triniti, Realmzer, Zweronz",
+    "description": "A port for Call of Mini Dino Hunter that brings it to new device.\nStatus: ✅",
+    "localizedDescription": "A port for Call of Mini Dino Hunter that brings it to new device.\nStatus: ✅",
+    "iconURL": "https://cdn1.realmzer.xyz//512x512bb_7-Lb.jpg",
+    "tintColor": "e74b45",
+    "category": "games",
+    "version": "1.0",
+    "versionDate" : "2024-12-27",
+    "downloadURL": "https://cdn1.realmzer.xyz//comdinohunter-Fb.ipa",
+    "size": 108371968,
+    "title": "Call of Mini Dino Hunter",
+    "versions" : [
+      {
+        "version": "1.0",
+        "date" : "2024-12-27",
+        "downloadURL": "https://cdn1.realmzer.xyz//comdinohunter-Fb.ipa",
+        "size": 108371968
       }
     ]
   },
