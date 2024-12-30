@@ -2587,6 +2587,31 @@
     },
     {
       "beta": false,
+      "name" : "Cash App (FAKE)",
+      "bundleIdentifier": "om.devjash-Capp-App",
+      "developerName" : "devjash",
+      "subtitle": "Fake cash app prank",
+      "description": "Fake cash app prank\nStatus: ✅",
+      "localizedDescription": "Fake cash app prank\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//Square_Cash_app_logopng-XG.png",
+      "tintColor": "01d633",
+      "category": "utilities",
+      "version": "4",
+      "versionDate" : "2024-11-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
+      "size": 16207872,
+      "title": "Cash App (FAKE)",
+      "versions" : [
+        {
+        "version": "4",
+        "date" : "2024-11-17",
+        "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
+        "size": 16207872
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Procreate Pocket",
       "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
       "developerName" : "Savage Interactive Pty Ltd",
@@ -5707,31 +5732,6 @@
       }
     ]
   },   
-  {
-    "beta": false,
-    "name" : "Cash App (FAKE)",
-    "bundleIdentifier": "om.devjash-Capp-App",
-    "developerName" : "devjash",
-    "subtitle": "Fake cash app prank",
-    "description": "Fake cash app prank\nStatus: ✅",
-    "localizedDescription": "Fake cash app prank\nStatus: ✅",
-    "iconURL": "https://cdn1.realmzer.xyz//Square_Cash_app_logopng-XG.png",
-    "tintColor": "01d633",
-    "category": "utilities",
-    "version": "4",
-    "versionDate" : "2024-11-17",
-    "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
-    "size": 16207872,
-    "title": "Cash App (FAKE)",
-    "versions" : [
-      {
-      "version": "4",
-      "date" : "2024-11-17",
-      "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
-      "size": 16207872
-      }
-    ]
-  },
   {
     "beta": false,
     "name" : "Flight Tracker +",
