@@ -574,22 +574,42 @@
     },
     {
       "beta": false,
-      "name" : "LiveContainer 3.1.0",
-      "bundleIdentifier": "com.kdt.livecontainer310",
-      "developerName" : "khanhduytran0",
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
       "subtitle": "Run iOS app without actually installing it!",
       "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
-      "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "localizedDescription": "Run iOS app without actually installing it!\nStatus: ✅🔥",
       "iconURL": "https://cdn1.realmzer.xyz//livecontainer-XV.png",
       "tintColor": "0784fc",
       "category": "utilities",
       "version": "3.1.0",
-      "versionDate" : "2024-12-16",
+      "versionDate": "2024-12-16",
       "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
       "size": 2899968,
-      "title": "LiveContainer Commit 3.1.0",
-      "url": "https://github.com/khanhduytran0/LiveContainer"
-    },
+      "title": "LiveContainer",
+      "url": "https://github.com/khanhduytran0/LiveContainer",
+      "versions": [
+        {
+          "version": "3.1.0",
+          "date": "2024-12-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
+          "size": 2899968
+        },
+        {
+          "version": "8b6e503",
+          "date": "2024-11-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer8b6e503-Ph.ipa",
+          "size": 921600
+        },
+        {
+          "version": "2.1.2",
+          "date": "2024-10-30",
+          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_2_1_2-D4.ipa",
+          "size": 194586
+        }
+      ]
+    }
     {
       "beta": false,
       "name": "ESign No Logs",
@@ -5993,44 +6013,6 @@
         "date" : "2024-12-23",
         "downloadURL": "https://cdn1.realmzer.xyz//i_SH-Nw.ipa",
         "size": 4235264
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "LiveContainer",
-    "bundleIdentifier": "com.kdt.livecontainer",
-    "developerName" : "khanhduytran0",
-    "subtitle": "Run iOS app without actually installing it!",
-    "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
-    "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
-    "iconURL": "https://cdn1.realmzer.xyz//livecontainer-XV.png",
-    "tintColor": "0784fc",
-    "category": "utilities",
-    "version": "3.1.0",
-    "versionDate" : "2024-12-16",
-    "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
-    "size": 2899968,
-    "title": "LiveContainer",
-    "url": "https://github.com/khanhduytran0/LiveContainer",
-    "versions" : [
-      {
-        "version": "3.1.0",
-        "date" : "2024-12-16",
-        "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_3_1_0-wH.ipa",
-        "size": 2899968
-      },
-      {
-        "version": "8b6e503",
-        "date" : "2024-11-16",
-        "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer8b6e503-Ph.ipa",
-        "size": 921600
-      },
-      {
-      "version": "2.1.2",
-      "date" : "2024-10-30",
-      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_livecontainer_2_1_2-D4.ipa",
-      "size": 194586
       }
     ]
   },
