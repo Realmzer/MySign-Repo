@@ -2537,6 +2537,56 @@
     },
     {
       "beta": false,
+      "name" : "Widgy Widgets",
+      "bundleIdentifier": "com.woodsign.Widgy",
+      "developerName" : "Woodsign",
+      "subtitle": "Widgy Widgets - Edit Everything",
+      "description": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
+      "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
+      "iconURL": "https://cdn1.realmzer.xyz//widgy_widgets_logo-6A.png",
+      "tintColor": "00d395",
+      "category": "utilities",
+      "version": "4.0.0",
+      "versionDate" : "2024-11-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
+      "size": 54976512,
+      "title": "Widgy Widgets",
+      "versions" : [
+        {
+          "version": "4.0.0",
+          "date" : "2024-11-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
+          "size": 54976512
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Transparent Icons",
+      "bundleIdentifier": "com.noahgilmore.transparent-icons",
+      "developerName" : "Noah Gilmore",
+      "subtitle": "Transparent Icons - Customize home screen icons",
+      "description": "Transparent App Icons\nStatus: ✅",
+      "localizedDescription": "Transparent App Icons\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-uF.png",
+      "tintColor": "9f67c1",
+      "category": "utilities",
+      "version": "1.7.2",
+      "versionDate" : "2024-11-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
+      "size": 6778880,
+      "title": "Transparent Icons",
+      "versions" : [
+        {
+          "version": "1.7.2",
+          "date" : "2024-11-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
+          "size": 6778880
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Procreate Pocket",
       "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
       "developerName" : "Savage Interactive Pty Ltd",
@@ -5881,56 +5931,6 @@
         "date" : "2024-11-24",
         "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_3_1_Pro_Moe-XF.ipa",
         "size": 103763968
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Widgy Widgets",
-    "bundleIdentifier": "com.woodsign.Widgy",
-    "developerName" : "Woodsign",
-    "subtitle": "Widgy Widgets - Edit Everything",
-    "description": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
-    "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
-    "iconURL": "https://cdn1.realmzer.xyz//widgy_widgets_logo-6A.png",
-    "tintColor": "00d395",
-    "category": "utilities",
-    "version": "4.0.0",
-    "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
-    "size": 54976512,
-    "title": "Widgy Widgets",
-    "versions" : [
-      {
-        "version": "4.0.0",
-        "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz//None_v4_0_blatant-6j.ipa",
-        "size": 54976512
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Transparent Icons",
-    "bundleIdentifier": "com.noahgilmore.transparent-icons",
-    "developerName" : "Noah Gilmore",
-    "subtitle": "Transparent Icons - Customize home screen icons",
-    "description": "Transparent App Icons\nStatus: ✅",
-    "localizedDescription": "Transparent App Icons\nStatus: ✅",
-    "iconURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-uF.png",
-    "tintColor": "9f67c1",
-    "category": "utilities",
-    "version": "1.7.2",
-    "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
-    "size": 6778880,
-    "title": "Transparent Icons",
-    "versions" : [
-      {
-        "version": "1.7.2",
-        "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz//Transparent_Icons_1_7_2-d5.ipa",
-        "size": 6778880
       }
     ]
   },
