@@ -1055,6 +1055,23 @@
     },
     {
       "beta": false,
+      "name": "Gonerino",
+      "bundleIdentifier": "castdrian.gonerino",
+      "subtitle": "Hide videos from specific YouTubers",
+      "description": "YouTube tweak to remove videos uploaded by specific channels\nStatus: ✅",
+      "localizedDescription": "YouTube tweak to remove videos uploaded by specific channels\nStatus: ✅",
+      "developerName": "castdrian",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4845-yA.jpeg",
+      "tintColor": "000000",
+      "category": "dylib",
+      "size": 19000,
+      "version": "1.1.0",
+      "versionDate": "2024-12-29",
+      "downloadURL": "https://github.com/castdrian/Gonerino/releases/download/v1.1.0/dev.adrian.gonerino_1.1.0_iphoneos-arm64.deb",
+      "title": "Gonerino"
+    }
+    {
+      "beta": false,
       "name": "Sideload Bypass (1)",
       "bundleIdentifier": "com.realmzer.sideloadbypass1",
       "subtitle": "Easily make it so your sideloading it undetectable.",
