@@ -5522,48 +5522,54 @@
   },
   {
     "beta": true,
-    "name" : "Osu!lazer",
+    "name": "Osu!lazer",
     "bundleIdentifier": "sh.ppy.osu!lazer",
-    "developerName" : "peppy",
+    "developerName": "peppy",
     "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
     "description": "rhythm is just a *click* away!\nStatus: ✅🔥",
     "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅🔥",
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version" : "2024.1219.2",
-    "versionDate" : "2024-12-19",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-HU.ipa",
-    "size": 192061747,
+    "version": "2024.1224.1",
+    "versionDate": "2024-12-24",
+    "downloadURL": "https://github.com/ppy/osu/releases/download/2024.1224.1/osu.iOS.ipa",
+    "size": 195300000,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
-    "versions" : [
+    "versions": [
       {
-        "version" : "2024.1219.2",
-        "date" : "2024-12-19",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-HU.ipa",
+        "version": "2024.1224.1",
+        "date": "2024-12-24",
+        "downloadURL": "https://github.com/ppy/osu/releases/download/2024.1224.1/osu.iOS.ipa",
+        "size": 195300000
+      },
+      {
+        "version": "2024.1219.2",
+        "date": "2024-12-19",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-HU.ipa",
         "size": 192061747
-      }, 
+      },
       {
-        "version" : "2024.1208.0",
-        "date" : "2024-12-08",
+        "version": "2024.1208.0",
+        "date": "2024-12-08",
         "downloadURL": "https://cdn1.realmzer.xyz/uploads/osu.iOS2024.1208.0.ipa",
         "size": 192061747
-      }, 
+      },
       {
-        "version" : "2024.1115.3",
-        "date" : "2024-11-16",
+        "version": "2024.1115.3",
+        "date": "2024-11-16",
         "downloadURL": "https://cdn1.realmzer.xyz//osu2024_1115_3-4L.ipa",
         "size": 195981312
-      }, 
+      },
       {
-        "version" : "2024.1009.1",
-        "date" : "2024-10-29",
+        "version": "2024.1009.1",
+        "date": "2024-10-29",
         "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_2024_1009_1-M4.ipa",
         "size": 196280320
       }
     ]
-  },
+  }
   {
     "beta": false,
     "name" : "Charlie the Steak",
