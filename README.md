@@ -1,3 +1,7 @@
+# Update
+
+- Until further notice we are no longer updating this repo until Jan 7th. Cheers!
+
 # Tutorial
 
 - Copy this https://raw.githubusercontent.com/Realmzer/MySign-Repo/refs/heads/main/app-repo.json
