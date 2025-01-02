@@ -10,7 +10,6 @@
   "featuredApps": [
     "dummyapp",
     "com.gliddd4.realmzer.mysign",
-    "com.google.ios.youtubeenhanced",
     "com.spotify.client",
     "com.kdt.sparsebox",
     "com.kdt.livecontainer"
@@ -1860,68 +1859,6 @@
           "date" : "2024-12-18",
           "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_5adfreemoefix-UM.ipa",
           "size": 101629952
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name": "EeveeSpotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "whoeevee",
-      "subtitle": "Free Spotify Premium",
-      "description": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
-      "localizedDescription": "Free Spotify Premium\nFor widgets to work you need the App Groups entitlement.\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
-      "tintColor": "1ed760",
-      "category": "entertainment",
-      "version": "9.0.0",
-      "versionDate": "2024-12-12",
-      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_0-Gk.ipa",
-      "size": 85000000,
-      "title": "EeveeSpotify",
-      "url": "https://github.com/whoeevee/EeveeSpotify",
-      "versions": [
-        {
-          "version": "9.0.0",
-          "date": "2024-12-12",
-          "localizedDescription": "*Latest release with improved stability and additional features.",
-          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_0-Gk.ipa",
-          "size": 85000000
-        },
-        {
-          "version": "8.9.94/Swift 5.8.2",
-          "date": "2024-12-06",
-          "localizedDescription": "*Updated German localization \nBy @wlxxd & @SultanModsIPAs",
-          "downloadURL": "https://cdn1.realmzer.xyz//Spotify_v8_9_96_Eevee_v5_8_2-0U.ipa",
-          "size": 83750912
-        },
-        {
-          "version": "8.9.94/Swift 5.8.1",
-          "date": "2024-11-28",
-          "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy @SultanModsIPAs",
-          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_8_9_94_Widget_Working-tp.ipa",
-          "size": 80715776
-        },
-        {
-          "version": "8.9.92/Swift 5.8.1",
-          "date": "2024-11-18",
-          "localizedDescription": "*Updated Turkish localization by @gototheskinnyUpdated\n*Traditional Chinese localizaton by @ElliotCHEN37\n*Updated Polish localization by @HackZy01Updated\n*Persian localization by @Incognito-Coder",
-          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_1_8_9_92-ww.ipa",
-          "size": 84066304
-        },
-        {
-          "version": "8.9.90/Swift 5.8",
-          "date": "2024-11-07",
-          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_8_9_90-8k.ipa",
-          "size": 95408128
-        },
-        {
-          "version": "8.9.86/Swift 5.7",
-          "date": "2024-10-27",
-          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
-          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_7_8_9_86-4G.ipa",
-          "size": 81833984
         }
       ]
     },
