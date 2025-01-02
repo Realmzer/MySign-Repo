@@ -126,31 +126,6 @@
     },
     {
       "beta": false,
-      "name" : "SimpleKFD",
-      "bundleIdentifier": "com.lrdsnow.test",
-      "developerName" : "lrdsnow",
-      "subtitle": "KFD Tweaks for iOS 15.0-15.7.6 arm64e\n&\narm64 and iOS 16.0-16.5 & 16.6b1 arm64e",
-      "description": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅",
-      "localizedDescription": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//icon_7-YD.png",
-      "tintColor": "6f00ba",
-      "category": "utilities",
-      "version": "1.5",
-      "versionDate" : "2024-12-24",
-      "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
-      "size": 2879488,
-      "title": "SimpleKFD",
-      "versions" : [
-        {
-          "version": "1.5",
-          "date" : "2024-12-24",
-          "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
-          "size": 2879488
-        }
-      ]
-    },
-    {
-      "beta": false,
       "name" : "Nugget",
       "bundleIdentifier": "com.leemin.nugget",
       "developerName" : "leminlimez",
@@ -474,8 +449,8 @@
       "bundleIdentifier": "de.pinauten.Fugu15",
       "developerName": "pinauten",
       "subtitle": "Semi Untethered Permasigned jailbreak for iOS 15",
-      "description": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
-      "localizedDescription": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
+      "description": "Semi Untethered Permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
+      "localizedDescription": "Semi Untethered Permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
       "iconURL": "https://cdn1.realmzer.xyz//1024_5-iA.png",
       "tintColor": "141257",
       "category": "utilities",
@@ -573,6 +548,31 @@
     },
     {
       "beta": false,
+      "name" : "SimpleKFD",
+      "bundleIdentifier": "com.lrdsnow.test",
+      "developerName" : "lrdsnow",
+      "subtitle": "KFD Tweaks for iOS 15.0-15.7.6 arm64e\n&\narm64 and iOS 16.0-16.5 & 16.6b1 arm64e",
+      "description": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅",
+      "localizedDescription": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_7-YD.png",
+      "tintColor": "6f00ba",
+      "category": "utilities",
+      "version": "1.5",
+      "versionDate" : "2024-12-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
+      "size": 2879488,
+      "title": "SimpleKFD",
+      "versions" : [
+        {
+          "version": "1.5",
+          "date" : "2024-12-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
+          "size": 2879488
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "khanhduytran0",
@@ -611,7 +611,7 @@
     },
     {
       "beta": false,
-      "name": "ESign No Logs",
+      "name": "E-Sign 5.0.2 No Logs",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "developerName": "u/Sharp_Listen3436 & yyy",
       "subtitle": "E-Sign no logs - IPA Signer with no telemetry",
@@ -637,24 +637,7 @@
     },     
     {
       "beta": false,
-      "name" : "ESign No Logs 5.0.0",
-      "bundleIdentifier": "nologs.xyz.yyyue.esign",
-      "developerName" : "yyy & wiillk3",
-      "subtitle": "E-Sign no logs - IPA Signer with no telemetry",
-      "description": "The best no PC iOS sideloader\nStatus: ✅",
-      "localizedDescription": "The best no PC iOS sideloader\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//esign-AO.png",
-      "tintColor": "4894ee",
-      "category": "utilities",
-      "version": "5.0.0",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//E_Sign_V5_0_no_Logs_V1_1-SJ.ipa",
-      "size": 14004224,
-      "title": "ESign No Logs 5.0.0"
-    },
-    {
-      "beta": false,
-      "name" : "ESign 5.0.2",
+      "name" : "E-Sign 5.0.2",
       "bundleIdentifier": "p3.xyz.yyyue.esign502",
       "developerName" : "yyy",
       "subtitle": "ESign - IPA Signer (CONTAINS TELEMTRY)",
@@ -668,23 +651,6 @@
       "downloadURL": "https://cdn1.realmzer.xyz//esign_5_0_2_unsigned_1-2A.ipa",
       "size": 7524352,
       "title": "ESign 5.0.2"
-    },
-    {
-      "beta": false,
-      "name" : "ESign 4.8.2",
-      "bundleIdentifier": "p3.xyz.yyyue.esign482",
-      "developerName" : "yyy",
-      "subtitle": "ESign - IPA Signer (CONTAINS TELEMTRY)",
-      "description": "The best no PC iOS sideloader\nTHIS VERSION HAS TELEMETRY\nStatus: ✅",
-      "localizedDescription": "The best no PC iOS sideloader\nTHIS VERSION HAS TELEMETRY\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//esign-AO.png",
-      "tintColor": "4894ee",
-      "category": "utilities",
-      "version": "4.8.2",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//esign_4_8_2_unsigned-u2.ipa",
-      "size": 7122944,
-      "title": "ESign 4.8.2"
     },
     {
       "beta": false,
