@@ -1928,81 +1928,27 @@
     {
       "beta": false,
       "name": "SpotC++",
-      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "SpotCompiled",
-      "subtitle": "Compilation of Multiple Spotify Tweaks",
-      "description": "Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.\nStatus: ✅🔥",
-      "localizedDescription": "Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//Spot_C_App_Icon-vE.png",
-      "tintColor": "9c22f4",
+      "subtitle": "The best Spotify Premium tweak",
+      "description": "Eevee Spotify with more customization\nStatus: ✅🔥",
+      "localizedDescription": "Eevee Spotify with more customization\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
+      "tintColor": "ff0000",
       "category": "entertainment",
       "version": "2.3.8",
-      "versionDate": "2024-12-20",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_8_v9_0_2-tW.ipa",
-      "size": 78995456,
+      "versionDate": "2025-1-1",
+      "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.8/SpotC++.v2.3.8_v9.0.2.ipa",
+      "size": 75340000,
       "title": "SpotC++",
       "url": "https://github.com/SpotCompiled/SpotC-Plus-Plus",
       "versions": [
         {
           "version": "2.3.8",
-          "date": "2024-12-20",
-          "localizedDescription": "*Updated EeveeSpotify to Swift 5.8.3\n* (EeveeSpotify) Updated Italian localization by @FeddyLix17\n* (EeveeSpotify) Updated Vietnamese localization by @Richard-NDC\n* Updated Spotify to version 9.0.2",
-          "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_8_v9_0_2-tW.ipa",
-          "size": 78995456
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name": "SpotilifeC",
-      "bundleIdentifier": "com.yodaluca23.SpotilifeC",
-      "developerName": "SpotCompiled",
-      "subtitle": "Compiled Spotilife IPA's.",
-      "description": "Compiled Spotilife IPA's.\nStatus: ❌",
-      "localizedDescription": "Compiled Spotilife IPA's.\nStatus: ❌",
-      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
-      "tintColor": "ff0000",
-      "category": "entertainment",
-      "version": "1.2.3",
-      "versionDate": "2024-12-20",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spotilife_C_v1_2_3_v8_6_42-21.ipa",
-      "size": 49106944,
-      "title": "SpotilifeC",
-      "url": "https://github.com/SpotCompiled/SpotilifeC",
-      "versions": [
-        {
-          "version": "1.2.3",
-          "date": "2024-12-20",
-          "localizedDescription": "*Fixed Update loop when using SideStore or AltStore.",
-          "downloadURL": "https://cdn1.realmzer.xyz//Spotilife_C_v1_2_3_v8_6_42-21.ipa",
-          "size": 49106944
-        }
-      ]
-    },
-    {
-      "beta": false,
-      "name": "SpotveeC",
-      "bundleIdentifier": "com.yodaluca23.SpotveeC",
-      "developerName": "SpotCompiled",
-      "subtitle": "Compiled EeveeSpotify IPA's.",
-      "description": "Compiled EeveeSpotify IPA's.\nStatus: ✅🔥",
-      "localizedDescription": "Compiled EeveeSpotify IPA's.\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
-      "tintColor": "ff0000",
-      "category": "entertainment",
-      "version": "3.2.8",
-      "versionDate": "2024-12-20",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_2_8_v9_0_2-an.ipa",
-      "size": 78618624,
-      "title": "SpotveeC",
-      "url": "https://github.com/SpotCompiled/SpotveeC",
-      "versions": [
-        {
-          "version": "3.2.8",
-          "date": "2024-12-20",
-          "localizedDescription": "*Updated EeveeSpotify to Swift 5.8.3\n* (EeveeSpotify) Updated Italian localization by @FeddyLix17\n* (EeveeSpotify) Updated Vietnamese localization by @Richard-NDC\n* Updated Spotify to version 9.0.2",
-          "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_2_8_v9_0_2-an.ipa",
-          "size": 78618624
+          "date": "2025-1-1",
+          "localizedDescription": "Eevee Spotify with more customization",
+          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.8/SpotC++.v2.3.8_v9.0.2.ipa",
+          "size": 75340000
         }
       ]
     },
